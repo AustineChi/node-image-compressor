@@ -1,0 +1,61 @@
+File from: [src/img/NATIVE PEAR.jpg]
+
+File to: [build/img/NATIVE PEAR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Native Jollof Rice with palm oil, smoked fish, dry prawn and Vegetables 3 Litre.jpg]
+
+File to: [build/img/Native Jollof Rice with palm oil, smoked fish, dry prawn and Vegetables 3 Litre.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nasco Shortcake Biscuit 120g.jpg]
+
+File to: [build/img/Nasco Shortcake Biscuit 120g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUNDO CHICKEN WINGS.jpg]
+
+File to: [build/img/NATUNDO CHICKEN WINGS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUNDO EGG BY 30.jpg]
+
+File to: [build/img/NATUNDO EGG BY 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUNDO FULL CHICKEN.jpg]
+
+File to: [build/img/NATUNDO FULL CHICKEN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Natur Vital Conditioner 300ml.jpg]
+
+File to: [build/img/Natur Vital Conditioner 300ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE MADE PROBIOTICS X30 CAPSULES.jpg]
+
+File to: [build/img/NATURE MADE PROBIOTICS X30 CAPSULES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE MADE VIT E 267MG(400IU) X 100.jpg]
+
+File to: [build/img/NATURE MADE VIT E 267MG(400IU) X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE MADE VITAMIN A 8000IU X 100.jpg]
+
+File to: [build/img/NATURE MADE VITAMIN A 8000IU X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

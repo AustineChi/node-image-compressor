@@ -1,0 +1,289 @@
+File from: [src/img/JIM BEAM HONEY 70CL.jpg]
+
+File to: [build/img/JIM BEAM HONEY 70CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JL-A4 GLITTER HARDBACK BOOK.jpg]
+
+File to: [build/img/JL-A4 GLITTER HARDBACK BOOK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JIM BEAM RED STAG LIQUEUR 70CL.jpg]
+
+File to: [build/img/JIM BEAM RED STAG LIQUEUR 70CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JL-A4 HARD BACK NOTE-FLORAL.jpg]
+
+File to: [build/img/JL-A4 HARD BACK NOTE-FLORAL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JL-A4 HARDBACK NOTE ANIMALS.jpg]
+
+File to: [build/img/JL-A4 HARDBACK NOTE ANIMALS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JL-A4 LEATHERETTE NOTE-3 COLOR.jpg]
+
+File to: [build/img/JL-A4 LEATHERETTE NOTE-3 COLOR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JL-A4 PROJECT NOTE-250 PGS.jpg]
+
+File to: [build/img/JL-A4 PROJECT NOTE-250 PGS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JL-A4 RULED NOTE-3 COLOR HC.jpg]
+
+File to: [build/img/JL-A4 RULED NOTE-3 COLOR HC.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JL-A4 SOFT NOTE PASTEL-4 ASST..jpg]
+
+File to: [build/img/JL-A4 SOFT NOTE PASTEL-4 ASST..jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JL-A4 SOFT NOTE RUSTIC-4 ASST.jpg]
+
+File to: [build/img/JL-A4 SOFT NOTE RUSTIC-4 ASST.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JL-A4 SOFT TOUCH NOTEBOOK.jpg]
+
+File to: [build/img/JL-A4 SOFT TOUCH NOTEBOOK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JL-A4 TWIN WIRO NOTE-200 PGS.jpg]
+
+File to: [build/img/JL-A4 TWIN WIRO NOTE-200 PGS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JL-A5 192PG JOURNAL QUOTES-3C.jpg]
+
+File to: [build/img/JL-A5 192PG JOURNAL QUOTES-3C.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JL-A5 192PG JOURNAL-3 ASST.jpg]
+
+File to: [build/img/JL-A5 192PG JOURNAL-3 ASST.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JL-A5 PROJECT NOTE-250 PGS.jpg]
+
+File to: [build/img/JL-A5 PROJECT NOTE-250 PGS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JL-A5 SOFTOUCH NOTEBOOK.jpg]
+
+File to: [build/img/JL-A5 SOFTOUCH NOTEBOOK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JL-A5 TWIN WIRO NOTE-200 PGS.jpg]
+
+File to: [build/img/JL-A5 TWIN WIRO NOTE-200 PGS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JL-A5-HARDBACK NOTE-ANIMALS.jpg]
+
+File to: [build/img/JL-A5-HARDBACK NOTE-ANIMALS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JL-A5-HDBACK NOTE-FUNNY FACES.jpg]
+
+File to: [build/img/JL-A5-HDBACK NOTE-FUNNY FACES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JL-A5-SOFT NOTEBOOK-4 PASTEL.jpg]
+
+File to: [build/img/JL-A5-SOFT NOTEBOOK-4 PASTEL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JL-A6 SLIM SOFT NOTE-PASTEL.jpg]
+
+File to: [build/img/JL-A6 SLIM SOFT NOTE-PASTEL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JL-A6 SOFT TOUCH NOTE-4 RUSTIC.jpg]
+
+File to: [build/img/JL-A6 SOFT TOUCH NOTE-4 RUSTIC.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Jo-Jo Puppy Dog Food 400g.jpg]
+
+File to: [build/img/Jo-Jo Puppy Dog Food 400g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOBELYN CAPS X 100.jpg]
+
+File to: [build/img/JOBELYN CAPS X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOBELYN CAPS X 30.jpg]
+
+File to: [build/img/JOBELYN CAPS X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHN BANNERMANS RED SEAL 70CL.png]
+
+File to: [build/img/JOHN BANNERMANS RED SEAL 70CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/JOHN VARVATOS ARTISAN BLU 125ML.jpg]
+
+File to: [build/img/JOHN VARVATOS ARTISAN BLU 125ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHN VARVATOS OUD 125ML.jpg]
+
+File to: [build/img/JOHN VARVATOS OUD 125ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHN VARVATOS VINTAGE 125ML.jpg]
+
+File to: [build/img/JOHN VARVATOS VINTAGE 125ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHN WEST TUNA CHUNKS IN SUNFLOWER OIL 145G.jpg]
+
+File to: [build/img/JOHN WEST TUNA CHUNKS IN SUNFLOWER OIL 145G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNNIE WALKER BLACK 37.5C 12Y.jpg]
+
+File to: [build/img/JOHNNIE WALKER BLACK 37.5C 12Y.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNNIE WALKER BLACK 3L WITH CRADLEX3.jpg]
+
+File to: [build/img/JOHNNIE WALKER BLACK 3L WITH CRADLEX3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNNIE WALKER BLACK 4.5LX3.jpg]
+
+File to: [build/img/JOHNNIE WALKER BLACK 4.5LX3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNNIE WALKER BLACK 70CL - 12YOX12.jpg]
+
+File to: [build/img/JOHNNIE WALKER BLACK 70CL - 12YOX12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNNIE WALKER BLACK LABEL 1 LITREX12.jpg]
+
+File to: [build/img/JOHNNIE WALKER BLACK LABEL 1 LITREX12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNNIE WALKER BLACK LABEL 1L 12Y 12X01.jpg]
+
+File to: [build/img/JOHNNIE WALKER BLACK LABEL 1L 12Y 12X01.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNNIE WALKER BLACK LABEL 37.5CL X 24.jpg]
+
+File to: [build/img/JOHNNIE WALKER BLACK LABEL 37.5CL X 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNNIE WALKER BLACK LABEL 70CL 12Y 12X01.jpg]
+
+File to: [build/img/JOHNNIE WALKER BLACK LABEL 70CL 12Y 12X01.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNNIE WALKER BLACK LABEL PCKTS X 48.jpg]
+
+File to: [build/img/JOHNNIE WALKER BLACK LABEL PCKTS X 48.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNNIE WALKER BLUE 70CL.jpg]
+
+File to: [build/img/JOHNNIE WALKER BLUE 70CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNNIE WALKER BLUE 70CLX6.jpg]
+
+File to: [build/img/JOHNNIE WALKER BLUE 70CLX6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNNIE WALKER BLUE CRYSTALX3.jpg]
+
+File to: [build/img/JOHNNIE WALKER BLUE CRYSTALX3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNNIE WALKER BLUE GHOST & RARE X 3.jpg]
+
+File to: [build/img/JOHNNIE WALKER BLUE GHOST & RARE X 3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNNIE WALKER GOLD RSV 75CL GLDBTL3.jpg]
+
+File to: [build/img/JOHNNIE WALKER GOLD RSV 75CL GLDBTL3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNNIE WALKER GOLD RSV GLDBTL3 X 6.png]
+
+File to: [build/img/JOHNNIE WALKER GOLD RSV GLDBTL3 X 6.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/JOHNNIE WALKER GOLD RSVX6.jpg]
+
+File to: [build/img/JOHNNIE WALKER GOLD RSVX6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNNIE WALKER GREEN LABEL X 6.png]
+
+File to: [build/img/JOHNNIE WALKER GREEN LABEL X 6.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/JOHN VARVATOS DARK REBEL 125ML.jpg]
+
+File to: [build/img/JOHN VARVATOS DARK REBEL 125ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

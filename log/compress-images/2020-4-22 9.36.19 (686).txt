@@ -1,0 +1,61 @@
+File from: [src/img/Honeywell Wheat Meal Flour 10kg.png]
+
+File to: [build/img/Honeywell Wheat Meal Flour 10kg.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HONEYWELL WHOLE WHEAT MEAL 1K.jpg]
+
+File to: [build/img/HONEYWELL WHOLE WHEAT MEAL 1K.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HONEYWELL WHOLE WHEAT MEAL 2K.jpg]
+
+File to: [build/img/HONEYWELL WHOLE WHEAT MEAL 2K.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Honeywell Wheat Meal Flour 5kg.jpg]
+
+File to: [build/img/Honeywell Wheat Meal Flour 5kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Honeywell Whole Wheat Meal Flour 2Kg.jpeg]
+
+File to: [build/img/Honeywell Whole Wheat Meal Flour 2Kg.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Honeywell Whole Wheat Meal Flour 2Kgx5.jpg]
+
+File to: [build/img/Honeywell Whole Wheat Meal Flour 2Kgx5.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HORLICKS (Light choco).jpg]
+
+File to: [build/img/HORLICKS (Light choco).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HORLICKS (Malt ).jpg]
+
+File to: [build/img/HORLICKS (Malt ).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Honeywell Spaghetti Standard Slim 500g.png]
+
+File to: [build/img/Honeywell Spaghetti Standard Slim 500g.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HORLICKS (Traditional).jpg]
+
+File to: [build/img/HORLICKS (Traditional).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

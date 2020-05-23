@@ -1,0 +1,18 @@
+{
+  "name": "image-compressor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "compress_images.js",
+  "dependencies": {
+    "compress-images": "^1.7.8",
+    "gifsicle": "^5.0.0",
+    "pngquant-bin": "^5.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node compress_images.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

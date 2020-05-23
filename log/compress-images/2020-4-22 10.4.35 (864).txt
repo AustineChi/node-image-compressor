@@ -1,0 +1,133 @@
+File from: [src/img/SUNLIGHT DWL 150ML CARTON.jpg]
+
+File to: [build/img/SUNLIGHT DWL 150ML CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUNLIGHT DISHWASHING LIQUID WITH LEMON TURBO 750M.jpg]
+
+File to: [build/img/SUNLIGHT DISHWASHING LIQUID WITH LEMON TURBO 750M.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUNLIGHT DWL GREEN NGR 3X4L CARTON.jpg]
+
+File to: [build/img/SUNLIGHT DWL GREEN NGR 3X4L CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUNLIGHT DWL ORIGINAL NGR 10X400ML (NIG) CARTONSUNLIGHT DWL ORIGINAL NGR 10X400ML (NIG) CARTON.jpg]
+
+File to: [build/img/SUNLIGHT DWL ORIGINAL NGR 10X400ML (NIG) CARTONSUNLIGHT DWL ORIGINAL NGR 10X400ML (NIG) CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUNLIGHT DWL ORIGINAL NGR 10X750ML (NIG) CARTON.jpg]
+
+File to: [build/img/SUNLIGHT DWL ORIGINAL NGR 10X750ML (NIG) CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUNLIGHT LEMON DISHWASH 750ML.jpg]
+
+File to: [build/img/SUNLIGHT LEMON DISHWASH 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUNLIGHT GREEN DISHWASHN LIQ. 4 LITRES.jpg]
+
+File to: [build/img/SUNLIGHT GREEN DISHWASHN LIQ. 4 LITRES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUNLIGHT LNDRY BARS PINK FMCL 50X120G CARTON.jpg]
+
+File to: [build/img/SUNLIGHT LNDRY BARS PINK FMCL 50X120G CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUNLIGHT LNDRY BARS WHITE FMCL 50X120G CARTON.jpg]
+
+File to: [build/img/SUNLIGHT LNDRY BARS WHITE FMCL 50X120G CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUNLIGHT POWDER DESTINY OUD 180 X 25G CARTON.png]
+
+File to: [build/img/SUNLIGHT POWDER DESTINY OUD 180 X 25G CARTON.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SUNLIGHT POWDER DESTINY PINK 72X70G CARTON.jpg]
+
+File to: [build/img/SUNLIGHT POWDER DESTINY PINK 72X70G CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUNLIGHT POWDER DESTINY YELLOW 72X70G CARTON.jpg]
+
+File to: [build/img/SUNLIGHT POWDER DESTINY YELLOW 72X70G CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUNLIGHT RELAUNCH PINK 5X2KG CARTON.jpg]
+
+File to: [build/img/SUNLIGHT RELAUNCH PINK 5X2KG CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUNLIGHT RELAUNCH YELLOW 5X2KG CARTON.jpg]
+
+File to: [build/img/SUNLIGHT RELAUNCH YELLOW 5X2KG CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUNOLA OIL 1LT.jpg]
+
+File to: [build/img/SUNOLA OIL 1LT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUNOLA PURE SOYA OIL 3LTRE.jpg]
+
+File to: [build/img/SUNOLA PURE SOYA OIL 3LTRE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUNOLA SOYA OIL 1.9 LITRE.jpg]
+
+File to: [build/img/SUNOLA SOYA OIL 1.9 LITRE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUNOLA SOYA OIL 1.9L.jpg]
+
+File to: [build/img/SUNOLA SOYA OIL 1.9L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUNOLA SOYA OIL 1L.jpg]
+
+File to: [build/img/SUNOLA SOYA OIL 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUNLIGHT DWL GREEN NGR 10X750ML CARTON.jpg]
+
+File to: [build/img/SUNLIGHT DWL GREEN NGR 10X750ML CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUNLIGHT LNDRY BARS YELLOW FMCL 50X120G CARTON.jpg]
+
+File to: [build/img/SUNLIGHT LNDRY BARS YELLOW FMCL 50X120G CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUNLIGHT DWL GREEN NGR 10X400ML CARTON.jpg]
+
+File to: [build/img/SUNLIGHT DWL GREEN NGR 10X400ML CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

@@ -1,0 +1,319 @@
+File from: [src/img/Purell Hand Sanitizer 60ml.jpg]
+
+File to: [build/img/Purell Hand Sanitizer 60ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURELL SANITIZERS 60ML.jpg]
+
+File to: [build/img/PURELL SANITIZERS 60ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURIT ANTISEPTIC 125ML.jpg]
+
+File to: [build/img/PURIT ANTISEPTIC 125ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURIT ANTISEPTIC 500ML.jpg]
+
+File to: [build/img/PURIT ANTISEPTIC 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE ABSORBALE CALCIUM 600MG PLUS MAGNESIUM 300MG & VITAMIN D3 25MCG(1000IU) X 60.jpg]
+
+File to: [build/img/PURITAN'S PRIDE ABSORBALE CALCIUM 600MG PLUS MAGNESIUM 300MG & VITAMIN D3 25MCG(1000IU) X 60.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE ALL IN ONE OMEGA 3,5,6,7,9.jpg]
+
+File to: [build/img/PURITAN'S PRIDE ALL IN ONE OMEGA 3,5,6,7,9.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE C 500 WITH ROSE HIP X 250.jpg]
+
+File to: [build/img/PURITAN'S PRIDE C 500 WITH ROSE HIP X 250.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE C-1000MG WITH BIOFLAVONOIDS X 100 CAPSULES.jpg]
+
+File to: [build/img/PURITAN'S PRIDE C-1000MG WITH BIOFLAVONOIDS X 100 CAPSULES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE CALCIUM CITRATE+ VITAMIN D3 MINATURES X 200.jpg]
+
+File to: [build/img/PURITAN'S PRIDE CALCIUM CITRATE+ VITAMIN D3 MINATURES X 200.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE CHELATED COPPER 2MG X 100 TABLETS.jpg]
+
+File to: [build/img/PURITAN'S PRIDE CHELATED COPPER 2MG X 100 TABLETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE CRANBERRY TRIPLE TRENGTH 12600 X 100.jpg]
+
+File to: [build/img/PURITAN'S PRIDE CRANBERRY TRIPLE TRENGTH 12600 X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE FENUGREEK  610MG X 100 CAPSULES.jpg]
+
+File to: [build/img/PURITAN'S PRIDE FENUGREEK  610MG X 100 CAPSULES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE B-12 1000MCG X 30.jpg]
+
+File to: [build/img/PURITAN'S PRIDE B-12 1000MCG X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE FLAX OIL 1000MG OMEGA 3,6,9 X 120.jpg]
+
+File to: [build/img/PURITAN'S PRIDE FLAX OIL 1000MG OMEGA 3,6,9 X 120.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE GARCINA CAMBOGIA 1500MG X 60 CAPLETS.jpg]
+
+File to: [build/img/PURITAN'S PRIDE GARCINA CAMBOGIA 1500MG X 60 CAPLETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE GINKGO BILOBA 60MG X 120.jpg]
+
+File to: [build/img/PURITAN'S PRIDE GINKGO BILOBA 60MG X 120.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE GLUCOSAMINE CHONDROITIN COMPLEX X 120.jpg]
+
+File to: [build/img/PURITAN'S PRIDE GLUCOSAMINE CHONDROITIN COMPLEX X 120.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE GRAPE SEED EXTRACT 200MG X 120CAPSULES.jpg]
+
+File to: [build/img/PURITAN'S PRIDE GRAPE SEED EXTRACT 200MG X 120CAPSULES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE L - GLUTATHIONE.jpg]
+
+File to: [build/img/PURITAN'S PRIDE L - GLUTATHIONE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE L CARNITINE 500MG X 60 CAPLETS.jpg]
+
+File to: [build/img/PURITAN'S PRIDE L CARNITINE 500MG X 60 CAPLETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE L GLUTATHIONE 500MG X 30.jpg]
+
+File to: [build/img/PURITAN'S PRIDE L GLUTATHIONE 500MG X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE MEGA B-50 X 100 CAPSULES.jpg]
+
+File to: [build/img/PURITAN'S PRIDE MEGA B-50 X 100 CAPSULES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE MELATONIN 3MG X 120.jpg]
+
+File to: [build/img/PURITAN'S PRIDE MELATONIN 3MG X 120.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE ODORLESS GARLIC EXTRACT 1000MG.jpg]
+
+File to: [build/img/PURITAN'S PRIDE ODORLESS GARLIC EXTRACT 1000MG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE OIL OF OREGANO EXTRACT 1500MG X 180 SOFTGELS.jpg]
+
+File to: [build/img/PURITAN'S PRIDE OIL OF OREGANO EXTRACT 1500MG X 180 SOFTGELS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE SELENIUM 100MCG X 100 TABLETS.jpg]
+
+File to: [build/img/PURITAN'S PRIDE SELENIUM 100MCG X 100 TABLETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE PROBIOTICS PLUS ENZYEMS 25BILLION X 30.jpg]
+
+File to: [build/img/PURITAN'S PRIDE PROBIOTICS PLUS ENZYEMS 25BILLION X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE SELENIUM 200MCG X 250 TABLETS.jpg]
+
+File to: [build/img/PURITAN'S PRIDE SELENIUM 200MCG X 250 TABLETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE SUPER BIOTIN 5000MCG X 60 SOFT GEL.jpg]
+
+File to: [build/img/PURITAN'S PRIDE SUPER BIOTIN 5000MCG X 60 SOFT GEL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE TRIPLE OMEGA 3-6-9 FISH AND FLAXOIL X 120 SOFT GELS.jpg]
+
+File to: [build/img/PURITAN'S PRIDE TRIPLE OMEGA 3-6-9 FISH AND FLAXOIL X 120 SOFT GELS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE VIT. K 100MCG X 100.jpg]
+
+File to: [build/img/PURITAN'S PRIDE VIT. K 100MCG X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE VITAMIN B6 100MG X 100.jpg]
+
+File to: [build/img/PURITAN'S PRIDE VITAMIN B6 100MG X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE VITAMIN D3 25MCG(1000IU).jpg]
+
+File to: [build/img/PURITAN'S PRIDE VITAMIN D3 25MCG(1000IU).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE VITAMIN E 1000 IU MIXED TOCOPHEROL X100 SOFTGEL.jpg]
+
+File to: [build/img/PURITAN'S PRIDE VITAMIN E 1000 IU MIXED TOCOPHEROL X100 SOFTGEL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE ACETYL L-CARNITINE 500MG X 30.jpg]
+
+File to: [build/img/PURITAN`S PRIDE ACETYL L-CARNITINE 500MG X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE B-12 1000MCG X 100.jpg]
+
+File to: [build/img/PURITAN`S PRIDE B-12 1000MCG X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE BEE PROPOLIS EXTRACT 500MG X 100.jpg]
+
+File to: [build/img/PURITAN`S PRIDE BEE PROPOLIS EXTRACT 500MG X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE BETA CAROTENE 10000IU X 100.jpg]
+
+File to: [build/img/PURITAN`S PRIDE BETA CAROTENE 10000IU X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE BIOTIN 500MCG X 60 CAPSULES.jpg]
+
+File to: [build/img/PURITAN`S PRIDE BIOTIN 500MCG X 60 CAPSULES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE COQ10 100MG X 60.jpg]
+
+File to: [build/img/PURITAN`S PRIDE COQ10 100MG X 60.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE E 450MG(1000IU) X 50.jpg]
+
+File to: [build/img/PURITAN`S PRIDE E 450MG(1000IU) X 50.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE FERROUS SULPHATE 28MG X 100.jpg]
+
+File to: [build/img/PURITAN`S PRIDE FERROUS SULPHATE 28MG X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE FOLATE 666MCG DFE X 250MG.jpg]
+
+File to: [build/img/PURITAN`S PRIDE FOLATE 666MCG DFE X 250MG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE HAWTHORN BERRIES 565MG.jpg]
+
+File to: [build/img/PURITAN`S PRIDE HAWTHORN BERRIES 565MG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE MACA 1000MG X 60.jpg]
+
+File to: [build/img/PURITAN`S PRIDE MACA 1000MG X 60.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE MELATONIN 1MG X 90.jpg]
+
+File to: [build/img/PURITAN`S PRIDE MELATONIN 1MG X 90.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE ODORLESS GARLIC 500MG X 100.jpg]
+
+File to: [build/img/PURITAN`S PRIDE ODORLESS GARLIC 500MG X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE OMEGA 3 -6-9 X 60.jpg]
+
+File to: [build/img/PURITAN`S PRIDE OMEGA 3 -6-9 X 60.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE SOY LECITHIN 520MG X 100.jpg]
+
+File to: [build/img/PURITAN`S PRIDE SOY LECITHIN 520MG X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE VITAMIN B6 50MG X 100.jpg]
+
+File to: [build/img/PURITAN`S PRIDE VITAMIN B6 50MG X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE VITAMIN D3 1000IU X 100.jpg]
+
+File to: [build/img/PURITAN`S PRIDE VITAMIN D3 1000IU X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE VITAMIN E 400IUX 50.jpg]
+
+File to: [build/img/PURITAN`S PRIDE VITAMIN E 400IUX 50.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE VITEX CHASTE TREE 400MG X 100.jpg]
+
+File to: [build/img/PURITAN`S PRIDE VITEX CHASTE TREE 400MG X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

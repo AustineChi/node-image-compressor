@@ -1,0 +1,181 @@
+File from: [src/img/Reel Fruit Coconut Flakes 200g.jpg]
+
+File to: [build/img/Reel Fruit Coconut Flakes 200g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REEL FRUIT DRIED PINEAPPLE 100G.jpg]
+
+File to: [build/img/REEL FRUIT DRIED PINEAPPLE 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REEL FRUIT DRIED PINEAPPLE 50G.jpg]
+
+File to: [build/img/REEL FRUIT DRIED PINEAPPLE 50G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REEL FRUIT FRUIT AND NUT MIX 250G.jpg]
+
+File to: [build/img/REEL FRUIT FRUIT AND NUT MIX 250G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REEL FRUIT FRUIT AND NUT MIX 40G.jpg]
+
+File to: [build/img/REEL FRUIT FRUIT AND NUT MIX 40G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REEL FRUIT ROASTED CASHEWS 250G.jpg]
+
+File to: [build/img/REEL FRUIT ROASTED CASHEWS 250G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REEL FRUIT ROASTED CASHEWS NUTS 40G.jpg]
+
+File to: [build/img/REEL FRUIT ROASTED CASHEWS NUTS 40G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REFLECTIONS CUTLERY SET 160S.jpg]
+
+File to: [build/img/REFLECTIONS CUTLERY SET 160S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Refresh multipurpose solutin 60ml.jpg]
+
+File to: [build/img/Refresh multipurpose solutin 60ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REFUCIL SUSP 125MG 100ML.jpg]
+
+File to: [build/img/REFUCIL SUSP 125MG 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REFUCIL TABS 500MG X 20.jpg]
+
+File to: [build/img/REFUCIL TABS 500MG X 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REGAINE SOLUTION FOR MULTIVITAMINS WOMEN.jpg]
+
+File to: [build/img/REGAINE SOLUTION FOR MULTIVITAMINS WOMEN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Regal Dry Gin 75cl.jpg]
+
+File to: [build/img/Regal Dry Gin 75cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REGENERATING HAND CREAM 100ML.jpg]
+
+File to: [build/img/REGENERATING HAND CREAM 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RELEV TABS 500MG X 20.jpg]
+
+File to: [build/img/RELEV TABS 500MG X 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Reload Infant Drops -60Ml.jpg]
+
+File to: [build/img/Reload Infant Drops -60Ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REGULAR MIXING BOWL.jpg]
+
+File to: [build/img/REGULAR MIXING BOWL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RELOAD KID CHEWABLE X 80.jpg]
+
+File to: [build/img/RELOAD KID CHEWABLE X 80.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RELCER SUSP 180ML.png]
+
+File to: [build/img/RELCER SUSP 180ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RELOAD MEN 50+ X 90.jpg]
+
+File to: [build/img/RELOAD MEN 50+ X 90.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RELOAD MEN X 30.jpg]
+
+File to: [build/img/RELOAD MEN X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RELOAD MEN X 90.jpg]
+
+File to: [build/img/RELOAD MEN X 90.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RELOAD MULTIVITAMINS WOMEN 50+ X 90.jpg]
+
+File to: [build/img/RELOAD MULTIVITAMINS WOMEN 50+ X 90.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RELOAD MULTIVITAMINS WOMEN X 30.jpg]
+
+File to: [build/img/RELOAD MULTIVITAMINS WOMEN X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RELOAD MULTIVITAMINS WOMEN X 90.jpg]
+
+File to: [build/img/RELOAD MULTIVITAMINS WOMEN X 90.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REMIA CAESAR DRESSING 250ML copy.jpg]
+
+File to: [build/img/REMIA CAESAR DRESSING 250ML copy.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REMIA FRENCH DRESING 250ML.jpg]
+
+File to: [build/img/REMIA FRENCH DRESING 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REMIA GARLIC SAUCE 250ML.jpg]
+
+File to: [build/img/REMIA GARLIC SAUCE 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REMIA ITALIAN DRESSING 250ML.jpg]
+
+File to: [build/img/REMIA ITALIAN DRESSING 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Remia Mayonnaise 1000ml.jpg]
+
+File to: [build/img/Remia Mayonnaise 1000ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

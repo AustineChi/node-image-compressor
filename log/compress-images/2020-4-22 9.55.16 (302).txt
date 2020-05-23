@@ -1,0 +1,241 @@
+File from: [src/img/INDOMIE CHICKEN FLAVOUR 100G.jpg]
+
+File to: [build/img/INDOMIE CHICKEN FLAVOUR 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE CHICKEN FLAVR HUNGR200.png]
+
+File to: [build/img/INDOMIE CHICKEN FLAVR HUNGR200.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/INDOMIE CHICKEN GIANT PACK 330G.png]
+
+File to: [build/img/INDOMIE CHICKEN GIANT PACK 330G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/INDOMIE CHICKEN FLAVOUR 120G.jpg]
+
+File to: [build/img/INDOMIE CHICKEN FLAVOUR 120G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE CHICKEN HUNGRY 200G.png]
+
+File to: [build/img/INDOMIE CHICKEN HUNGRY 200G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/INDOMIE CHICKEN HUNGRYMAN 210G.jpg]
+
+File to: [build/img/INDOMIE CHICKEN HUNGRYMAN 210G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE CHICKEN HUNGRYMAN 24 X 180GMS.jpg]
+
+File to: [build/img/INDOMIE CHICKEN HUNGRYMAN 24 X 180GMS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE CHICKEN PEPPER SOUP 100G.jpg]
+
+File to: [build/img/INDOMIE CHICKEN PEPPER SOUP 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE CHICKEN PEPPER SOUP 100GMS.jpg]
+
+File to: [build/img/INDOMIE CHICKEN PEPPER SOUP 100GMS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE CHICKEN. HUNGRY MAN.png]
+
+File to: [build/img/INDOMIE CHICKEN. HUNGRY MAN.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/INDOMIE CNION CHICKEN CARTON PRICE.jpg]
+
+File to: [build/img/INDOMIE CNION CHICKEN CARTON PRICE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE GIANT.png]
+
+File to: [build/img/INDOMIE GIANT.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Indomie Hungry Man Chicken x 24 CARTON.jpg]
+
+File to: [build/img/Indomie Hungry Man Chicken x 24 CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Indomie Hungry Man Onion x24 CARTON.jpg]
+
+File to: [build/img/Indomie Hungry Man Onion x24 CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE HUNGRY MAN SIZE CHICKEN 180G.jpg]
+
+File to: [build/img/INDOMIE HUNGRY MAN SIZE CHICKEN 180G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE HUNGRY MAN SIZE ONION CHICKEN FLAVOR 180G.png]
+
+File to: [build/img/INDOMIE HUNGRY MAN SIZE ONION CHICKEN FLAVOR 180G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/INDOMIE HUNGRYMAN CARTON PRICE.jpg]
+
+File to: [build/img/INDOMIE HUNGRYMAN CARTON PRICE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Indomie HungryMan Onion Noodle 200g.png]
+
+File to: [build/img/Indomie HungryMan Onion Noodle 200g.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/INDOMIE HUNGRYMAN.jpg]
+
+File to: [build/img/INDOMIE HUNGRYMAN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Indomie Inst Noodles BelleFull 305g.png]
+
+File to: [build/img/Indomie Inst Noodles BelleFull 305g.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Indomie Inst Noodles Hungry Man 200g.png]
+
+File to: [build/img/Indomie Inst Noodles Hungry Man 200g.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Indomie Instant Noodles Chicken 70g.jpg]
+
+File to: [build/img/Indomie Instant Noodles Chicken 70g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Indomie Noodles Chicken Flavour 120g.jpeg]
+
+File to: [build/img/Indomie Noodles Chicken Flavour 120g.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE ONION CHICKEN 1_40.jpg]
+
+File to: [build/img/INDOMIE ONION CHICKEN 1_40.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Indomie Instant Noodles Onion 70g.jpg]
+
+File to: [build/img/Indomie Instant Noodles Onion 70g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE ONION CHICKEN 210G.png]
+
+File to: [build/img/INDOMIE ONION CHICKEN 210G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Indomie Onion Chicken 70g carton.jpg]
+
+File to: [build/img/Indomie Onion Chicken 70g carton.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE ONION CHICKEN 70G.jpg]
+
+File to: [build/img/INDOMIE ONION CHICKEN 70G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE ONION CHICKEN BELLEFULL 280G.jpg]
+
+File to: [build/img/INDOMIE ONION CHICKEN BELLEFULL 280G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE ONION CHICKEN HUNGRYMAN 24 X 180GMS.jpg]
+
+File to: [build/img/INDOMIE ONION CHICKEN HUNGRYMAN 24 X 180GMS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE ONION CHICKEN x40.jfif.jpg]
+
+File to: [build/img/INDOMIE ONION CHICKEN x40.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE ONION CHICKEN.jpg]
+
+File to: [build/img/INDOMIE ONION CHICKEN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE ONION FLAVR HUNGRY200G.png]
+
+File to: [build/img/INDOMIE ONION FLAVR HUNGRY200G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/INDOMIE ONION HUNGRYMAN 210G.jpg]
+
+File to: [build/img/INDOMIE ONION HUNGRYMAN 210G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE ORIENTAL NOODLES 100G.png]
+
+File to: [build/img/INDOMIE ORIENTAL NOODLES 100G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/INDOMIE ORIENTAL FRIED NOODLES 100GMS.jpg]
+
+File to: [build/img/INDOMIE ORIENTAL FRIED NOODLES 100GMS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE ORIENTAL NOODLES 120G.png]
+
+File to: [build/img/INDOMIE ORIENTAL NOODLES 120G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/INDOMIE REGULAR CHICKEN 1_40.jpg]
+
+File to: [build/img/INDOMIE REGULAR CHICKEN 1_40.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE REGULAR CHICKEN 330GMS x14.jfif.jpg]
+
+File to: [build/img/INDOMIE REGULAR CHICKEN 330GMS x14.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE REGULAR CHICKEN 70G.jpg]
+
+File to: [build/img/INDOMIE REGULAR CHICKEN 70G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

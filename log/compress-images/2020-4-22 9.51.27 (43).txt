@@ -1,0 +1,187 @@
+File from: [src/img/FP EBA.jpg]
+
+File to: [build/img/FP EBA.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FP EWEDU.jpg]
+
+File to: [build/img/FP EWEDU.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FP POUNDO.jpg]
+
+File to: [build/img/FP POUNDO.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FRAGRANCE H_SANITIZER 2X57ML.jpg]
+
+File to: [build/img/FRAGRANCE H_SANITIZER 2X57ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FRAGRANCED OIL 2PK JASMIN.jpg]
+
+File to: [build/img/FRAGRANCED OIL 2PK JASMIN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FRAGRANCED OIL APPLE CIN.png]
+
+File to: [build/img/FRAGRANCED OIL APPLE CIN.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/FRAGRANCED OIL LAV_VAN.jpeg]
+
+File to: [build/img/FRAGRANCED OIL LAV_VAN.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FRAGRANCED OIL ROSE 2PK.jpg]
+
+File to: [build/img/FRAGRANCED OIL ROSE 2PK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Frankish Peanut Snack 500g.jpg]
+
+File to: [build/img/Frankish Peanut Snack 500g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FP EGUSI.jpg]
+
+File to: [build/img/FP EGUSI.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Franol Tab x10.jpg]
+
+File to: [build/img/Franol Tab x10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Franol 120Mg-11Mg Tab X10 Satchet.jpg]
+
+File to: [build/img/Franol 120Mg-11Mg Tab X10 Satchet.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FREEZE CHOCOLATE VODKA 750ML.jpg]
+
+File to: [build/img/FREEZE CHOCOLATE VODKA 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FREEZE SPEARMINT VODKA 750ML.jpg]
+
+File to: [build/img/FREEZE SPEARMINT VODKA 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/fresh beef fillet.jpeg]
+
+File to: [build/img/fresh beef fillet.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FP EFO RIRO.jpg]
+
+File to: [build/img/FP EFO RIRO.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/fresh Beef kidney.jpeg]
+
+File to: [build/img/fresh Beef kidney.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/fresh beef liver.jpeg]
+
+File to: [build/img/fresh beef liver.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Fresh Beef topside.jpeg]
+
+File to: [build/img/Fresh Beef topside.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Fresh Beef Shaki.jpg]
+
+File to: [build/img/Fresh Beef Shaki.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Fresh Breath Mouth Spray Spearmint 15ml.jpg]
+
+File to: [build/img/Fresh Breath Mouth Spray Spearmint 15ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FRESH .YO STRAWBERRY 400ML.jpg]
+
+File to: [build/img/FRESH .YO STRAWBERRY 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/fresh chicken gizzard.jpg]
+
+File to: [build/img/fresh chicken gizzard.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/fresh chicken drumstick.jpg]
+
+File to: [build/img/fresh chicken drumstick.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FP EDIKAIKONG.jpg]
+
+File to: [build/img/FP EDIKAIKONG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/fresh chicken liver.jpg]
+
+File to: [build/img/fresh chicken liver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/fresh chicken thighs.jpg]
+
+File to: [build/img/fresh chicken thighs.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/fresh chicken wings.jpg]
+
+File to: [build/img/fresh chicken wings.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FRANK`S REDHOT SWEET CHILI SAUCE 354ML.jpg]
+
+File to: [build/img/FRANK`S REDHOT SWEET CHILI SAUCE 354ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Fresh Breath Mouth Spray Spearmint 15ml(1).jpg]
+
+File to: [build/img/Fresh Breath Mouth Spray Spearmint 15ml(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/fresh chicken lap.jpg]
+
+File to: [build/img/fresh chicken lap.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

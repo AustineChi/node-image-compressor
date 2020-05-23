@@ -1,0 +1,49 @@
+File from: [src/img/PolystarSHOWCASE FRIDGE (300L) PV-SC399LWhite.jpg]
+
+File to: [build/img/PolystarSHOWCASE FRIDGE (300L) PV-SC399LWhite.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarSHOWCASE FRIDGE PV-SC347BGMULTI COLOUR.jpeg]
+
+File to: [build/img/PolystarSHOWCASE FRIDGE PV-SC347BGMULTI COLOUR.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarSide By Side Refrigerator PV-SBS645L - SilverGrey.jpg]
+
+File to: [build/img/PolystarSide By Side Refrigerator PV-SBS645L - SilverGrey.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarSingle Door Fridge - PV-SF172SL -silver.jpg]
+
+File to: [build/img/PolystarSingle Door Fridge - PV-SF172SL -silver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarSingle Door Refrigerator - PVSF-176WLwhite.jpg]
+
+File to: [build/img/PolystarSingle Door Refrigerator - PVSF-176WLwhite.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarSplit  Gas A_C With Installation Kits PV-R410XAWHITE.jpg]
+
+File to: [build/img/PolystarSplit  Gas A_C With Installation Kits PV-R410XAWHITE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarSplit Inverter Air Conditioner PV-09INV41White.jpg]
+
+File to: [build/img/PolystarSplit Inverter Air Conditioner PV-09INV41White.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarStainless 5 Burner Table Top Gas Cooker - PV-WA0788Silver.jpg]
+
+File to: [build/img/PolystarStainless 5 Burner Table Top Gas Cooker - PV-WA0788Silver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

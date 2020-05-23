@@ -1,0 +1,193 @@
+File from: [src/img/Haansbro Milky rich Cookies 47g.jpg]
+
+File to: [build/img/Haansbro Milky rich Cookies 47g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HAANSBRO NOREOS WAFER STIX 37G.jpg]
+
+File to: [build/img/HAANSBRO NOREOS WAFER STIX 37G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HAANSBRO NICE COCONUT BISCUIT 125G.jpg]
+
+File to: [build/img/HAANSBRO NICE COCONUT BISCUIT 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HAANSBRO OATS N MILK 53G.jpg]
+
+File to: [build/img/HAANSBRO OATS N MILK 53G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HAANSBRO WAFER STIX.jpg]
+
+File to: [build/img/HAANSBRO WAFER STIX.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HADY MINI FAN.jpg]
+
+File to: [build/img/HADY MINI FAN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HAIR REMOVAL CREAM 100ML.jpg]
+
+File to: [build/img/HAIR REMOVAL CREAM 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HAIR REMOVING CREAM - GREEN TEA 110ML.jpg]
+
+File to: [build/img/HAIR REMOVING CREAM - GREEN TEA 110ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HAIR REMOVING CREAM - ROSE 110ML.jpg]
+
+File to: [build/img/HAIR REMOVING CREAM - ROSE 110ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hake fish (Kpanla) 1kg.jpg]
+
+File to: [build/img/Hake fish (Kpanla) 1kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HALIBORANGE BABY AND TODDLER MVITAMIN SYR  250ML.jpg]
+
+File to: [build/img/HALIBORANGE BABY AND TODDLER MVITAMIN SYR  250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HALIBORANGE OMEGA-3 SYR  200ML.jpg]
+
+File to: [build/img/HALIBORANGE OMEGA-3 SYR  200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HALIBORANGE OMEGA-3 SYR  400ML.jpg]
+
+File to: [build/img/HALIBORANGE OMEGA-3 SYR  400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HALIBORANGE VIT C EFF ORANGE 1000MG.jpg]
+
+File to: [build/img/HALIBORANGE VIT C EFF ORANGE 1000MG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HALIBORANGE VITC EFF 1000MG BC.jpg]
+
+File to: [build/img/HALIBORANGE VITC EFF 1000MG BC.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HANDMADE CHRISTMAS CARD BIG.jpg]
+
+File to: [build/img/HANDMADE CHRISTMAS CARD BIG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HANDMADE CHRISTMAS CARD MIDI.jpg]
+
+File to: [build/img/HANDMADE CHRISTMAS CARD MIDI.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HANDY ANDY LEMON FRESH 750ML.jpg]
+
+File to: [build/img/HANDY ANDY LEMON FRESH 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HANGING PLANT.jpg]
+
+File to: [build/img/HANGING PLANT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HANGING WARDROBE DEHUMIDIFIER 180G.jpg]
+
+File to: [build/img/HANGING WARDROBE DEHUMIDIFIER 180G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Haoda Bath Body Tool Glove Sponge x1.jpg]
+
+File to: [build/img/Haoda Bath Body Tool Glove Sponge x1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HAPPY BIRTHDAY BALLOONS 50S.jpg]
+
+File to: [build/img/HAPPY BIRTHDAY BALLOONS 50S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HAPPY HOUR CHAPMAN FRUIT DRINK 150ML.jpg]
+
+File to: [build/img/HAPPY HOUR CHAPMAN FRUIT DRINK 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HAPPY HOUR GUAVA 250ML.jpg]
+
+File to: [build/img/HAPPY HOUR GUAVA 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HAPPY HOUR PEACH 315ML.jpg]
+
+File to: [build/img/HAPPY HOUR PEACH 315ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HAPPY HOUR ZOBO FRUIT DRINK 150ML.jpg]
+
+File to: [build/img/HAPPY HOUR ZOBO FRUIT DRINK 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HAPPYHAIR WIG STAND.jpg]
+
+File to: [build/img/HAPPYHAIR WIG STAND.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARD COVER NOTE BOOK SHORT.jpg]
+
+File to: [build/img/HARD COVER NOTE BOOK SHORT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARDCORE MAX 250ML CAN.jpg]
+
+File to: [build/img/HARDCORE MAX 250ML CAN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARIBO CHAMALLOWS PINK & WHITE 140 GM.jpg]
+
+File to: [build/img/HARIBO CHAMALLOWS PINK & WHITE 140 GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARIBO FANTASY MIX 140 GM.jpg]
+
+File to: [build/img/HARIBO FANTASY MIX 140 GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HANDY ANDY LAVENDER FRESH 750ML.png]
+
+File to: [build/img/HANDY ANDY LAVENDER FRESH 750ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAIN

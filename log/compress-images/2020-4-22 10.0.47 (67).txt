@@ -1,0 +1,72 @@
+File from: [src/img/HisenseREF 65 WR 490 Liters Double Door Refrigerator.jpg]
+
+File to: [build/img/HisenseREF 65 WR 490 Liters Double Door Refrigerator.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg -quality 60 -outfile build/img/HisenseREF 65 WR 490 Liters Double Door Refrigerator.jpg src/img/HisenseREF 65 WR 490 Liters Double Door Refrigerator.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [src/img/Hisense6KG Automatic Front Load Washing Machine-WM6012SSilver.jpg]
+
+File to: [build/img/Hisense6KG Automatic Front Load Washing Machine-WM6012SSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg -quality 60 -outfile build/img/Hisense6KG Automatic Front Load Washing Machine-WM6012SSilver.jpg src/img/Hisense6KG Automatic Front Load Washing Machine-WM6012SSilver.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [src/img/HisenseREF 046 DR Refrigerator - 46Lsilver.jpg]
+
+File to: [build/img/HisenseREF 046 DR Refrigerator - 46Lsilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg -quality 60 -outfile build/img/HisenseREF 046 DR Refrigerator - 46Lsilver.jpg src/img/HisenseREF 046 DR Refrigerator - 46Lsilver.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [src/img/FROSTY BITE FANTASY PEANUT CRUNCH ICE CREAM 70G.png]
+
+File to: [build/img/FROSTY BITE FANTASY PEANUT CRUNCH ICE CREAM 70G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant --quality=20-50 -o build/img/FROSTY BITE FANTASY PEANUT CRUNCH ICE CREAM 70G.png src/img/FROSTY BITE FANTASY PEANUT CRUNCH ICE CREAM 70G.png
+  error: cannot decode image FROSTY BITE FANTASY PEANUT CRUNCH ICE CREAM 70G.png
+File from: [src/img/Hisense8KG Automatic Front Load Washing Machine-WM8012SSilver.jpg]
+
+File to: [build/img/Hisense8KG Automatic Front Load Washing Machine-WM8012SSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg -quality 60 -outfile build/img/Hisense8KG Automatic Front Load Washing Machine-WM8012SSilver.jpg src/img/Hisense8KG Automatic Front Load Washing Machine-WM8012SSilver.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [src/img/FROSTY BITE CHOCOLATE ICE CREAM 150ML.png]
+
+File to: [build/img/FROSTY BITE CHOCOLATE ICE CREAM 150ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant --quality=20-50 -o build/img/FROSTY BITE CHOCOLATE ICE CREAM 150ML.png src/img/FROSTY BITE CHOCOLATE ICE CREAM 150ML.png
+  error: cannot decode image FROSTY BITE CHOCOLATE ICE CREAM 150ML.png
+File from: [src/img/HisenseChest Freezer 205L - FRZFC260SH - SilverSILVER.jpg]
+
+File to: [build/img/HisenseChest Freezer 205L - FRZFC260SH - SilverSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg -quality 60 -outfile build/img/HisenseChest Freezer 205L - FRZFC260SH - SilverSILVER.jpg src/img/HisenseChest Freezer 205L - FRZFC260SH - SilverSILVER.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [src/img/Hisense5kg Washing Machine WM WSJA 551White.jpg]
+
+File to: [build/img/Hisense5kg Washing Machine WM WSJA 551White.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg -quality 60 -outfile build/img/Hisense5kg Washing Machine WM WSJA 551White.jpg src/img/Hisense5kg Washing Machine WM WSJA 551White.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [src/img/CHI HAPPY HOUR FROOTY Berry Bounce 100ML.png]
+
+File to: [build/img/CHI HAPPY HOUR FROOTY Berry Bounce 100ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant --quality=20-50 -o build/img/CHI HAPPY HOUR FROOTY Berry Bounce 100ML.png src/img/CHI HAPPY HOUR FROOTY Berry Bounce 100ML.png
+  error: cannot decode image CHI HAPPY HOUR FROOTY Berry Bounce 100ML.png

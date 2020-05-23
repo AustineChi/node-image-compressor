@@ -1,0 +1,205 @@
+File from: [src/img/ChivalueSsage.jpeg]
+
+File to: [build/img/ChivalueSsage.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHIOES CINNAMON MAPLE HONEY POP CORN 85G.jpg]
+
+File to: [build/img/CHIOES CINNAMON MAPLE HONEY POP CORN 85G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Chivas 12 YO20cl x24.jpg]
+
+File to: [build/img/Chivas 12 YO20cl x24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Chivas 12 YO37.5cl x12.jpg]
+
+File to: [build/img/Chivas 12 YO37.5cl x12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Chivas 12 YO70cl x12.jpg]
+
+File to: [build/img/Chivas 12 YO70cl x12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Chivas 18 YO70cl x6.jpg]
+
+File to: [build/img/Chivas 18 YO70cl x6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Chivas 25 YO70cl x3.jpg]
+
+File to: [build/img/Chivas 25 YO70cl x3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Chivas Extra70cl x6.jpg]
+
+File to: [build/img/Chivas Extra70cl x6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/chivas regel.jpeg]
+
+File to: [build/img/chivas regel.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Chivas XV70cl x6.jpg]
+
+File to: [build/img/Chivas XV70cl x6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Chivita 100% Red Grape 1litre.jpg]
+
+File to: [build/img/Chivita 100% Red Grape 1litre.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHIVITA ACTIVE 315ML.jpg]
+
+File to: [build/img/CHIVITA ACTIVE 315ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHIVITA ACTIVE 6 CITRUS 1L.jpg]
+
+File to: [build/img/CHIVITA ACTIVE 6 CITRUS 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHIVITA ACTIVE ACTIVE CITRUS 315ML.jpg]
+
+File to: [build/img/CHIVITA ACTIVE ACTIVE CITRUS 315ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHIVITA ACTIVE BEETROOT+APPLE 1LTR.jpg]
+
+File to: [build/img/CHIVITA ACTIVE BEETROOT+APPLE 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHIVITA ACTIVE BEETROOT+GRAPE 1LTR.jpg]
+
+File to: [build/img/CHIVITA ACTIVE BEETROOT+GRAPE 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHIVITA ACTIVE CARROTS 1L.jpg]
+
+File to: [build/img/CHIVITA ACTIVE CARROTS 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHIVITA APPLE 1L.jpg]
+
+File to: [build/img/CHIVITA APPLE 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/chivita friut juice.jpeg]
+
+File to: [build/img/chivita friut juice.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/chivita fruit juice - Copy.jpeg]
+
+File to: [build/img/chivita fruit juice - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHIVITA FRUIT JUICE APPLE 1LTR.jpg]
+
+File to: [build/img/CHIVITA FRUIT JUICE APPLE 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHIVITA FRUIT JUICE APPLE 315ML.jpg]
+
+File to: [build/img/CHIVITA FRUIT JUICE APPLE 315ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHIVITA FRUIT JUICE ORANGE 1LTR.jpg]
+
+File to: [build/img/CHIVITA FRUIT JUICE ORANGE 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHIVITA FRUIT JUICE ORANGE 315ML.jpg]
+
+File to: [build/img/CHIVITA FRUIT JUICE ORANGE 315ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHIVITA FRUIT JUICE ORANGE MANGO 1LTR.jpg]
+
+File to: [build/img/CHIVITA FRUIT JUICE ORANGE MANGO 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHIVITA FRUIT JUICE ORANGE PINAPPLE 1LTR.jpg]
+
+File to: [build/img/CHIVITA FRUIT JUICE ORANGE PINAPPLE 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHIVITA FRUIT JUICE PINAPPLE 1LTR.png]
+
+File to: [build/img/CHIVITA FRUIT JUICE PINAPPLE 1LTR.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CHIVITA FRUIT JUICE PINAPPLE 315ML.jpg]
+
+File to: [build/img/CHIVITA FRUIT JUICE PINAPPLE 315ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHIVITA FRUIT JUICE REDGRAPE 1LTR.jpg]
+
+File to: [build/img/CHIVITA FRUIT JUICE REDGRAPE 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHIVITA FRUIT JUICE REDGRAPE 315ML.jpg]
+
+File to: [build/img/CHIVITA FRUIT JUICE REDGRAPE 315ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHIVITA ORANGE 1L.jpg]
+
+File to: [build/img/CHIVITA ORANGE 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHIVITA ORANGE PINEAPPLE 1L.jpg]
+
+File to: [build/img/CHIVITA ORANGE PINEAPPLE 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHIVITA PINEAPPLE 1L.jpg]
+
+File to: [build/img/CHIVITA PINEAPPLE 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Chivita Premium 100% Juice 1Ltr.jpg]
+
+File to: [build/img/Chivita Premium 100% Juice 1Ltr.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

@@ -1,0 +1,85 @@
+File from: [src/img/TRINITY LADIES RAZOR 98`S.jpg]
+
+File to: [build/img/TRINITY LADIES RAZOR 98`S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TROJAN ENZ X 3 CONDOM(SPERMICIDAL).jpg]
+
+File to: [build/img/TROJAN ENZ X 3 CONDOM(SPERMICIDAL).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TROJAN HER PLEASURE X 12 CONDOMS.jpg]
+
+File to: [build/img/TROJAN HER PLEASURE X 12 CONDOMS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Trojan Her Pleasure Condoms Sens.x3.jpg]
+
+File to: [build/img/Trojan Her Pleasure Condoms Sens.x3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TROJAN HER PLEASURE X 3 CONDOMS.jpg]
+
+File to: [build/img/TROJAN HER PLEASURE X 3 CONDOMS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TROJAN MAGNUM LATEX CONDOM X3.jpg]
+
+File to: [build/img/TROJAN MAGNUM LATEX CONDOM X3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TROJAN MAGNUM X 12.jpg]
+
+File to: [build/img/TROJAN MAGNUM X 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TROJAN PLEASURE PACK X 1.jpg]
+
+File to: [build/img/TROJAN PLEASURE PACK X 1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TROJAN MAGNUM XL CONDOM X3.jpg]
+
+File to: [build/img/TROJAN MAGNUM XL CONDOM X3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TROJAN PLEASURE PACK X 40.jpg]
+
+File to: [build/img/TROJAN PLEASURE PACK X 40.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TROJAN ULTRA THIN X 12 CONDOMS.jpg]
+
+File to: [build/img/TROJAN ULTRA THIN X 12 CONDOMS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TROOP-C CHEWABLE VITAMIN C X 100.jpg]
+
+File to: [build/img/TROOP-C CHEWABLE VITAMIN C X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TROJAN ULTRA THIN X 3 CONDOMS.jpg]
+
+File to: [build/img/TROJAN ULTRA THIN X 3 CONDOMS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TROOP-C TABS WHITE 100MG.jpg]
+
+File to: [build/img/TROOP-C TABS WHITE 100MG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

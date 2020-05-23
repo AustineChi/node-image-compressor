@@ -1,0 +1,19 @@
+File from: [src/img/SIMILAC ADVANCE BABY FOOD 0-12M 1.13KG.jpg]
+
+File to: [build/img/SIMILAC ADVANCE BABY FOOD 0-12M 1.13KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/similac go & grow toddler milk(12-24).png]
+
+File to: [build/img/similac go & grow toddler milk(12-24).png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Similac pro advance.jpg]
+
+File to: [build/img/Similac pro advance.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

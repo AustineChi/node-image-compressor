@@ -1,0 +1,307 @@
+File from: [src/img/Loya Powder Milk Tin 900g copy.jpg]
+
+File to: [build/img/Loya Powder Milk Tin 900g copy.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Loya Powdered Milk Pouch 900g copy.jpg]
+
+File to: [build/img/Loya Powdered Milk Pouch 900g copy.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LOYD GREEN SENSE GREEN TEA WITH ALOE VERA 20 1.7G.png]
+
+File to: [build/img/LOYD GREEN SENSE GREEN TEA WITH ALOE VERA 20 1.7G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Lu Blue Lu Green Toilet Block 50g.jpg]
+
+File to: [build/img/Lu Blue Lu Green Toilet Block 50g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LOYD SUPPORT DIGESTION TEA 20 by 2G.jpg]
+
+File to: [build/img/LOYD SUPPORT DIGESTION TEA 20 by 2G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LU BLUE.jpg]
+
+File to: [build/img/LU BLUE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LU GREEN TOILET BLOCK 50G.jpg]
+
+File to: [build/img/LU GREEN TOILET BLOCK 50G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LU GREEN.jpg]
+
+File to: [build/img/LU GREEN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LUBRIDERM DAILY MOISTURE 177ML.jpg]
+
+File to: [build/img/LUBRIDERM DAILY MOISTURE 177ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LUBRIDERM DAILY MOISTURE NORMAL DRY SKIN LOTION 709ML.jpg]
+
+File to: [build/img/LUBRIDERM DAILY MOISTURE NORMAL DRY SKIN LOTION 709ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LUCKY (CANDLE) PER KG.jpeg]
+
+File to: [build/img/LUCKY (CANDLE) PER KG.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LUCKY BAMBOO 60CM FLOWER.jpg]
+
+File to: [build/img/LUCKY BAMBOO 60CM FLOWER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LUCKY BAMBOO 80CM FLOWER.jpg]
+
+File to: [build/img/LUCKY BAMBOO 80CM FLOWER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LUCKY CHARMS CEREAL 297G.jpg]
+
+File to: [build/img/LUCKY CHARMS CEREAL 297G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LUCKY CLASSIC PEN.jpg]
+
+File to: [build/img/LUCKY CLASSIC PEN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LUCOZADE BOOST 1 L.jpg]
+
+File to: [build/img/LUCOZADE BOOST 1 L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LUCOZADE BOOST 125ML TETRA.jpg]
+
+File to: [build/img/LUCOZADE BOOST 125ML TETRA.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LUCOZADE BOOST 1L.jpg]
+
+File to: [build/img/LUCOZADE BOOST 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LUCOZADE BOOST 250ML TETRA.jpeg]
+
+File to: [build/img/LUCOZADE BOOST 250ML TETRA.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LUCOZADE BOOST 330ML CAN.jpg]
+
+File to: [build/img/LUCOZADE BOOST 330ML CAN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LUCOZADE BOOST 500ML PET.jpg]
+
+File to: [build/img/LUCOZADE BOOST 500ML PET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lucozade Boost Can 330ml x 24.jpg]
+
+File to: [build/img/Lucozade Boost Can 330ml x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lucozade Boost Can 330ml.jpg]
+
+File to: [build/img/Lucozade Boost Can 330ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LUCOZADE BOOST ENERGY 125ML.jpg]
+
+File to: [build/img/LUCOZADE BOOST ENERGY 125ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LUCOZADE BOOST PET 450ML.jpg]
+
+File to: [build/img/LUCOZADE BOOST PET 450ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LUCOZADE BOOST REG CAN 330M.jpg]
+
+File to: [build/img/LUCOZADE BOOST REG CAN 330M.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lucozade Boost Reg Drinks 150ml x 16.jpg]
+
+File to: [build/img/Lucozade Boost Reg Drinks 150ml x 16.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lucozade Boost Regular Drink 250ml x 27.jpg]
+
+File to: [build/img/Lucozade Boost Regular Drink 250ml x 27.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lucozade Boost Regular Pet Drink 500ml.jpg]
+
+File to: [build/img/Lucozade Boost Regular Pet Drink 500ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lucozade Energy Drink 380ml.jpg]
+
+File to: [build/img/Lucozade Energy Drink 380ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lucozade Boost Reg Drinks 150ml.jpg]
+
+File to: [build/img/Lucozade Boost Reg Drinks 150ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lucozade Boost Regular Drink 250ml.jpg]
+
+File to: [build/img/Lucozade Boost Regular Drink 250ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LUCOZADE ENERGY ORIGINAL 380ML PET.jpeg]
+
+File to: [build/img/LUCOZADE ENERGY ORIGINAL 380ML PET.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LUCOZADE HYDRO PURE 150ML.jpg]
+
+File to: [build/img/LUCOZADE HYDRO PURE 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LUCOZADE HYDRO PURE 60ML PET.jpg]
+
+File to: [build/img/LUCOZADE HYDRO PURE 60ML PET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LUCOZADE ORIGINAL 380ML PET.png]
+
+File to: [build/img/LUCOZADE ORIGINAL 380ML PET.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/LUCOZADE ORIGINAL ENERGY 1L.jpg]
+
+File to: [build/img/LUCOZADE ORIGINAL ENERGY 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LUCOZADE SPARKLING 1L.jpeg]
+
+File to: [build/img/LUCOZADE SPARKLING 1L.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lucozade Sparkling Orig Drink 1lt.jpg]
+
+File to: [build/img/Lucozade Sparkling Orig Drink 1lt.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lucozade Sport Body Fuel Drink 500ml.jpg]
+
+File to: [build/img/Lucozade Sport Body Fuel Drink 500ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LUCOZADE SPORT ISOTONIC PERF FUEL ORANGE FLAVOUR.jpg]
+
+File to: [build/img/LUCOZADE SPORT ISOTONIC PERF FUEL ORANGE FLAVOUR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LUCOZADE SPORT PET 450ML.jpg]
+
+File to: [build/img/LUCOZADE SPORT PET 450ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lumartem 20mg-120mg Tab x24.jpg]
+
+File to: [build/img/Lumartem 20mg-120mg Tab x24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LUNA ROSSA FRAGOLINO 75CL.JPG]
+
+File to: [build/img/LUNA ROSSA FRAGOLINO 75CL.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LUNA EVAPORATED MILK 160G.jpg]
+
+File to: [build/img/LUNA EVAPORATED MILK 160G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LUNO ROSSA AMABITE LAMBRUSCO REGGIANO.JPG]
+
+File to: [build/img/LUNO ROSSA AMABITE LAMBRUSCO REGGIANO.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lux Beauty Bar Soap 175g.jpg]
+
+File to: [build/img/Lux Beauty Bar Soap 175g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lux Beauty Bar Soap 75g.jpg]
+
+File to: [build/img/Lux Beauty Bar Soap 75g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LUX SHAKE ME UP 48 X 125G.jpg]
+
+File to: [build/img/LUX SHAKE ME UP 48 X 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LUX EVEN COMPLEXSION 125G.jpg]
+
+File to: [build/img/LUX EVEN COMPLEXSION 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LUX SHAKE ME UP SOAP 125G.jpg]
+
+File to: [build/img/LUX SHAKE ME UP SOAP 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

@@ -1,0 +1,43 @@
+File from: [src/img/ZARON VOLUMIZING MASCARA.jpg]
+
+File to: [build/img/ZARON VOLUMIZING MASCARA.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ZARTECH CHICKEN FILLET 1KG.jpg]
+
+File to: [build/img/ZARTECH CHICKEN FILLET 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ZARTECH CHICKEN NUGGET 450G.jpg]
+
+File to: [build/img/ZARTECH CHICKEN NUGGET 450G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ZARTECH CHICKENS LAPS 1KG.jpg]
+
+File to: [build/img/ZARTECH CHICKENS LAPS 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ZARTECH FROZEN CHICKENS 1KG.jpg]
+
+File to: [build/img/ZARTECH FROZEN CHICKENS 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ZARTECH SMOKED CHICKEN.jpg]
+
+File to: [build/img/ZARTECH SMOKED CHICKEN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ZARTECH CHICKEN GIZZARD 1KG.jpg]
+
+File to: [build/img/ZARTECH CHICKEN GIZZARD 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

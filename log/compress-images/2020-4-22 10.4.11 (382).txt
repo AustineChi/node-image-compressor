@@ -1,0 +1,103 @@
+File from: [src/img/ST IVES SOFTENING COCONUT & ORCHID BODY LOTION 621ML.jpg]
+
+File to: [build/img/ST IVES SOFTENING COCONUT & ORCHID BODY LOTION 621ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ST IVES SOFTENING HYDRATING BODY LOTION 621ML.jpg]
+
+File to: [build/img/ST IVES SOFTENING HYDRATING BODY LOTION 621ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ST IVES SOFTENING SOFTENING BODY LOTION 621ML.jpg]
+
+File to: [build/img/ST IVES SOFTENING SOFTENING BODY LOTION 621ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ST IVES SOOTHING OATMEAL & SHEA BUTTER BODY LOTION 621ML.jpg]
+
+File to: [build/img/ST IVES SOOTHING OATMEAL & SHEA BUTTER BODY LOTION 621ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ST IVES SOOTHING OATMEAL & SHEA BUTTER BODY WASH 709ML.jpeg]
+
+File to: [build/img/ST IVES SOOTHING OATMEAL & SHEA BUTTER BODY WASH 709ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/St Lauren Grape Fruit Drink 75cl x 6.jpg]
+
+File to: [build/img/St Lauren Grape Fruit Drink 75cl x 6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ST REMY - VSOP 70CL.jpg]
+
+File to: [build/img/ST REMY - VSOP 70CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/St Rita Tomato Paste 800g x 12.jpg]
+
+File to: [build/img/St Rita Tomato Paste 800g x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ST. IVES NOURISH & SMOOTH OATMEAL SCRUB 150ML.jpg]
+
+File to: [build/img/ST. IVES NOURISH & SMOOTH OATMEAL SCRUB 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/St. Rita Tomata past 70g x 50.jpg]
+
+File to: [build/img/St. Rita Tomata past 70g x 50.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/St. Rita Tomato Past 210g x 48.jpg]
+
+File to: [build/img/St. Rita Tomato Past 210g x 48.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/St. Rita Tomatos past 400g x 24.jpg]
+
+File to: [build/img/St. Rita Tomatos past 400g x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/STAIN REMOVER WIPES 30`S.jpg]
+
+File to: [build/img/STAIN REMOVER WIPES 30`S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/STAINLESS DINNER FORK 4PCS.jpg]
+
+File to: [build/img/STAINLESS DINNER FORK 4PCS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/STAINLESS STEEL SPONGE.jpg]
+
+File to: [build/img/STAINLESS STEEL SPONGE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/STAR 33CL FULL CAN.jpg]
+
+File to: [build/img/STAR 33CL FULL CAN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/STAR 60CL FULL BTL CRATE.jpg]
+
+File to: [build/img/STAR 60CL FULL BTL CRATE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

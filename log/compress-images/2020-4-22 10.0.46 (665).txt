@@ -1,0 +1,37 @@
+File from: [src/img/MITY FRESH MIX VEGETABLES 400G.jpg]
+
+File to: [build/img/MITY FRESH MIX VEGETABLES 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MITY FRESH GREEN PEAS 400G.jpg]
+
+File to: [build/img/MITY FRESH GREEN PEAS 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MIXAGRIP CAP X 4.jpg]
+
+File to: [build/img/MIXAGRIP CAP X 4.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Miyake Pour Homme Natural Spray 100ml.jpg]
+
+File to: [build/img/Miyake Pour Homme Natural Spray 100ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MOANA DOLL SMALL.jpg]
+
+File to: [build/img/MOANA DOLL SMALL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MODURETIC TABS X 28.jpg]
+
+File to: [build/img/MODURETIC TABS X 28.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

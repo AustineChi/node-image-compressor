@@ -1,0 +1,61 @@
+File from: [src/img/Azilide (Azithromycin) 500mg tabs x6.jpg]
+
+File to: [build/img/Azilide (Azithromycin) 500mg tabs x6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/AYUSRI STRESSRID HERBAL TEA 40G.jpg]
+
+File to: [build/img/AYUSRI STRESSRID HERBAL TEA 40G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/AZOPT EYE DROP 5ML.jpg]
+
+File to: [build/img/AZOPT EYE DROP 5ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Azithromycin 500mg tabs x 3  Teva.jpg]
+
+File to: [build/img/Azithromycin 500mg tabs x 3  Teva.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/B Complex Injection Softland 10ml.jpg]
+
+File to: [build/img/B Complex Injection Softland 10ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/B-Formulas Active Tape-Floss x 50metres.jpg]
+
+File to: [build/img/B-Formulas Active Tape-Floss x 50metres.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/B-Formulas Micellar Cleansin Water 200ml.jpg]
+
+File to: [build/img/B-Formulas Micellar Cleansin Water 200ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/B-THE INDUSTRIES OF THE FUTUREByAlec Ross.png]
+
+File to: [build/img/B-THE INDUSTRIES OF THE FUTUREByAlec Ross.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/B-Formulas Micellar Facial Wipes x25.jpg]
+
+File to: [build/img/B-Formulas Micellar Facial Wipes x25.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/B&G CHATEANEAUF DU PAPE RED 75CL.jpg]
+
+File to: [build/img/B&G CHATEANEAUF DU PAPE RED 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

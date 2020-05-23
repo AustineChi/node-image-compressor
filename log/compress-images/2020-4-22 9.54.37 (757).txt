@@ -1,0 +1,301 @@
+File from: [src/img/PolystarStanding Fan - CFS-1620white.jpg]
+
+File to: [build/img/PolystarStanding Fan - CFS-1620white.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarSuper Ultra Filtered Sound Home Theatre + Powerful DVDBlack.jpg]
+
+File to: [build/img/PolystarSuper Ultra Filtered Sound Home Theatre + Powerful DVDBlack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarSuper Chest-Deep Freezer PVCF-322LGrey.jpg]
+
+File to: [build/img/PolystarSuper Chest-Deep Freezer PVCF-322LGrey.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarSUPER BASS BLUETOOTH HOME THEATRE PV-HF208Bblack.jpg]
+
+File to: [build/img/PolystarSUPER BASS BLUETOOTH HOME THEATRE PV-HF208Bblack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarSuper Ultra Filtered Sound Home Theatre + Powerful DVDBlackk.jpg]
+
+File to: [build/img/PolystarSuper Ultra Filtered Sound Home Theatre + Powerful DVDBlackk.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarTable Gas With Stainless Top PV-GS2100Silver.jpg]
+
+File to: [build/img/PolystarTable Gas With Stainless Top PV-GS2100Silver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarSuperb Long Lasting Air Cooler -PVKL-120Cwhite.jpg]
+
+File to: [build/img/PolystarSuperb Long Lasting Air Cooler -PVKL-120Cwhite.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarTable Top Refrigerator PV-SF176WLWhite.jpg]
+
+File to: [build/img/PolystarTable Top Refrigerator PV-SF176WLWhite.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarTable Top Refrigerator PV-SF177SLSilver.jpg]
+
+File to: [build/img/PolystarTable Top Refrigerator PV-SF177SLSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarTop Load Washing Machine PV-WD9.5K.jpg]
+
+File to: [build/img/PolystarTop Load Washing Machine PV-WD9.5K.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarTv Smart Curved 43 Inch LedBlack.jpg]
+
+File to: [build/img/PolystarTv Smart Curved 43 Inch LedBlack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarTwin Tub Washing Machine PV-WD7K - Whitewhite.jpg]
+
+File to: [build/img/PolystarTwin Tub Washing Machine PV-WD7K - Whitewhite.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarWashing Machine 4.5K Single Tubewhite.jpg]
+
+File to: [build/img/PolystarWashing Machine 4.5K Single Tubewhite.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POMEGRANATE PER KG.jpg]
+
+File to: [build/img/POMEGRANATE PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POMPEIAN EXTRA VIRGIN OLIVE OIL 473ML.jpg]
+
+File to: [build/img/POMPEIAN EXTRA VIRGIN OLIVE OIL 473ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Ponche Garvey 30_ 1Ltr x 12.jpg]
+
+File to: [build/img/Ponche Garvey 30_ 1Ltr x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pond_s Dream Flower powder FT 200g x 48.jpg]
+
+File to: [build/img/Pond_s Dream Flower powder FT 200g x 48.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Ponmo 1Kg.jpg]
+
+File to: [build/img/Ponmo 1Kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Ponmo.jpg]
+
+File to: [build/img/Ponmo.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POP CORNERS SWEET SALTY KETTLE CORN 85G.jpg]
+
+File to: [build/img/POP CORNERS SWEET SALTY KETTLE CORN 85G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POP CORNERS WHITE CHRDDAR CHIPS 85G.jpg]
+
+File to: [build/img/POP CORNERS WHITE CHRDDAR CHIPS 85G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POP STAR POPCORN SWEET 50G.jpg]
+
+File to: [build/img/POP STAR POPCORN SWEET 50G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POP STAR POPCORN SWEET 90G.jpg]
+
+File to: [build/img/POP STAR POPCORN SWEET 90G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POPCORNERS CORN SNACKS 28G.jpeg]
+
+File to: [build/img/POPCORNERS CORN SNACKS 28G.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POPCORNERS WHITE CHEDDAR 142G.jpg]
+
+File to: [build/img/POPCORNERS WHITE CHEDDAR 142G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POPIN WAFFLES 650G.jpg]
+
+File to: [build/img/POPIN WAFFLES 650G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pork belly.jpg]
+
+File to: [build/img/Pork belly.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pork bone.jpg]
+
+File to: [build/img/Pork bone.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pork boneless.jpg]
+
+File to: [build/img/Pork boneless.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pork chops.jpg]
+
+File to: [build/img/Pork chops.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pork feet.jpg]
+
+File to: [build/img/Pork feet.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pork fillet.jpg]
+
+File to: [build/img/Pork fillet.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pork leg roast.jpg]
+
+File to: [build/img/Pork leg roast.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pork loin boneless.jpg]
+
+File to: [build/img/Pork loin boneless.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pork minced.jpg]
+
+File to: [build/img/Pork minced.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pork neck.jpg]
+
+File to: [build/img/Pork neck.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pork ribs.jpg]
+
+File to: [build/img/Pork ribs.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pork roll.jpg]
+
+File to: [build/img/Pork roll.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pork shoulder.jpg]
+
+File to: [build/img/Pork shoulder.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pork skin.jpg]
+
+File to: [build/img/Pork skin.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pork stewing.jpg]
+
+File to: [build/img/Pork stewing.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pork trimming.jpg]
+
+File to: [build/img/Pork trimming.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PORKOYUm SAUSAGE 280G.jpg]
+
+File to: [build/img/PORKOYUm SAUSAGE 280G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Porridge Beans 2LTRS.png]
+
+File to: [build/img/Porridge Beans 2LTRS.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/POST GOLDEN CRISP 418G.jpg]
+
+File to: [build/img/POST GOLDEN CRISP 418G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POST GOLDEN OREO CEREAL 311G.jpg]
+
+File to: [build/img/POST GOLDEN OREO CEREAL 311G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POST GRAPE NUTS CEREAL 581G.jpg]
+
+File to: [build/img/POST GRAPE NUTS CEREAL 581G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POST GREAT GRAINS 453G.jpg]
+
+File to: [build/img/POST GREAT GRAINS 453G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POST GREAT GRAINS BLUEBERRY MORNING 382G.jpg]
+
+File to: [build/img/POST GREAT GRAINS BLUEBERRY MORNING 382G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarSuper Chilled Freezer - PVCF-320LGRGREY.jpg]
+
+File to: [build/img/PolystarSuper Chilled Freezer - PVCF-320LGRGREY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

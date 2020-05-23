@@ -1,0 +1,247 @@
+File from: [src/img/Wireless Bluetooth Singing Microphone - Rosegold.jpg]
+
+File to: [build/img/Wireless Bluetooth Singing Microphone - Rosegold.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WISH-BONE ITALIAN DRESSING 237ML.jpg]
+
+File to: [build/img/WISH-BONE ITALIAN DRESSING 237ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WISDOM FRESH EFFECT COOLMINT MOUTH WASH 500ML.jpg]
+
+File to: [build/img/WISDOM FRESH EFFECT COOLMINT MOUTH WASH 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WISDOM XTRA CLEAN TOOTHBRUSH MEDIUM.jpg]
+
+File to: [build/img/WISDOM XTRA CLEAN TOOTHBRUSH MEDIUM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WISDOM XTRA CLEAN TOOTH PASTE 100ML.jpg]
+
+File to: [build/img/WISDOM XTRA CLEAN TOOTH PASTE 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WOEBERS YELLOW MUSTARD 567G.jpg]
+
+File to: [build/img/WOEBERS YELLOW MUSTARD 567G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WOOD FLOOR WIPES 24PKS.jpg]
+
+File to: [build/img/WOOD FLOOR WIPES 24PKS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WOOD FLOOR CLEANER 12.jpg]
+
+File to: [build/img/WOOD FLOOR CLEANER 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WOODEN CRUSHERS.jpg]
+
+File to: [build/img/WOODEN CRUSHERS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WowWee Lucky Fortune Blind Collectible Bracelets - BFF Series.png]
+
+File to: [build/img/WowWee Lucky Fortune Blind Collectible Bracelets - BFF Series.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Wosan Hand Sanitizer 500ml.jpg]
+
+File to: [build/img/Wosan Hand Sanitizer 500ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WRIGHTS HAND WASH 250ML.jpg]
+
+File to: [build/img/WRIGHTS HAND WASH 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/XALACOM EYE DROP 2.5ML.jpg]
+
+File to: [build/img/XALACOM EYE DROP 2.5ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WRINGLEY_S DOUBLMINT PEPPERMINT.jpg]
+
+File to: [build/img/WRINGLEY_S DOUBLMINT PEPPERMINT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/XALATAN EYE DROP 2.5ML.jpg]
+
+File to: [build/img/XALATAN EYE DROP 2.5ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/XASTEN 1MG TAB X 10.jpg]
+
+File to: [build/img/XASTEN 1MG TAB X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/XASTEN TABS 0.5MG X 10.jpg]
+
+File to: [build/img/XASTEN TABS 0.5MG X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/XBC CHARCOAL WIPES.jpg]
+
+File to: [build/img/XBC CHARCOAL WIPES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/XBC REVITALISING COCONUT WATER HAND & NAIL CREAM 100ML.jpg]
+
+File to: [build/img/XBC REVITALISING COCONUT WATER HAND & NAIL CREAM 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/XBC COCONUT WATER FACIAL WIPES.jpg]
+
+File to: [build/img/XBC COCONUT WATER FACIAL WIPES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/XBC REVITALISING COCONUT WATER WIPES.jpg]
+
+File to: [build/img/XBC REVITALISING COCONUT WATER WIPES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/XHC CLEANSING CHARCOAL CONDITIONER 400ML.jpg]
+
+File to: [build/img/XHC CLEANSING CHARCOAL CONDITIONER 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/XHC CLEANSING CHARCOAL SHAMPOO 400ML.png]
+
+File to: [build/img/XHC CLEANSING CHARCOAL SHAMPOO 400ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/XHC GREE TEA CONDITIONER 400ML.jpg]
+
+File to: [build/img/XHC GREE TEA CONDITIONER 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/XHC TEA TREE MOISTURING CONDITIONER 400ML.jpeg]
+
+File to: [build/img/XHC TEA TREE MOISTURING CONDITIONER 400ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/XHC XPEL CLAY SHAMPOO 400ML.jpg]
+
+File to: [build/img/XHC XPEL CLAY SHAMPOO 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/XNC XPEL NAIL CARE NAIL POLISH REMOVER 250ML.jpg]
+
+File to: [build/img/XNC XPEL NAIL CARE NAIL POLISH REMOVER 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/XHC XPEL HAIR CARE CONDITIONER 400ML.jpg]
+
+File to: [build/img/XHC XPEL HAIR CARE CONDITIONER 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/XNC XPEL NAIL CARE NAIL POLISH REMOVER 400ML.jpg]
+
+File to: [build/img/XNC XPEL NAIL CARE NAIL POLISH REMOVER 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/XOC CLEANSING CHARCOAL TOOTHPASTE 100ML.jpg]
+
+File to: [build/img/XOC CLEANSING CHARCOAL TOOTHPASTE 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/XNC XPEL NAIL CARE SUPER STRENGTH NAIL & TIP REMOVER 150ML.jpg]
+
+File to: [build/img/XNC XPEL NAIL CARE SUPER STRENGTH NAIL & TIP REMOVER 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/XPLOZA ENERGY DRINK 25CL.png]
+
+File to: [build/img/XPLOZA ENERGY DRINK 25CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/XTRA COMFORT TWIN BLADE X10.jpg]
+
+File to: [build/img/XTRA COMFORT TWIN BLADE X10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/XTRA CLEAN WISDOM MEDIUM TOOTHBRUSH.jpg]
+
+File to: [build/img/XTRA CLEAN WISDOM MEDIUM TOOTHBRUSH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/XYLITOL RASA FRESH MINT.jpg]
+
+File to: [build/img/XYLITOL RASA FRESH MINT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/XYLOPOHONE EN BOIS MUSIC SET.jpg]
+
+File to: [build/img/XYLOPOHONE EN BOIS MUSIC SET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/XYLO-ACINO NASAL SPRAY 0.1% 10ML.jpg]
+
+File to: [build/img/XYLO-ACINO NASAL SPRAY 0.1% 10ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WISH-BONE THOUSAND ISLAND 237ML.jpg]
+
+File to: [build/img/WISH-BONE THOUSAND ISLAND 237ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/XYLOPROCT SUPP X 10.jpg]
+
+File to: [build/img/XYLOPROCT SUPP X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/XYZAL TABLETS 5MG X 10.jpg]
+
+File to: [build/img/XYZAL TABLETS 5MG X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/XBC XPEL BEAUTY CARE MICELLAR CLEANSING WIPES 25 WIPES.jpg]
+
+File to: [build/img/XBC XPEL BEAUTY CARE MICELLAR CLEANSING WIPES 25 WIPES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

@@ -1,0 +1,187 @@
+File from: [src/img/HisenseBottom Mounted Double Door Refrigerator -REF 29 DCASilver.jpg]
+
+File to: [build/img/HisenseBottom Mounted Double Door Refrigerator -REF 29 DCASilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HisenseChest Freezer 205L - FRZFC260SH - SilverSILVER.jpg]
+
+File to: [build/img/HisenseChest Freezer 205L - FRZFC260SH - SilverSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HisenseChest Freezer FRZ FC 130SH - 100 Liters-SilverSilver.jpg]
+
+File to: [build/img/HisenseChest Freezer FRZ FC 130SH - 100 Liters-SilverSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HisenseChest Freezer FRZ FC 190SH - 145 Liters-SilverSilver.jpg]
+
+File to: [build/img/HisenseChest Freezer FRZ FC 190SH - 145 Liters-SilverSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HisenseChest Freezer FRZ FC 340SH - 250 Liters-SilverSilver.jpg]
+
+File to: [build/img/HisenseChest Freezer FRZ FC 340SH - 250 Liters-SilverSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HisenseDouble Door Chest Freezer FRZ FC 94DD - 725Liters-SilverSILVER.jpg]
+
+File to: [build/img/HisenseDouble Door Chest Freezer FRZ FC 94DD - 725Liters-SilverSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HisenseHISENSE 91L Refrigerator REF 092white.jpg]
+
+File to: [build/img/HisenseHISENSE 91L Refrigerator REF 092white.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HisenseHISENSE UHD Smart TV 50 50b7100Black.jpg]
+
+File to: [build/img/HisenseHISENSE UHD Smart TV 50 50b7100Black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HisenseREF 046 DR Refrigerator - 46Lsilver.jpg]
+
+File to: [build/img/HisenseREF 046 DR Refrigerator - 46Lsilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HisenseREF 046 DR Refrigerator -Silver- 46L.jpg]
+
+File to: [build/img/HisenseREF 046 DR Refrigerator -Silver- 46L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HisenseREF 65 WR 490 Liters Double Door Refrigerator.jpg]
+
+File to: [build/img/HisenseREF 65 WR 490 Liters Double Door Refrigerator.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HisenseREF RS20S 150L RefrigeratorSilver.jpg]
+
+File to: [build/img/HisenseREF RS20S 150L RefrigeratorSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HisenseRefrigerator Ref 302 Dr - 302L.jpg]
+
+File to: [build/img/HisenseRefrigerator Ref 302 Dr - 302L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HisenseREF RS20S 150L RefrigeratorSilver.png]
+
+File to: [build/img/HisenseREF RS20S 150L RefrigeratorSilver.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HisenseSide By Side Refrigerator With Water Dispenser -REF67WSBMSilver.jpg]
+
+File to: [build/img/HisenseSide By Side Refrigerator With Water Dispenser -REF67WSBMSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HIT THE SPOT (NUAGE BLACKHEAD CLEANSER) 200ML.jpg]
+
+File to: [build/img/HIT THE SPOT (NUAGE BLACKHEAD CLEANSER) 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOB-NOB MERLOT 75CL.png]
+
+File to: [build/img/HOB-NOB MERLOT 75CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HOB-NOB SHIRAYX 75CL.png]
+
+File to: [build/img/HOB-NOB SHIRAYX 75CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Hollandia Choco Drink 100ml.jpg]
+
+File to: [build/img/Hollandia Choco Drink 100ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hollandia Choco Malt 180ml.png]
+
+File to: [build/img/Hollandia Choco Malt 180ml.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HOLLANDIA CHOCO MALT DRINK 100ML.png]
+
+File to: [build/img/HOLLANDIA CHOCO MALT DRINK 100ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HOLLANDIA CHOCOMALT CHOCOLATE 100ML.jpg]
+
+File to: [build/img/HOLLANDIA CHOCOMALT CHOCOLATE 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA CHOCOMALT CHOCOLATE 180ML.jpg]
+
+File to: [build/img/HOLLANDIA CHOCOMALT CHOCOLATE 180ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA CHOCOMALT CHOCOLATE 315ML.jpg]
+
+File to: [build/img/HOLLANDIA CHOCOMALT CHOCOLATE 315ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hollandia Evap. Full Cream Milk 120g.jpg]
+
+File to: [build/img/Hollandia Evap. Full Cream Milk 120g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hollandia Evap. Full Cream Milk 65g.jpg]
+
+File to: [build/img/Hollandia Evap. Full Cream Milk 65g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA EVAPORATED MILK 120G.jpg]
+
+File to: [build/img/HOLLANDIA EVAPORATED MILK 120G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA EVAPORATED MILK 190G.jpg]
+
+File to: [build/img/HOLLANDIA EVAPORATED MILK 190G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA EVAPORATED MILK 215G.jpg]
+
+File to: [build/img/HOLLANDIA EVAPORATED MILK 215G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA EVAPORATED MILK 60G.jpg]
+
+File to: [build/img/HOLLANDIA EVAPORATED MILK 60G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hollandia Evap. Full Cream Milk 190g.png]
+
+File to: [build/img/Hollandia Evap. Full Cream Milk 190g.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAIN

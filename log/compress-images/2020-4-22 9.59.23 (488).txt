@@ -1,0 +1,247 @@
+File from: [src/img/PIRITON ALLERGY TABLETS X 60 TABLETS.jpg]
+
+File to: [build/img/PIRITON ALLERGY TABLETS X 60 TABLETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PIRITON TABS X 30 [U.K].jpg]
+
+File to: [build/img/PIRITON TABS X 30 [U.K].jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PIRITON SYR 150ML [U.K].jpg]
+
+File to: [build/img/PIRITON SYR 150ML [U.K].jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PIROULINE VANILLA 92G.jpg]
+
+File to: [build/img/PIROULINE VANILLA 92G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PIZZA EXPRESS 480ML HOUSE LIGHT DRESSING.jpg]
+
+File to: [build/img/PIZZA EXPRESS 480ML HOUSE LIGHT DRESSING.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PJ Masks Mission Control HQ Playset.jpg]
+
+File to: [build/img/PJ Masks Mission Control HQ Playset.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PLAGERINE TABS 75MG X 30.jpg]
+
+File to: [build/img/PLAGERINE TABS 75MG X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Plantain Porridge 2LTRS.jpg]
+
+File to: [build/img/Plantain Porridge 2LTRS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PLANTER COCKTAIL PEANUTS.jpg]
+
+File to: [build/img/PLANTER COCKTAIL PEANUTS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PLANTERS CASHEW LOVERS MIX SEA SALT 595G.jpg]
+
+File to: [build/img/PLANTERS CASHEW LOVERS MIX SEA SALT 595G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PLANTERS CASHEWS HALVES _ PIECES.jpg]
+
+File to: [build/img/PLANTERS CASHEWS HALVES _ PIECES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PLANTERS CLASSIC PEANUTS 170G.jpg]
+
+File to: [build/img/PLANTERS CLASSIC PEANUTS 170G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PLANTERS HONEY ROASTED MIXED NUTS 283G.jpg]
+
+File to: [build/img/PLANTERS HONEY ROASTED MIXED NUTS 283G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PLANTERS HONEY RSTD PEANUTS.jpg]
+
+File to: [build/img/PLANTERS HONEY RSTD PEANUTS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PLANTERS LIGHTLY SALTED COCKTAIL PEANUTS 340G.jpg]
+
+File to: [build/img/PLANTERS LIGHTLY SALTED COCKTAIL PEANUTS 340G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PLANTERS MIXED NUTS LT SLTD.jpg]
+
+File to: [build/img/PLANTERS MIXED NUTS LT SLTD.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PLASTER ROLL 3_.jpg]
+
+File to: [build/img/PLASTER ROLL 3_.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PLASTER ROLL 4_ (10cm).jpg]
+
+File to: [build/img/PLASTER ROLL 4_ (10cm).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PLASTER STRIP X 1.jpg]
+
+File to: [build/img/PLASTER STRIP X 1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PLASTER ROLL 2_ (5cm x5m).jpg]
+
+File to: [build/img/PLASTER ROLL 2_ (5cm x5m).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PLASTIC KNIVES 80PK.jpg]
+
+File to: [build/img/PLASTIC KNIVES 80PK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PLASTIC PEG.jpg]
+
+File to: [build/img/PLASTIC PEG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PLAX ICY COOLMINT 250ML.jpg]
+
+File to: [build/img/PLAX ICY COOLMINT 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PLAX SOFT MINT 250 ML x24.jfif.jpg]
+
+File to: [build/img/PLAX SOFT MINT 250 ML x24.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PLAX SOFT MINT 500 ML x12.jfif.jpg]
+
+File to: [build/img/PLAX SOFT MINT 500 ML x12.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PLAX SOFTMINT 250ML.jpg]
+
+File to: [build/img/PLAX SOFTMINT 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PLAY TIME CHERRY FLAVOURED LUBE 75ML.jpg]
+
+File to: [build/img/PLAY TIME CHERRY FLAVOURED LUBE 75ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PLAY TIME MOJITO FLAVOURED LUBE 75ML.jpg]
+
+File to: [build/img/PLAY TIME MOJITO FLAVOURED LUBE 75ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PLAY TIME ORIGINAL STIMULATING LUBE 75ML.jpg]
+
+File to: [build/img/PLAY TIME ORIGINAL STIMULATING LUBE 75ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PLAY TIME SEX ON THE BEACH FLAVOURED LUBE.jpg]
+
+File to: [build/img/PLAY TIME SEX ON THE BEACH FLAVOURED LUBE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PLAY TIME STRAWBERRY FLAVOURED LUBE 75ML.jpg]
+
+File to: [build/img/PLAY TIME STRAWBERRY FLAVOURED LUBE 75ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PLAY TIME TINGLE STIMULATING LUBE 75ML.jpg]
+
+File to: [build/img/PLAY TIME TINGLE STIMULATING LUBE 75ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PLAY TIME WARMING SENSATION LUBE 75ML.jpg]
+
+File to: [build/img/PLAY TIME WARMING SENSATION LUBE 75ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Play-Doh Classic Colours - 4 Pack.jpg]
+
+File to: [build/img/Play-Doh Classic Colours - 4 Pack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Play-Doh Rollers, Cutters _ More.jpg]
+
+File to: [build/img/Play-Doh Rollers, Cutters _ More.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Play-Doh Wheels Firetruck Toy.jpg]
+
+File to: [build/img/Play-Doh Wheels Firetruck Toy.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Playskool Mr Potato Head Movin_ Lips Electronic Interactive Talking Toy.jpg]
+
+File to: [build/img/Playskool Mr Potato Head Movin_ Lips Electronic Interactive Talking Toy.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PLEDGE MULTI SURFACE (JASMINE) 250ML.jpg]
+
+File to: [build/img/PLEDGE MULTI SURFACE (JASMINE) 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PLEDGE WOOD (SPRING TIME) 250ML.jpg]
+
+File to: [build/img/PLEDGE WOOD (SPRING TIME) 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PLEDGE WOOD 2 (LAVENDER) 250ML.jpg]
+
+File to: [build/img/PLEDGE WOOD 2 (LAVENDER) 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PLEIN SOLEIL GREEN PEAS 400G.jpg]
+
+File to: [build/img/PLEIN SOLEIL GREEN PEAS 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

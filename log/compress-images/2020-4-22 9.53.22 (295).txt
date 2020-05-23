@@ -1,0 +1,169 @@
+File from: [src/img/IVYDEXNEOCIN EYE DROPS  10ML.jpg]
+
+File to: [build/img/IVYDEXNEOCIN EYE DROPS  10ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IVYDEXONE EYE DROP 5ML.jpg]
+
+File to: [build/img/IVYDEXONE EYE DROP 5ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IVYMOICEL EYE DROPS  10ML.jpeg]
+
+File to: [build/img/IVYMOICEL EYE DROPS  10ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Ivytimol (Timolol) 0.5% Eye drops 5ml.jpg]
+
+File to: [build/img/Ivytimol (Timolol) 0.5% Eye drops 5ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IVYXOLOL EYE DROPS  5ML.jpg]
+
+File to: [build/img/IVYXOLOL EYE DROPS  5ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IVYZINC EYE DROPS  XML.jpg]
+
+File to: [build/img/IVYZINC EYE DROPS  XML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IVYZOXAN EYE EAR DROPS  5ML.jpg]
+
+File to: [build/img/IVYZOXAN EYE EAR DROPS  5ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iyan Ado Poundo Yam Flour 908g.jpg]
+
+File to: [build/img/Iyan Ado Poundo Yam Flour 908g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IZAL Germicide Saponated Cresol 150ml.jpg]
+
+File to: [build/img/IZAL Germicide Saponated Cresol 150ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/J _ W Premium Sparkling Red Wine 75cl.jpg]
+
+File to: [build/img/J _ W Premium Sparkling Red Wine 75cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/J _ W Sparkling Cocktail Wine 750ml.jpg]
+
+File to: [build/img/J _ W Sparkling Cocktail Wine 750ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/J+B RARE SCOTCH WHISKY 20CL X 24.png]
+
+File to: [build/img/J+B RARE SCOTCH WHISKY 20CL X 24.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/J+B RARE SCOTCH WHISKY 70CL X 12.jpg]
+
+File to: [build/img/J+B RARE SCOTCH WHISKY 70CL X 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/J5 CIGARETTE LIGHTER X 50.jpg]
+
+File to: [build/img/J5 CIGARETTE LIGHTER X 50.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/J6 MAXI CIGARETTE LIGHTER X 50.jpeg]
+
+File to: [build/img/J6 MAXI CIGARETTE LIGHTER X 50.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Jack 5ive Activator Moisturizer Gel 453.jpg]
+
+File to: [build/img/Jack 5ive Activator Moisturizer Gel 453.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Jack Daniel_s Jennessee Whiskey 75cl.jpg]
+
+File to: [build/img/Jack Daniel_s Jennessee Whiskey 75cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JACK DANIELS BARBECUE SAUCE FULL FLAVOR SMOKEY 260G.jpg]
+
+File to: [build/img/JACK DANIELS BARBECUE SAUCE FULL FLAVOR SMOKEY 260G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JACK DANIELS BARBECUE SAUCE SMOOTH ORIGINAL 262G.jpg]
+
+File to: [build/img/JACK DANIELS BARBECUE SAUCE SMOOTH ORIGINAL 262G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JACK DANIELS BARBECUE SMOKEY SWEET 275G.jpg]
+
+File to: [build/img/JACK DANIELS BARBECUE SMOKEY SWEET 275G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JACK DANIELS OLD NO 7 70CL.jpg]
+
+File to: [build/img/JACK DANIELS OLD NO 7 70CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Jacob_s Cream Crackers Light 200g.jpg]
+
+File to: [build/img/Jacob_s Cream Crackers Light 200g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Jacobs Cream Crackers Light 300g.jpg]
+
+File to: [build/img/Jacobs Cream Crackers Light 300g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Jagermeister 70CL.jpg]
+
+File to: [build/img/Jagermeister 70CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Jagermeister Herb Ligueur 20cl.jpg]
+
+File to: [build/img/Jagermeister Herb Ligueur 20cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Jagermeister Herb Ligueur 35cl.jpg]
+
+File to: [build/img/Jagermeister Herb Ligueur 35cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Jagermeister Herb Ligueur 70cl.png]
+
+File to: [build/img/Jagermeister Herb Ligueur 70cl.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/JAGO REAL MAYONNAISE 473ML.jpg]
+
+File to: [build/img/JAGO REAL MAYONNAISE 473ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

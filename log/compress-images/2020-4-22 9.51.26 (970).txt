@@ -1,0 +1,115 @@
+File from: [src/img/CHI EXOTIC SANGRIA 1LTR.jpg]
+
+File to: [build/img/CHI EXOTIC SANGRIA 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/chi happ hour 1lt - Copy - Copy - Copy - Copy - Copy.jpeg]
+
+File to: [build/img/chi happ hour 1lt - Copy - Copy - Copy - Copy - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/chi happ hour 1lt - Copy - Copy.jpeg]
+
+File to: [build/img/chi happ hour 1lt - Copy - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/chi happ hour 1lt - Copy - Copy - Copy - Copy (2).jpeg]
+
+File to: [build/img/chi happ hour 1lt - Copy - Copy - Copy - Copy (2).jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/chi happy hour (2) - Copy.jpeg]
+
+File to: [build/img/chi happy hour (2) - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI HAPPY HOUR APPLE PEACH 1L.jpg]
+
+File to: [build/img/CHI HAPPY HOUR APPLE PEACH 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI HAPPY HOUR APPLE PEACH 1LTR.jpg]
+
+File to: [build/img/CHI HAPPY HOUR APPLE PEACH 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI HAPPY HOUR APPLE PEACH 500ML.jpg]
+
+File to: [build/img/CHI HAPPY HOUR APPLE PEACH 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI HAPPY HOUR CHAPMAN 150ML.jpg]
+
+File to: [build/img/CHI HAPPY HOUR CHAPMAN 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI HAPPY HOUR CRANBERRY 150ML.jpg]
+
+File to: [build/img/CHI HAPPY HOUR CRANBERRY 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI HAPPY HOUR FROOTY Berry Bounce 100ML.png]
+
+File to: [build/img/CHI HAPPY HOUR FROOTY Berry Bounce 100ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Chi Happy Hour Frooty Juice 100ml.jpg]
+
+File to: [build/img/Chi Happy Hour Frooty Juice 100ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI HAPPY HOUR FROOTY ORANGE 100ML.jpg]
+
+File to: [build/img/CHI HAPPY HOUR FROOTY ORANGE 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI HAPPY HOUR FROOTY Orange Surfer 100ML.jpg]
+
+File to: [build/img/CHI HAPPY HOUR FROOTY Orange Surfer 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Chi Happy Hour Fruit Drink 150ml.jpeg]
+
+File to: [build/img/Chi Happy Hour Fruit Drink 150ml.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI HAPPY HOUR GUAVA 150ML.jpg]
+
+File to: [build/img/CHI HAPPY HOUR GUAVA 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI HAPPY HOUR GUAVA 1L.jpg]
+
+File to: [build/img/CHI HAPPY HOUR GUAVA 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI HAPPY HOUR GUAVA 1LTR.jpg]
+
+File to: [build/img/CHI HAPPY HOUR GUAVA 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI HAPPY HOUR GUAVA 315ML.jpg]
+
+File to: [build/img/CHI HAPPY HOUR GUAVA 315ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

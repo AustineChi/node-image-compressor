@@ -1,0 +1,109 @@
+File from: [src/img/COLGATE HERBAL 100ML.jpg]
+
+File to: [build/img/COLGATE HERBAL 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE HERBAL.jpg]
+
+File to: [build/img/COLGATE HERBAL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE HERBAL 100ML+25ML.jpg]
+
+File to: [build/img/COLGATE HERBAL 100ML+25ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/colgate junior toothbrush.jpeg]
+
+File to: [build/img/colgate junior toothbrush.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Colgate Max Fresh (Green) 130g.jpg]
+
+File to: [build/img/Colgate Max Fresh (Green) 130g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE MAX FRESH CLEAN MINT 130G.jpg]
+
+File to: [build/img/COLGATE MAX FRESH CLEAN MINT 130G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE MAX FRESH COOL MINT 130G.jpg]
+
+File to: [build/img/COLGATE MAX FRESH COOL MINT 130G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE MAX FRESH SPICY FRESH 130G.jpg]
+
+File to: [build/img/COLGATE MAX FRESH SPICY FRESH 130G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Colgate Max Protect Sugar Acid Neut 150g.jpg]
+
+File to: [build/img/Colgate Max Protect Sugar Acid Neut 150g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE MAX WHITE MOUTH 250ML.jpg]
+
+File to: [build/img/COLGATE MAX WHITE MOUTH 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE MAXFRESH 100ML.jpg]
+
+File to: [build/img/COLGATE MAXFRESH 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE MAXFRESH COOLING FRESH 100ML.jpg]
+
+File to: [build/img/COLGATE MAXFRESH COOLING FRESH 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE MAXIMUM CAVITY PROTECTION 140G.jpg]
+
+File to: [build/img/COLGATE MAXIMUM CAVITY PROTECTION 140G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE MAXFRESH TOOTHBRUSH.jpg]
+
+File to: [build/img/COLGATE MAXFRESH TOOTHBRUSH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE MAXIMUM CAVITY PROTECTION ICY MINT 140G.jpg]
+
+File to: [build/img/COLGATE MAXIMUM CAVITY PROTECTION ICY MINT 140G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE MAXIMUM STRENGTH SENSITIVE 170g.jfif.jpg]
+
+File to: [build/img/COLGATE MAXIMUM STRENGTH SENSITIVE 170g.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE MAXIMUM CAVITY.jpg]
+
+File to: [build/img/COLGATE MAXIMUM CAVITY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE NATURAL EXTRACT TOOTH PASTE 75ML.jpg]
+
+File to: [build/img/COLGATE NATURAL EXTRACT TOOTH PASTE 75ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

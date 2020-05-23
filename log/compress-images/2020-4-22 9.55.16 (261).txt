@@ -1,0 +1,139 @@
+File from: [src/img/FRUMIL ORANGE 115ML.jpg]
+
+File to: [build/img/FRUMIL ORANGE 115ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FRUMIL ORANGE 400ML.jpg]
+
+File to: [build/img/FRUMIL ORANGE 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Frutta Cocktail Juice 250ml.jpg]
+
+File to: [build/img/Frutta Cocktail Juice 250ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FRUTTA PET BACKCURRENT 500ML.jpg]
+
+File to: [build/img/FRUTTA PET BACKCURRENT 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FRUTTA PET ORANGE 500ML.png]
+
+File to: [build/img/FRUTTA PET ORANGE 500ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/FRUTTA PET PINEAPPLE 500ML.jpg]
+
+File to: [build/img/FRUTTA PET PINEAPPLE 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FRUTTA PINEAPPLE FRUIT JUICE 1LTR.png]
+
+File to: [build/img/FRUTTA PINEAPPLE FRUIT JUICE 1LTR.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/fslogo.png]
+
+File to: [build/img/fslogo.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Full Goat.jpg]
+
+File to: [build/img/Full Goat.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Full Ram.jpg]
+
+File to: [build/img/Full Ram.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FUN COOKIES BITTY 60G.jpg]
+
+File to: [build/img/FUN COOKIES BITTY 60G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Frutta Cocktail Juice 250ml(1).jpg]
+
+File to: [build/img/Frutta Cocktail Juice 250ml(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Funbact  A Triple Action Cream 30g.jpg]
+
+File to: [build/img/Funbact  A Triple Action Cream 30g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FUNBACT-A.jpg]
+
+File to: [build/img/FUNBACT-A.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FUNGUSOL POWDER  20G.jpg]
+
+File to: [build/img/FUNGUSOL POWDER  20G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FUNGUSOL. OINTMENT  20G.jpg]
+
+File to: [build/img/FUNGUSOL. OINTMENT  20G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FUNGUSOL. PLUS LOTION 50ML.jpg]
+
+File to: [build/img/FUNGUSOL. PLUS LOTION 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Funtime Cup Cake 70g x 24.png]
+
+File to: [build/img/Funtime Cup Cake 70g x 24.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/FUNTOL 150MG CAPSULES X 10.jpg]
+
+File to: [build/img/FUNTOL 150MG CAPSULES X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/funtuna-egg-pack-of-12.jpg]
+
+File to: [build/img/funtuna-egg-pack-of-12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/funtuna-egg-pack-of-12(1).jpg]
+
+File to: [build/img/funtuna-egg-pack-of-12(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FUROSEMIDE 20MG X 28.jpg]
+
+File to: [build/img/FUROSEMIDE 20MG X 28.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FUROSEMIDE 40MG X 28.jpg]
+
+File to: [build/img/FUROSEMIDE 40MG X 28.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

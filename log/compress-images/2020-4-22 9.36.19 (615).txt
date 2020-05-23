@@ -1,0 +1,205 @@
+File from: [src/img/BAKEHOUSE CHOCOLATE ENROBED 160G.jpg]
+
+File to: [build/img/BAKEHOUSE CHOCOLATE ENROBED 160G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAKEHOUSE CRUNCH EM COCONUT 215G.jpg]
+
+File to: [build/img/BAKEHOUSE CRUNCH EM COCONUT 215G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAKEHOUSE MILK CHOC CHUNK 160G.jpg]
+
+File to: [build/img/BAKEHOUSE MILK CHOC CHUNK 160G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAKEHOUSE CRUNCH EM GINGER 215G.jpg]
+
+File to: [build/img/BAKEHOUSE CRUNCH EM GINGER 215G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAKEHOUSE STEM GINGER 160G.jpg]
+
+File to: [build/img/BAKEHOUSE STEM GINGER 160G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAKER'S CHOICE BICARBONATE BAKING SODA 200G.jpg]
+
+File to: [build/img/BAKER'S CHOICE BICARBONATE BAKING SODA 200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAKER`S CHOICE CORN FLOUR 500G.jpg]
+
+File to: [build/img/BAKER`S CHOICE CORN FLOUR 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAKER`S CHOICE ICING SUGAR 500G.jpg]
+
+File to: [build/img/BAKER`S CHOICE ICING SUGAR 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Ballantine's Finest Whisky70cl x12.jpg]
+
+File to: [build/img/Ballantine's Finest Whisky70cl x12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAKEHOUSE TRIPLE CHOCOLATE CHUNK COOKIES 160G.jpg]
+
+File to: [build/img/BAKEHOUSE TRIPLE CHOCOLATE CHUNK COOKIES 160G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAKEHOUSE CHOCOLATE GRANOLA WITH NUTS & SEEDS 160G.jpg]
+
+File to: [build/img/BAKEHOUSE CHOCOLATE GRANOLA WITH NUTS & SEEDS 160G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BALLERINA TEA X 18.jpg]
+
+File to: [build/img/BALLERINA TEA X 18.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BALMY BABY WET WIPES 100S.jpg]
+
+File to: [build/img/BALMY BABY WET WIPES 100S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Bama Mayonnaise 473ml x 12.jpg]
+
+File to: [build/img/Bama Mayonnaise 473ml x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Bama Mayonnaise 946ml x 12.jpg]
+
+File to: [build/img/Bama Mayonnaise 946ml x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAMA MAYONNAISE BIG.jpg]
+
+File to: [build/img/BAMA MAYONNAISE BIG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAMA MAYONNAISE MEDIUM.jpg]
+
+File to: [build/img/BAMA MAYONNAISE MEDIUM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAMA REAL MAYONNAISE 946ML.jpg]
+
+File to: [build/img/BAMA REAL MAYONNAISE 946ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAMA REAL MAYOONIASE 473ML.jpg]
+
+File to: [build/img/BAMA REAL MAYOONIASE 473ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAMA REAL MAYOONNAISE 236ML.png]
+
+File to: [build/img/BAMA REAL MAYOONNAISE 236ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/BANANA RED PER KG.jpg]
+
+File to: [build/img/BANANA RED PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Banana smoothie.jpg]
+
+File to: [build/img/Banana smoothie.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BANANA YORUBA PER KG.png]
+
+File to: [build/img/BANANA YORUBA PER KG.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/BANGA STICK.jpg]
+
+File to: [build/img/BANGA STICK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Barbie Fashion Bijoux Treasure Box.jpg]
+
+File to: [build/img/Barbie Fashion Bijoux Treasure Box.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Barbie My Secret Diary.jpg]
+
+File to: [build/img/Barbie My Secret Diary.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Barbie Skipper Babysitters Inc. Siblings, Brunette.jpg]
+
+File to: [build/img/Barbie Skipper Babysitters Inc. Siblings, Brunette.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BARBIE PRINCESS BUILDING BLOCK BIG.jpg]
+
+File to: [build/img/BARBIE PRINCESS BUILDING BLOCK BIG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BARCADI BLANCA RUM 75CL.jpg]
+
+File to: [build/img/BARCADI BLANCA RUM 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BARCADI OAK HEART 1LTR.jpg]
+
+File to: [build/img/BARCADI OAK HEART 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BARCADI ORO 75CL.jpg]
+
+File to: [build/img/BARCADI ORO 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BARCADI ORO 1LTR.jpg]
+
+File to: [build/img/BARCADI ORO 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Banga Soup 2 LTRS.jpg]
+
+File to: [build/img/Banga Soup 2 LTRS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Barbie® Club Chelsea™ Treehouse Playset.jpg]
+
+File to: [build/img/Barbie® Club Chelsea™ Treehouse Playset.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

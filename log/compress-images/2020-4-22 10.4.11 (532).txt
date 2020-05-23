@@ -1,0 +1,160 @@
+File from: [src/img/PolystarPolystar 5 Gas Burner With Auto Ignition -PVWD-960G5GMULTI.jpg]
+
+File to: [build/img/PolystarPolystar 5 Gas Burner With Auto Ignition -PVWD-960G5GMULTI.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg -quality 60 -outfile build/img/PolystarPolystar 5 Gas Burner With Auto Ignition -PVWD-960G5GMULTI.jpg src/img/PolystarPolystar 5 Gas Burner With Auto Ignition -PVWD-960G5GMULTI.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [src/img/PolystarPolystar 3x1 Burner + Hot Plate Gas CookerBLACK.jpg]
+
+File to: [build/img/PolystarPolystar 3x1 Burner + Hot Plate Gas CookerBLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg -quality 60 -outfile build/img/PolystarPolystar 3x1 Burner + Hot Plate Gas CookerBLACK.jpg src/img/PolystarPolystar 3x1 Burner + Hot Plate Gas CookerBLACK.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [src/img/PolystarPolystar 12kg Washing MachineWhite.jpg]
+
+File to: [build/img/PolystarPolystar 12kg Washing MachineWhite.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg -quality 60 -outfile build/img/PolystarPolystar 12kg Washing MachineWhite.jpg src/img/PolystarPolystar 12kg Washing MachineWhite.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [src/img/PolystarMorden Classic Digital Automatic RangehoodBlack.jpg]
+
+File to: [build/img/PolystarMorden Classic Digital Automatic RangehoodBlack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg -quality 60 -outfile build/img/PolystarMorden Classic Digital Automatic RangehoodBlack.jpg src/img/PolystarMorden Classic Digital Automatic RangehoodBlack.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [src/img/PolystarHealthy Food Universal Microwave PV-H20LSUNIVERSAL.jpg]
+
+File to: [build/img/PolystarHealthy Food Universal Microwave PV-H20LSUNIVERSAL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg -quality 60 -outfile build/img/PolystarHealthy Food Universal Microwave PV-H20LSUNIVERSAL.jpg src/img/PolystarHealthy Food Universal Microwave PV-H20LSUNIVERSAL.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [src/img/PolystarMICROWAVE OVEN WITH GRILL PV-NGH20LBBlack.jpg]
+
+File to: [build/img/PolystarMICROWAVE OVEN WITH GRILL PV-NGH20LBBlack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg -quality 60 -outfile build/img/PolystarMICROWAVE OVEN WITH GRILL PV-NGH20LBBlack.jpg src/img/PolystarMICROWAVE OVEN WITH GRILL PV-NGH20LBBlack.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [src/img/PolystarBuilt-in 5Gas Burner Cookerstainless steel.jpg]
+
+File to: [build/img/PolystarBuilt-in 5Gas Burner Cookerstainless steel.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg -quality 60 -outfile build/img/PolystarBuilt-in 5Gas Burner Cookerstainless steel.jpg src/img/PolystarBuilt-in 5Gas Burner Cookerstainless steel.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [src/img/Polystar5 Gas Burners Gas CookerSilver.jpg]
+
+File to: [build/img/Polystar5 Gas Burners Gas CookerSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg -quality 60 -outfile build/img/Polystar5 Gas Burners Gas CookerSilver.jpg src/img/Polystar5 Gas Burners Gas CookerSilver.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [src/img/Polystar3 BURNER TABLE GAS COOKER WITH STAINLESS STEEL TOP PV-8318GSilver.jpg]
+
+File to: [build/img/Polystar3 BURNER TABLE GAS COOKER WITH STAINLESS STEEL TOP PV-8318GSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg -quality 60 -outfile build/img/Polystar3 BURNER TABLE GAS COOKER WITH STAINLESS STEEL TOP PV-8318GSilver.jpg src/img/Polystar3 BURNER TABLE GAS COOKER WITH STAINLESS STEEL TOP PV-8318GSilver.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [src/img/Polystar3 Burner + 1 Hot Plate Oven Grill Gas Cooker - PV-BR50G1AMuiti.jpg]
+
+File to: [build/img/Polystar3 Burner + 1 Hot Plate Oven Grill Gas Cooker - PV-BR50G1AMuiti.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg -quality 60 -outfile build/img/Polystar3 Burner + 1 Hot Plate Oven Grill Gas Cooker - PV-BR50G1AMuiti.jpg src/img/Polystar3 Burner + 1 Hot Plate Oven Grill Gas Cooker - PV-BR50G1AMuiti.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [src/img/PolystarPVCF-249LBL Chest FreezerBLUE.jpg]
+
+File to: [build/img/PolystarPVCF-249LBL Chest FreezerBLUE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg -quality 60 -outfile build/img/PolystarPVCF-249LBL Chest FreezerBLUE.jpg src/img/PolystarPVCF-249LBL Chest FreezerBLUE.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [src/img/PolystarPolystar Manual Cooker Hood - PV-CHF90MT 6 BURNERMULTI.jpg]
+
+File to: [build/img/PolystarPolystar Manual Cooker Hood - PV-CHF90MT 6 BURNERMULTI.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg -quality 60 -outfile build/img/PolystarPolystar Manual Cooker Hood - PV-CHF90MT 6 BURNERMULTI.jpg src/img/PolystarPolystar Manual Cooker Hood - PV-CHF90MT 6 BURNERMULTI.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [src/img/Polystar20LTR MICROWAVE OVEN PV-NG20LS-PV-NG20LB-SILVER-BLACKsilver.jpg]
+
+File to: [build/img/Polystar20LTR MICROWAVE OVEN PV-NG20LS-PV-NG20LB-SILVER-BLACKsilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg -quality 60 -outfile build/img/Polystar20LTR MICROWAVE OVEN PV-NG20LS-PV-NG20LB-SILVER-BLACKsilver.jpg src/img/Polystar20LTR MICROWAVE OVEN PV-NG20LS-PV-NG20LB-SILVER-BLACKsilver.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [src/img/PhiimaGas & Electric Oven 90cmStainless Steel.jpg]
+
+File to: [build/img/PhiimaGas & Electric Oven 90cmStainless Steel.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg -quality 60 -outfile build/img/PhiimaGas & Electric Oven 90cmStainless Steel.jpg src/img/PhiimaGas & Electric Oven 90cmStainless Steel.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [src/img/PhiimaElectric Oven Blackblack.jpg]
+
+File to: [build/img/PhiimaElectric Oven Blackblack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg -quality 60 -outfile build/img/PhiimaElectric Oven Blackblack.jpg src/img/PhiimaElectric Oven Blackblack.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [src/img/PhiimaBuilt-in Gas And Electric Oven Stainlesssteel.jpg]
+
+File to: [build/img/PhiimaBuilt-in Gas And Electric Oven Stainlesssteel.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg -quality 60 -outfile build/img/PhiimaBuilt-in Gas And Electric Oven Stainlesssteel.jpg src/img/PhiimaBuilt-in Gas And Electric Oven Stainlesssteel.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [src/img/PhiimaBuilt-in Gas And Electric Oven - SilverMETAL.jpg]
+
+File to: [build/img/PhiimaBuilt-in Gas And Electric Oven - SilverMETAL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg -quality 60 -outfile build/img/PhiimaBuilt-in Gas And Electric Oven - SilverMETAL.jpg src/img/PhiimaBuilt-in Gas And Electric Oven - SilverMETAL.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [src/img/FROSTY BITE FANTASY PEANUT CRUNCH ICE CREAM 70G.png]
+
+File to: [build/img/FROSTY BITE FANTASY PEANUT CRUNCH ICE CREAM 70G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant --quality=20-50 -o build/img/FROSTY BITE FANTASY PEANUT CRUNCH ICE CREAM 70G.png src/img/FROSTY BITE FANTASY PEANUT CRUNCH ICE CREAM 70G.png
+  error: cannot decode image FROSTY BITE FANTASY PEANUT CRUNCH ICE CREAM 70G.png
+File from: [src/img/FROSTY BITE CHOCOLATE ICE CREAM 150ML.png]
+
+File to: [build/img/FROSTY BITE CHOCOLATE ICE CREAM 150ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant --quality=20-50 -o build/img/FROSTY BITE CHOCOLATE ICE CREAM 150ML.png src/img/FROSTY BITE CHOCOLATE ICE CREAM 150ML.png
+  error: cannot decode image FROSTY BITE CHOCOLATE ICE CREAM 150ML.png
+File from: [src/img/CHI HAPPY HOUR FROOTY Berry Bounce 100ML.png]
+
+File to: [build/img/CHI HAPPY HOUR FROOTY Berry Bounce 100ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant --quality=20-50 -o build/img/CHI HAPPY HOUR FROOTY Berry Bounce 100ML.png src/img/CHI HAPPY HOUR FROOTY Berry Bounce 100ML.png
+  error: cannot decode image CHI HAPPY HOUR FROOTY Berry Bounce 100ML.png

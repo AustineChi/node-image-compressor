@@ -1,0 +1,163 @@
+File from: [src/img/CH-DINOSAUR STAMP SET.jpg]
+
+File to: [build/img/CH-DINOSAUR STAMP SET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-DIARY WIMPYKID MELTDOWNByJEFF KINNEY.jpg]
+
+File to: [build/img/CH-DIARY WIMPYKID MELTDOWNByJEFF KINNEY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-DOWK-AWESOME FRIENDLY KIDByJEFF KINNEY.jpg]
+
+File to: [build/img/CH-DOWK-AWESOME FRIENDLY KIDByJEFF KINNEY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-DOCTOR ROLE PLAY SET.jpg]
+
+File to: [build/img/CH-DOCTOR ROLE PLAY SET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-DOWK-DOUBLE DOWN-PCByJEFF KINNEY.jpg]
+
+File to: [build/img/CH-DOWK-DOUBLE DOWN-PCByJEFF KINNEY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-DELUXE ROAD RUG PLAY SET.jpg]
+
+File to: [build/img/CH-DELUXE ROAD RUG PLAY SET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-DELUXE TOOL BELT SET.jpg]
+
+File to: [build/img/CH-DELUXE TOOL BELT SET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-DOWK-RODRICK RULESByJEFF KINNEY.jpg]
+
+File to: [build/img/CH-DOWK-RODRICK RULESByJEFF KINNEY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-DOWK-THE GETAWAY PCByJEFF KINNEY.jpg]
+
+File to: [build/img/CH-DOWK-THE GETAWAY PCByJEFF KINNEY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-DOWK-THE LAST STRAWByJEFF KINNEY.jpg]
+
+File to: [build/img/CH-DOWK-THE LAST STRAWByJEFF KINNEY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-DOWK-THE UGLY TRUTHByJEFF KINNEY.jpg]
+
+File to: [build/img/CH-DOWK-THE UGLY TRUTHByJEFF KINNEY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-DOWK-WIMPY KID CABIN FEVERByJEFF KINNEY.jpg]
+
+File to: [build/img/CH-DOWK-WIMPY KID CABIN FEVERByJEFF KINNEY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-DOWK-WIMPY KID DOG DAYSByJEFF KINNEY.jpg]
+
+File to: [build/img/CH-DOWK-WIMPY KID DOG DAYSByJEFF KINNEY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-DOWK-WIMPY KID HARD LUCKByJEFF KINNEY.jpg]
+
+File to: [build/img/CH-DOWK-WIMPY KID HARD LUCKByJEFF KINNEY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-DOWK-WIMPY KID IN CARTONSByJEFF KINNEY.jpg]
+
+File to: [build/img/CH-DOWK-WIMPY KID IN CARTONSByJEFF KINNEY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-DOWK-WIMPY KID OLD SCHOOLByJEFF KINNEY.jpg]
+
+File to: [build/img/CH-DOWK-WIMPY KID OLD SCHOOLByJEFF KINNEY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-DOWK-WIMPY KID THIRD WHEELByJEFF KINNEY.jpg]
+
+File to: [build/img/CH-DOWK-WIMPY KID THIRD WHEELByJEFF KINNEY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-DOWK-WIMPY KID-LONG HAULByJEFF KINNEY.jpg]
+
+File to: [build/img/CH-DOWK-WIMPY KID-LONG HAULByJEFF KINNEY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-DOWK-WRECKING BALLByJEFF KINNEY.jpg]
+
+File to: [build/img/CH-DOWK-WRECKING BALLByJEFF KINNEY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-EASEL PAD.jpg]
+
+File to: [build/img/CH-EASEL PAD.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-FARM TRAIN                 .jpg]
+
+File to: [build/img/CH-FARM TRAIN                 .jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-FASHION FUN STENCIL SET.jpg]
+
+File to: [build/img/CH-FASHION FUN STENCIL SET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-FIGURE 8 TRAIN SET .jpg]
+
+File to: [build/img/CH-FIGURE 8 TRAIN SET .jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-FIRE CHIEF ROLE PLAY SET.jpg]
+
+File to: [build/img/CH-FIRE CHIEF ROLE PLAY SET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-FLOWER POWER BEADSET 4+.jpg]
+
+File to: [build/img/CH-FLOWER POWER BEADSET 4+.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-FOLD & GO DOLLHOUSE.jpg]
+
+File to: [build/img/CH-FOLD & GO DOLLHOUSE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-FROM HERO TO ZERO-PCByJAMES PATTERSON.jpg]
+
+File to: [build/img/CH-FROM HERO TO ZERO-PCByJAMES PATTERSON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

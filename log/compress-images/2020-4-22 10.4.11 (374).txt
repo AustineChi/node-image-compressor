@@ -1,0 +1,265 @@
+File from: [src/img/SMALL SCHOOL BAG.jpg]
+
+File to: [build/img/SMALL SCHOOL BAG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMALL TROLLEY SCHOOL BAG.jpg]
+
+File to: [build/img/SMALL TROLLEY SCHOOL BAG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMALL WOODEN BASKET.jpg]
+
+File to: [build/img/SMALL WOODEN BASKET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMART BLACK PERFUME 100ML.jpg]
+
+File to: [build/img/SMART BLACK PERFUME 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMART BLUE NATURAL SPRAY 100ML.jpg]
+
+File to: [build/img/SMART BLUE NATURAL SPRAY 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMART COLLECTION 212 100ML.jpg]
+
+File to: [build/img/SMART COLLECTION 212 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMART COLLECTION 212 VIP MEN SPRAY 150ML.jpg]
+
+File to: [build/img/SMART COLLECTION 212 VIP MEN SPRAY 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMART COLLECTION 212 VIP SPRAY 150ML.jpg]
+
+File to: [build/img/SMART COLLECTION 212 VIP SPRAY 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMART COLLECTION 239 BODY SPRAY 150ML.jpg]
+
+File to: [build/img/SMART COLLECTION 239 BODY SPRAY 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMART COLLECTION BEYONCE HEART SPRAY 150ML.jpg]
+
+File to: [build/img/SMART COLLECTION BEYONCE HEART SPRAY 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Smart Collection Body Spray 150ml.jpg]
+
+File to: [build/img/Smart Collection Body Spray 150ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMART COLLECTION BOSS ORANGE 100ML.jpg]
+
+File to: [build/img/SMART COLLECTION BOSS ORANGE 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMART COLLECTION BVLGARI 100ML.jpeg]
+
+File to: [build/img/SMART COLLECTION BVLGARI 100ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMART COLLECTION FAHRENHEIT SPRAY 150ML.jpg]
+
+File to: [build/img/SMART COLLECTION FAHRENHEIT SPRAY 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMART COLLECTION GIVENCHY 100ML.jpg]
+
+File to: [build/img/SMART COLLECTION GIVENCHY 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMART COLLECTION GUCCI BY GUCCI SPORT SPRAY 150ML.jpg]
+
+File to: [build/img/SMART COLLECTION GUCCI BY GUCCI SPORT SPRAY 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMART COLLECTION GUCCI RUSH SPRAY 150ML.jpg]
+
+File to: [build/img/SMART COLLECTION GUCCI RUSH SPRAY 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMART COLLECTION HUGO BOSS SPRAY 150ML.jpg]
+
+File to: [build/img/SMART COLLECTION HUGO BOSS SPRAY 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMART COLLECTION PARFUM SPRAY 100ML.jpg]
+
+File to: [build/img/SMART COLLECTION PARFUM SPRAY 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Smart collection perfumes by Gucci Men 100ML.jpg]
+
+File to: [build/img/Smart collection perfumes by Gucci Men 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Smart collection perfumes No 159, pure passion women 100ML.jpg]
+
+File to: [build/img/Smart collection perfumes No 159, pure passion women 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Smart collection perfumes No 229 polo black 100ML.jpg]
+
+File to: [build/img/Smart collection perfumes No 229 polo black 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Smart collection perfumes No 240, 212 sexy women 100ML.jpg]
+
+File to: [build/img/Smart collection perfumes No 240, 212 sexy women 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Smart collection perfumes No 247 Versace man 100ML.jpg]
+
+File to: [build/img/Smart collection perfumes No 247 Versace man 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Smart collection perfumes No 250 fantasy woman 100ML.jpg]
+
+File to: [build/img/Smart collection perfumes No 250 fantasy woman 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Smart collection perfumes No 306 lady million women.jpg]
+
+File to: [build/img/Smart collection perfumes No 306 lady million women.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Smart collection perfumes No 364 beyonse pulse women 100ML.jpg]
+
+File to: [build/img/Smart collection perfumes No 364 beyonse pulse women 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Smart collection perfumes No 40, cool water 100ml.jpg]
+
+File to: [build/img/Smart collection perfumes No 40, cool water 100ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMART COLLECTION POLO BLACK SPRAY 150ML.jpg]
+
+File to: [build/img/SMART COLLECTION POLO BLACK SPRAY 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMART COLLECTION POLO SPORT SPRAY 150ML.jpg]
+
+File to: [build/img/SMART COLLECTION POLO SPORT SPRAY 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMART COLLECTION TOM FORD WHITE PATCHOUU SPRAY.jpg]
+
+File to: [build/img/SMART COLLECTION TOM FORD WHITE PATCHOUU SPRAY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMART COLLECTION TOUCH OF PICK SPRAY 150ML.jpg]
+
+File to: [build/img/SMART COLLECTION TOUCH OF PICK SPRAY 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMART DIOR ADDICT BODY SPRAY 150ML.jpg]
+
+File to: [build/img/SMART DIOR ADDICT BODY SPRAY 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMART PINK NATURAL SPRAY 100ML.jpeg]
+
+File to: [build/img/SMART PINK NATURAL SPRAY 100ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMART PINK NATURAL SPRAY 100ML.jpg]
+
+File to: [build/img/SMART PINK NATURAL SPRAY 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMART VALUE 7DAYS PILL BOX BIG.jpg]
+
+File to: [build/img/SMART VALUE 7DAYS PILL BOX BIG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMART VALUE 7DAYS PILL BOX.jpg]
+
+File to: [build/img/SMART VALUE 7DAYS PILL BOX.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMART VALUE WORKSHOP HEAVY DUTY UTILITY KNIFE.jpg]
+
+File to: [build/img/SMART VALUE WORKSHOP HEAVY DUTY UTILITY KNIFE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMART VERSACE BRIGHT SPRAY 150ML.jpg]
+
+File to: [build/img/SMART VERSACE BRIGHT SPRAY 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMARTANS HAND SANITIZER 100ML.jpg]
+
+File to: [build/img/SMARTANS HAND SANITIZER 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMARTANS HAND SANITIZER 500ML.jpg]
+
+File to: [build/img/SMARTANS HAND SANITIZER 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMARTCARE HARD TOOTHBRUSH.jpg]
+
+File to: [build/img/SMARTCARE HARD TOOTHBRUSH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMARTCARE KIDS 0-6 TOOTHBRUSH.jpg]
+
+File to: [build/img/SMARTCARE KIDS 0-6 TOOTHBRUSH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMARTCARE MOTHER TOOTH BRUSH.jpg]
+
+File to: [build/img/SMARTCARE MOTHER TOOTH BRUSH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

@@ -1,0 +1,415 @@
+File from: [src/img/COCO POPS 88 X 32G.jpg]
+
+File to: [build/img/COCO POPS 88 X 32G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COCOA BODY BUTTER 200ML.jpg]
+
+File to: [build/img/COCOA BODY BUTTER 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COCO MAZAYA CHACOAL 24S.jpg]
+
+File to: [build/img/COCO MAZAYA CHACOAL 24S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COCOA BUTTER CREAM 100ML.jpg]
+
+File to: [build/img/COCOA BUTTER CREAM 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COCOA PUFFS REAL COCOA FLAKES 334G.jpeg]
+
+File to: [build/img/COCOA PUFFS REAL COCOA FLAKES 334G.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Coconut Rice with shreaded assorted meat, smoked fish and Sausages 3 Litre.jpg]
+
+File to: [build/img/Coconut Rice with shreaded assorted meat, smoked fish and Sausages 3 Litre.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COCONUT WATER FACIAL WIPES.jpg]
+
+File to: [build/img/COCONUT WATER FACIAL WIPES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CODIOVAN 160_12.5MG TABS X 14.jpg]
+
+File to: [build/img/CODIOVAN 160_12.5MG TABS X 14.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CODIOVAN 80_12.5 TABS X 14.jpg]
+
+File to: [build/img/CODIOVAN 80_12.5 TABS X 14.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COFLIN SYR  100ML.jpg]
+
+File to: [build/img/COFLIN SYR  100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COFLIN. EXPECORANT   100ML.jpg]
+
+File to: [build/img/COFLIN. EXPECORANT   100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COFTA TABS  X 100.jpg]
+
+File to: [build/img/COFTA TABS  X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COFTA SYR  100ML.jpg]
+
+File to: [build/img/COFTA SYR  100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/cogate maxium cavititiy protection - Copy.jpeg]
+
+File to: [build/img/cogate maxium cavititiy protection - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COKE 33CL CAN.png]
+
+File to: [build/img/COKE 33CL CAN.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/COKE PET 35CL.jpg]
+
+File to: [build/img/COKE PET 35CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COKE PET 50CL.jpg]
+
+File to: [build/img/COKE PET 50CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Coke Zero Fanta Sprits Pet Drink 1ltr.jpg]
+
+File to: [build/img/Coke Zero Fanta Sprits Pet Drink 1ltr.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/colera for men - Copy.jpeg]
+
+File to: [build/img/colera for men - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLERE FOR MEN PERFUME BALANCED 100ML.jpg]
+
+File to: [build/img/COLERE FOR MEN PERFUME BALANCED 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLERE FOR MEN PERFUME SNAP 100ML.png]
+
+File to: [build/img/COLERE FOR MEN PERFUME SNAP 100ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/COLERE FOR MEN PERFUME STATIC 100ML.jpg]
+
+File to: [build/img/COLERE FOR MEN PERFUME STATIC 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLES BRANDY CHRISTMAS PUDDING 454G.jpg]
+
+File to: [build/img/COLES BRANDY CHRISTMAS PUDDING 454G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE BAKING SODA & PEROXIDE TOOTHPASTE 226G.jpg]
+
+File to: [build/img/COLGATE BAKING SODA & PEROXIDE TOOTHPASTE 226G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COKE ZERO 33CL CAN.png]
+
+File to: [build/img/COKE ZERO 33CL CAN.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/COLGATE CAVITY PROTECTION PUMP PASTE 100G.jpg]
+
+File to: [build/img/COLGATE CAVITY PROTECTION PUMP PASTE 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE CTBM DOUBLE ACTION M 1PK AMED FVN1051226.jpg]
+
+File to: [build/img/COLGATE CTBM DOUBLE ACTION M 1PK AMED FVN1051226.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE CTBM DOUBLE ACTION M 1PK AMED 1X120.jfif.jpg]
+
+File to: [build/img/COLGATE CTBM DOUBLE ACTION M 1PK AMED 1X120.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE BAKING SODA & PEROXIDE WHITENING 226G.jpg]
+
+File to: [build/img/COLGATE BAKING SODA & PEROXIDE WHITENING 226G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/colgate double action toothbrush - Copy.jpeg]
+
+File to: [build/img/colgate double action toothbrush - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Colgate Double Action Toothbrush.jpg]
+
+File to: [build/img/Colgate Double Action Toothbrush.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/colgate extra clean toothbrush - Copy.jpeg]
+
+File to: [build/img/colgate extra clean toothbrush - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/colgate herbal - Copy.jpeg]
+
+File to: [build/img/colgate herbal - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE HERBAL 100ML (6X12) 154G.jpg]
+
+File to: [build/img/COLGATE HERBAL 100ML (6X12) 154G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE HERBAL 100ML.jpg]
+
+File to: [build/img/COLGATE HERBAL 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE HERBAL 100ML+25ML.jpg]
+
+File to: [build/img/COLGATE HERBAL 100ML+25ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE HERBAL.jpg]
+
+File to: [build/img/COLGATE HERBAL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/colgate junior toothbrush.jpeg]
+
+File to: [build/img/colgate junior toothbrush.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Colgate Max Fresh (Green) 130g.jpg]
+
+File to: [build/img/Colgate Max Fresh (Green) 130g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE MAX FRESH CLEAN MINT 130G.jpg]
+
+File to: [build/img/COLGATE MAX FRESH CLEAN MINT 130G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE MAX FRESH COOL MINT 130G.jpg]
+
+File to: [build/img/COLGATE MAX FRESH COOL MINT 130G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE MAX FRESH SPICY FRESH 130G.jpg]
+
+File to: [build/img/COLGATE MAX FRESH SPICY FRESH 130G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Colgate Max Protect Sugar Acid Neut 150g.jpg]
+
+File to: [build/img/Colgate Max Protect Sugar Acid Neut 150g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE MAX WHITE MOUTH 250ML.jpg]
+
+File to: [build/img/COLGATE MAX WHITE MOUTH 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE MAXFRESH COOLING FRESH 100ML.jpg]
+
+File to: [build/img/COLGATE MAXFRESH COOLING FRESH 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE MAXFRESH 100ML.jpg]
+
+File to: [build/img/COLGATE MAXFRESH 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE MAXFRESH TOOTHBRUSH.jpg]
+
+File to: [build/img/COLGATE MAXFRESH TOOTHBRUSH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE MAXIMUM CAVITY PROTECTION 140G.jpg]
+
+File to: [build/img/COLGATE MAXIMUM CAVITY PROTECTION 140G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE MAXIMUM CAVITY PROTECTION ICY MINT 140G.jpg]
+
+File to: [build/img/COLGATE MAXIMUM CAVITY PROTECTION ICY MINT 140G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE MAXIMUM CAVITY.jpg]
+
+File to: [build/img/COLGATE MAXIMUM CAVITY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE MAXIMUM STRENGTH SENSITIVE 170g.jfif.jpg]
+
+File to: [build/img/COLGATE MAXIMUM STRENGTH SENSITIVE 170g.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/colgate navigator plus.jpeg]
+
+File to: [build/img/colgate navigator plus.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Colgate Optic White Lasting 100g.jpg]
+
+File to: [build/img/Colgate Optic White Lasting 100g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE OPTIC WHITE TOOTH PASTE 75ML.jpg]
+
+File to: [build/img/COLGATE OPTIC WHITE TOOTH PASTE 75ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/coco carib.jpeg]
+
+File to: [build/img/coco carib.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/colgate optic white.jpeg]
+
+File to: [build/img/colgate optic white.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Colgate Plax Soft Mint Mouthwash 500ml.jpg]
+
+File to: [build/img/Colgate Plax Soft Mint Mouthwash 500ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE NATURAL EXTRACT TOOTH PASTE 75ML.jpg]
+
+File to: [build/img/COLGATE NATURAL EXTRACT TOOTH PASTE 75ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE PLAX SOFT MINT MOUTHWASH.jpg]
+
+File to: [build/img/COLGATE PLAX SOFT MINT MOUTHWASH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/colgate plus sugar acid.jpeg]
+
+File to: [build/img/colgate plus sugar acid.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE PUMP TOOTHPASTE COOL STRIPE 100ML.jpg]
+
+File to: [build/img/COLGATE PUMP TOOTHPASTE COOL STRIPE 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE SENSITIVE PRO-RELIEF 75ML(4x12)(INSTANT RELIEF).jfif.jpg]
+
+File to: [build/img/COLGATE SENSITIVE PRO-RELIEF 75ML(4x12)(INSTANT RELIEF).jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE SENSITIVE PRO-RELIEF 75ML x48.jfif.jpg]
+
+File to: [build/img/COLGATE SENSITIVE PRO-RELIEF 75ML x48.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/colgate sensitive.jpeg]
+
+File to: [build/img/colgate sensitive.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Colgate Sensitive Toothpast 95g.jpg]
+
+File to: [build/img/Colgate Sensitive Toothpast 95g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE SENSITIVE.png]
+
+File to: [build/img/COLGATE SENSITIVE.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/COLGATE CTBM DOUBLE ACTION TWIN PACK VN00148A.jpg]
+
+File to: [build/img/COLGATE CTBM DOUBLE ACTION TWIN PACK VN00148A.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CODIOVAN160_25MG TABS X14.jpg]
+
+File to: [build/img/CODIOVAN160_25MG TABS X14.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLGATE CTBM ZIG ZAG M 1PK AMED 1X120.jpg]
+
+File to: [build/img/COLGATE CTBM ZIG ZAG M 1PK AMED 1X120.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

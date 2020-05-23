@@ -1,0 +1,271 @@
+File from: [src/img/Restpoint18″ Rechargeable Fan S48R WhiteWhite.png]
+
+File to: [build/img/Restpoint18″ Rechargeable Fan S48R WhiteWhite.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RestpointAir Cooler - EL-16A (White And Black).jpg]
+
+File to: [build/img/RestpointAir Cooler - EL-16A (White And Black).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Restpoint1HP Air-Conditioner RP-EF9PK With Installtion KitWhite.jpg]
+
+File to: [build/img/Restpoint1HP Air-Conditioner RP-EF9PK With Installtion KitWhite.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointBeverage Cooler RP-350SCWhite.png]
+
+File to: [build/img/RestpointBeverage Cooler RP-350SCWhite.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RestpointBuilt In Gas Cooker - RC-60EBlack.jpg]
+
+File to: [build/img/RestpointBuilt In Gas Cooker - RC-60EBlack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointBuilt-in Microwave Oven - MN35CC Stainless Steel Framesilver.jpg]
+
+File to: [build/img/RestpointBuilt-in Microwave Oven - MN35CC Stainless Steel Framesilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointDeep Freezer Single Door RP-207White.jpg]
+
+File to: [build/img/RestpointDeep Freezer Single Door RP-207White.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointDeep Freezer Single Door RP-405White.png]
+
+File to: [build/img/RestpointDeep Freezer Single Door RP-405White.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RestpointDigital Cooker Hood With Vent - HD70SILVER_BLACK.png]
+
+File to: [build/img/RestpointDigital Cooker Hood With Vent - HD70SILVER_BLACK.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RestpointDigital Cooker Hood With Vent + Non Vent BlackSILVER.jpg]
+
+File to: [build/img/RestpointDigital Cooker Hood With Vent + Non Vent BlackSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointDigital Cooker Hood With VentSILVER.jpg]
+
+File to: [build/img/RestpointDigital Cooker Hood With VentSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointDigital Kitchen Range HoodBLACK.jpg]
+
+File to: [build/img/RestpointDigital Kitchen Range HoodBLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointDigital Kitchen Range HoodSILVER.jpg]
+
+File to: [build/img/RestpointDigital Kitchen Range HoodSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointFloor Standing 2 Hp Air Conditioner - Rp-2002bRED.jpg]
+
+File to: [build/img/RestpointFloor Standing 2 Hp Air Conditioner - Rp-2002bRED.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointDouble Door Showcase Freezer RC-920SC-.jpeg]
+
+File to: [build/img/RestpointDouble Door Showcase Freezer RC-920SC-.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointFree-Standing Gas Oven  RC-50G - SIlversilver.jpg]
+
+File to: [build/img/RestpointFree-Standing Gas Oven  RC-50G - SIlversilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointFree-Standing Gas Oven RC-50GR - SIlversilver.jpg]
+
+File to: [build/img/RestpointFree-Standing Gas Oven RC-50GR - SIlversilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointFree-Standing Gas Oven RC-60GF - SIlversilver.jpg]
+
+File to: [build/img/RestpointFree-Standing Gas Oven RC-60GF - SIlversilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointFree-Standing Gas Oven RC-92GE - BrownBrown.jpg]
+
+File to: [build/img/RestpointFree-Standing Gas Oven RC-92GE - BrownBrown.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointFree-Standing Gas Oven RC-92GE - SIlversilver.jpg]
+
+File to: [build/img/RestpointFree-Standing Gas Oven RC-92GE - SIlversilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointFreestanding Hot And Cold Water Dispenser - RP-WS40white.jpg]
+
+File to: [build/img/RestpointFreestanding Hot And Cold Water Dispenser - RP-WS40white.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointFree-Standing Gas Oven RC-92Gsilver.jpg]
+
+File to: [build/img/RestpointFree-Standing Gas Oven RC-92Gsilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointIce Cream Display Freezer RP-150SDCMULTI.jpg]
+
+File to: [build/img/RestpointIce Cream Display Freezer RP-150SDCMULTI.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointInbuilt Electric Oven MC60VGBLACK.jpg]
+
+File to: [build/img/RestpointInbuilt Electric Oven MC60VGBLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointInbuilt Electric Oven MC60VSSILVER.jpg]
+
+File to: [build/img/RestpointInbuilt Electric Oven MC60VSSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointPackage Unit Floor Standing Air ConditionerSILVER.jpg]
+
+File to: [build/img/RestpointPackage Unit Floor Standing Air ConditionerSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointRange Hood With Tampered Glass Body - HD60B-.png]
+
+File to: [build/img/RestpointRange Hood With Tampered Glass Body - HD60B-.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RestpointRestpoint  In Built Gas And Electric Top With Safety DeviceSILVER.jpg]
+
+File to: [build/img/RestpointRestpoint  In Built Gas And Electric Top With Safety DeviceSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointRestpoint  In Built Gas And Electric TopSILVER.jpg]
+
+File to: [build/img/RestpointRestpoint  In Built Gas And Electric TopSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointRestpoint  In Built Gas Top With Safety Deviceblack.jpg]
+
+File to: [build/img/RestpointRestpoint  In Built Gas Top With Safety Deviceblack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointRestpoint  In Built Gas Top With Safety DeviceSILVER.jpg]
+
+File to: [build/img/RestpointRestpoint  In Built Gas Top With Safety DeviceSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointRestpoint  In Built Gas Topblack.jpg]
+
+File to: [build/img/RestpointRestpoint  In Built Gas Topblack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointRestpoint  In Built Gas TopSILVER.jpg]
+
+File to: [build/img/RestpointRestpoint  In Built Gas TopSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointRP-WS100S Freestanding Hot And Cold Water Dispenser - SilverSilver.jpg]
+
+File to: [build/img/RestpointRP-WS100S Freestanding Hot And Cold Water Dispenser - SilverSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointSingle Door Deep Freezer RP-161SILVER.jpg]
+
+File to: [build/img/RestpointSingle Door Deep Freezer RP-161SILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointSingle Door Deep Freezer RP-161WHITE.JPG]
+
+File to: [build/img/RestpointSingle Door Deep Freezer RP-161WHITE.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointSingle Door Deep Freezer RP-164White.JPG]
+
+File to: [build/img/RestpointSingle Door Deep Freezer RP-164White.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointSingle-door Refrigerator RP-133.png]
+
+File to: [build/img/RestpointSingle-door Refrigerator RP-133.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RestpointWater Dispenser Hot And Cold With Refrigerator - RP-WS100BBlue.jpg]
+
+File to: [build/img/RestpointWater Dispenser Hot And Cold With Refrigerator - RP-WS100BBlue.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointWater Dispenser Hot And Cold With Refrigerator - RP-WS100RRed.jpg]
+
+File to: [build/img/RestpointWater Dispenser Hot And Cold With Refrigerator - RP-WS100RRed.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Retin-A 0.05% Cream 15g.jpg]
+
+File to: [build/img/Retin-A 0.05% Cream 15g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RETIN-A CREAM 0.05% 20G.jpg]
+
+File to: [build/img/RETIN-A CREAM 0.05% 20G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Revive Cap -10.jpg]
+
+File to: [build/img/Revive Cap -10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REXONA ANTIBACTERIAL PROTECTION 200ML.jpg]
+
+File to: [build/img/REXONA ANTIBACTERIAL PROTECTION 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Rexona Body Spray Invisible B+W 200ml.jpg]
+
+File to: [build/img/Rexona Body Spray Invisible B+W 200ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

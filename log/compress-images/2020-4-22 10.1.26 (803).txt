@@ -1,0 +1,37 @@
+File from: [src/img/Vilo Cream Waterproof Shoe Polish 60ml.jpg]
+
+File to: [build/img/Vilo Cream Waterproof Shoe Polish 60ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Vilo Instant Shine Sponge Small.png]
+
+File to: [build/img/Vilo Instant Shine Sponge Small.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Vilo Liquid Shoe Polish 80ml.jpg]
+
+File to: [build/img/Vilo Liquid Shoe Polish 80ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VILEDA WINDOW CLOTH 1PC.jpg]
+
+File to: [build/img/VILEDA WINDOW CLOTH 1PC.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VIM SCOURING POWDER.jpg]
+
+File to: [build/img/VIM SCOURING POWDER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VINKO SPARK CLASSIC FRESH TOILET 500ML.jpg]
+
+File to: [build/img/VINKO SPARK CLASSIC FRESH TOILET 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

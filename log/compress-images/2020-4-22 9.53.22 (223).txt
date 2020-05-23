@@ -1,0 +1,307 @@
+File from: [src/img/Cusson Baby SS_MG Lotion 200ml x 96.jpg]
+
+File to: [build/img/Cusson Baby SS_MG Lotion 200ml x 96.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CUSSON IMPERIAL LEATHER 40ML.jpg]
+
+File to: [build/img/CUSSON IMPERIAL LEATHER 40ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CUSSON BABY WIPES.png]
+
+File to: [build/img/CUSSON BABY WIPES.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Cussons Baby Gentle Care Powder 200g x24.jpg]
+
+File to: [build/img/Cussons Baby Gentle Care Powder 200g x24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cussons Baby Gentle Care Soap  75g x 96.jpg]
+
+File to: [build/img/Cussons Baby Gentle Care Soap  75g x 96.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cussons Baby Gentle Care Soap.jpeg]
+
+File to: [build/img/Cussons Baby Gentle Care Soap.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cussons Baby Gift Pack Medium Size x 6.jpg]
+
+File to: [build/img/Cussons Baby Gift Pack Medium Size x 6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CUSSONS BABY HTT LIQUID 400ML.jpg]
+
+File to: [build/img/CUSSONS BABY HTT LIQUID 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CUSSONS BABY WIPES ALCHOL FREE.jpg]
+
+File to: [build/img/CUSSONS BABY WIPES ALCHOL FREE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cussons Baby Wipes MG-SS x 12.jpg]
+
+File to: [build/img/Cussons Baby Wipes MG-SS x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cussons Baby Wipes Value Pack MG SS x 6.jpg]
+
+File to: [build/img/Cussons Baby Wipes Value Pack MG SS x 6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CUSSONS BABY WIPES WALMD OIL.jpg]
+
+File to: [build/img/CUSSONS BABY WIPES WALMD OIL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CUSSONS CAREX ANTIBACTERIAL HANDWASH 250ML.jpg]
+
+File to: [build/img/CUSSONS CAREX ANTIBACTERIAL HANDWASH 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CUSTARD APPLE PER KG.jpg]
+
+File to: [build/img/CUSTARD APPLE PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/custard powder - Copy.jpeg]
+
+File to: [build/img/custard powder - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CWAY APPLE FRUIT DRINK 500ML.jpg]
+
+File to: [build/img/CWAY APPLE FRUIT DRINK 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CWAY CHEERS COCKTAIL PEACH 350ML.jpg]
+
+File to: [build/img/CWAY CHEERS COCKTAIL PEACH 350ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CWAY CHEERS COCKTAIL ROSE 350ML.png]
+
+File to: [build/img/CWAY CHEERS COCKTAIL ROSE 350ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Cway Drinking Water 18.9 Ltrs.jpg]
+
+File to: [build/img/Cway Drinking Water 18.9 Ltrs.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CWAY EMPTY BOTTLE 20LTR.jpg]
+
+File to: [build/img/CWAY EMPTY BOTTLE 20LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CWAY MACA ENERGY DRINK 400ML.jpg]
+
+File to: [build/img/CWAY MACA ENERGY DRINK 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CWAY MACA ENERGY DRINK.jpg]
+
+File to: [build/img/CWAY MACA ENERGY DRINK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CWAY MACA SPORT DRINK 400ML.jpg]
+
+File to: [build/img/CWAY MACA SPORT DRINK 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CWAY NUTRI MILK APPLE 210ML.png]
+
+File to: [build/img/CWAY NUTRI MILK APPLE 210ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CWAY NUTRI MILK APPLE 500ML.png]
+
+File to: [build/img/CWAY NUTRI MILK APPLE 500ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CWAY NUTRI MILK ORANGE 210ML.png]
+
+File to: [build/img/CWAY NUTRI MILK ORANGE 210ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CWAY NUTRI MILK ORANGE 500ML.jpg]
+
+File to: [build/img/CWAY NUTRI MILK ORANGE 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CWAY NUTRI MILK PEACH 500ML.jpg]
+
+File to: [build/img/CWAY NUTRI MILK PEACH 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CWAY NUTRI MILK PEAR 500ML.jpg]
+
+File to: [build/img/CWAY NUTRI MILK PEAR 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CWAY NUTRI MILK PET 450ML.jpg]
+
+File to: [build/img/CWAY NUTRI MILK PET 450ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CWAY NUTRI MILK PINEAPPLE 210ML.png]
+
+File to: [build/img/CWAY NUTRI MILK PINEAPPLE 210ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CWAY NUTRI SOYA MALT 400ML.jpg]
+
+File to: [build/img/CWAY NUTRI SOYA MALT 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CWAY NUTRI-YO STRAWBERRY YOGHURT 500ML.jpeg]
+
+File to: [build/img/CWAY NUTRI-YO STRAWBERRY YOGHURT 500ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CWAY NUTRI-YO YOHGURT STRAWBERRY 500ML.jpg]
+
+File to: [build/img/CWAY NUTRI-YO YOHGURT STRAWBERRY 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CWAY PEACH FRUIT DRINK 500ML.jpg]
+
+File to: [build/img/CWAY PEACH FRUIT DRINK 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CWAY REGULAR BOTTLE 18.9L.jpg]
+
+File to: [build/img/CWAY REGULAR BOTTLE 18.9L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CWAY Water Dispenser Ruby 2F 2S.jpg]
+
+File to: [build/img/CWAY Water Dispenser Ruby 2F 2S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cway Water Empty Bottles 18.9 Ltrs.jpg]
+
+File to: [build/img/Cway Water Empty Bottles 18.9 Ltrs.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cway water refill.jpg]
+
+File to: [build/img/Cway water refill.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CYPRIGOLD CAPLET  X 30.jpg]
+
+File to: [build/img/CYPRIGOLD CAPLET  X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CYPRIGOLD SYR  200ML.jpeg]
+
+File to: [build/img/CYPRIGOLD SYR  200ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CYPRIGOLD. PLUS TABS X 30.jpg]
+
+File to: [build/img/CYPRIGOLD. PLUS TABS X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CYPRIVIT SYR  100ML.jpg]
+
+File to: [build/img/CYPRIVIT SYR  100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CYPRIVIT SYR  200ML.jpg]
+
+File to: [build/img/CYPRIVIT SYR  200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cyprivit Syrup 200ml.jpg]
+
+File to: [build/img/Cyprivit Syrup 200ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/D MarcHeavy Bluetooth Home Theatre SystemBLACK.jpg]
+
+File to: [build/img/D MarcHeavy Bluetooth Home Theatre SystemBLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/D MarcMulti Dimension Wall Bracket 50-65''BLACK.jpg]
+
+File to: [build/img/D MarcMulti Dimension Wall Bracket 50-65''BLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/D-MarcBluetooth Woofer And Speakers DMI-A2 With DVD PLAYERBLACK.jpg]
+
+File to: [build/img/D-MarcBluetooth Woofer And Speakers DMI-A2 With DVD PLAYERBLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/D-MarcBluetooth Woofer And Speakers DMI-A2BLACK.jpg]
+
+File to: [build/img/D-MarcBluetooth Woofer And Speakers DMI-A2BLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/D-MarcBluetooth Woofer And Speakers DMI-A2BLACKk.jpg]
+
+File to: [build/img/D-MarcBluetooth Woofer And Speakers DMI-A2BLACKk.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/D-MarcBluetooth Woofer And SpeakersBLACK.jpg]
+
+File to: [build/img/D-MarcBluetooth Woofer And SpeakersBLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

@@ -1,0 +1,8 @@
+File from: [src/img/PRINGLES EXTRA HOT CHILI&LIME 158G.jpg]
+
+File to: [build/img/PRINGLES EXTRA HOT CHILI&LIME 158G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg -quality 60 -outfile build/img/PRINGLES EXTRA HOT CHILI&LIME 158G.jpg src/img/PRINGLES EXTRA HOT CHILI&LIME 158G.jpg
+Unrecognized input file format --- perhaps you need -targa

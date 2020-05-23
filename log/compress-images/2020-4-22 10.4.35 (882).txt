@@ -1,0 +1,91 @@
+File from: [src/img/TURNING STICK.jpg]
+
+File to: [build/img/TURNING STICK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TUXIL RUNNY NOSE & CATARRH SYR  100ML.jpg]
+
+File to: [build/img/TUXIL RUNNY NOSE & CATARRH SYR  100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TUXIL-D SYR  100ML {CHILD 2-12YRS}.png]
+
+File to: [build/img/TUXIL-D SYR  100ML {CHILD 2-12YRS}.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Tutolin Expectorant Syrup x100ml.jpg]
+
+File to: [build/img/Tutolin Expectorant Syrup x100ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TUXIL-D SYR 100ML {ADULT}.jpg]
+
+File to: [build/img/TUXIL-D SYR 100ML {ADULT}.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TUXIL-N SYR 100ML {CHILD 2-12YRS}.jpg]
+
+File to: [build/img/TUXIL-N SYR 100ML {CHILD 2-12YRS}.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TWELVE SPICE KILISKI 180G.jpg]
+
+File to: [build/img/TWELVE SPICE KILISKI 180G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TWELVE SPICE KILISKI 35G.png]
+
+File to: [build/img/TWELVE SPICE KILISKI 35G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/TWELVE SPICE KILISKI 90G.png]
+
+File to: [build/img/TWELVE SPICE KILISKI 90G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/TWIN BLADE DISP. RAZOR 18`S.jpg]
+
+File to: [build/img/TWIN BLADE DISP. RAZOR 18`S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Twelve Spices Kilishi 90g.jpg]
+
+File to: [build/img/Twelve Spices Kilishi 90g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TWININGS EARL GREY 50S.jpg]
+
+File to: [build/img/TWININGS EARL GREY 50S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TWININGS ENGLISH BREAKFAST 50S.jpg]
+
+File to: [build/img/TWININGS ENGLISH BREAKFAST 50S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Twinings Flavoured Tea Bags 40g x 4.jpg]
+
+File to: [build/img/Twinings Flavoured Tea Bags 40g x 4.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TUXIL-N SYR 100ML {ADULT}.jpg]
+
+File to: [build/img/TUXIL-N SYR 100ML {ADULT}.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

@@ -1,0 +1,253 @@
+File from: [src/img/Egg per Crate.jpg]
+
+File to: [build/img/Egg per Crate.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/eja.jpeg]
+
+File to: [build/img/eja.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Egusi Soup.jpg]
+
+File to: [build/img/Egusi Soup.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EKRIS SUPER OAT.jpg]
+
+File to: [build/img/EKRIS SUPER OAT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EL GILITTAS HAIR WONDER CREAM 200G.jpg]
+
+File to: [build/img/EL GILITTAS HAIR WONDER CREAM 200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EL GILITTAS HAIR WONDER SHAMPOO 500ML.jpeg]
+
+File to: [build/img/EL GILITTAS HAIR WONDER SHAMPOO 500ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Elbfein Best Select Wafers_Cookies 500g.jpg]
+
+File to: [build/img/Elbfein Best Select Wafers_Cookies 500g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ELEX CASHEW NUT PET BOTTLE MEDIUM 225G.jpg]
+
+File to: [build/img/ELEX CASHEW NUT PET BOTTLE MEDIUM 225G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ELECTRIC HOUSE SOCKET.jpg]
+
+File to: [build/img/ELECTRIC HOUSE SOCKET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ELEX GROUNDNUT BIG BOTTLE.jpg]
+
+File to: [build/img/ELEX GROUNDNUT BIG BOTTLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ELIMS CASHEW NUT SMALL BOTTLE.jpg]
+
+File to: [build/img/ELIMS CASHEW NUT SMALL BOTTLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ELIMS CASHEW NUT BIG BOTTLE.jpg]
+
+File to: [build/img/ELIMS CASHEW NUT BIG BOTTLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ELISCA EYE DROP.jpg]
+
+File to: [build/img/ELISCA EYE DROP.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ELISCA EAR DROP.jpg]
+
+File to: [build/img/ELISCA EAR DROP.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Elizabeth Arden 5th Av Perfume Woman75ml.jpg]
+
+File to: [build/img/Elizabeth Arden 5th Av Perfume Woman75ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ELIZABETH ARDEN BEAUTY 100ML.jpg]
+
+File to: [build/img/ELIZABETH ARDEN BEAUTY 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ELIZABETH ARDEN MY FIFTH AVENUE 100ML.jpg]
+
+File to: [build/img/ELIZABETH ARDEN MY FIFTH AVENUE 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ELIZABETH ARDEN PROVOCATION WOMAN 100ML.jpg]
+
+File to: [build/img/ELIZABETH ARDEN PROVOCATION WOMAN 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ELIZABETH ARDEN RED DOOR 100ML.jpg]
+
+File to: [build/img/ELIZABETH ARDEN RED DOOR 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ELIZABETH ARDEN VISIBLE LOTION 300L.jpg]
+
+File to: [build/img/ELIZABETH ARDEN VISIBLE LOTION 300L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ELIZABETH ARDEN WHITE TEA 100ML.jpg]
+
+File to: [build/img/ELIZABETH ARDEN WHITE TEA 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Elkris Super Oat 1300g x 12.jpg]
+
+File to: [build/img/Elkris Super Oat 1300g x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ELLE & VIRE CREAM CHEESE.jpg]
+
+File to: [build/img/ELLE & VIRE CREAM CHEESE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ELLE & VIRE MANGO 125G.jpg]
+
+File to: [build/img/ELLE & VIRE MANGO 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ELLE &VIRE APRICOT 125G.png]
+
+File to: [build/img/ELLE &VIRE APRICOT 125G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/ELLE &VIRE COOKING CREAM EXCEL.UHT 35.1% 1L.png]
+
+File to: [build/img/ELLE &VIRE COOKING CREAM EXCEL.UHT 35.1% 1L.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/ELLE &VIRE FRUITS BLUEBERRY 125G.png]
+
+File to: [build/img/ELLE &VIRE FRUITS BLUEBERRY 125G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/ELLE &VIRE FRUITS CHERRY 125G.png]
+
+File to: [build/img/ELLE &VIRE FRUITS CHERRY 125G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/ELLE &VIRE FRUITS CRANBERRY 0.1 % 125G.png]
+
+File to: [build/img/ELLE &VIRE FRUITS CRANBERRY 0.1 % 125G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/ELLE &VIRE FRUITS GREEN APPLE 0.1 % 125G.png]
+
+File to: [build/img/ELLE &VIRE FRUITS GREEN APPLE 0.1 % 125G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/ELLE &VIRE FRUITS MIXED BERRIES 125G.png]
+
+File to: [build/img/ELLE &VIRE FRUITS MIXED BERRIES 125G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/ELLE &VIRE FRUITS PEACH-PASSION 125G.png]
+
+File to: [build/img/ELLE &VIRE FRUITS PEACH-PASSION 125G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/ELLE &VIRE FRUITS STRAWBERRY 125G.png]
+
+File to: [build/img/ELLE &VIRE FRUITS STRAWBERRY 125G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/ELLE &VIRE YAGGO APRICOT 125G.png]
+
+File to: [build/img/ELLE &VIRE YAGGO APRICOT 125G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/ELLE &VIRE YAGGO BANANA 125G.png]
+
+File to: [build/img/ELLE &VIRE YAGGO BANANA 125G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/ELLE &VIRE YAGGO DRINK CHOCOLATE FLAV.150ML.png]
+
+File to: [build/img/ELLE &VIRE YAGGO DRINK CHOCOLATE FLAV.150ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/ELLE &VIRE YAGGO DRINK STRAWBERRY FLAV.150ML.png]
+
+File to: [build/img/ELLE &VIRE YAGGO DRINK STRAWBERRY FLAV.150ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/ELLE &VIRE YAGGO DRINK VANILLA FLAV.150ML.png]
+
+File to: [build/img/ELLE &VIRE YAGGO DRINK VANILLA FLAV.150ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/ELLE &VIRE YAGGO RASBERRY 125G.png]
+
+File to: [build/img/ELLE &VIRE YAGGO RASBERRY 125G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/ELLE &VIRE YAGGO STRAWBERRY 125G.png]
+
+File to: [build/img/ELLE &VIRE YAGGO STRAWBERRY 125G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/ELLEDI PARTY WAFERS ORANGE 250GM.jpg]
+
+File to: [build/img/ELLEDI PARTY WAFERS ORANGE 250GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ELEX PEANUTS 265G.jpg]
+
+File to: [build/img/ELEX PEANUTS 265G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

@@ -1,0 +1,73 @@
+File from: [src/img/PRINGLES ORIGINAL 67G.jpg]
+
+File to: [build/img/PRINGLES ORIGINAL 67G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES ORIGINAL 70G.jpg]
+
+File to: [build/img/PRINGLES ORIGINAL 70G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES PIZZA 158G.jpg]
+
+File to: [build/img/PRINGLES PIZZA 158G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES PIZZA 71G.jpg]
+
+File to: [build/img/PRINGLES PIZZA 71G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pringles Potato Crisps 40g x 12.jpg]
+
+File to: [build/img/Pringles Potato Crisps 40g x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pringles Potato Original Crisp 165g x 19.jpg]
+
+File to: [build/img/Pringles Potato Original Crisp 165g x 19.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES RANCH 158G.jpg]
+
+File to: [build/img/PRINGLES RANCH 158G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES SALT _ VINEGAR 165G.jpg]
+
+File to: [build/img/PRINGLES SALT _ VINEGAR 165G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES SALT _ VINEGAR 19X165R.jpg]
+
+File to: [build/img/PRINGLES SALT _ VINEGAR 19X165R.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES SMALL HOT PAPRIKA 12X40G.jpg]
+
+File to: [build/img/PRINGLES SMALL HOT PAPRIKA 12X40G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES SALT & VINEGAR 40GM.jpg]
+
+File to: [build/img/PRINGLES SALT & VINEGAR 40GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES SMALL ORIGINAL 12X40G.jpg]
+
+File to: [build/img/PRINGLES SMALL ORIGINAL 12X40G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

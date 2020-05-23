@@ -1,0 +1,91 @@
+File from: [src/img/Tito Yoghurt 330ml x 25.jpg]
+
+File to: [build/img/Tito Yoghurt 330ml x 25.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Titus (Whole).jpg]
+
+File to: [build/img/Titus (Whole).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Titus 1Kg.jpg]
+
+File to: [build/img/Titus 1Kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TITUS SARDINE 125G.jpg]
+
+File to: [build/img/TITUS SARDINE 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TITUS SARDINE.jpg]
+
+File to: [build/img/TITUS SARDINE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TITUS SARDINES.jpg]
+
+File to: [build/img/TITUS SARDINES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TIXYLIX BABY SYRUP 100ML.jpg]
+
+File to: [build/img/TIXYLIX BABY SYRUP 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TIXYLIX TODDLER.jpg]
+
+File to: [build/img/TIXYLIX TODDLER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TOBBY'S DOUGHNUT.jpg]
+
+File to: [build/img/TOBBY'S DOUGHNUT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TOBBY'S HOTDOG BREAD.jpg]
+
+File to: [build/img/TOBBY'S HOTDOG BREAD.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TOBBY'S MUFFIN.jpg]
+
+File to: [build/img/TOBBY'S MUFFIN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TOBLERONE CHOCOLATE WITH HONEY & ALMOND NOUGAT 200G.jpg]
+
+File to: [build/img/TOBLERONE CHOCOLATE WITH HONEY & ALMOND NOUGAT 200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TOBLERONE CHOCOLATE WITH HONEY & ALMOND NOUGAT 300G.jpg]
+
+File to: [build/img/TOBLERONE CHOCOLATE WITH HONEY & ALMOND NOUGAT 300G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TIXYLIX BLACKCURRANT X 100ML.jpg]
+
+File to: [build/img/TIXYLIX BLACKCURRANT X 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Titus Sarndines 125g x 50.jpg]
+
+File to: [build/img/Titus Sarndines 125g x 50.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

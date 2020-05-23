@@ -1,0 +1,115 @@
+File from: [src/img/OMOALATA OFADA PEPPERMIX HOT 1L.png]
+
+File to: [build/img/OMOALATA OFADA PEPPERMIX HOT 1L.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/OMOALATA ORIGINAL PEPPERMIX HOT 1L.png]
+
+File to: [build/img/OMOALATA ORIGINAL PEPPERMIX HOT 1L.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/OMRON COMPRESSOR NEBULIZER NE-C28P.png]
+
+File to: [build/img/OMRON COMPRESSOR NEBULIZER NE-C28P.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/OMRON COMPRESSOR NEBULIZER NE-C801KD.jpg]
+
+File to: [build/img/OMRON COMPRESSOR NEBULIZER NE-C801KD.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/OMRON DIGITAL SCALE HN289.jpg]
+
+File to: [build/img/OMRON DIGITAL SCALE HN289.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/OMRON M2 BP MONITOR.jpg]
+
+File to: [build/img/OMRON M2 BP MONITOR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/OMRON M3 BP MONITOR.jpg]
+
+File to: [build/img/OMRON M3 BP MONITOR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/OMRON M6 BP MONITOR.jpg]
+
+File to: [build/img/OMRON M6 BP MONITOR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/OMRON RS2 WRIST BLOOD PRESSURE MONITOR.jpg]
+
+File to: [build/img/OMRON RS2 WRIST BLOOD PRESSURE MONITOR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ON SPORT FOR HIM 100ML.jpg]
+
+File to: [build/img/ON SPORT FOR HIM 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ON THE SPOT TREATMENT 30ML.jpg]
+
+File to: [build/img/ON THE SPOT TREATMENT 30ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ONE FAMILY TOOTHPASTE APPLE MINT 130G.jpg]
+
+File to: [build/img/ONE FAMILY TOOTHPASTE APPLE MINT 130G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ONE FAMILY TOOTHPASTE BANANA 130G.jpg]
+
+File to: [build/img/ONE FAMILY TOOTHPASTE BANANA 130G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ONE FAMILY TOOTHPASTE BLACKBERRY MINT 130G.jpg]
+
+File to: [build/img/ONE FAMILY TOOTHPASTE BLACKBERRY MINT 130G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ONE FAMILY TOOTHPASTE ORANGE MINT 130G.jpg]
+
+File to: [build/img/ONE FAMILY TOOTHPASTE ORANGE MINT 130G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ONE FAMILY TOOTHPASTE PEPPERMINT 130G.jpg]
+
+File to: [build/img/ONE FAMILY TOOTHPASTE PEPPERMINT 130G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ONE FAMILY TOOTHPASTE STRAWBERRY MINT 130G.jpg]
+
+File to: [build/img/ONE FAMILY TOOTHPASTE STRAWBERRY MINT 130G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ONE STEP HAND SANITIZER 60ML.jpg]
+
+File to: [build/img/ONE STEP HAND SANITIZER 60ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Onga Bucket 3kg Classic - Carton.png]
+
+File to: [build/img/Onga Bucket 3kg Classic - Carton.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAIN

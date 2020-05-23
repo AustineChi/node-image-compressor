@@ -1,0 +1,271 @@
+File from: [src/img/DURACELL AAA 2`S.jpg]
+
+File to: [build/img/DURACELL AAA 2`S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Duracell Battery AA4 Cells.png]
+
+File to: [build/img/Duracell Battery AA4 Cells.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Duracell Battery C cells x 10.png]
+
+File to: [build/img/Duracell Battery C cells x 10.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Duracell Battery C cells.jpg]
+
+File to: [build/img/Duracell Battery C cells.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DURACELL C SIZE 2`S.jpg]
+
+File to: [build/img/DURACELL C SIZE 2`S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DURACELL CODE 2016 3V LITHIUM.jpg]
+
+File to: [build/img/DURACELL CODE 2016 3V LITHIUM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DURACELL CODE 2032 3V LITHIUM.jpg]
+
+File to: [build/img/DURACELL CODE 2032 3V LITHIUM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DURACELL CODE MN21 A23 12V ALKALINE.jpg]
+
+File to: [build/img/DURACELL CODE MN21 A23 12V ALKALINE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DURACELL D SIZE 2`S.jpg]
+
+File to: [build/img/DURACELL D SIZE 2`S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DURACELL TURBO MAX AAA 4`S.jpg]
+
+File to: [build/img/DURACELL TURBO MAX AAA 4`S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUREX EXTRA SAFE 3`S.jpg]
+
+File to: [build/img/DUREX EXTRA SAFE 3`S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUREX ELITE 3`S.jpg]
+
+File to: [build/img/DUREX ELITE 3`S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Durex Extra Safe Condom -3.jpg]
+
+File to: [build/img/Durex Extra Safe Condom -3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUREX EXTRA SAFE X 3.jpg]
+
+File to: [build/img/DUREX EXTRA SAFE X 3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DURACELL TURBO MAX AA 4`S.jpg]
+
+File to: [build/img/DURACELL TURBO MAX AA 4`S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUREX FEATHERLITE ELITE X 3.jpg]
+
+File to: [build/img/DUREX FEATHERLITE ELITE X 3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUREX EXTRA SAFE XL X 3.jpg]
+
+File to: [build/img/DUREX EXTRA SAFE XL X 3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUREX FEATHERLITE X 3.jpg]
+
+File to: [build/img/DUREX FEATHERLITE X 3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUREX EXTRA SAFE XL 3`S.jpg]
+
+File to: [build/img/DUREX EXTRA SAFE XL 3`S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Durex Fetherlite (Red) Condom -3.jpg]
+
+File to: [build/img/Durex Fetherlite (Red) Condom -3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUREX FETHERLITE 3`S.jpg]
+
+File to: [build/img/DUREX FETHERLITE 3`S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Durex Fetherlite 12 Condoms x 72.jpg]
+
+File to: [build/img/Durex Fetherlite 12 Condoms x 72.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Durex Fetherlite Elite (Purple) Condomx3.jpg]
+
+File to: [build/img/Durex Fetherlite Elite (Purple) Condomx3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUREX MASSAGE 2 IN 1 ALEOVERA  200ML.jpg]
+
+File to: [build/img/DUREX MASSAGE 2 IN 1 ALEOVERA  200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUREX MASSAGE 2 IN 1  STIMULATING  200ML.jpg]
+
+File to: [build/img/DUREX MASSAGE 2 IN 1  STIMULATING  200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUREX MASSAGE 2 IN 1 SENSUAL  X200ML.jpg]
+
+File to: [build/img/DUREX MASSAGE 2 IN 1 SENSUAL  X200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Durex Performa (Black-Grey) Condoms x3.jpg]
+
+File to: [build/img/Durex Performa (Black-Grey) Condoms x3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DURACELL AAA 4`S.jpg]
+
+File to: [build/img/DURACELL AAA 4`S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUREX PERFORMA 3S.jpg]
+
+File to: [build/img/DUREX PERFORMA 3S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUREX FEATHERLITE X 12.png]
+
+File to: [build/img/DUREX FEATHERLITE X 12.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DUREX PERFORMA X 3.jpg]
+
+File to: [build/img/DUREX PERFORMA X 3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUREX EXTRA SAFE X 12.jpg]
+
+File to: [build/img/DUREX EXTRA SAFE X 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUREX PLAY CHEEKY CHERRY 50ML.jpg]
+
+File to: [build/img/DUREX PLAY CHEEKY CHERRY 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUREX PLAY FEEL 50ML.jpg]
+
+File to: [build/img/DUREX PLAY FEEL 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Durex Play Lubricant Feel 50ml.jpg]
+
+File to: [build/img/Durex Play Lubricant Feel 50ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUREX PLAY SAUCY STRAWBERRY 50ML.jpg]
+
+File to: [build/img/DUREX PLAY SAUCY STRAWBERRY 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUREX PLAY TINGLING 50ML.jpg]
+
+File to: [build/img/DUREX PLAY TINGLING 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUREX SELECT 3`S.jpg]
+
+File to: [build/img/DUREX SELECT 3`S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUREX SELECT X 3.jpg]
+
+File to: [build/img/DUREX SELECT X 3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Durex XL Condom -3.jpg]
+
+File to: [build/img/Durex XL Condom -3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dust & Filter Face Mask x 50 Pack.jpg]
+
+File to: [build/img/Dust & Filter Face Mask x 50 Pack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dusting Powder (Medicated Mentholated).jpg]
+
+File to: [build/img/Dusting Powder (Medicated Mentholated).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUZZIT FRI & M-WAVE WIPES 50PK.jpg]
+
+File to: [build/img/DUZZIT FRI & M-WAVE WIPES 50PK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUX GOLDEN ORIGINAL CRACKERS 250G.png]
+
+File to: [build/img/DUX GOLDEN ORIGINAL CRACKERS 250G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DUZZIT GLASS CLEANER BLUE.jpg]
+
+File to: [build/img/DUZZIT GLASS CLEANER BLUE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

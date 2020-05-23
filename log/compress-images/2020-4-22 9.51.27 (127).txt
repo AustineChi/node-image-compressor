@@ -1,0 +1,259 @@
+File from: [src/img/MASON ODOR FREE GARLIC X 100.jpg]
+
+File to: [build/img/MASON ODOR FREE GARLIC X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MASON VITAMIN C 1000MG X 100.jpg]
+
+File to: [build/img/MASON VITAMIN C 1000MG X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MASON TURMERIC X 60 CAPSULES.jpg]
+
+File to: [build/img/MASON TURMERIC X 60 CAPSULES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MASON VITAMIN C 500MG X 100.jpg]
+
+File to: [build/img/MASON VITAMIN C 500MG X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MASON VITB6 50MG X100 TAB.jpg]
+
+File to: [build/img/MASON VITB6 50MG X100 TAB.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MASTER BLUSH COLOR + HIGHLIGHTING KIT.jpg]
+
+File to: [build/img/MASTER BLUSH COLOR + HIGHLIGHTING KIT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MASTER BRONZE COLOR + HIGHLIGHTING KIT.jpg]
+
+File to: [build/img/MASTER BRONZE COLOR + HIGHLIGHTING KIT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MASTER CAMO CORRECTOR 2 MEDIUM.jpg]
+
+File to: [build/img/MASTER CAMO CORRECTOR 2 MEDIUM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MASTER CHROME METAL HIGHLIGHTER 100 MOLTEN GOLD.jpg]
+
+File to: [build/img/MASTER CHROME METAL HIGHLIGHTER 100 MOLTEN GOLD.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MASTER CHROME METAL HIGHLIGHTER 150 MOLTEN BRONZE.jpg]
+
+File to: [build/img/MASTER CHROME METAL HIGHLIGHTER 150 MOLTEN BRONZE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Master Kettle Chips Honey Mustard 45Gm.jpg]
+
+File to: [build/img/Master Kettle Chips Honey Mustard 45Gm.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MASTER KETTLE CHIPS HONEY MUSTARD 90G.jpg]
+
+File to: [build/img/MASTER KETTLE CHIPS HONEY MUSTARD 90G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Master Kettle Chips Sea Salt & Vinegar 90Gm.jpg]
+
+File to: [build/img/Master Kettle Chips Sea Salt & Vinegar 90Gm.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MASTER KETTLE CHIPS SWEET CHILLI PEPPER 45G.jpg]
+
+File to: [build/img/MASTER KETTLE CHIPS SWEET CHILLI PEPPER 45G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MASTER KETTLE CHIPS SWEET CHILLI PEPPER 90G.jpg]
+
+File to: [build/img/MASTER KETTLE CHIPS SWEET CHILLI PEPPER 90G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MASTER PRECISE CURVY NU 01 INTENSE LIQUID EYELINER.jpg]
+
+File to: [build/img/MASTER PRECISE CURVY NU 01 INTENSE LIQUID EYELINER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MASTER PRIME PERFECTOR 50 HYDRATING PORE.jpg]
+
+File to: [build/img/MASTER PRIME PERFECTOR 50 HYDRATING PORE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MASTER SLEEK BROW MED BROWN.jpg]
+
+File to: [build/img/MASTER SLEEK BROW MED BROWN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MASTER STROBE LIQUID 100 LIGHT.jpg]
+
+File to: [build/img/MASTER STROBE LIQUID 100 LIGHT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MASTER STROBE LIQUID 100 MEDIUM.jpg]
+
+File to: [build/img/MASTER STROBE LIQUID 100 MEDIUM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MASTER STROBING STICK 200 MEDIUM.jpeg]
+
+File to: [build/img/MASTER STROBING STICK 200 MEDIUM.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MASTER STROBING STICK 300 DARK.jpg]
+
+File to: [build/img/MASTER STROBING STICK 300 DARK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/masterKid.jpeg]
+
+File to: [build/img/masterKid.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MasterKidsCompany.jpeg]
+
+File to: [build/img/MasterKidsCompany.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mateus Sparkling Brut Wine 75cl.jpg]
+
+File to: [build/img/Mateus Sparkling Brut Wine 75cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mateus Rose Vinho De Mesa 750ml.jpg]
+
+File to: [build/img/Mateus Rose Vinho De Mesa 750ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Maxi-Tone Soap 150g x 12..jpg]
+
+File to: [build/img/Maxi-Tone Soap 150g x 12..jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Maxi2 Faucets (Hot & Cold) Water Dispenser With RefrigeratorWhite.jpg]
+
+File to: [build/img/Maxi2 Faucets (Hot & Cold) Water Dispenser With RefrigeratorWhite.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Maxi3 Faucet  (Hot, Neutral & Cold) Water Dispenser WD1836SSilver and Black.jpg]
+
+File to: [build/img/Maxi3 Faucet  (Hot, Neutral & Cold) Water Dispenser WD1836SSilver and Black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Maxi3 Faucet (Hot, Neutral & Cold) Water Dispenser - WD1663BLACK.jpg]
+
+File to: [build/img/Maxi3 Faucet (Hot, Neutral & Cold) Water Dispenser - WD1663BLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Maxi3 Faucet  Water Dispenser Bottom Loading WD1639S -Dark Silver.jpg]
+
+File to: [build/img/Maxi3 Faucet  Water Dispenser Bottom Loading WD1639S -Dark Silver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Maxi3 Faucet (Hot, Neutral & Cold) Water Dispenser + Refrigerator - WD1730SBLACK.jpg]
+
+File to: [build/img/Maxi3 Faucet (Hot, Neutral & Cold) Water Dispenser + Refrigerator - WD1730SBLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Maxi4 BURNER GAS COOKER MAXI 6060 M4 REDRED.jpg]
+
+File to: [build/img/Maxi4 BURNER GAS COOKER MAXI 6060 M4 REDRED.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Maxi6060 Plus Gas Cooker.jpg]
+
+File to: [build/img/Maxi6060 Plus Gas Cooker.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MaxiGas Cooker MAXI 50504B - WhiteWhite.jpg]
+
+File to: [build/img/MaxiGas Cooker MAXI 50504B - WhiteWhite.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Maxi8KG WASH & 5KG DRY Automatic Washing Machine (Lagos Only)Silver.jpg]
+
+File to: [build/img/Maxi8KG WASH & 5KG DRY Automatic Washing Machine (Lagos Only)Silver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MaxiGas Cooker Maxi 6060 M4- Inox.jpg]
+
+File to: [build/img/MaxiGas Cooker Maxi 6060 M4- Inox.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MASTER SLEEK BROW DARK BROWN.jpg]
+
+File to: [build/img/MASTER SLEEK BROW DARK BROWN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAXIMUM CAVITY PROTECTION PLUS SUGAR ACID N 100ML  4X12.jpg]
+
+File to: [build/img/MAXIMUM CAVITY PROTECTION PLUS SUGAR ACID N 100ML  4X12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAXIMUM CAVITY PROTECTION ICY MINT GEL 140G  x72.jfif.jpg]
+
+File to: [build/img/MAXIMUM CAVITY PROTECTION ICY MINT GEL 140G  x72.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Maxiquine Chloroquine Syrup.jpg]
+
+File to: [build/img/Maxiquine Chloroquine Syrup.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAXIMUM CAVITY PROTECTION PLUS SUGAR ACID N 100ML x48.jfif.jpg]
+
+File to: [build/img/MAXIMUM CAVITY PROTECTION PLUS SUGAR ACID N 100ML x48.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAXIMUM CAVITY PROTECTION 140G 6X12.jpg]
+
+File to: [build/img/MAXIMUM CAVITY PROTECTION 140G 6X12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

@@ -1,0 +1,265 @@
+File from: [src/img/KIRKLAND UNSWEETENED ALMOND VANILLA 946ML.jpg]
+
+File to: [build/img/KIRKLAND UNSWEETENED ALMOND VANILLA 946ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Kirkland Raw Organic Honey 680g Bottle.jpg]
+
+File to: [build/img/Kirkland Raw Organic Honey 680g Bottle.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KIT KAT 4 FINGER.jpg]
+
+File to: [build/img/KIT KAT 4 FINGER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KIRKLAND ULTRA PLUSH MICROFIBER TOWEL 36S.jpg]
+
+File to: [build/img/KIRKLAND ULTRA PLUSH MICROFIBER TOWEL 36S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KITCHEN GLORY SACHET 10G.jpg]
+
+File to: [build/img/KITCHEN GLORY SACHET 10G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KITCHEN KNIFE.jpg]
+
+File to: [build/img/KITCHEN KNIFE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KITCHEN SPONGES 7PCS.jpg]
+
+File to: [build/img/KITCHEN SPONGES 7PCS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KIWI BLACK POLISG 100ML.jpg]
+
+File to: [build/img/KIWI BLACK POLISG 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KIWI PER KG.jpg]
+
+File to: [build/img/KIWI PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KIRKLAND PREMIUM CHUNK CHICKEN BREAST 354G.jpg]
+
+File to: [build/img/KIRKLAND PREMIUM CHUNK CHICKEN BREAST 354G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KIWI QUALITY POLISH (BLACK) 50ML.jpg]
+
+File to: [build/img/KIWI QUALITY POLISH (BLACK) 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KIWI QUALITY POLISH (BROWN) 50 ML.jpg]
+
+File to: [build/img/KIWI QUALITY POLISH (BROWN) 50 ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KIWI QUALITY POLISH (NEUTRAL) 50 ML.jpg]
+
+File to: [build/img/KIWI QUALITY POLISH (NEUTRAL) 50 ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KLEANMATE LIQUID HAND WASH PINK 500ML.jpg]
+
+File to: [build/img/KLEANMATE LIQUID HAND WASH PINK 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KIWI SHOE POLISH 50ML.jpg]
+
+File to: [build/img/KIWI SHOE POLISH 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KLEANSOL FLOOR CLEANER LAVENDER MULTI PURPOSE 2L.jpg]
+
+File to: [build/img/KLEANSOL FLOOR CLEANER LAVENDER MULTI PURPOSE 2L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KLEANMATE WASHING UP LIQUID GREEN 500ML.jpg]
+
+File to: [build/img/KLEANMATE WASHING UP LIQUID GREEN 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KLEANSOL FLOOR CLEANER REGULAR MULTI PURPOSE 2L.jpg]
+
+File to: [build/img/KLEANSOL FLOOR CLEANER REGULAR MULTI PURPOSE 2L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KLEANSOL FLOOR CLEANER ROSE MULTI PURPOSE 2L.jpg]
+
+File to: [build/img/KLEANSOL FLOOR CLEANER ROSE MULTI PURPOSE 2L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KLEENEX BOX TISSUE 170 PACK.jpeg]
+
+File to: [build/img/KLEENEX BOX TISSUE 170 PACK.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KLEENEX BRAND TISSUE.jpg]
+
+File to: [build/img/KLEENEX BRAND TISSUE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KLEENEX MANSIZE BRAND TISSUES.png]
+
+File to: [build/img/KLEENEX MANSIZE BRAND TISSUES.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/KN 95 FACEMASK  X 1.jpg]
+
+File to: [build/img/KN 95 FACEMASK  X 1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KLOVINAL V PESSARY  X 6.jpeg]
+
+File to: [build/img/KLOVINAL V PESSARY  X 6.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Knights Whisky 200ml.jpg]
+
+File to: [build/img/Knights Whisky 200ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KNIGHTS WHISKY 750ML ZA.jpg]
+
+File to: [build/img/KNIGHTS WHISKY 750ML ZA.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KNITTED SCARF.jpg]
+
+File to: [build/img/KNITTED SCARF.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KNOR CHICKEN FORTI CUBE 50X8G.jpg]
+
+File to: [build/img/KNOR CHICKEN FORTI CUBE 50X8G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KNORR BEEF 400G.jpg]
+
+File to: [build/img/KNORR BEEF 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KNORR BEEF BOULION CUBE FORT 17X50X8G - CARTON.jpg]
+
+File to: [build/img/KNORR BEEF BOULION CUBE FORT 17X50X8G - CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KNORR BEEF BULK PACK 3X2KG - CARTON.jpg]
+
+File to: [build/img/KNORR BEEF BULK PACK 3X2KG - CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KNORR BEEF NEW 16 X 50 X 8G.png]
+
+File to: [build/img/KNORR BEEF NEW 16 X 50 X 8G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/KNORR CHICKEN 6 X 1KG.png]
+
+File to: [build/img/KNORR CHICKEN 6 X 1KG.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/KNORR CHICKEN 400G X 12 - CARTON.jpg]
+
+File to: [build/img/KNORR CHICKEN 400G X 12 - CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KNORR CHICKEN CUBES 50 x 8G.jpg]
+
+File to: [build/img/KNORR CHICKEN CUBES 50 x 8G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KNORR CHICKEN FORTI 40X12X8G - CARTON.png]
+
+File to: [build/img/KNORR CHICKEN FORTI 40X12X8G - CARTON.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/KNORR CHICKEN POWDER 800G.jpg]
+
+File to: [build/img/KNORR CHICKEN POWDER 800G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KNORR CHICKEN POWDER FORTI 6X800G - CARTON.jpg]
+
+File to: [build/img/KNORR CHICKEN POWDER FORTI 6X800G - CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KOREAN RED GINSENG EXTRACT 100G.jpg]
+
+File to: [build/img/KOREAN RED GINSENG EXTRACT 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KOREAN RED GINSENG EXTRACT CAPSULES GOLD X60 CAPSULES.jpg]
+
+File to: [build/img/KOREAN RED GINSENG EXTRACT CAPSULES GOLD X60 CAPSULES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KOREAN RED GINSENG MULTIVITAMINS WOMEN BALANCE X 5.jpg]
+
+File to: [build/img/KOREAN RED GINSENG MULTIVITAMINS WOMEN BALANCE X 5.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KOREAN RED GINSENG TONIC MILD.jpg]
+
+File to: [build/img/KOREAN RED GINSENG TONIC MILD.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Kotase (Bromelain)40Mg-1Mg Tab x10satch.jpg]
+
+File to: [build/img/Kotase (Bromelain)40Mg-1Mg Tab x10satch.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KOTASE  TABLETS X 10.jpg]
+
+File to: [build/img/KOTASE  TABLETS X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

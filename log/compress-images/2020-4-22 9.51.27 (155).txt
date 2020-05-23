@@ -1,0 +1,91 @@
+File from: [src/img/PREMIER ANTISEPIC LIME FRESH LIQUID 250ML.jpg]
+
+File to: [build/img/PREMIER ANTISEPIC LIME FRESH LIQUID 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER ANTISEPTIC LIQUID 125 ML.jpg]
+
+File to: [build/img/PREMIER ANTISEPTIC LIQUID 125 ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER ANTISEPTIC LIQUID LIME FRESH 1 L.jpg]
+
+File to: [build/img/PREMIER ANTISEPTIC LIQUID LIME FRESH 1 L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER ANTISEPTIC LIQUID 250ML.jpg]
+
+File to: [build/img/PREMIER ANTISEPTIC LIQUID 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER ANTISEPTIC LIME FRESH LIQUID 500ML.jpg]
+
+File to: [build/img/PREMIER ANTISEPTIC LIME FRESH LIQUID 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER AS COOL DEO 60G.jpg]
+
+File to: [build/img/PREMIER AS COOL DEO 60G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER AS COOL DEO 110G.jpg]
+
+File to: [build/img/PREMIER AS COOL DEO 110G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER COOL ANTI BACTERIAL SOAP ODOUR DEFENCE 110G(1).jpg]
+
+File to: [build/img/PREMIER COOL ANTI BACTERIAL SOAP ODOUR DEFENCE 110G(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER ANTISEPTIC LIQUID 1 LIT.jpg]
+
+File to: [build/img/PREMIER ANTISEPTIC LIQUID 1 LIT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER ANTISEPTIC LIME FRESH LIQUID 1LTR.jpg]
+
+File to: [build/img/PREMIER ANTISEPTIC LIME FRESH LIQUID 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER COOL ANTI BACTERIAL SOAP ODOUR DEFENCE 110G.jpg]
+
+File to: [build/img/PREMIER COOL ANTI BACTERIAL SOAP ODOUR DEFENCE 110G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER COOL ANTI BACTERIAL SOAP SPORTS 150G.jpg]
+
+File to: [build/img/PREMIER COOL ANTI BACTERIAL SOAP SPORTS 150G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER COOL ANTI BACTERIAL SOAP SPORTS 65g.jpg]
+
+File to: [build/img/PREMIER COOL ANTI BACTERIAL SOAP SPORTS 65g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER COOL ANTI BACTERIAL SOAP ULTIMATE 110G.jpg]
+
+File to: [build/img/PREMIER COOL ANTI BACTERIAL SOAP ULTIMATE 110G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER COOL ANTI BACTERIAL SOAP SPORTS 110G.jpg]
+
+File to: [build/img/PREMIER COOL ANTI BACTERIAL SOAP SPORTS 110G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

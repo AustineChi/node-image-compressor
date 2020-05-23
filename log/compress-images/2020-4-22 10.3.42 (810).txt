@@ -1,0 +1,259 @@
+File from: [src/img/SCHWEPPES BITTER LEMON 50CL.jpg]
+
+File to: [build/img/SCHWEPPES BITTER LEMON 50CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SCHOLL COMPLETE CORN TREATMENT KIT.jpg]
+
+File to: [build/img/SCHOLL COMPLETE CORN TREATMENT KIT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SCHWEPPES CHAPMAN 33CL CAN.jpg]
+
+File to: [build/img/SCHWEPPES CHAPMAN 33CL CAN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SCHOLL FRESH STEP ANTIPERSPIRANT FOOT SPRAY.png]
+
+File to: [build/img/SCHOLL FRESH STEP ANTIPERSPIRANT FOOT SPRAY.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SCHWEPPES MOJITO 33CL CAN.jpg]
+
+File to: [build/img/SCHWEPPES MOJITO 33CL CAN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SCHWEPPES PINEAPPLE CAN 33CL.jpg]
+
+File to: [build/img/SCHWEPPES PINEAPPLE CAN 33CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SCHWEPPES SODA CAN 33CL.jpg]
+
+File to: [build/img/SCHWEPPES SODA CAN 33CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SCHWEPPES SODA PET 35CL.jpg]
+
+File to: [build/img/SCHWEPPES SODA PET 35CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SCHWEPPES SODA WATER CAN 33CL.jpg]
+
+File to: [build/img/SCHWEPPES SODA WATER CAN 33CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SCHWEPPES TONIC CAN 33CL.png]
+
+File to: [build/img/SCHWEPPES TONIC CAN 33CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SCHWEPPES TONIC WATER CAN 33CL.jpg]
+
+File to: [build/img/SCHWEPPES TONIC WATER CAN 33CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SCJOHNSON ZIPLOC DOUBLE ZIPPER 38S FREEZER.jpeg]
+
+File to: [build/img/SCJOHNSON ZIPLOC DOUBLE ZIPPER 38S FREEZER.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SCOTTISH LEADER WHISKEY 200ML.jpg]
+
+File to: [build/img/SCOTTISH LEADER WHISKEY 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Sea Pearl Cotton Wool Balls.jpg]
+
+File to: [build/img/Sea Pearl Cotton Wool Balls.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEARA SAUSAGES.jpg]
+
+File to: [build/img/SEARA SAUSAGES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEBAMED BABY CLEANSING BAR 100G.jpg]
+
+File to: [build/img/SEBAMED BABY CLEANSING BAR 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEBAMED CLEANING BABY BAR 100ML.jpg]
+
+File to: [build/img/SEBAMED CLEANING BABY BAR 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEBAMED CLEANSING BARB SOAP 100G.jpg]
+
+File to: [build/img/SEBAMED CLEANSING BARB SOAP 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEEDED GRAPES PER KG.jpg]
+
+File to: [build/img/SEEDED GRAPES PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/seedless grape.jpg]
+
+File to: [build/img/seedless grape.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEEDLESS GRAPES (500g) PER PACK.jpg]
+
+File to: [build/img/SEEDLESS GRAPES (500g) PER PACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SelACE Immune Booster Softgels x25.jpg]
+
+File to: [build/img/SelACE Immune Booster Softgels x25.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SELECT 4 IN 1 TISSUE.jpg]
+
+File to: [build/img/SELECT 4 IN 1 TISSUE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SELSUN SHAMPOO   150ML.jpg]
+
+File to: [build/img/SELSUN SHAMPOO   150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU CABBAGE.jpg]
+
+File to: [build/img/SEMIU CABBAGE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU CARROT.jpg]
+
+File to: [build/img/SEMIU CARROT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU CHERRY TOMATOES PACK.jpg]
+
+File to: [build/img/SEMIU CHERRY TOMATOES PACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU CUCUMBER PER KG.jpg]
+
+File to: [build/img/SEMIU CUCUMBER PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU FRESH CUCUMBER.jpg]
+
+File to: [build/img/SEMIU FRESH CUCUMBER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU FRESH TOMATOES.jpg]
+
+File to: [build/img/SEMIU FRESH TOMATOES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU GRAPE.jpg]
+
+File to: [build/img/SEMIU GRAPE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU GREEN BEANS.jpg]
+
+File to: [build/img/SEMIU GREEN BEANS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU GREEN PEPPER.jpg]
+
+File to: [build/img/SEMIU GREEN PEPPER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU IMPORTED POTATOES.jpg]
+
+File to: [build/img/SEMIU IMPORTED POTATOES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU LEMON LOCAL.jpg]
+
+File to: [build/img/SEMIU LEMON LOCAL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU LIME PER PACK.jpg]
+
+File to: [build/img/SEMIU LIME PER PACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU LOCAL ORANGE PER.jpg]
+
+File to: [build/img/SEMIU LOCAL ORANGE PER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU MANGOES BIG.jpg]
+
+File to: [build/img/SEMIU MANGOES BIG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU ONIONS PER KG.jpg]
+
+File to: [build/img/SEMIU ONIONS PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU PEAR.jpg]
+
+File to: [build/img/SEMIU PEAR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU PINEAPPLE.jpg]
+
+File to: [build/img/SEMIU PINEAPPLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU GINGER-KITCHEN PER KG.jpg]
+
+File to: [build/img/SEMIU GINGER-KITCHEN PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Screen Shot 2020-05-12 at 10.44.52 AM.png]
+
+File to: [build/img/Screen Shot 2020-05-12 at 10.44.52 AM.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAIN

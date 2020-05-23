@@ -1,0 +1,13 @@
+File from: [src/img/Samsung watch 46mm Black.jpg]
+
+File to: [build/img/Samsung watch 46mm Black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Samsung watch active 2 44mm Black.jpg]
+
+File to: [build/img/Samsung watch active 2 44mm Black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

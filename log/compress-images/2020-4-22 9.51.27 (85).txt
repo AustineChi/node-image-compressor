@@ -1,0 +1,97 @@
+File from: [src/img/instagram-logo-gray.png]
+
+File to: [build/img/instagram-logo-gray.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/INSTANT VALET 300ML.jpg]
+
+File to: [build/img/INSTANT VALET 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INSULIN SYRINGE 1ML(100 40).jpg]
+
+File to: [build/img/INSULIN SYRINGE 1ML(100 40).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INSUMAN COMBO 30 10ML.jpg]
+
+File to: [build/img/INSUMAN COMBO 30 10ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INTERIOR CLEAN & SHINE.jpg]
+
+File to: [build/img/INTERIOR CLEAN & SHINE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INTERIOR DEHUMIDIFIER SET.jpg]
+
+File to: [build/img/INTERIOR DEHUMIDIFIER SET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Intesa Unisex Deo Body Spray 125ml.jpg]
+
+File to: [build/img/Intesa Unisex Deo Body Spray 125ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Intesa Unisex Deo Rollon 50ml.jpg]
+
+File to: [build/img/Intesa Unisex Deo Rollon 50ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INTIMATE CLEANSING WASH ALOE VERA 250ML.jpg]
+
+File to: [build/img/INTIMATE CLEANSING WASH ALOE VERA 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INTIMATE CLEANSING WASH DEODORISING 250ML.jpg]
+
+File to: [build/img/INTIMATE CLEANSING WASH DEODORISING 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INTIMATE CLEANSING WASH ORIGINAL 250ML.jpg]
+
+File to: [build/img/INTIMATE CLEANSING WASH ORIGINAL 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IODINE TINCTURE MOKO 15ML.jpg]
+
+File to: [build/img/IODINE TINCTURE MOKO 15ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/iPad 5 128gb.jpg]
+
+File to: [build/img/iPad 5 128gb.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/iPad 6 128gb.jpg]
+
+File to: [build/img/iPad 6 128gb.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INTERIOR DEHUMIDIFIER.jpg]
+
+File to: [build/img/INTERIOR DEHUMIDIFIER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/iPad 7 128gb.png]
+
+File to: [build/img/iPad 7 128gb.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAIN

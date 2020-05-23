@@ -1,0 +1,67 @@
+File from: [src/img/SUNSHINE MOONZLIN AIR FRESHENER.jpg]
+
+File to: [build/img/SUNSHINE MOONZLIN AIR FRESHENER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Sunshine Naphthalene Balls 225g.jpeg]
+
+File to: [build/img/Sunshine Naphthalene Balls 225g.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUNSHINE PERFUMED BLEACH 1 LTR.jpg]
+
+File to: [build/img/SUNSHINE PERFUMED BLEACH 1 LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUNSHINE POWER BLEACH 1LTR.jpg]
+
+File to: [build/img/SUNSHINE POWER BLEACH 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Sunvita Cereal 40g S x 50 Regular - Carton.png]
+
+File to: [build/img/Sunvita Cereal 40g S x 50 Regular - Carton.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Sunvita Cereal 500g P X 12 Choco - Carton.jpg]
+
+File to: [build/img/Sunvita Cereal 500g P X 12 Choco - Carton.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Sunvita Cereal 500g P X 12 Regular - Carton.png]
+
+File to: [build/img/Sunvita Cereal 500g P X 12 Regular - Carton.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SUPER 2 BISCUIT LEMON 600G.png]
+
+File to: [build/img/SUPER 2 BISCUIT LEMON 600G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Super 2 Cookies 600g x 24.jpg]
+
+File to: [build/img/Super 2 Cookies 600g x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUPER APETI SYRUP 200ML.jpeg]
+
+File to: [build/img/SUPER APETI SYRUP 200ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUPER APETI TABS X 20.jpg]
+
+File to: [build/img/SUPER APETI TABS X 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

@@ -1,0 +1,133 @@
+File from: [src/img/RAID LIQUID 1 LITRE.jpg]
+
+File to: [build/img/RAID LIQUID 1 LITRE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Raid Multipurpose Insect Killer 500mlx12.jpg]
+
+File to: [build/img/Raid Multipurpose Insect Killer 500mlx12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAID NON IRRITANT 300 ML.jpg]
+
+File to: [build/img/RAID NON IRRITANT 300 ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAID TKP 300 ML.jpg]
+
+File to: [build/img/RAID TKP 300 ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Raid Multipurpose Insect Killer 300mlx24.jpg]
+
+File to: [build/img/Raid Multipurpose Insect Killer 300mlx24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAKE COMB.jpg]
+
+File to: [build/img/RAKE COMB.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAJAH GROUND GINGER 85G.jpg]
+
+File to: [build/img/RAJAH GROUND GINGER 85G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Ram Meat 10Kg.jpg]
+
+File to: [build/img/Ram Meat 10Kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Ram Meat 1Kg.jpg]
+
+File to: [build/img/Ram Meat 1Kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Ram Meat 2.5Kg.jpg]
+
+File to: [build/img/Ram Meat 2.5Kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Ram Meat 5Kg.jpg]
+
+File to: [build/img/Ram Meat 5Kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Rambo Aerosol NIS Liquid Spray 500ml x12.jpg]
+
+File to: [build/img/Rambo Aerosol NIS Liquid Spray 500ml x12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Rambo Insecticide Aerosol 500ml x 12.jpg]
+
+File to: [build/img/Rambo Insecticide Aerosol 500ml x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Rambo Insect Powder 100g x 72.jpg]
+
+File to: [build/img/Rambo Insect Powder 100g x 72.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Rambo Insecticide Aerosol White 300mlx24.jpg]
+
+File to: [build/img/Rambo Insecticide Aerosol White 300mlx24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Rambo Insecticide Aerosol Green 300mlx24.jpg]
+
+File to: [build/img/Rambo Insecticide Aerosol Green 300mlx24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Rambo Insecticide Green Aerosol 500mlx12 (2).jpg]
+
+File to: [build/img/Rambo Insecticide Green Aerosol 500mlx12 (2).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Rambo Insecticide Magic Aerosol 300mlx24.jpg]
+
+File to: [build/img/Rambo Insecticide Magic Aerosol 300mlx24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Rambo Insecticide Green Aerosol 500mlx12.jpg]
+
+File to: [build/img/Rambo Insecticide Green Aerosol 500mlx12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Rambo Insecticide Magic Aerosol 500mlx12.jpg]
+
+File to: [build/img/Rambo Insecticide Magic Aerosol 500mlx12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAMIPRIL 2.5MG X 28 (TEVA).jpg]
+
+File to: [build/img/RAMIPRIL 2.5MG X 28 (TEVA).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAMIPRIL 10MG X 28 (TEVA).jpg]
+
+File to: [build/img/RAMIPRIL 10MG X 28 (TEVA).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

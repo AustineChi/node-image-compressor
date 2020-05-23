@@ -1,0 +1,253 @@
+File from: [src/img/POPCORNERS CORN SNACKS 28G.jpeg]
+
+File to: [build/img/POPCORNERS CORN SNACKS 28G.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POPCORNERS WHITE CHEDDAR 142G.jpg]
+
+File to: [build/img/POPCORNERS WHITE CHEDDAR 142G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POPIN WAFFLES 650G.jpg]
+
+File to: [build/img/POPIN WAFFLES 650G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pork belly.jpg]
+
+File to: [build/img/Pork belly.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pork bone.jpg]
+
+File to: [build/img/Pork bone.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pork boneless.jpg]
+
+File to: [build/img/Pork boneless.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pork chops.jpg]
+
+File to: [build/img/Pork chops.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pork feet.jpg]
+
+File to: [build/img/Pork feet.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pork fillet.jpg]
+
+File to: [build/img/Pork fillet.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pork leg roast.jpg]
+
+File to: [build/img/Pork leg roast.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pork loin boneless.jpg]
+
+File to: [build/img/Pork loin boneless.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pork minced.jpg]
+
+File to: [build/img/Pork minced.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pork neck.jpg]
+
+File to: [build/img/Pork neck.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pork ribs.jpg]
+
+File to: [build/img/Pork ribs.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pork roll.jpg]
+
+File to: [build/img/Pork roll.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pork shoulder.jpg]
+
+File to: [build/img/Pork shoulder.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pork skin.jpg]
+
+File to: [build/img/Pork skin.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pork stewing.jpg]
+
+File to: [build/img/Pork stewing.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PORKOYUm SAUSAGE 280G.jpg]
+
+File to: [build/img/PORKOYUm SAUSAGE 280G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pork trimming.jpg]
+
+File to: [build/img/Pork trimming.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Porridge Beans 2LTRS.png]
+
+File to: [build/img/Porridge Beans 2LTRS.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/POST GOLDEN CRISP 418G.jpg]
+
+File to: [build/img/POST GOLDEN CRISP 418G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POST GOLDEN OREO CEREAL 311G.jpg]
+
+File to: [build/img/POST GOLDEN OREO CEREAL 311G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POST GRAPE NUTS CEREAL 581G.jpg]
+
+File to: [build/img/POST GRAPE NUTS CEREAL 581G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POST GREAT GRAINS 453G.jpg]
+
+File to: [build/img/POST GREAT GRAINS 453G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POST GREAT GRAINS BLUEBERRY MORNING 382G.jpg]
+
+File to: [build/img/POST GREAT GRAINS BLUEBERRY MORNING 382G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POST GREAT GRAINS CEREAL CRUNCHY PECAN 439G.jpg]
+
+File to: [build/img/POST GREAT GRAINS CEREAL CRUNCHY PECAN 439G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POST GREAT GRAINS CEREAL RAISINS 453G.jpg]
+
+File to: [build/img/POST GREAT GRAINS CEREAL RAISINS 453G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POST GREAT GRAINS CRANBERRY ALMOND CRUNCH 396G.jpg]
+
+File to: [build/img/POST GREAT GRAINS CRANBERRY ALMOND CRUNCH 396G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POST GREAT GRAINS CRUNCHY PECAN 453G.jpg]
+
+File to: [build/img/POST GREAT GRAINS CRUNCHY PECAN 453G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POST HONEY BUNCH OF OAT ALMONDS 411G.jpg]
+
+File to: [build/img/POST HONEY BUNCH OF OAT ALMONDS 411G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POST HONEY BUNCH OF OAT CINNAMON 411G.jpg]
+
+File to: [build/img/POST HONEY BUNCH OF OAT CINNAMON 411G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POST HONEY BUNCH OF OAT HONEY APPLE CARAMEL 411G.jpg]
+
+File to: [build/img/POST HONEY BUNCH OF OAT HONEY APPLE CARAMEL 411G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POST HONEY BUNCH OF OAT HONEY ROASTED 411G.jpg]
+
+File to: [build/img/POST HONEY BUNCH OF OAT HONEY ROASTED 411G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POST HONEY BUNCH OF OAT WITH VANILLA 510G.jpg]
+
+File to: [build/img/POST HONEY BUNCH OF OAT WITH VANILLA 510G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POST HONEY BUNCHES CINNAMON BUNCHES 411G.jpg]
+
+File to: [build/img/POST HONEY BUNCHES CINNAMON BUNCHES 411G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POST HONEY BUNCHES OATS HONEY ROASTD 411G.jpg]
+
+File to: [build/img/POST HONEY BUNCHES OATS HONEY ROASTD 411G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POST HONEY BUNCHES OATS HONEY ROASTED 510G.jpg]
+
+File to: [build/img/POST HONEY BUNCHES OATS HONEY ROASTED 510G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POST HONEY BUNCHES OF OATS PECAN _ MAPLE 411G.jpg]
+
+File to: [build/img/POST HONEY BUNCHES OF OATS PECAN _ MAPLE 411G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POST RAISIN BRAIN CEREAL 567G.jpg]
+
+File to: [build/img/POST RAISIN BRAIN CEREAL 567G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POST RAISIN BRAN WHOLE GRAIN&BRAN CEREAL 567G.jpg]
+
+File to: [build/img/POST RAISIN BRAN WHOLE GRAIN&BRAN CEREAL 567G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POST GREAT GRAINS CEREAL BLUEBERRY 453G.jpg]
+
+File to: [build/img/POST GREAT GRAINS CEREAL BLUEBERRY 453G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

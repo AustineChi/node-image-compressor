@@ -1,0 +1,43 @@
+File from: [src/img/Ivytimol (Timolol) 0.5% Eye drops 5ml.jpg]
+
+File to: [build/img/Ivytimol (Timolol) 0.5% Eye drops 5ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IVYMOICEL EYE DROPS  10ML.jpeg]
+
+File to: [build/img/IVYMOICEL EYE DROPS  10ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IVYXOLOL EYE DROPS  5ML.jpg]
+
+File to: [build/img/IVYXOLOL EYE DROPS  5ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IVYZINC EYE DROPS  XML.jpg]
+
+File to: [build/img/IVYZINC EYE DROPS  XML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IVYZOXAN EYE EAR DROPS  5ML.jpg]
+
+File to: [build/img/IVYZOXAN EYE EAR DROPS  5ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iyan Ado Poundo Yam Flour 908g.jpg]
+
+File to: [build/img/Iyan Ado Poundo Yam Flour 908g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IZAL Germicide Saponated Cresol 150ml.jpg]
+
+File to: [build/img/IZAL Germicide Saponated Cresol 150ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

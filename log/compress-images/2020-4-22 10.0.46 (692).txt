@@ -1,0 +1,229 @@
+File from: [src/img/NEUTROGENA PINK GRAPEFRUIT FACIAL SCRUB 124ML.png]
+
+File to: [build/img/NEUTROGENA PINK GRAPEFRUIT FACIAL SCRUB 124ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/NEUTROGENA SHOWER GEL 473ML.jpg]
+
+File to: [build/img/NEUTROGENA SHOWER GEL 473ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEUTROGENA TRANSPARENT FACIAL BAR SOAP.jpg]
+
+File to: [build/img/NEUTROGENA TRANSPARENT FACIAL BAR SOAP.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEUTROGENA TRANSPARENT FACIAL SOAP BLACK.jpg]
+
+File to: [build/img/NEUTROGENA TRANSPARENT FACIAL SOAP BLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEUTROGENA TRANSPARENT FACIAL SOAP RED.jpg]
+
+File to: [build/img/NEUTROGENA TRANSPARENT FACIAL SOAP RED.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEUTROGENA VISIBLY CLEAR PORE&SHINE SCRUB 150ML.jpg]
+
+File to: [build/img/NEUTROGENA VISIBLY CLEAR PORE&SHINE SCRUB 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEUTROGENA VISIBLY PINK GRAPEFRUIT SCRUB 150ML.jpg]
+
+File to: [build/img/NEUTROGENA VISIBLY PINK GRAPEFRUIT SCRUB 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/New Amsterdam Vodka 750ml.jpg]
+
+File to: [build/img/New Amsterdam Vodka 750ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/New Canoe Bar Soap 140g.jpg]
+
+File to: [build/img/New Canoe Bar Soap 140g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/New Canoe Bar Soap 250g.jpg]
+
+File to: [build/img/New Canoe Bar Soap 250g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEW CAR AIRFRESHNER JASMINE FLOWER.jpg]
+
+File to: [build/img/NEW CAR AIRFRESHNER JASMINE FLOWER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEW CAR AIRFRESHNER OCEAN SPRAY.jpg]
+
+File to: [build/img/NEW CAR AIRFRESHNER OCEAN SPRAY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Newcastle16inch Rechargeable Fan With LED Light NCF 16-003Multicolour.jpg]
+
+File to: [build/img/Newcastle16inch Rechargeable Fan With LED Light NCF 16-003Multicolour.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEW PEARS BABY JELLY 250G.jpg]
+
+File to: [build/img/NEW PEARS BABY JELLY 250G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Newcastle32 Inch FHD LED TelevisionBLACK.jpg]
+
+File to: [build/img/Newcastle32 Inch FHD LED TelevisionBLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Newcastle3.1CH Home Theater System - NC891-3.1CHblack.jpg]
+
+File to: [build/img/Newcastle3.1CH Home Theater System - NC891-3.1CHblack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NewcastleDouble Burner Table Top Gas Cooker With Glass SurfaceBLACK.jpg]
+
+File to: [build/img/NewcastleDouble Burner Table Top Gas Cooker With Glass SurfaceBLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Newcastle43 Inch FHD LED TelevisionBLACK.jpg]
+
+File to: [build/img/Newcastle43 Inch FHD LED TelevisionBLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NewcastleHeavy Duty Powerful Home Theater Systemblack.jpg]
+
+File to: [build/img/NewcastleHeavy Duty Powerful Home Theater Systemblack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nhp Ibuprofen 200mg Dispersable Tab x10.jpg]
+
+File to: [build/img/Nhp Ibuprofen 200mg Dispersable Tab x10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NIBIT MINI SNACKS CHOCOLATE 60G.jpg]
+
+File to: [build/img/NIBIT MINI SNACKS CHOCOLATE 60G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NIBIT MINI SNACKS MILKY 60G.jpg]
+
+File to: [build/img/NIBIT MINI SNACKS MILKY 60G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Niceman Men's Underwear 2in1.jpg]
+
+File to: [build/img/Niceman Men's Underwear 2in1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nickelodeon JoJo Siwa DIY Slime Kit.jpg]
+
+File to: [build/img/Nickelodeon JoJo Siwa DIY Slime Kit.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nickelodeon Slime Ultimate Scented Glitter Slime Studio.jpeg]
+
+File to: [build/img/Nickelodeon Slime Ultimate Scented Glitter Slime Studio.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nido Kinder.JPG]
+
+File to: [build/img/Nido Kinder.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NIFECARD XL 30MG.jpg]
+
+File to: [build/img/NIFECARD XL 30MG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nifedin Dexcel Retard 20Mg Tab x30 PACK.jpg]
+
+File to: [build/img/Nifedin Dexcel Retard 20Mg Tab x30 PACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NIFEDIN DEXCEL TABS 20MG X 30.jpeg]
+
+File to: [build/img/NIFEDIN DEXCEL TABS 20MG X 30.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NIFEGEM RETARD. TABS 20MG X 10.jpg]
+
+File to: [build/img/NIFEGEM RETARD. TABS 20MG X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NIGERIAN PINEAPPLE PER KG.jpg]
+
+File to: [build/img/NIGERIAN PINEAPPLE PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NIGHT NURSE CAPS X 10.jpg]
+
+File to: [build/img/NIGHT NURSE CAPS X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NIRVANA BOLD BITTERLEMON 50CL.jpg]
+
+File to: [build/img/NIRVANA BOLD BITTERLEMON 50CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NIRVANA SODA WATER 50CL.jpg]
+
+File to: [build/img/NIRVANA SODA WATER 50CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nivea Anti-Perspirant Stick 40ml .jpg]
+
+File to: [build/img/Nivea Anti-Perspirant Stick 40ml .jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NIRVANA TONIC WATER 50CL.jpg]
+
+File to: [build/img/NIRVANA TONIC WATER 50CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nivea Body Roll On 50ml.jpg]
+
+File to: [build/img/Nivea Body Roll On 50ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Neutrogena Moisture Wrap 449ml.jpg]
+
+File to: [build/img/Neutrogena Moisture Wrap 449ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

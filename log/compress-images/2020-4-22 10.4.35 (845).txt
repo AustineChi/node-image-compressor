@@ -1,0 +1,169 @@
+File from: [src/img/Samsung Fold Black.jpg]
+
+File to: [build/img/Samsung Fold Black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Samsung M30 Black.jpg]
+
+File to: [build/img/Samsung M30 Black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Samsung M20 Black.jpg]
+
+File to: [build/img/Samsung M20 Black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Samsung note 10+ Black.jpg]
+
+File to: [build/img/Samsung note 10+ Black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Samsung M10 Black.jpg]
+
+File to: [build/img/Samsung M10 Black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Samsung Note 9 warranty dual Black.jpg]
+
+File to: [build/img/Samsung Note 9 warranty dual Black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Samsung S10 Black.jpg]
+
+File to: [build/img/Samsung S10 Black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Samsung watch 42mm Black.jpg]
+
+File to: [build/img/Samsung watch 42mm Black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Samsung watch 46mm Black.jpg]
+
+File to: [build/img/Samsung watch 46mm Black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Samsung watch active 2 44mm Black.jpg]
+
+File to: [build/img/Samsung watch active 2 44mm Black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Samsung32'' TV-32inch + Wall BracketBLACK.jpg]
+
+File to: [build/img/Samsung32'' TV-32inch + Wall BracketBLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Samsung32'' TV-32inch + Wall BracketBLACKK.jpg]
+
+File to: [build/img/Samsung32'' TV-32inch + Wall BracketBLACKK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Samsung43''SMART UHD 4K FLAT TV-43MU7000 Series 7 2019 New ModelBlack.jpg]
+
+File to: [build/img/Samsung43''SMART UHD 4K FLAT TV-43MU7000 Series 7 2019 New ModelBlack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SAMVITA GARRI FLOUR 1KG.jpg]
+
+File to: [build/img/SAMVITA GARRI FLOUR 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SAN ANTONIO IMPERIAL SEMI-SWEET 750ML.jpg]
+
+File to: [build/img/SAN ANTONIO IMPERIAL SEMI-SWEET 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Sanderson Food.jpg]
+
+File to: [build/img/Sanderson Food.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Sandoz Bisoprolol 10mg Tab x28 Pack.jpg]
+
+File to: [build/img/Sandoz Bisoprolol 10mg Tab x28 Pack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Sandoz Bisoprolol 2.5mg Tab x28 Pack.jpg]
+
+File to: [build/img/Sandoz Bisoprolol 2.5mg Tab x28 Pack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Sandoz Celecoxib caps x 10 satchet.jpg]
+
+File to: [build/img/Sandoz Celecoxib caps x 10 satchet.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SANDOZ METFORMIN 850MG X 10.jpg]
+
+File to: [build/img/SANDOZ METFORMIN 850MG X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SANDWICH BAG.jpg]
+
+File to: [build/img/SANDWICH BAG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SANEX ZERO% SHOWER GEL 600ML.jpg]
+
+File to: [build/img/SANEX ZERO% SHOWER GEL 600ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SANIGEL HAND SANITIZER 500ML.jpg]
+
+File to: [build/img/SANIGEL HAND SANITIZER 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SANITOL HAND SANITIZER 100ML.jpg]
+
+File to: [build/img/SANITOL HAND SANITIZER 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SANITOL HAND SANITIZER 500ML.jpeg]
+
+File to: [build/img/SANITOL HAND SANITIZER 500ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Sanitol hand sanitizer 500ml.jpg]
+
+File to: [build/img/Sanitol hand sanitizer 500ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SANITOL HAND SANITIZERS 500ML.jpg]
+
+File to: [build/img/SANITOL HAND SANITIZERS 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SANITOL HAND SANITIZER 70ML.jpg]
+
+File to: [build/img/SANITOL HAND SANITIZER 70ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

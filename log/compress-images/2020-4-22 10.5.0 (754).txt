@@ -1,0 +1,235 @@
+File from: [src/img/SNUFFLE BABY SALINE NASAL SALINE DROPS.jpg]
+
+File to: [build/img/SNUFFLE BABY SALINE NASAL SALINE DROPS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SO FINE ANTIDANDRUF HAIR DARKENING CREAM 100G.png]
+
+File to: [build/img/SO FINE ANTIDANDRUF HAIR DARKENING CREAM 100G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SO KLIN CONCENTRATED DETERGENT 900G.jpg]
+
+File to: [build/img/SO KLIN CONCENTRATED DETERGENT 900G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SO KLIN MATIC DETERGENT 1KG.jpg]
+
+File to: [build/img/SO KLIN MATIC DETERGENT 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SO YUMMY POPCORN 55G.jpg]
+
+File to: [build/img/SO YUMMY POPCORN 55G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/So-Klin Detergent Powder 500g x 12.jpg]
+
+File to: [build/img/So-Klin Detergent Powder 500g x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOAP DISH.jpg]
+
+File to: [build/img/SOAP DISH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOAP IRISH SPRING ALOE 100G.jpg]
+
+File to: [build/img/SOAP IRISH SPRING ALOE 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOAP IRISH SPRING ICY100G.jfif.jpg]
+
+File to: [build/img/SOAP IRISH SPRING ICY100G.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOAP IRISH SPRING ORIGINAL 100G.jpg]
+
+File to: [build/img/SOAP IRISH SPRING ORIGINAL 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOFT _ GENTLE 48H PROTECTION LAVENDER _ PATCHOULI 50ML.jpg]
+
+File to: [build/img/SOFT _ GENTLE 48H PROTECTION LAVENDER _ PATCHOULI 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Soft _ Gentle Deodorant Body Spray 250ml.jpg]
+
+File to: [build/img/Soft _ Gentle Deodorant Body Spray 250ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOFT _ GENTLE JASMINE _ COCO MILK 50ML.jpg]
+
+File to: [build/img/SOFT _ GENTLE JASMINE _ COCO MILK 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOFT _ GENTLE ORANGE 50ML.jpg]
+
+File to: [build/img/SOFT _ GENTLE ORANGE 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOFT _ GENTLE WILD ROSE _ VANILLA 50ML.jpg]
+
+File to: [build/img/SOFT _ GENTLE WILD ROSE _ VANILLA 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOFT _ GENTLEVERBENA _ WATERLILY 50ML.jpg]
+
+File to: [build/img/SOFT _ GENTLEVERBENA _ WATERLILY 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOFT & GENTLE SPRAY REALLY PURE 75ML.jpg]
+
+File to: [build/img/SOFT & GENTLE SPRAY REALLY PURE 75ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Soft Chicken.png]
+
+File to: [build/img/Soft Chicken.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SOFT & GENTLE SPRAY ULTRA PROTECTION 75ML.jpg]
+
+File to: [build/img/SOFT & GENTLE SPRAY ULTRA PROTECTION 75ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOFT KIDS TOOTHBRUSHES PURE ENFANT.jpg]
+
+File to: [build/img/SOFT KIDS TOOTHBRUSHES PURE ENFANT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOFT PROTECTION SALON PET BRUSH.jpg]
+
+File to: [build/img/SOFT PROTECTION SALON PET BRUSH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOFTWAVE JUMBO TOILET PAPER.jpg]
+
+File to: [build/img/SOFTWAVE JUMBO TOILET PAPER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOFTWAVE SERVIETTE 36S.jpg]
+
+File to: [build/img/SOFTWAVE SERVIETTE 36S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOFTWAVE SMALL TOILET PAPER.jpeg]
+
+File to: [build/img/SOFTWAVE SMALL TOILET PAPER.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOFTWAVE TOILET PAPER.jpg]
+
+File to: [build/img/SOFTWAVE TOILET PAPER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOLINGEN CUTICLE NIPPERS.jpg]
+
+File to: [build/img/SOLINGEN CUTICLE NIPPERS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOLO SQUARED PLASTIC PLATES 40S.jpg]
+
+File to: [build/img/SOLO SQUARED PLASTIC PLATES 40S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOLPADIENE PLUS SOLUBLE SOLUBLE TABS X 32.jpg]
+
+File to: [build/img/SOLPADIENE PLUS SOLUBLE SOLUBLE TABS X 32.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Sominex US (Diphenhydram 25mg) Tabs x16.jpg]
+
+File to: [build/img/Sominex US (Diphenhydram 25mg) Tabs x16.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SONIA TOMATO PASTE.jpg]
+
+File to: [build/img/SONIA TOMATO PASTE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Sony50 Class Full HD Smart LED TVblack.jpg]
+
+File to: [build/img/Sony50 Class Full HD Smart LED TVblack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SonyBlu-Ray Home Theatre Tall Boy Speakerswhite.jpg]
+
+File to: [build/img/SonyBlu-Ray Home Theatre Tall Boy Speakerswhite.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SonyBlu-Ray Home Theatre Tall Boy Speakerswhitee.jpg]
+
+File to: [build/img/SonyBlu-Ray Home Theatre Tall Boy Speakerswhitee.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SonyDVD Player DVP-SR370BLACK.jpg]
+
+File to: [build/img/SonyDVD Player DVP-SR370BLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SonyHigh Power Portable Party Music System With 360-Degree LightBLACK`.jpg]
+
+File to: [build/img/SonyHigh Power Portable Party Music System With 360-Degree LightBLACK`.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SonyMHC-V82D High Power Portable Party Music SystemBLACK.jpg]
+
+File to: [build/img/SonyMHC-V82D High Power Portable Party Music SystemBLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SNIPER AEROSOL FLYING 300ML.jpg]
+
+File to: [build/img/SNIPER AEROSOL FLYING 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SnowseaDouble 3.5ft Door Standing Refrigerator BCD-158silver.jpg]
+
+File to: [build/img/SnowseaDouble 3.5ft Door Standing Refrigerator BCD-158silver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SNUFFLE BABE VAPOUR RUB.jpg]
+
+File to: [build/img/SNUFFLE BABE VAPOUR RUB.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

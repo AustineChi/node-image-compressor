@@ -1,0 +1,229 @@
+File from: [src/img/Molfix Baby Pants Small Pack.jpg]
+
+File to: [build/img/Molfix Baby Pants Small Pack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MOLFIX PANTS JUNIOR 48S.jpg]
+
+File to: [build/img/MOLFIX PANTS JUNIOR 48S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MOLFIX PANTS JUNIOR SMALL PACK 5 7S.jpg]
+
+File to: [build/img/MOLFIX PANTS JUNIOR SMALL PACK 5 7S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MOLFIX PANTS MAXI S PACK NG 8S.jpg]
+
+File to: [build/img/MOLFIX PANTS MAXI S PACK NG 8S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MOLFIX PANTS MIDI PACK NG 9S.jpg]
+
+File to: [build/img/MOLFIX PANTS MIDI PACK NG 9S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Molped Maxi Thick Long Sanitary 8Padsx16.jpeg]
+
+File to: [build/img/Molped Maxi Thick Long Sanitary 8Padsx16.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Molped Maxi Thick Long Sanitary 8Padsx16.jpg]
+
+File to: [build/img/Molped Maxi Thick Long Sanitary 8Padsx16.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Molped Maxi Thick Normal San 10Pads x12.jpg]
+
+File to: [build/img/Molped Maxi Thick Normal San 10Pads x12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MOLPED MAXI THICK SW LONG 16S.jpg]
+
+File to: [build/img/MOLPED MAXI THICK SW LONG 16S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MOLPED MAXI THICK SW LONG 8S.jpg]
+
+File to: [build/img/MOLPED MAXI THICK SW LONG 8S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Molped Maxi Thick Value Pack 16Pads x 8.jpg]
+
+File to: [build/img/Molped Maxi Thick Value Pack 16Pads x 8.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MOLPED ULTRA SOFT PAD 7S.jpg]
+
+File to: [build/img/MOLPED ULTRA SOFT PAD 7S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Molped US Extra Long Value Pack 14Pd x 8.jpg]
+
+File to: [build/img/Molped US Extra Long Value Pack 14Pd x 8.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Molped US Long Value 16Pads SP x 8.jpg]
+
+File to: [build/img/Molped US Long Value 16Pads SP x 8.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MOMODA FEEDING BOTTLE BIG.jpg]
+
+File to: [build/img/MOMODA FEEDING BOTTLE BIG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MONAYZ READY TO EAT PEPPER SAUCE 250G.jpg]
+
+File to: [build/img/MONAYZ READY TO EAT PEPPER SAUCE 250G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MONAYZ READY TO EAT PEPPER SAUCE 250G.png]
+
+File to: [build/img/MONAYZ READY TO EAT PEPPER SAUCE 250G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/MONAYZ READY TO EAT PEPPER SAUCE 70G.jpg]
+
+File to: [build/img/MONAYZ READY TO EAT PEPPER SAUCE 70G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mondelle French Fries 1Kg x 10.jpg]
+
+File to: [build/img/Mondelle French Fries 1Kg x 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mondelle French Fries 2.5Kg x 4.jpg]
+
+File to: [build/img/Mondelle French Fries 2.5Kg x 4.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Monkey 4750cl x6.jpg]
+
+File to: [build/img/Monkey 4750cl x6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MONKEY SHOULDER BLENDED MALT SCOTCH WHISKY 70CL.jpg]
+
+File to: [build/img/MONKEY SHOULDER BLENDED MALT SCOTCH WHISKY 70CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MONOPOLY GAME BIG.jpg]
+
+File to: [build/img/MONOPOLY GAME BIG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Monopoly Game- Game of Thrones Edition Board Game.jpg]
+
+File to: [build/img/Monopoly Game- Game of Thrones Edition Board Game.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Monopoly Game- L.O.L. Surprise! Edition Board Game.jpg]
+
+File to: [build/img/Monopoly Game- L.O.L. Surprise! Edition Board Game.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MONOPOLY LAGOS EDITION.jpg]
+
+File to: [build/img/MONOPOLY LAGOS EDITION.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MONOPOLY SMALL.jpg]
+
+File to: [build/img/MONOPOLY SMALL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Monsieur Pascal Sparkling Wine 75cl.png]
+
+File to: [build/img/Monsieur Pascal Sparkling Wine 75cl.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Monster Energy Drink 440ml x 24.jpg]
+
+File to: [build/img/Monster Energy Drink 440ml x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MONSTER ENERGY DRINK 440ML.jpg]
+
+File to: [build/img/MONSTER ENERGY DRINK 440ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MONSTER FURY CAN 440ML.png]
+
+File to: [build/img/MONSTER FURY CAN 440ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/MONTERAL FLOWER.jpeg]
+
+File to: [build/img/MONTERAL FLOWER.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MONTIGET TABS 10MG X 14.jpg]
+
+File to: [build/img/MONTIGET TABS 10MG X 14.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MONTIGET TABS 4MG X 14.png]
+
+File to: [build/img/MONTIGET TABS 4MG X 14.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/MONTIGET TABS 5MG X 14.jpg]
+
+File to: [build/img/MONTIGET TABS 5MG X 14.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MOP STICK BIG.png]
+
+File to: [build/img/MOP STICK BIG.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/MOP STICK SQUARE BIG.jpg]
+
+File to: [build/img/MOP STICK SQUARE BIG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MORGAN HAIR POMADE 100G.jpg]
+
+File to: [build/img/MORGAN HAIR POMADE 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

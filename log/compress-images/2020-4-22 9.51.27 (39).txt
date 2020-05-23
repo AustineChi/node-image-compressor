@@ -1,0 +1,187 @@
+File from: [src/img/Fem Fresh Soap Free Wash 150ml x 12(1).jpg]
+
+File to: [build/img/Fem Fresh Soap Free Wash 150ml x 12(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Fem Tight Original Antiseptic Wash Soap.jpg]
+
+File to: [build/img/Fem Tight Original Antiseptic Wash Soap.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Fem Tight Original Antiseptic Wash Soap(1).jpg]
+
+File to: [build/img/Fem Tight Original Antiseptic Wash Soap(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FEM TIGHT ORIGINAL SOAP 90GM.jpg]
+
+File to: [build/img/FEM TIGHT ORIGINAL SOAP 90GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FEMFRESH ACTIVE FRESH WASH 250ML.jpg]
+
+File to: [build/img/FEMFRESH ACTIVE FRESH WASH 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FEMFRESH ACTIVE FRESH WASH.jpg]
+
+File to: [build/img/FEMFRESH ACTIVE FRESH WASH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FEMFRESH DAILY INTIMATE WASH 250ML.jpg]
+
+File to: [build/img/FEMFRESH DAILY INTIMATE WASH 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FEMFRESH FEMININE WIPES 15S.jpg]
+
+File to: [build/img/FEMFRESH FEMININE WIPES 15S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FemFresh Freshness Deodorant Spray 125ml.jpg]
+
+File to: [build/img/FemFresh Freshness Deodorant Spray 125ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Femfresh intimate daily wash 250ml.jpg]
+
+File to: [build/img/Femfresh intimate daily wash 250ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FEMFRESH PURE AND FRESH WASH 250ML.jpg]
+
+File to: [build/img/FEMFRESH PURE AND FRESH WASH 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FEMFRESH SOOTHING WASH 250ML.jpg]
+
+File to: [build/img/FEMFRESH SOOTHING WASH 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FEMFRESH WIPES 25`S.jpg]
+
+File to: [build/img/FEMFRESH WIPES 25`S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FEMFRESHPURE&FRESHFRESH WASH 250ML.png]
+
+File to: [build/img/FEMFRESHPURE&FRESHFRESH WASH 250ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/FEMINAX EXPRESS TAB X 8.jpeg]
+
+File to: [build/img/FEMINAX EXPRESS TAB X 8.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FEMINAX ULTRA TABS X 9.png]
+
+File to: [build/img/FEMINAX ULTRA TABS X 9.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/FEMININE INTIMATE SPRAY 150ML.jpg]
+
+File to: [build/img/FEMININE INTIMATE SPRAY 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FEMININE INTIMATE WASHING GEL 150ML.jpg]
+
+File to: [build/img/FEMININE INTIMATE WASHING GEL 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FEMININE INTIMATE WIPES INDIVIDUALLY WRAPPED 12.jpg]
+
+File to: [build/img/FEMININE INTIMATE WIPES INDIVIDUALLY WRAPPED 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FENAMEX -500 X 10.png]
+
+File to: [build/img/FENAMEX -500 X 10.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Fendi Life Essence EDT 100ml.jpg]
+
+File to: [build/img/Fendi Life Essence EDT 100ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Fendi Life Essence EDT 100ml(1).jpg]
+
+File to: [build/img/Fendi Life Essence EDT 100ml(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FENPAED SUSP  100ML.jpg]
+
+File to: [build/img/FENPAED SUSP  100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FEROGLOBIN B12 CAPS X 30.jpg]
+
+File to: [build/img/FEROGLOBIN B12 CAPS X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FEROGLOBIN B12 SYR 200ML.jpg]
+
+File to: [build/img/FEROGLOBIN B12 SYR 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FEROGLOBIN PLUS LIQUID 200ML.jpg]
+
+File to: [build/img/FEROGLOBIN PLUS LIQUID 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Ferrero Rocher Chocolate 200g x 20.jpg]
+
+File to: [build/img/Ferrero Rocher Chocolate 200g x 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Ferrero Rocher Chocolate 200g x 20(1).jpg]
+
+File to: [build/img/Ferrero Rocher Chocolate 200g x 20(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FERRERO ROCHER T16 200G CHOCOLATE.png]
+
+File to: [build/img/FERRERO ROCHER T16 200G CHOCOLATE.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/FERROUS GLUCONATE 300MG X 28 TABLETS (athlone).jpg]
+
+File to: [build/img/FERROUS GLUCONATE 300MG X 28 TABLETS (athlone).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FERROUS GLUCONATE 300MG X 28 TABLETS.jpg]
+
+File to: [build/img/FERROUS GLUCONATE 300MG X 28 TABLETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

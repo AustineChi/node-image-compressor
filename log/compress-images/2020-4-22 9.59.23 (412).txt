@@ -1,0 +1,139 @@
+File from: [src/img/GREEN PEAS (PETIT POIS) TIN.jpeg]
+
+File to: [build/img/GREEN PEAS (PETIT POIS) TIN.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GREEN PEAS.jpg]
+
+File to: [build/img/GREEN PEAS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Green Toys Baby Toy Starter Set.jpg]
+
+File to: [build/img/Green Toys Baby Toy Starter Set.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Green Toys Mini Vehicle, 4-Pack.jpg]
+
+File to: [build/img/Green Toys Mini Vehicle, 4-Pack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GREENLIN COUGH LINCTUS BABY 100ML.jpeg]
+
+File to: [build/img/GREENLIN COUGH LINCTUS BABY 100ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRIPE WATER (WOOD WARD)   100ML {SS}.jpg]
+
+File to: [build/img/GRIPE WATER (WOOD WARD)   100ML {SS}.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRIPE WATER (WOOD WARD) 148ML {BS}.jpg]
+
+File to: [build/img/GRIPE WATER (WOOD WARD) 148ML {BS}.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRIPE WATER. (WOOD WARDS) SYR  148ML [UK].jpg]
+
+File to: [build/img/GRIPE WATER. (WOOD WARDS) SYR  148ML [UK].jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRISEOFULVIN X 20 (NUSOVIN).jpg]
+
+File to: [build/img/GRISEOFULVIN X 20 (NUSOVIN).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRISEOFULVIN. TABS 500MG X 20.jpeg]
+
+File to: [build/img/GRISEOFULVIN. TABS 500MG X 20.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grocery Bazaar Coconut Bread.jpg]
+
+File to: [build/img/Grocery Bazaar Coconut Bread.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grocery Bazaar Fruit Bread.jpg]
+
+File to: [build/img/Grocery Bazaar Fruit Bread.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grocery Bazaar loaf-slice Bread.jpg]
+
+File to: [build/img/Grocery Bazaar loaf-slice Bread.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grocery Bazaar Sardine Bread.jpg]
+
+File to: [build/img/Grocery Bazaar Sardine Bread.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GroceryBazaar.png]
+
+File to: [build/img/GroceryBazaar.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GROWING UP MILK POWDER 12 X 380 GM.jpg]
+
+File to: [build/img/GROWING UP MILK POWDER 12 X 380 GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GROWING UP MILK POWDER 400 GM x12.jfif.jpg]
+
+File to: [build/img/GROWING UP MILK POWDER 400 GM x12.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/gs barracuda fish steak.jpg]
+
+File to: [build/img/gs barracuda fish steak.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GS CALAMARI RINGS 1KG.jpg]
+
+File to: [build/img/GS CALAMARI RINGS 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GUINESS GOLD LAGER BEER 600ML.jpg]
+
+File to: [build/img/GUINESS GOLD LAGER BEER 600ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GUINNESS AFRICA SPECIAL 450ML X 18 RGB.png]
+
+File to: [build/img/GUINNESS AFRICA SPECIAL 450ML X 18 RGB.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GUINNESS AFRICA SPECIAL STOUT 450ML.png]
+
+File to: [build/img/GUINNESS AFRICA SPECIAL STOUT 450ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GUINNESS AFRICAN SPECIAL BOTTLE.png]
+
+File to: [build/img/GUINNESS AFRICAN SPECIAL BOTTLE.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAIN

@@ -1,0 +1,49 @@
+File from: [src/img/COLOUR RUN REMOVER.jpg]
+
+File to: [build/img/COLOUR RUN REMOVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COMBISUNATE 80_480 X 6 TABS.jpeg]
+
+File to: [build/img/COMBISUNATE 80_480 X 6 TABS.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Combo Family pack.jpg]
+
+File to: [build/img/Combo Family pack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COMFORT 2 SENSITIVE P5X40 (200).jpg]
+
+File to: [build/img/COMFORT 2 SENSITIVE P5X40 (200).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/comfort apron - Copy.jpeg]
+
+File to: [build/img/comfort apron - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOSSAL KAJAL 6 HR BLACK.jpg]
+
+File to: [build/img/COLOSSAL KAJAL 6 HR BLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOSSAL KAJAL 12 HR SMOKY.jpg]
+
+File to: [build/img/COLOSSAL KAJAL 12 HR SMOKY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOSSAL GO EXTREME MASCARA 1 VERY BLACK.jpg]
+
+File to: [build/img/COLOSSAL GO EXTREME MASCARA 1 VERY BLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

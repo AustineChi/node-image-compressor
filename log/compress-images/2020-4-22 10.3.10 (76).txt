@@ -1,0 +1,7 @@
+File from: [src/img/OLDENBURGER WHIPPING CREAM 1 LITRE.jpg]
+
+File to: [build/img/OLDENBURGER WHIPPING CREAM 1 LITRE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

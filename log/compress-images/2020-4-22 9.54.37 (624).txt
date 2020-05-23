@@ -1,0 +1,127 @@
+File from: [src/img/Dispensing Envelopes x100.jpg]
+
+File to: [build/img/Dispensing Envelopes x100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dispersible Aspirin 75mg x 28 Pack.jpg]
+
+File to: [build/img/Dispersible Aspirin 75mg x 28 Pack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Disposable 20pcs Silver Cutlery.jpg]
+
+File to: [build/img/Disposable 20pcs Silver Cutlery.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Disposable Cup Big Coloured 50Pks.jpg]
+
+File to: [build/img/Disposable Cup Big Coloured 50Pks.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DISPOSABLE FACE MASK X 1.jpg]
+
+File to: [build/img/DISPOSABLE FACE MASK X 1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Disposable Cup Small 30Packs.jpeg]
+
+File to: [build/img/Disposable Cup Small 30Packs.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DISPOSABLE FACE MASK X 50.jpg]
+
+File to: [build/img/DISPOSABLE FACE MASK X 50.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Disposable Plate.jpg]
+
+File to: [build/img/Disposable Plate.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Disposable Spoon.jpg]
+
+File to: [build/img/Disposable Spoon.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Divin Bardar VS 0.5Ltr.jpg]
+
+File to: [build/img/Divin Bardar VS 0.5Ltr.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOG BROWN TEDDY.jpg]
+
+File to: [build/img/DOG BROWN TEDDY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dogan_s Sugar Cubes 500g.jpg]
+
+File to: [build/img/Dogan_s Sugar Cubes 500g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOGAN’S CUBE SUGAR.jpg]
+
+File to: [build/img/DOGAN’S CUBE SUGAR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOGAN'S SUGAR CUBES.jpg]
+
+File to: [build/img/DOGAN'S SUGAR CUBES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOGAN’S GRANULATED SUGAR 450G.jpg]
+
+File to: [build/img/DOGAN’S GRANULATED SUGAR 450G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOGAN’S GRANULATED SUGAR 225G.jpg]
+
+File to: [build/img/DOGAN’S GRANULATED SUGAR 225G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOGAN’S GRANULATED SUGAR 900G.jpg]
+
+File to: [build/img/DOGAN’S GRANULATED SUGAR 900G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOGAN’S ICING SUGAR (500G).jpg]
+
+File to: [build/img/DOGAN’S ICING SUGAR (500G).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dolait Yoghurt 200ml.png]
+
+File to: [build/img/Dolait Yoghurt 200ml.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Dolait Yoghurt 125g.jpg]
+
+File to: [build/img/Dolait Yoghurt 125g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOLLY BBQ SAUCE 450G.jpg]
+
+File to: [build/img/DOLLY BBQ SAUCE 450G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

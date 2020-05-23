@@ -1,0 +1,733 @@
+File from: [src/img/Golden Country Sweet Corn 326g.jpg]
+
+File to: [build/img/Golden Country Sweet Corn 326g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN FISH SARDINES 125G.png]
+
+File to: [build/img/GOLDEN FISH SARDINES 125G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GOLDEN MORN (500G).jpg]
+
+File to: [build/img/GOLDEN MORN (500G).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN COUNTRY SWEET CORN 340G.jpg]
+
+File to: [build/img/GOLDEN COUNTRY SWEET CORN 340G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN MORN FORTIFIED 250G NF.png]
+
+File to: [build/img/GOLDEN MORN FORTIFIED 250G NF.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GOLDEN MORN FORTIFIED 1KG.jpg]
+
+File to: [build/img/GOLDEN MORN FORTIFIED 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN MORN FORTIFIED 500G NF.jpg]
+
+File to: [build/img/GOLDEN MORN FORTIFIED 500G NF.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN MORN FORTIFIED 50G NF.jpg]
+
+File to: [build/img/GOLDEN MORN FORTIFIED 50G NF.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY COUSCOUS 500G.jpg]
+
+File to: [build/img/GOLDEN PENNY COUSCOUS 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY COUSCOUS 500G.png]
+
+File to: [build/img/GOLDEN PENNY COUSCOUS 500G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GOLDEN PENNY GARRI 1KG.jpg]
+
+File to: [build/img/GOLDEN PENNY GARRI 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY GOLDENVITA 10KG.jpeg]
+
+File to: [build/img/GOLDEN PENNY GOLDENVITA 10KG.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY GOLDENVITA 5KG.jpg]
+
+File to: [build/img/GOLDEN PENNY GOLDENVITA 5KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Golden Penny Granulated Sugar 500g.jpg]
+
+File to: [build/img/Golden Penny Granulated Sugar 500g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY NOODLES CHICKEN FLAVOUR 70G.jpg]
+
+File to: [build/img/GOLDEN PENNY NOODLES CHICKEN FLAVOUR 70G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY NOODLES JOLLOF CHICKEN 70G.JPG]
+
+File to: [build/img/GOLDEN PENNY NOODLES JOLLOF CHICKEN 70G.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY PASTA TWIST 500G.jpg]
+
+File to: [build/img/GOLDEN PENNY PASTA TWIST 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Golden Penny Refined Sugar 200g.jpg]
+
+File to: [build/img/Golden Penny Refined Sugar 200g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Golden Penny Refined Sugar 200g.png]
+
+File to: [build/img/Golden Penny Refined Sugar 200g.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Golden Penny Refined Sugar 200g(1).jpg]
+
+File to: [build/img/Golden Penny Refined Sugar 200g(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Golden Penny Refined Sugar 500g.jpg]
+
+File to: [build/img/Golden Penny Refined Sugar 500g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY SEMOVITA 1KG.jpg]
+
+File to: [build/img/GOLDEN PENNY SEMOVITA 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY SEMOVITA 5KG.jpg]
+
+File to: [build/img/GOLDEN PENNY SEMOVITA 5KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Golden Penny Semovita 5Kg(1).jpg]
+
+File to: [build/img/Golden Penny Semovita 5Kg(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY SEMOVITA 2KG.jpg]
+
+File to: [build/img/GOLDEN PENNY SEMOVITA 2KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY SOYA OIL - 1 LITRE.png]
+
+File to: [build/img/GOLDEN PENNY SOYA OIL - 1 LITRE.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GOLDEN PENNY SOYA. OIL 1L.jpg]
+
+File to: [build/img/GOLDEN PENNY SOYA. OIL 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY SOYA. OIL 2.75L.jpg]
+
+File to: [build/img/GOLDEN PENNY SOYA. OIL 2.75L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY SOYA. OIL 4L.jpg]
+
+File to: [build/img/GOLDEN PENNY SOYA. OIL 4L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY SOYA. OIL 4L.png]
+
+File to: [build/img/GOLDEN PENNY SOYA. OIL 4L.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GOLDEN PENNY SOYAL OIL - 2.75 LITERS.jpg]
+
+File to: [build/img/GOLDEN PENNY SOYAL OIL - 2.75 LITERS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY SPAGHETTI 500G.jpg]
+
+File to: [build/img/GOLDEN PENNY SPAGHETTI 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Golden Penny Spaghettini 500g.jpg]
+
+File to: [build/img/Golden Penny Spaghettini 500g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Golden Penny Spaghettini 500g.png]
+
+File to: [build/img/Golden Penny Spaghettini 500g.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Golden Penny Spaghettini 500g(1).png]
+
+File to: [build/img/Golden Penny Spaghettini 500g(1).png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GOLDEN PENNY SUGAR 250G.jpg]
+
+File to: [build/img/GOLDEN PENNY SUGAR 250G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY SPREAD 900G.jpg]
+
+File to: [build/img/GOLDEN PENNY SPREAD 900G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY SUGAR 500G.jpg]
+
+File to: [build/img/GOLDEN PENNY SUGAR 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY SUGAR SACHET 250GR.png]
+
+File to: [build/img/GOLDEN PENNY SUGAR SACHET 250GR.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GOLDEN PENNY VEG. OIL 2.75L.jpg]
+
+File to: [build/img/GOLDEN PENNY VEG. OIL 2.75L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY VEG. OIL 4L.jpg]
+
+File to: [build/img/GOLDEN PENNY VEG. OIL 4L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY VEGETABLE OIL 1 LTR.jpg]
+
+File to: [build/img/GOLDEN PENNY VEGETABLE OIL 1 LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY VEGETABLE OIL 2.75 LTRS.jpg]
+
+File to: [build/img/GOLDEN PENNY VEGETABLE OIL 2.75 LTRS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Golden Penny White Cube Sugar 500g.png]
+
+File to: [build/img/Golden Penny White Cube Sugar 500g.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Golden Penny White Cube Sugar 500g(1).png]
+
+File to: [build/img/Golden Penny White Cube Sugar 500g(1).png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GOLDEN PHOENIX JUMBO COOKED SHRIMP 400G.jpg]
+
+File to: [build/img/GOLDEN PHOENIX JUMBO COOKED SHRIMP 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PHOENIX SAUSAGE.jpg]
+
+File to: [build/img/GOLDEN PHOENIX SAUSAGE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PHOENIX LARGE SHRIMP 400G.jpg]
+
+File to: [build/img/GOLDEN PHOENIX LARGE SHRIMP 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PHONIX FISH FILLET 1KG.jpg]
+
+File to: [build/img/GOLDEN PHONIX FISH FILLET 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PHOENIX WHITE FISH FILLETS 1KG.jpg]
+
+File to: [build/img/GOLDEN PHOENIX WHITE FISH FILLETS 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PREMIER ORANGE CREAM WAFER 22GM.jpg]
+
+File to: [build/img/GOLDEN PREMIER ORANGE CREAM WAFER 22GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PRIDE WHITE GRAPE WINE 750ML.jpg]
+
+File to: [build/img/GOLDEN PRIDE WHITE GRAPE WINE 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN-COUNTRY-CORN-FLAKES-500G-5032619507811.jpg]
+
+File to: [build/img/GOLDEN-COUNTRY-CORN-FLAKES-500G-5032619507811.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN-COUNTRY-CORN-FLAKES-500G-5032619507811(1).jpg]
+
+File to: [build/img/GOLDEN-COUNTRY-CORN-FLAKES-500G-5032619507811(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOOD MAMA FLORAL FRESH 1KG.jpg]
+
+File to: [build/img/GOOD MAMA FLORAL FRESH 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOOD LUCK CARD.jpg]
+
+File to: [build/img/GOOD LUCK CARD.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOOD MAMA LEMON 1KG.jpg]
+
+File to: [build/img/GOOD MAMA LEMON 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOOD MORNING CORN FLAKES 450G.jpg]
+
+File to: [build/img/GOOD MORNING CORN FLAKES 450G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Good morning corn flakes.jpg]
+
+File to: [build/img/Good morning corn flakes.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Good morning corn flakes(1).jpg]
+
+File to: [build/img/Good morning corn flakes(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Good Morning Corn Flakes325gx10.jpg]
+
+File to: [build/img/Good Morning Corn Flakes325gx10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Good Morning Cornflakes 450Gm(Box).jpeg]
+
+File to: [build/img/Good Morning Cornflakes 450Gm(Box).jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Good Morning Oats 500Gm (Box).jpg]
+
+File to: [build/img/Good Morning Oats 500Gm (Box).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Good Morning White Oats 500g.jpg]
+
+File to: [build/img/Good Morning White Oats 500g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOOD MORNING CORNFLAKES 500G.jpg]
+
+File to: [build/img/GOOD MORNING CORNFLAKES 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Good Morning White Oats 500g(1).jpg]
+
+File to: [build/img/Good Morning White Oats 500g(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GORDONS 75CL.jpg]
+
+File to: [build/img/GORDONS 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GORDONS DRY GIN 20CLX48.jpg]
+
+File to: [build/img/GORDONS DRY GIN 20CLX48.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GORDONS DRY GIN 70CLX12.jpg]
+
+File to: [build/img/GORDONS DRY GIN 70CLX12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GORDONS MORINGA CITRUS BLEND 750ML.jpg]
+
+File to: [build/img/GORDONS MORINGA CITRUS BLEND 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Govmic Surgical Face Mask x 50.jpg]
+
+File to: [build/img/Govmic Surgical Face Mask x 50.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOYA ADOBO SEASONING WITH PEPPER 226G.jpg]
+
+File to: [build/img/GOYA ADOBO SEASONING WITH PEPPER 226G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOYA ADOBO SEASONING WITH PEPPER 793G.jpg]
+
+File to: [build/img/GOYA ADOBO SEASONING WITH PEPPER 793G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOYA CHICK PEAS GARBANZOS 439G.jpg]
+
+File to: [build/img/GOYA CHICK PEAS GARBANZOS 439G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOYA CHOCOLATE MARIA COOKIES 200G.jpg]
+
+File to: [build/img/GOYA CHOCOLATE MARIA COOKIES 200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOYA OLIVE OIL   88.7ML.jpg]
+
+File to: [build/img/GOYA OLIVE OIL   88.7ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOYA OLIVE OIL 1LTR.jpg]
+
+File to: [build/img/GOYA OLIVE OIL 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOYA OLIVE OIL 250ML.jpg]
+
+File to: [build/img/GOYA OLIVE OIL 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOYA OLIVE OIL 500ML.jpg]
+
+File to: [build/img/GOYA OLIVE OIL 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOYA OLIVE OIL 89ML.jpg]
+
+File to: [build/img/GOYA OLIVE OIL 89ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Boutique Body Mist- White Nectarine & Pear - 250ml.jpg]
+
+File to: [build/img/Grace Cole Boutique Body Mist- White Nectarine & Pear - 250ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRACE COLE BOUTIQUE PROSECCO & CASSIS 2S 500ML.jpg]
+
+File to: [build/img/GRACE COLE BOUTIQUE PROSECCO & CASSIS 2S 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Cherry Blossom & Peony 250ml Body Mist  -.jpg]
+
+File to: [build/img/Grace Cole Cherry Blossom & Peony 250ml Body Mist  -.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Cherry Blossom & Peony 500ml Body Wash  -.jpg]
+
+File to: [build/img/Grace Cole Cherry Blossom & Peony 500ml Body Wash  -.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Cherry Blossom & Peony 250ml Body Mist.jpg]
+
+File to: [build/img/Grace Cole Cherry Blossom & Peony 250ml Body Mist.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Coconut & Lime 500ml Bath & Shower Gel -.jpeg]
+
+File to: [build/img/Grace Cole Coconut & Lime 500ml Bath & Shower Gel -.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Coconut & Lime 500ml Bath & Shower Gel -.jpg]
+
+File to: [build/img/Grace Cole Coconut & Lime 500ml Bath & Shower Gel -.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRACE COLE ENGLAND GINGER LILY & MANDARIN DIFFUSER 200ML.jpg]
+
+File to: [build/img/GRACE COLE ENGLAND GINGER LILY & MANDARIN DIFFUSER 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRACE COLE ENGLAND NECTARINE BLOSSOM & GRAPEFRUIT DIFFUSER 200ML.jpg]
+
+File to: [build/img/GRACE COLE ENGLAND NECTARINE BLOSSOM & GRAPEFRUIT DIFFUSER 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRACE COLE ENGLAND WARM VANILLA & SANDALWOOD DIFFUSER 200ML.jpg]
+
+File to: [build/img/GRACE COLE ENGLAND WARM VANILLA & SANDALWOOD DIFFUSER 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRACE COLE ENGLAND OUD ACCORD & VELVET MUSK DIFFUSER 200ML.jpg]
+
+File to: [build/img/GRACE COLE ENGLAND OUD ACCORD & VELVET MUSK DIFFUSER 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRACE COLE ENGLAND WHITE NECTARINE & PEAR DIFFUSER 200ML.jpg]
+
+File to: [build/img/GRACE COLE ENGLAND WHITE NECTARINE & PEAR DIFFUSER 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Fruitworks Body Lotion coconut & Lime 500ml Hand & Body Lotion.jpg]
+
+File to: [build/img/Grace Cole Fruitworks Body Lotion coconut & Lime 500ml Hand & Body Lotion.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRACE COLE ENGLAND WILD FIG & PINK CEDAR DIFFUSER 200ML.jpg]
+
+File to: [build/img/GRACE COLE ENGLAND WILD FIG & PINK CEDAR DIFFUSER 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Fruitworks Body Lotion Oud & Cassis 500ml Body Lotion  -.jpg]
+
+File to: [build/img/Grace Cole Fruitworks Body Lotion Oud & Cassis 500ml Body Lotion  -.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Grapefruit & Verbena 250ml Body Mist  -.jpg]
+
+File to: [build/img/Grace Cole Grapefruit & Verbena 250ml Body Mist  -.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Fruitworks Body Lotion Strawberry & Pomelo 500ml Hand & Body Lotion  -.jpg]
+
+File to: [build/img/Grace Cole Fruitworks Body Lotion Strawberry & Pomelo 500ml Hand & Body Lotion  -.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN COUNTRY QUICK COOKING WHITE OATS TIN 500G.jpg]
+
+File to: [build/img/GOLDEN COUNTRY QUICK COOKING WHITE OATS TIN 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Grapefruit & Verbena 250ml Body Mist.jpg]
+
+File to: [build/img/Grace Cole Grapefruit & Verbena 250ml Body Mist.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRACE COLE HAND-BODY DUO.jpg]
+
+File to: [build/img/GRACE COLE HAND-BODY DUO.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Grapefruit & Verbena 500ml Body Wash.jpg]
+
+File to: [build/img/Grace Cole Grapefruit & Verbena 500ml Body Wash.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Lavender & Bergamot 250ml Body Mist  -.jpg]
+
+File to: [build/img/Grace Cole Lavender & Bergamot 250ml Body Mist  -.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Lavender & Bergamot 250ml Body Mist.jpg]
+
+File to: [build/img/Grace Cole Lavender & Bergamot 250ml Body Mist.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Lavender & Bergamot 500ml Body Wash.jpg]
+
+File to: [build/img/Grace Cole Lavender & Bergamot 500ml Body Wash.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Lime & Orange Blossom 250ml Body Mist  -.jpg]
+
+File to: [build/img/Grace Cole Lime & Orange Blossom 250ml Body Mist  -.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Lime & Orange Blossom 250ml Body Mist -.jpg]
+
+File to: [build/img/Grace Cole Lime & Orange Blossom 250ml Body Mist -.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRACE COLE LIP BALM VARIANT 12G.jpg]
+
+File to: [build/img/GRACE COLE LIP BALM VARIANT 12G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Neroli & Sea Salt 250ml Body Mist -.jpg]
+
+File to: [build/img/Grace Cole Neroli & Sea Salt 250ml Body Mist -.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Neroli & Sea Salt 250ml Body Mist.jpg]
+
+File to: [build/img/Grace Cole Neroli & Sea Salt 250ml Body Mist.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Oud & Cassis 250ml Body Mist  -.jpg]
+
+File to: [build/img/Grace Cole Oud & Cassis 250ml Body Mist  -.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Oud & Cassis 500ml Body Wash.jpg]
+
+File to: [build/img/Grace Cole Oud & Cassis 500ml Body Wash.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Rhubarb & Pomegranate 250ml Body Mist -.jpg]
+
+File to: [build/img/Grace Cole Rhubarb & Pomegranate 250ml Body Mist -.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Rhubarb & Pomegrante 500ml Bath & Shower Gel  -.jpg]
+
+File to: [build/img/Grace Cole Rhubarb & Pomegrante 500ml Bath & Shower Gel  -.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Neroli & Sea Salt 500ml Body Wash.jpg]
+
+File to: [build/img/Grace Cole Neroli & Sea Salt 500ml Body Wash.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Sea Breeze & Lemongrass 250ml Body Mist  -.jpg]
+
+File to: [build/img/Grace Cole Sea Breeze & Lemongrass 250ml Body Mist  -.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Sea Breeze & Lemongrass 250ml Body Mist.jpg]
+
+File to: [build/img/Grace Cole Sea Breeze & Lemongrass 250ml Body Mist.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Sea Breeze & Lemongrass 500ml Body Wash.jpg]
+
+File to: [build/img/Grace Cole Sea Breeze & Lemongrass 500ml Body Wash.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Strawberry & Pomelo 250ml Body Mist -.jpg]
+
+File to: [build/img/Grace Cole Strawberry & Pomelo 250ml Body Mist -.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Strawberry & Pomelo 500ml Bath & Shower Gel -.jpg]
+
+File to: [build/img/Grace Cole Strawberry & Pomelo 500ml Bath & Shower Gel -.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Velvet Rose & Sandalwood 250ml Body Mist  -.jpg]
+
+File to: [build/img/Grace Cole Velvet Rose & Sandalwood 250ml Body Mist  -.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Velvet Rose & Sandalwood 250ml Mist.jpg]
+
+File to: [build/img/Grace Cole Velvet Rose & Sandalwood 250ml Mist.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Velvet Rose & Sandalwood 500ml Body Wash.jpg]
+
+File to: [build/img/Grace Cole Velvet Rose & Sandalwood 500ml Body Wash.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

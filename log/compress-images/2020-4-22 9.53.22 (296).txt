@@ -1,0 +1,253 @@
+File from: [src/img/JAGO REAL MAYONNAISE 946ML.jpg]
+
+File to: [build/img/JAGO REAL MAYONNAISE 946ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Jameson Irish Whiskey 200ml.jpg]
+
+File to: [build/img/Jameson Irish Whiskey 200ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JAMESON BLACK BARREL 70cl.jpg]
+
+File to: [build/img/JAMESON BLACK BARREL 70cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Jameson Irish Whiskey 200ml.jpeg]
+
+File to: [build/img/Jameson Irish Whiskey 200ml.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Jameson Irish Whiskey 700ml.jpg]
+
+File to: [build/img/Jameson Irish Whiskey 700ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Jameson20cl x30.jpg]
+
+File to: [build/img/Jameson20cl x30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Jameson70cl x6.png]
+
+File to: [build/img/Jameson70cl x6.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Jameson70cl x12.png]
+
+File to: [build/img/Jameson70cl x12.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/JAZZY RED WINE 750ML.jpg]
+
+File to: [build/img/JAZZY RED WINE 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JAZZY STRAWBERRY WINE 750ML.jpg]
+
+File to: [build/img/JAZZY STRAWBERRY WINE 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Jbl Charge 4.jpg]
+
+File to: [build/img/Jbl Charge 4.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Jbl flip 4.jpg]
+
+File to: [build/img/Jbl flip 4.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Jbl Flip 5.jpg]
+
+File to: [build/img/Jbl Flip 5.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JC LE ROUX LA FELERETTE ROSE SPARKLING WINE187ML.jpg]
+
+File to: [build/img/JC LE ROUX LA FELERETTE ROSE SPARKLING WINE187ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JC LE ROUX LA FELEURETTE ROSE SPARKLING WINE 1.5ML.jpg]
+
+File to: [build/img/JC LE ROUX LA FELEURETTE ROSE SPARKLING WINE 1.5ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JC LE ROUX LA FELEURETTE ROSE SPARKLING WINE 750ML.png]
+
+File to: [build/img/JC LE ROUX LA FELEURETTE ROSE SPARKLING WINE 750ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/JC LE ROUX WHITE LE DOMAINE SPARKLING WINE 750ML.png]
+
+File to: [build/img/JC LE ROUX WHITE LE DOMAINE SPARKLING WINE 750ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/JC LE ROUX WHITE PINOT NOIR MCC 750ML.jpg]
+
+File to: [build/img/JC LE ROUX WHITE PINOT NOIR MCC 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JEAN FLOCH PORK HAM SLICED 1KG.jpg]
+
+File to: [build/img/JEAN FLOCH PORK HAM SLICED 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JEAN FLOCH SLICED BACK BACON.jpg]
+
+File to: [build/img/JEAN FLOCH SLICED BACK BACON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Jenerik Razor x 3 Refill.png]
+
+File to: [build/img/Jenerik Razor x 3 Refill.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/JERGENS DAILY MOISTURE 783ML.jpg]
+
+File to: [build/img/JERGENS DAILY MOISTURE 783ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JERGENS HYDRATING COCONUT 621 ML.jpg]
+
+File to: [build/img/JERGENS HYDRATING COCONUT 621 ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JERGENS MOISTURIZER 400ML.jpg]
+
+File to: [build/img/JERGENS MOISTURIZER 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JERGENS MOISTURIZER 600ML.jpg]
+
+File to: [build/img/JERGENS MOISTURIZER 600ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JERGENS ORIGINAL SCENT 783ML.jpg]
+
+File to: [build/img/JERGENS ORIGINAL SCENT 783ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JERGENS ORIGINAL SCENT LOTION 621ML.jpg]
+
+File to: [build/img/JERGENS ORIGINAL SCENT LOTION 621ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JERGENS ULTRA HEALING 295ML.jpg]
+
+File to: [build/img/JERGENS ULTRA HEALING 295ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JiepakJP-C1 Powerful 3.1 Channel Bluetooth Home Theatre SystemBlack.jpg]
+
+File to: [build/img/JiepakJP-C1 Powerful 3.1 Channel Bluetooth Home Theatre SystemBlack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JIF CREAMY PEANUT BUTTER 454G.jpeg]
+
+File to: [build/img/JIF CREAMY PEANUT BUTTER 454G.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JIF CREAMY PEANUT BUTTER 454G.jpg]
+
+File to: [build/img/JIF CREAMY PEANUT BUTTER 454G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JIF EXTRA CRUNCHY PEANUT BUTTER 454G.jpg]
+
+File to: [build/img/JIF EXTRA CRUNCHY PEANUT BUTTER 454G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JIK 1.4L.jpg]
+
+File to: [build/img/JIK 1.4L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JIK NGEU 500ML.png]
+
+File to: [build/img/JIK NGEU 500ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/JIM BEAM DEVIL,S CUT.jpg]
+
+File to: [build/img/JIM BEAM DEVIL,S CUT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JIM BEAM DOUBLE OAK 70CL.jpg]
+
+File to: [build/img/JIM BEAM DOUBLE OAK 70CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JIM BEAM HONEY 70CL.jpg]
+
+File to: [build/img/JIM BEAM HONEY 70CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JIM BEAM RED STAG LIQUEUR 70CL.jpg]
+
+File to: [build/img/JIM BEAM RED STAG LIQUEUR 70CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JL-A4 GLITTER HARDBACK BOOK.jpg]
+
+File to: [build/img/JL-A4 GLITTER HARDBACK BOOK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JL-A4 HARD BACK NOTE-FLORAL.jpg]
+
+File to: [build/img/JL-A4 HARD BACK NOTE-FLORAL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JL-A4 HARDBACK NOTE ANIMALS.jpg]
+
+File to: [build/img/JL-A4 HARDBACK NOTE ANIMALS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JERGENS NOURISHING HONEY DRY SKIN 621ML.jpg]
+
+File to: [build/img/JERGENS NOURISHING HONEY DRY SKIN 621ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

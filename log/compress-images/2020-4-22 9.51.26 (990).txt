@@ -1,0 +1,193 @@
+File from: [src/img/COLOR SENSATIONAL LOADED BOLD LIPSTICK MIDNIGHT MARLOT 885.jpg]
+
+File to: [build/img/COLOR SENSATIONAL LOADED BOLD LIPSTICK MIDNIGHT MARLOT 885.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL LOADED BOLD LIPSTICK ORANGE DANGER 883.jpg]
+
+File to: [build/img/COLOR SENSATIONAL LOADED BOLD LIPSTICK ORANGE DANGER 883.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL LOADED BOLD LIPSTICK PITCH BLACK 888.jpg]
+
+File to: [build/img/COLOR SENSATIONAL LOADED BOLD LIPSTICK PITCH BLACK 888.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL LOADED BOLD LIPSTICK SAPPHIRE SIREN 891.jpg]
+
+File to: [build/img/COLOR SENSATIONAL LOADED BOLD LIPSTICK SAPPHIRE SIREN 891.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL LOADED BOLD LIPSTICK VIVID VIXEN 890.jpg]
+
+File to: [build/img/COLOR SENSATIONAL LOADED BOLD LIPSTICK VIVID VIXEN 890.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL POWDER MATTE LIPSTICK CARN 35.jpg]
+
+File to: [build/img/COLOR SENSATIONAL POWDER MATTE LIPSTICK CARN 35.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL POWDER MATTE LIPSTICK CHILLING GREY 25.jpg]
+
+File to: [build/img/COLOR SENSATIONAL POWDER MATTE LIPSTICK CHILLING GREY 25.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL POWDER MATTE LIPSTICK CONC 30.jpg]
+
+File to: [build/img/COLOR SENSATIONAL POWDER MATTE LIPSTICK CONC 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL POWDER MATTE LIPSTICK GREEN SAVAGE 45.jpg]
+
+File to: [build/img/COLOR SENSATIONAL POWDER MATTE LIPSTICK GREEN SAVAGE 45.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL POWDER MATTE LIPSTICK NOCTURNAL RO 10.jpg]
+
+File to: [build/img/COLOR SENSATIONAL POWDER MATTE LIPSTICK NOCTURNAL RO 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL POWDER MATTE LIPSTICK SMOKY TAUPE 15.jpeg]
+
+File to: [build/img/COLOR SENSATIONAL POWDER MATTE LIPSTICK SMOKY TAUPE 15.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL VIVID HOT LIP LACQUER CHARME 62.jpg]
+
+File to: [build/img/COLOR SENSATIONAL VIVID HOT LIP LACQUER CHARME 62.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL VIVID HOT LIP LACQUER CLASSIC 72.jpg]
+
+File to: [build/img/COLOR SENSATIONAL VIVID HOT LIP LACQUER CLASSIC 72.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL VIVID HOT LIP LACQUER OBSESSED 76.jpg]
+
+File to: [build/img/COLOR SENSATIONAL VIVID HOT LIP LACQUER OBSESSED 76.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL VIVID HOT LIP LACQUER RETRO 74.jpg]
+
+File to: [build/img/COLOR SENSATIONAL VIVID HOT LIP LACQUER RETRO 74.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL VIVID HOT LIP LACQUER ROYAL 78.jpg]
+
+File to: [build/img/COLOR SENSATIONAL VIVID HOT LIP LACQUER ROYAL 78.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL VIVID HOT LIP LACQUER SASSY 68.jpg]
+
+File to: [build/img/COLOR SENSATIONAL VIVID HOT LIP LACQUER SASSY 68.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL VIVID HOT LIP LACQUER SLAY IT 82.jpg]
+
+File to: [build/img/COLOR SENSATIONAL VIVID HOT LIP LACQUER SLAY IT 82.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL VIVID HOT LIP LACQUER TEASE 60.jpg]
+
+File to: [build/img/COLOR SENSATIONAL VIVID HOT LIP LACQUER TEASE 60.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL VIVID HOT LIP LACQUER SO HOT 70.jpg]
+
+File to: [build/img/COLOR SENSATIONAL VIVID HOT LIP LACQUER SO HOT 70.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL VIVID HOT LIP LACQUER TOO CUTE 66.jpg]
+
+File to: [build/img/COLOR SENSATIONAL VIVID HOT LIP LACQUER TOO CUTE 66.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL VIVID HOT LIP LACQUER UNREAL 64.png]
+
+File to: [build/img/COLOR SENSATIONAL VIVID HOT LIP LACQUER UNREAL 64.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/COLOR SENSATIONAL VIVID MATTE LIQUID LIPSTICK BERRY BOOST 40.jpg]
+
+File to: [build/img/COLOR SENSATIONAL VIVID MATTE LIQUID LIPSTICK BERRY BOOST 40.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL VIVID MATTE LIQUID LIPSTICK 05 NUDE.jpg]
+
+File to: [build/img/COLOR SENSATIONAL VIVID MATTE LIQUID LIPSTICK 05 NUDE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL VIVID MATTE LIQUID LIPSTICK CORAL 20.jpg]
+
+File to: [build/img/COLOR SENSATIONAL VIVID MATTE LIQUID LIPSTICK CORAL 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL VIVID MATTE LIQUID LIPSTICK ELECTRIC 15.jpg]
+
+File to: [build/img/COLOR SENSATIONAL VIVID MATTE LIQUID LIPSTICK ELECTRIC 15.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL VIVID MATTE LIQUID LIPSTICK FUSHIA 30.jpg]
+
+File to: [build/img/COLOR SENSATIONAL VIVID MATTE LIQUID LIPSTICK FUSHIA 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL VIVID MATTE LIQUID LIPSTICK NUDE 50.jpg]
+
+File to: [build/img/COLOR SENSATIONAL VIVID MATTE LIQUID LIPSTICK NUDE 50.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL VIVID MATTE LIQUID LIPSTICK POSSESSED PLUM 45.jpg]
+
+File to: [build/img/COLOR SENSATIONAL VIVID MATTE LIQUID LIPSTICK POSSESSED PLUM 45.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL VIVID MATTE LIQUID LIPSTICK REBEL RED 35.jpg]
+
+File to: [build/img/COLOR SENSATIONAL VIVID MATTE LIQUID LIPSTICK REBEL RED 35.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLORFUL LOON BANDS.jpg]
+
+File to: [build/img/COLORFUL LOON BANDS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOSSAL BIG SHOT MASCARA VERY BLACK.jpg]
+
+File to: [build/img/COLOSSAL BIG SHOT MASCARA VERY BLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

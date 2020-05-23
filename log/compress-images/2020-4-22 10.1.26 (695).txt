@@ -1,0 +1,67 @@
+File from: [src/img/LETTER & NUMBER MAGNETIC.jpg]
+
+File to: [build/img/LETTER & NUMBER MAGNETIC.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LETTUCE.jpg]
+
+File to: [build/img/LETTUCE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LEVINIA POWDER 50G.jpg]
+
+File to: [build/img/LEVINIA POWDER 50G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LEVOFLOX TABS 500MG X 10.jpg]
+
+File to: [build/img/LEVOFLOX TABS 500MG X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LEVOTHYROXINE 100MCG X 28(MECURY).png]
+
+File to: [build/img/LEVOTHYROXINE 100MCG X 28(MECURY).png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/LEVOTHYROXINE 25MCG X 28(MECURY).jpg]
+
+File to: [build/img/LEVOTHYROXINE 25MCG X 28(MECURY).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LEVOTHYROXINE 50MG X 28 (MECURY).jpg]
+
+File to: [build/img/LEVOTHYROXINE 50MG X 28 (MECURY).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LEVOTHYROXINE TABLETS 50MCG X 28 (TEVA).jpg]
+
+File to: [build/img/LEVOTHYROXINE TABLETS 50MCG X 28 (TEVA).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LEVOTIL LEVOFLOXACIN 500MG X 10.jpeg]
+
+File to: [build/img/LEVOTIL LEVOFLOXACIN 500MG X 10.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lexus Milky Comp Chocolate 180g220g.jpg]
+
+File to: [build/img/Lexus Milky Comp Chocolate 180g220g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LFYE SUPPORT PURE GREEN TEA X 30.jpg]
+
+File to: [build/img/LFYE SUPPORT PURE GREEN TEA X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

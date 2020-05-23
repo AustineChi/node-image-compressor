@@ -1,0 +1,193 @@
+File from: [src/img/EVA NATURAL FAIRNESS SOAP 150G.jpg]
+
+File to: [build/img/EVA NATURAL FAIRNESS SOAP 150G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EVA PEARL BLUE 150G.jpg]
+
+File to: [build/img/EVA PEARL BLUE 150G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Eva Premium Table Water 1.5cl.jpg]
+
+File to: [build/img/Eva Premium Table Water 1.5cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Eva Premium Table Water 50cl.jpg]
+
+File to: [build/img/Eva Premium Table Water 50cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Eva Premium Table Water 75cl.jpg]
+
+File to: [build/img/Eva Premium Table Water 75cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EVA ROMANTIC 150G.jpg]
+
+File to: [build/img/EVA ROMANTIC 150G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Eva Sparkling Grape Wine 750ml.jpg]
+
+File to: [build/img/Eva Sparkling Grape Wine 750ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EVA STILL TABLE WATER 50CL.jpg]
+
+File to: [build/img/EVA STILL TABLE WATER 50CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EVA STILL WATER 1.5L.jpg]
+
+File to: [build/img/EVA STILL WATER 1.5L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EVA STILL WATER 75CL PACK.jpg]
+
+File to: [build/img/EVA STILL WATER 75CL PACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EVA STILL WATER 75CL.jpg]
+
+File to: [build/img/EVA STILL WATER 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EVA WATER 1.5L.jpg]
+
+File to: [build/img/EVA WATER 1.5L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EVA WATER 75CL.jpg]
+
+File to: [build/img/EVA WATER 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EVE`S DESIRE X 30.png]
+
+File to: [build/img/EVE`S DESIRE X 30.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/EVERGREEN  CHEWABLE VITAMIN C TABS X 100.jpg]
+
+File to: [build/img/EVERGREEN  CHEWABLE VITAMIN C TABS X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EVIRON HEALTH DRINK 11.3 FL OZ.jpg]
+
+File to: [build/img/EVIRON HEALTH DRINK 11.3 FL OZ.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EVRIL EYE_EAR DROP.jpg]
+
+File to: [build/img/EVRIL EYE_EAR DROP.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EWEDU 1KG.jpg]
+
+File to: [build/img/EWEDU 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EWEDU PER BUNCH.jpg]
+
+File to: [build/img/EWEDU PER BUNCH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EXAMINATION GLOVES X 100.jpg]
+
+File to: [build/img/EXAMINATION GLOVES X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Executive Cashew Nut 160g.jpg]
+
+File to: [build/img/Executive Cashew Nut 160g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Excedrin Migraine Caplets x 2.jpg]
+
+File to: [build/img/Excedrin Migraine Caplets x 2.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Executive Cashew Nut 255g.jpg]
+
+File to: [build/img/Executive Cashew Nut 255g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EXFORGE 10_160 X 14.png]
+
+File to: [build/img/EXFORGE 10_160 X 14.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/EXFORGE 5_160 X 14.jpg]
+
+File to: [build/img/EXFORGE 5_160 X 14.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EXFORGE HCT 10_160_12.5 X 7.jpg]
+
+File to: [build/img/EXFORGE HCT 10_160_12.5 X 7.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EXFORGE HCT 10_160_25 X7.jpg]
+
+File to: [build/img/EXFORGE HCT 10_160_25 X7.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EXFORGE HCT 5_160_25 X 7.jpg]
+
+File to: [build/img/EXFORGE HCT 5_160_25 X 7.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Exforge Hct 5Mg-160Mg-12.5MgTabx28 sach..jpg]
+
+File to: [build/img/Exforge Hct 5Mg-160Mg-12.5MgTabx28 sach..jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EXFORGE HCT5_160_12.5 X 7.jpg]
+
+File to: [build/img/EXFORGE HCT5_160_12.5 X 7.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EXOTICA CAN AIR FRESHENER MIX 42G.jpg]
+
+File to: [build/img/EXOTICA CAN AIR FRESHENER MIX 42G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EXOTICA TREASURE CAN AIR FRESHENER 25G.jpg]
+
+File to: [build/img/EXOTICA TREASURE CAN AIR FRESHENER 25G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

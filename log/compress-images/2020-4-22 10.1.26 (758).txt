@@ -1,0 +1,217 @@
+File from: [src/img/PolystarPV-HH261SL-  DOUBLE DOOR REFRIGERATORSILVER.jpg]
+
+File to: [build/img/PolystarPV-HH261SL-  DOUBLE DOOR REFRIGERATORSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarPV-SS12LED 1.5HP Split Air ConditionerGrey.jpg]
+
+File to: [build/img/PolystarPV-SS12LED 1.5HP Split Air ConditionerGrey.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarPV-WD5.7k (5.7kg) Top Loader Single Tub Washing MachineWHITE.jpg]
+
+File to: [build/img/PolystarPV-WD5.7k (5.7kg) Top Loader Single Tub Washing MachineWHITE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarPVCF-249LBL Chest FreezerBLUE.jpg]
+
+File to: [build/img/PolystarPVCF-249LBL Chest FreezerBLUE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarQuick Chilling Water Dispenser With Transparent GlassGREY.jpg]
+
+File to: [build/img/PolystarQuick Chilling Water Dispenser With Transparent GlassGREY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarQuick Chilling Water Dispenser.jpg]
+
+File to: [build/img/PolystarQuick Chilling Water Dispenser.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarQuick Chilling Water DispenserBROWN.jpg]
+
+File to: [build/img/PolystarQuick Chilling Water DispenserBROWN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarQuick Cooling Showcase Freezer PV-CSC362Lcolour.jpg]
+
+File to: [build/img/PolystarQuick Cooling Showcase Freezer PV-CSC362Lcolour.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarQuick Cooling Showcase Freezer PV-CSC365Lcolour.jpg]
+
+File to: [build/img/PolystarQuick Cooling Showcase Freezer PV-CSC365Lcolour.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarQuick Freezing Showcase Freezer PV-CSC615L (530L)colour.jpg]
+
+File to: [build/img/PolystarQuick Freezing Showcase Freezer PV-CSC615L (530L)colour.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarR 4 Burners Gas Hob In-Built PV-HBS4543SILVER-BLACK.jpg]
+
+File to: [build/img/PolystarR 4 Burners Gas Hob In-Built PV-HBS4543SILVER-BLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarRechargeable Slim LED TV Built In BatteryBLACK.jpg]
+
+File to: [build/img/PolystarRechargeable Slim LED TV Built In BatteryBLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarSerene Bass Ultra Filtered Sound Home Tallyboy Theatre - PV-HT515-5.1 + Powerful DVD PlayerBlack.jpg]
+
+File to: [build/img/PolystarSerene Bass Ultra Filtered Sound Home Tallyboy Theatre - PV-HT515-5.1 + Powerful DVD PlayerBlack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarShowcase Fridge - PV-SC426BGMULTI COLOUR.jpg]
+
+File to: [build/img/PolystarShowcase Fridge - PV-SC426BGMULTI COLOUR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarSHOWCASE FRIDGE (300L) PV-SC399LWhite.jpg]
+
+File to: [build/img/PolystarSHOWCASE FRIDGE (300L) PV-SC399LWhite.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarSHOWCASE FRIDGE PV-SC347BGMULTI COLOUR.jpeg]
+
+File to: [build/img/PolystarSHOWCASE FRIDGE PV-SC347BGMULTI COLOUR.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarSide By Side Refrigerator PV-SBS645L - SilverGrey.jpg]
+
+File to: [build/img/PolystarSide By Side Refrigerator PV-SBS645L - SilverGrey.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarSingle Door Refrigerator - PVSF-176WLwhite.jpg]
+
+File to: [build/img/PolystarSingle Door Refrigerator - PVSF-176WLwhite.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarSingle Door Fridge - PV-SF172SL -silver.jpg]
+
+File to: [build/img/PolystarSingle Door Fridge - PV-SF172SL -silver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarSplit Inverter Air Conditioner PV-09INV41White.jpg]
+
+File to: [build/img/PolystarSplit Inverter Air Conditioner PV-09INV41White.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarStainless 5 Burner Table Top Gas Cooker - PV-WA0788Silver.jpg]
+
+File to: [build/img/PolystarStainless 5 Burner Table Top Gas Cooker - PV-WA0788Silver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarSUPER BASS BLUETOOTH HOME THEATRE PV-HF208Bblack.jpg]
+
+File to: [build/img/PolystarSUPER BASS BLUETOOTH HOME THEATRE PV-HF208Bblack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarStanding Fan - CFS-1620white.jpg]
+
+File to: [build/img/PolystarStanding Fan - CFS-1620white.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarSuper Chest-Deep Freezer PVCF-322LGrey.jpg]
+
+File to: [build/img/PolystarSuper Chest-Deep Freezer PVCF-322LGrey.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarSuper Ultra Filtered Sound Home Theatre + Powerful DVDBlack.jpg]
+
+File to: [build/img/PolystarSuper Ultra Filtered Sound Home Theatre + Powerful DVDBlack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarSuper Chilled Freezer - PVCF-320LGRGREY.jpg]
+
+File to: [build/img/PolystarSuper Chilled Freezer - PVCF-320LGRGREY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarSuperb Long Lasting Air Cooler -PVKL-120Cwhite.jpg]
+
+File to: [build/img/PolystarSuperb Long Lasting Air Cooler -PVKL-120Cwhite.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarSuper Ultra Filtered Sound Home Theatre + Powerful DVDBlackk.jpg]
+
+File to: [build/img/PolystarSuper Ultra Filtered Sound Home Theatre + Powerful DVDBlackk.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarTable Gas With Stainless Top PV-GS2100Silver.jpg]
+
+File to: [build/img/PolystarTable Gas With Stainless Top PV-GS2100Silver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarTable Top Refrigerator PV-SF176WLWhite.jpg]
+
+File to: [build/img/PolystarTable Top Refrigerator PV-SF176WLWhite.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarTop Load Washing Machine PV-WD9.5K.jpg]
+
+File to: [build/img/PolystarTop Load Washing Machine PV-WD9.5K.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarTable Top Refrigerator PV-SF177SLSilver.jpg]
+
+File to: [build/img/PolystarTable Top Refrigerator PV-SF177SLSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarTv Smart Curved 43 Inch LedBlack.jpg]
+
+File to: [build/img/PolystarTv Smart Curved 43 Inch LedBlack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarTwin Tub Washing Machine PV-WD7K - Whitewhite.jpg]
+
+File to: [build/img/PolystarTwin Tub Washing Machine PV-WD7K - Whitewhite.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarWashing Machine 4.5K Single Tubewhite.jpg]
+
+File to: [build/img/PolystarWashing Machine 4.5K Single Tubewhite.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarSplit  Gas A_C With Installation Kits PV-R410XAWHITE.jpg]
+
+File to: [build/img/PolystarSplit  Gas A_C With Installation Kits PV-R410XAWHITE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

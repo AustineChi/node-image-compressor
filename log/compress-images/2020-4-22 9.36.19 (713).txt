@@ -1,0 +1,223 @@
+File from: [src/img/NATURE`S FIELD JOINT RENEW X 30.jpg]
+
+File to: [build/img/NATURE`S FIELD JOINT RENEW X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE`S FIELD JOINT RENEW X 90.jpg]
+
+File to: [build/img/NATURE`S FIELD JOINT RENEW X 90.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE`S FIELD MACA 500MG X60.jpg]
+
+File to: [build/img/NATURE`S FIELD MACA 500MG X60.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE`S FIELD JOINT RENEW ADVANCE 10 X 10.jpg]
+
+File to: [build/img/NATURE`S FIELD JOINT RENEW ADVANCE 10 X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE`S FIELD MEGA C 1000MG (10 X10).jpg]
+
+File to: [build/img/NATURE`S FIELD MEGA C 1000MG (10 X10).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE`S FIELD MEGA C 1000MG X 30.jpg]
+
+File to: [build/img/NATURE`S FIELD MEGA C 1000MG X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE`S FIELD MEGA CALCIUM 10 X 10.jpg]
+
+File to: [build/img/NATURE`S FIELD MEGA CALCIUM 10 X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE`S FIELD PSYLLIUM HUSK POWER.jpg]
+
+File to: [build/img/NATURE`S FIELD PSYLLIUM HUSK POWER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE`S FIELD SELENIUM 200MG X 100.jpg]
+
+File to: [build/img/NATURE`S FIELD SELENIUM 200MG X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE`S FIELD STRESS DEFENCE X 30.jpg]
+
+File to: [build/img/NATURE`S FIELD STRESS DEFENCE X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE`S FIELD SUPER STRENGTH YOHIMBE 800MG X 30.jpg]
+
+File to: [build/img/NATURE`S FIELD SUPER STRENGTH YOHIMBE 800MG X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE`S FIELD VITAMIN B12 50MCG X 100.JPG]
+
+File to: [build/img/NATURE`S FIELD VITAMIN B12 50MCG X 100.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE`S FIELD VITAMIN B6 50MG X 100.jpg]
+
+File to: [build/img/NATURE`S FIELD VITAMIN B6 50MG X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE`S FIELD VITAMIN E1000IU X 50.jpg]
+
+File to: [build/img/NATURE`S FIELD VITAMIN E1000IU X 50.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUREMADE ACIDOPHILUS X 60TABLETS.jpg]
+
+File to: [build/img/NATUREMADE ACIDOPHILUS X 60TABLETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUREMADE B12 1000MCG X 160 TABS.jpg]
+
+File to: [build/img/NATUREMADE B12 1000MCG X 160 TABS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUREMADE B12 1000MG X 75.jpg]
+
+File to: [build/img/NATUREMADE B12 1000MG X 75.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUREMADE B12 500MCG X 100 TABLETS.jpg]
+
+File to: [build/img/NATUREMADE B12 500MCG X 100 TABLETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE`S FIELD MEGA GARLIC (ODOR FREE) X 100.jpg]
+
+File to: [build/img/NATURE`S FIELD MEGA GARLIC (ODOR FREE) X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUREMADE D3 25MCG (1000IU) X 100 SOFTGEL.jpg]
+
+File to: [build/img/NATUREMADE D3 25MCG (1000IU) X 100 SOFTGEL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUREMADE D3 25MCG X 100 TABLETS.jpg]
+
+File to: [build/img/NATUREMADE D3 25MCG X 100 TABLETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE`S FIELD OMEGOL (OMEGA 3) 1200MG X 100.jpg]
+
+File to: [build/img/NATURE`S FIELD OMEGOL (OMEGA 3) 1200MG X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUREMADE D3 50MCG (2000IU) X 90 SOFTGEL.jpg]
+
+File to: [build/img/NATUREMADE D3 50MCG (2000IU) X 90 SOFTGEL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUREMADE DIABETES PACK X 30.jpg]
+
+File to: [build/img/NATUREMADE DIABETES PACK X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUREMADE FISH OIL 1000MG X 90.jpg]
+
+File to: [build/img/NATUREMADE FISH OIL 1000MG X 90.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUREMADE FLAXSEED OIL 1000MG.jpg]
+
+File to: [build/img/NATUREMADE FLAXSEED OIL 1000MG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUREMADE FOLIC ACID 400MCG X 250MG.png]
+
+File to: [build/img/NATUREMADE FOLIC ACID 400MCG X 250MG.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/NATUREMADE GARLIC ODOR CONTROL 1250MG X 100.jpg]
+
+File to: [build/img/NATUREMADE GARLIC ODOR CONTROL 1250MG X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUREMADE IRON 65MG X 180 TAB.jpg]
+
+File to: [build/img/NATUREMADE IRON 65MG X 180 TAB.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUREMADE MELATONIN 3MG X 240 TABLETS.jpg]
+
+File to: [build/img/NATUREMADE MELATONIN 3MG X 240 TABLETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUREMADE POTASSIUM GLUCONATE 550MG X 100 TABLETS.jpeg]
+
+File to: [build/img/NATUREMADE POTASSIUM GLUCONATE 550MG X 100 TABLETS.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUREMADE VITAMIN C 1000MG X 100.jpg]
+
+File to: [build/img/NATUREMADE VITAMIN C 1000MG X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUREMADE CHEWABLE VITAMIN C 500MG X150.jpg]
+
+File to: [build/img/NATUREMADE CHEWABLE VITAMIN C 500MG X150.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE`S FIELD OMEGOL PLUS(OMEGA 3-6-9) 1000MG X 100.jpg]
+
+File to: [build/img/NATURE`S FIELD OMEGOL PLUS(OMEGA 3-6-9) 1000MG X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUREMADE VITAMIN C 500MG X 100 CAPS.jpg]
+
+File to: [build/img/NATUREMADE VITAMIN C 500MG X 100 CAPS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUREMADE VITAMIN C 1000MG X 100 +25 TABLETS.jpg]
+
+File to: [build/img/NATUREMADE VITAMIN C 1000MG X 100 +25 TABLETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE`S FIELD VITAMIN E1000IU 10 X 10.jpg]
+
+File to: [build/img/NATURE`S FIELD VITAMIN E1000IU 10 X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

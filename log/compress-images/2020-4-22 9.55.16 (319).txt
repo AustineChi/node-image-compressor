@@ -1,0 +1,49 @@
+File from: [src/img/KWV ROODEBERG RED 75CL.jpg]
+
+File to: [build/img/KWV ROODEBERG RED 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KY JELLY 50G(JOHNSON JOHNSON).jpg]
+
+File to: [build/img/KY JELLY 50G(JOHNSON JOHNSON).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KY JELLY LUBRICANT UK X 50ML.jpg]
+
+File to: [build/img/KY JELLY LUBRICANT UK X 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KY JELLY LUBRICANT UK X 75ML.jpg]
+
+File to: [build/img/KY JELLY LUBRICANT UK X 75ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/L.O.L. Surprise! 3 in 1 Pop-Up Store, Carrying Case, with 1 Exclusive Doll.jpg]
+
+File to: [build/img/L.O.L. Surprise! 3 in 1 Pop-Up Store, Carrying Case, with 1 Exclusive Doll.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/L.O.L. Surprise! Bling Series with 7 Surprises, Multicolor.jpg]
+
+File to: [build/img/L.O.L. Surprise! Bling Series with 7 Surprises, Multicolor.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/L.O.L. Surprise! Glitter Globe Doll Winter Disco Series.jpg]
+
+File to: [build/img/L.O.L. Surprise! Glitter Globe Doll Winter Disco Series.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/L.O.L. Surprise! Makeover Series 2 #Hairgoals Real Hair with 15 Surprises.jpg]
+
+File to: [build/img/L.O.L. Surprise! Makeover Series 2 #Hairgoals Real Hair with 15 Surprises.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

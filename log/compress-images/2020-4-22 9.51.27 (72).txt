@@ -1,0 +1,79 @@
+File from: [src/img/HEINZ WHITE VINEGAR 946 ML.jpg]
+
+File to: [build/img/HEINZ WHITE VINEGAR 946 ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Heinz yoghurt.jpg]
+
+File to: [build/img/Heinz yoghurt.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Heinz.jpeg]
+
+File to: [build/img/Heinz.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Heinz1.jpeg]
+
+File to: [build/img/Heinz1.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Heinz2.jpeg]
+
+File to: [build/img/Heinz2.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HELLMANN`S REAL MAYONNAISE 887G.jpg]
+
+File to: [build/img/HELLMANN`S REAL MAYONNAISE 887G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Heinz3.jpeg]
+
+File to: [build/img/Heinz3.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HENNESSY BLACK 75CL.jpg]
+
+File to: [build/img/HENNESSY BLACK 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HENNESSY VS 70CL WITH SHAKE GLASS.jpg]
+
+File to: [build/img/HENNESSY VS 70CL WITH SHAKE GLASS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HENNESSY VS 70CL.jpg]
+
+File to: [build/img/HENNESSY VS 70CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HENNESSY VS COGNAC 35CL.png]
+
+File to: [build/img/HENNESSY VS COGNAC 35CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HENNESSY VS PANTON 75CL.jpg]
+
+File to: [build/img/HENNESSY VS PANTON 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HENNESSY VSOP 75CL.jpg]
+
+File to: [build/img/HENNESSY VSOP 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

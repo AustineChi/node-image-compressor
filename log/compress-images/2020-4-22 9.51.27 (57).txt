@@ -1,0 +1,145 @@
+File from: [src/img/GHANA MUST GO BIG EXTRA LARGE.jpg]
+
+File to: [build/img/GHANA MUST GO BIG EXTRA LARGE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GHANA MUST GO BIG.jpg]
+
+File to: [build/img/GHANA MUST GO BIG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GHANA MUST GO BIG LARGE.jpg]
+
+File to: [build/img/GHANA MUST GO BIG LARGE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GIFT BAG SMALL.jpg]
+
+File to: [build/img/GIFT BAG SMALL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GIFT BAG.jpg]
+
+File to: [build/img/GIFT BAG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GIFT PAPER WRAPPING SHEET.jpg]
+
+File to: [build/img/GIFT PAPER WRAPPING SHEET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GIFT WRAPPING PAPER GLITTER.png]
+
+File to: [build/img/GIFT WRAPPING PAPER GLITTER.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GIFT WRAPPING PAPER REGULAR.jpg]
+
+File to: [build/img/GIFT WRAPPING PAPER REGULAR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gillette 2 Shaving Sticks x 5.jpg]
+
+File to: [build/img/Gillette 2 Shaving Sticks x 5.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gillette 2 Shaving Stick x 1.jpg]
+
+File to: [build/img/Gillette 2 Shaving Stick x 1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GILLETTE 2 X 5.jpg]
+
+File to: [build/img/GILLETTE 2 X 5.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gillette 2×1.jpg]
+
+File to: [build/img/Gillette 2×1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GILLETTE BLUE 2 PLUS.jpg]
+
+File to: [build/img/GILLETTE BLUE 2 PLUS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GILLETTE BLUE II POUCH.jpg]
+
+File to: [build/img/GILLETTE BLUE II POUCH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GILLETTE CLEAR GEL 5 ALUMINIUM DEODORANT 538G.jpg]
+
+File to: [build/img/GILLETTE CLEAR GEL 5 ALUMINIUM DEODORANT 538G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gillette clear gel 5 in 1.png]
+
+File to: [build/img/Gillette clear gel 5 in 1.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GILLETTE ENDURANCE STICK 70ML.jpg]
+
+File to: [build/img/GILLETTE ENDURANCE STICK 70ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gillette foam lemon.jpeg]
+
+File to: [build/img/Gillette foam lemon.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gillette Fusion 5+1.jpg]
+
+File to: [build/img/Gillette Fusion 5+1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gillette fusion power 5+1.jpeg]
+
+File to: [build/img/Gillette fusion power 5+1.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GILLETTE FUSION POWER 5+1.jpg]
+
+File to: [build/img/GILLETTE FUSION POWER 5+1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gillette fusion shave foam5 .jpeg]
+
+File to: [build/img/Gillette fusion shave foam5 .jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gillette gel conditioning.jpeg]
+
+File to: [build/img/Gillette gel conditioning.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gillette foam normal 200ml.jpeg]
+
+File to: [build/img/Gillette foam normal 200ml.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

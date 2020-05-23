@@ -1,0 +1,151 @@
+File from: [src/img/OMEGA H3 CAPS X 30.png]
+
+File to: [build/img/OMEGA H3 CAPS X 30.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/OMEPRAZOLE 40MG CAPS X 28 (TEVA).jpg]
+
+File to: [build/img/OMEPRAZOLE 40MG CAPS X 28 (TEVA).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/OMO AUTO WASH 4X2KG CARTON.png]
+
+File to: [build/img/OMO AUTO WASH 4X2KG CARTON.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/OMO AUTO WASH 8X1KG CARTON.png]
+
+File to: [build/img/OMO AUTO WASH 8X1KG CARTON.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Omo Auto Washing Machine Powder 1kg.jpg]
+
+File to: [build/img/Omo Auto Washing Machine Powder 1kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/OMO AUTOWASH POWDER 1KG.jpg]
+
+File to: [build/img/OMO AUTOWASH POWDER 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/OMO AUTOWASH POWDER 2KG.jpg]
+
+File to: [build/img/OMO AUTOWASH POWDER 2KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/OMO EXTRA FRESH HW POWDER 2KG.jpg]
+
+File to: [build/img/OMO EXTRA FRESH HW POWDER 2KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/OMO EXTRA FRESH HW POWDER 4X2KG CARTON.png]
+
+File to: [build/img/OMO EXTRA FRESH HW POWDER 4X2KG CARTON.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/OMO EXTRA FRESH HW POWDER 8X900G CARTON.png]
+
+File to: [build/img/OMO EXTRA FRESH HW POWDER 8X900G CARTON.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/OMNI CANOLA OIL 5 LITRES.jpg]
+
+File to: [build/img/OMNI CANOLA OIL 5 LITRES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/OMO HAND WASHING POWDER 160G.jpg]
+
+File to: [build/img/OMO HAND WASHING POWDER 160G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/OMEPRAZOLE 20MG CAPS X 28 (TEVA).png]
+
+File to: [build/img/OMEPRAZOLE 20MG CAPS X 28 (TEVA).png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/OMO HAND WASHING POWDER 400G.jpg]
+
+File to: [build/img/OMO HAND WASHING POWDER 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/OMO MULTI ACTIVE RELAUNCH 2KG.jpg]
+
+File to: [build/img/OMO MULTI ACTIVE RELAUNCH 2KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/OMO MULTI ACTIVE RELAUNCH 400G.png]
+
+File to: [build/img/OMO MULTI ACTIVE RELAUNCH 400G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/OMO MULTI ACTIVE RELAUNCH 900G.png]
+
+File to: [build/img/OMO MULTI ACTIVE RELAUNCH 900G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/OMO MULTI ACTIVE RELAUNCH 4X2KG CARTON.png]
+
+File to: [build/img/OMO MULTI ACTIVE RELAUNCH 4X2KG CARTON.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Omo Multi Active Wash Powder 2Kg x 4.jpg]
+
+File to: [build/img/Omo Multi Active Wash Powder 2Kg x 4.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Omo Multi Active Washing Powder 900g x 8.jpg]
+
+File to: [build/img/Omo Multi Active Washing Powder 900g x 8.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/OMO WASH POWDER SKY PLUS 4X2KG CARTON.png]
+
+File to: [build/img/OMO WASH POWDER SKY PLUS 4X2KG CARTON.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/OMO WASH POWDER SKY PLUS 160G.png]
+
+File to: [build/img/OMO WASH POWDER SKY PLUS 160G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/OMOALATA ORIGINAL PEPPERMIX HOT 1L.png]
+
+File to: [build/img/OMOALATA ORIGINAL PEPPERMIX HOT 1L.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/OMOALATA OFADA PEPPERMIX HOT 1L.png]
+
+File to: [build/img/OMOALATA OFADA PEPPERMIX HOT 1L.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/OMO HAND WASHING POWDER 2KG.jpg]
+
+File to: [build/img/OMO HAND WASHING POWDER 2KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

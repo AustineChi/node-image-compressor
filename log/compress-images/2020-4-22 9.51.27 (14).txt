@@ -1,0 +1,97 @@
+File from: [src/img/DETTOL LIQUID T_E 250ML LOC.jpg]
+
+File to: [build/img/DETTOL LIQUID T_E 250ML LOC.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dettol Multi Purpose Kitchen 440ml.jpg]
+
+File to: [build/img/Dettol Multi Purpose Kitchen 440ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DETTOL REFILL 250ML.jpg]
+
+File to: [build/img/DETTOL REFILL 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DETTOL SOAP 70G A DEO.png]
+
+File to: [build/img/DETTOL SOAP 70G A DEO.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DETTOL SOAP EVEN TONE 160G.jpg]
+
+File to: [build/img/DETTOL SOAP EVEN TONE 160G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DETTOL SOAP ORIGINAL 110G.png]
+
+File to: [build/img/DETTOL SOAP ORIGINAL 110G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DETTOL SOFT ON SKIN REFILL 250ML.jpg]
+
+File to: [build/img/DETTOL SOFT ON SKIN REFILL 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dettol Surface Cleanser 500ml.jpg]
+
+File to: [build/img/Dettol Surface Cleanser 500ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DEVAUX BURT 75CL.jpg]
+
+File to: [build/img/DEVAUX BURT 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DEVAUX DEM-SEC 75CL.png]
+
+File to: [build/img/DEVAUX DEM-SEC 75CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DEVAUX ROSE 75CL.png]
+
+File to: [build/img/DEVAUX ROSE 75CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Devon King_s Pure Veg Cooking Oil 2Ltr.jpg]
+
+File to: [build/img/Devon King_s Pure Veg Cooking Oil 2Ltr.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Devon King_s Pure Veg Cooking Oil 3Ltr.jpg]
+
+File to: [build/img/Devon King_s Pure Veg Cooking Oil 3Ltr.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DETTOL LIQUID T-E 500ML LOC.JPG]
+
+File to: [build/img/DETTOL LIQUID T-E 500ML LOC.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DETTOL LIQUID T_E 2LIT.jpg]
+
+File to: [build/img/DETTOL LIQUID T_E 2LIT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DETTOL MPC FLORAL 200ML.jpg]
+
+File to: [build/img/DETTOL MPC FLORAL 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

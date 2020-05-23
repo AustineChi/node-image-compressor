@@ -1,0 +1,31 @@
+File from: [src/img/KLEANSOL FLOOR CLEANER ROSE MULTI PURPOSE 2L.jpg]
+
+File to: [build/img/KLEANSOL FLOOR CLEANER ROSE MULTI PURPOSE 2L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KLEENEX BRAND TISSUE.jpg]
+
+File to: [build/img/KLEENEX BRAND TISSUE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KLEENEX BOX TISSUE 170 PACK.jpeg]
+
+File to: [build/img/KLEENEX BOX TISSUE 170 PACK.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KLEENEX MANSIZE BRAND TISSUES.png]
+
+File to: [build/img/KLEENEX MANSIZE BRAND TISSUES.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/KLOVINAL V PESSARY  X 6.jpeg]
+
+File to: [build/img/KLOVINAL V PESSARY  X 6.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

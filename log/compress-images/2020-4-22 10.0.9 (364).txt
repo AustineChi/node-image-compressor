@@ -1,0 +1,73 @@
+File from: [src/img/SEMIU CABBAGE.jpg]
+
+File to: [build/img/SEMIU CABBAGE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU CHERRY TOMATOES PACK.jpg]
+
+File to: [build/img/SEMIU CHERRY TOMATOES PACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU CARROT.jpg]
+
+File to: [build/img/SEMIU CARROT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU CUCUMBER PER KG.jpg]
+
+File to: [build/img/SEMIU CUCUMBER PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU FRESH CUCUMBER.jpg]
+
+File to: [build/img/SEMIU FRESH CUCUMBER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU FRESH TOMATOES.jpg]
+
+File to: [build/img/SEMIU FRESH TOMATOES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU GINGER-KITCHEN PER KG.jpg]
+
+File to: [build/img/SEMIU GINGER-KITCHEN PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU GRAPE.jpg]
+
+File to: [build/img/SEMIU GRAPE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU GREEN BEANS.jpg]
+
+File to: [build/img/SEMIU GREEN BEANS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU GREEN PEPPER.jpg]
+
+File to: [build/img/SEMIU GREEN PEPPER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU IMPORTED POTATOES.jpg]
+
+File to: [build/img/SEMIU IMPORTED POTATOES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU LEMON LOCAL.jpg]
+
+File to: [build/img/SEMIU LEMON LOCAL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

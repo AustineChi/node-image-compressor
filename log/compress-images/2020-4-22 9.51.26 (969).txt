@@ -1,0 +1,193 @@
+File from: [src/img/CHEX MIX HONEYNUT SWEET & SALTY 248G.png]
+
+File to: [build/img/CHEX MIX HONEYNUT SWEET & SALTY 248G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CHEX MIX SWEET & SALTY 248G.JPG]
+
+File to: [build/img/CHEX MIX SWEET & SALTY 248G.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHEX MIX TRADITIONAL 248G.png]
+
+File to: [build/img/CHEX MIX TRADITIONAL 248G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/chi chicken 100gm.jpeg]
+
+File to: [build/img/chi chicken 100gm.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI CHICKEN GIZZARD 1KG.jpg]
+
+File to: [build/img/CHI CHICKEN GIZZARD 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/chi chicken laps.jpeg]
+
+File to: [build/img/chi chicken laps.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI CHICKEN WINGS.jpg]
+
+File to: [build/img/CHI CHICKEN WINGS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI DRESSED CHICKEN.jpg]
+
+File to: [build/img/CHI DRESSED CHICKEN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/chi exotic 150gm - Copy.jpeg]
+
+File to: [build/img/chi exotic 150gm - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/chi exotic furit nectar - Copy.jpeg]
+
+File to: [build/img/chi exotic furit nectar - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI EXOTIC MANGO NECTAR 1L.jpg]
+
+File to: [build/img/CHI EXOTIC MANGO NECTAR 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI EXOTIC MULTIFRUITA 1LT.jpg]
+
+File to: [build/img/CHI EXOTIC MULTIFRUITA 1LT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Chi Exotic Nectar Juice 315ml.jpg]
+
+File to: [build/img/Chi Exotic Nectar Juice 315ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI EXOTIC NECTAR MANGO 1TR.jpg]
+
+File to: [build/img/CHI EXOTIC NECTAR MANGO 1TR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI EXOTIC NECTAR MANGO 315ML.jpg]
+
+File to: [build/img/CHI EXOTIC NECTAR MANGO 315ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI EXOTIC NECTAR MULTIFRUTAL 1LTR.jpg]
+
+File to: [build/img/CHI EXOTIC NECTAR MULTIFRUTAL 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI EXOTIC NECTAR ORANGE PEACH 180ML.jpg]
+
+File to: [build/img/CHI EXOTIC NECTAR ORANGE PEACH 180ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI EXOTIC NECTAR ORANGE PEACH 1LTR.jpg]
+
+File to: [build/img/CHI EXOTIC NECTAR ORANGE PEACH 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI EXOTIC NECTAR PINAPPLE COCONUT 150ML.jpg]
+
+File to: [build/img/CHI EXOTIC NECTAR PINAPPLE COCONUT 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI EXOTIC NECTAR PINAPPLE COCONUT 1LTR.jpg]
+
+File to: [build/img/CHI EXOTIC NECTAR PINAPPLE COCONUT 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI EXOTIC NECTAR PINAPPLE COCONUT 500ML.jpg]
+
+File to: [build/img/CHI EXOTIC NECTAR PINAPPLE COCONUT 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI CHICKEN LAPS PER KG.jpg]
+
+File to: [build/img/CHI CHICKEN LAPS PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI EXOTIC NECTAR SANGRIA 315ML.jpg]
+
+File to: [build/img/CHI EXOTIC NECTAR SANGRIA 315ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI EXOTIC OR PEA NEC JUICE 1L.jpg]
+
+File to: [build/img/CHI EXOTIC OR PEA NEC JUICE 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI EXOTIC OR NECT PULP 1L.jpg]
+
+File to: [build/img/CHI EXOTIC OR NECT PULP 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI EXOTIC PI COC NECT. 1LTR.jpg]
+
+File to: [build/img/CHI EXOTIC PI COC NECT. 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI EXOTIC PINE.&COCONUT NECTAR 330ML.JPG]
+
+File to: [build/img/CHI EXOTIC PINE.&COCONUT NECTAR 330ML.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI EXOTIC NECTAR SANGRIA 1LTR.jpg]
+
+File to: [build/img/CHI EXOTIC NECTAR SANGRIA 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI EXOTIC PINEAPLE & PAPAYA 1L.jpg]
+
+File to: [build/img/CHI EXOTIC PINEAPLE & PAPAYA 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Chi Exotic Pineapple &Coconut Nect.330ml.jpg]
+
+File to: [build/img/Chi Exotic Pineapple &Coconut Nect.330ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI EXOTIC PINEAPPLE COCONUT CAN 330ML.png]
+
+File to: [build/img/CHI EXOTIC PINEAPPLE COCONUT CAN 330ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/chi frozen chicken.jpeg]
+
+File to: [build/img/chi frozen chicken.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

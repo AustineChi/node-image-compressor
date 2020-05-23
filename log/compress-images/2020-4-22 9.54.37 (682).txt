@@ -1,0 +1,199 @@
+File from: [src/img/Huggies Dry Comfort Size 2 8.jpg]
+
+File to: [build/img/Huggies Dry Comfort Size 2 8.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Huggies Dry Comfort Size 3 8.jpg]
+
+File to: [build/img/Huggies Dry Comfort Size 3 8.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Huggies Dry Comfort Size 4 2 60.jpg]
+
+File to: [build/img/Huggies Dry Comfort Size 4 2 60.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Huggies Dry Comfort Size 3 3.jpg]
+
+File to: [build/img/Huggies Dry Comfort Size 3 3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Huggies Dry Comfort Size 3 64S.jpg]
+
+File to: [build/img/Huggies Dry Comfort Size 3 64S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Huggies Dry Comfort Size 4 3.jpg]
+
+File to: [build/img/Huggies Dry Comfort Size 4 3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Huggies Dry Comfort Size 4 8.jpg]
+
+File to: [build/img/Huggies Dry Comfort Size 4 8.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Huggies Dry Comfort Size 5 3.jpg]
+
+File to: [build/img/Huggies Dry Comfort Size 5 3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Huggies Dry Comfort Size 5 56 DIAPERS.jpg]
+
+File to: [build/img/Huggies Dry Comfort Size 5 56 DIAPERS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Huggies Dry Comfort Size 5 8.jpg]
+
+File to: [build/img/Huggies Dry Comfort Size 5 8.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HUGGIES LITTLE MOVER S6 120PCS.jpg]
+
+File to: [build/img/HUGGIES LITTLE MOVER S6 120PCS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Huggies little movers s5 150pcs.jpg]
+
+File to: [build/img/Huggies little movers s5 150pcs.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/huggies little movers size3.jpeg]
+
+File to: [build/img/huggies little movers size3.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Huggies Nappy Pants Size 3-4-5-6.jpeg]
+
+File to: [build/img/Huggies Nappy Pants Size 3-4-5-6.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HUGGIES NAPPY PANTS SIZE 3.jpg]
+
+File to: [build/img/HUGGIES NAPPY PANTS SIZE 3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HUGGIES NAPPY PANTS SIZE 4.jpg]
+
+File to: [build/img/HUGGIES NAPPY PANTS SIZE 4.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HUGGIES NAPPY PANTS SIZE 6.jpg]
+
+File to: [build/img/HUGGIES NAPPY PANTS SIZE 6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HUGGIES NAPPY PANTS SIZE 5.jpg]
+
+File to: [build/img/HUGGIES NAPPY PANTS SIZE 5.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HUGGIES NAPPY PANTSBSIZE 6 15-25KG 26PANTS.JPG]
+
+File to: [build/img/HUGGIES NAPPY PANTSBSIZE 6 15-25KG 26PANTS.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Huggies natural care wipes refill box.jpg]
+
+File to: [build/img/Huggies natural care wipes refill box.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HUGGIES NATURAL WIPES X 56.jpg]
+
+File to: [build/img/HUGGIES NATURAL WIPES X 56.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HUGGIES NEW BORN 56 WIPES.jpg]
+
+File to: [build/img/HUGGIES NEW BORN 56 WIPES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HUGGIES NEWBORN BABY WIPES 56.jpg]
+
+File to: [build/img/HUGGIES NEWBORN BABY WIPES 56.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Huggies Original Baby Wipes.jpg]
+
+File to: [build/img/Huggies Original Baby Wipes.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Huggies snug and dry 240 pcs.JPG]
+
+File to: [build/img/Huggies snug and dry 240 pcs.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/huggies snug and dry240 PCS.png]
+
+File to: [build/img/huggies snug and dry240 PCS.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Huggies Wipes Aloe 56.jpg]
+
+File to: [build/img/Huggies Wipes Aloe 56.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Huggies Wipes Unscented 56.jpg]
+
+File to: [build/img/Huggies Wipes Unscented 56.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HUGO BOSS FEMME 75ML.jpg]
+
+File to: [build/img/HUGO BOSS FEMME 75ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HUNGRY JACK BUTTERMILK PANCAKE & WAFFLE MIX 907G.png]
+
+File to: [build/img/HUNGRY JACK BUTTERMILK PANCAKE & WAFFLE MIX 907G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HUNGRY JACK BUTTER MILK PANCAKE MIX 907G.png]
+
+File to: [build/img/HUNGRY JACK BUTTER MILK PANCAKE MIX 907G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HUNGRY JACK EXTRA LIGHT&FLUFFY 907G.jpg]
+
+File to: [build/img/HUNGRY JACK EXTRA LIGHT&FLUFFY 907G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HUNGRY JACK EXTRA LIGHT AND FLUFFY 907G.png]
+
+File to: [build/img/HUNGRY JACK EXTRA LIGHT AND FLUFFY 907G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAIN

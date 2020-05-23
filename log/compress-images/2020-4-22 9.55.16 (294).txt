@@ -1,0 +1,85 @@
+File from: [src/img/Hisense545 Litres Refrigerator REF 72 WRSilver.jpg]
+
+File to: [build/img/Hisense545 Litres Refrigerator REF 72 WRSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hisense55 INCH SMART CURVED LED UHD TV - 4KBLACK.jpg]
+
+File to: [build/img/Hisense55 INCH SMART CURVED LED UHD TV - 4KBLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hisense5kg Washing Machine WM WSJA 551White.jpg]
+
+File to: [build/img/Hisense5kg Washing Machine WM WSJA 551White.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hisense6KG Automatic Front Load Washing Machine-WM6012SSilver.jpg]
+
+File to: [build/img/Hisense6KG Automatic Front Load Washing Machine-WM6012SSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hisense7.2kg Washing Machine Twin Tub (WM WSJA751)White.jpg]
+
+File to: [build/img/Hisense7.2kg Washing Machine Twin Tub (WM WSJA751)White.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hisense75'' 4K ULED SMART TV WiFi LAN  +FREE WALL BRACKET-75M6020Black.jpg]
+
+File to: [build/img/Hisense75'' 4K ULED SMART TV WiFi LAN  +FREE WALL BRACKET-75M6020Black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hisense8KG Automatic Front Load Washing Machine-WM8012SSilver.jpg]
+
+File to: [build/img/Hisense8KG Automatic Front Load Washing Machine-WM8012SSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hisense8kg Top Loader Automatic Washing Machine WM WTCT 802.jpg]
+
+File to: [build/img/Hisense8kg Top Loader Automatic Washing Machine WM WTCT 802.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hisense8kg Top Loader Automatic Washing Machine WM WTCT 802white.jpg]
+
+File to: [build/img/Hisense8kg Top Loader Automatic Washing Machine WM WTCT 802white.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hisense8kg Top Loader Washing Machine WTS802White.jpg]
+
+File to: [build/img/Hisense8kg Top Loader Washing Machine WTS802White.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HisenseBottom Mounted Double Door Refrigerator -REF 29 DCASilver.jpg]
+
+File to: [build/img/HisenseBottom Mounted Double Door Refrigerator -REF 29 DCASilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HisenseChest Freezer 205L - FRZFC260SH - SilverSILVER.jpg]
+
+File to: [build/img/HisenseChest Freezer 205L - FRZFC260SH - SilverSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HisenseChest Freezer FRZ FC 130SH - 100 Liters-SilverSilver.jpg]
+
+File to: [build/img/HisenseChest Freezer FRZ FC 130SH - 100 Liters-SilverSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HisenseChest Freezer FRZ FC 190SH - 145 Liters-SilverSilver.jpg]
+
+File to: [build/img/HisenseChest Freezer FRZ FC 190SH - 145 Liters-SilverSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

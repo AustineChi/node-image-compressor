@@ -1,0 +1,8 @@
+File from: [src/img/NESTLE COFFEE MATE ORIGINAL 311.8G.jpg]
+
+File to: [build/img/NESTLE COFFEE MATE ORIGINAL 311.8G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg -quality 60 -outfile build/img/NESTLE COFFEE MATE ORIGINAL 311.8G.jpg src/img/NESTLE COFFEE MATE ORIGINAL 311.8G.jpg
+Unrecognized input file format --- perhaps you need -targa

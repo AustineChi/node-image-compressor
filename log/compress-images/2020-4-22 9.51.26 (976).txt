@@ -1,0 +1,271 @@
+File from: [src/img/CHRISTMAS SMILEY FACE.jpg]
+
+File to: [build/img/CHRISTMAS SMILEY FACE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRISTMAS TODDLER BOWER HAT.jpg]
+
+File to: [build/img/CHRISTMAS TODDLER BOWER HAT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRISTMAS SHIMMERING GARLAND SMALL.jpg]
+
+File to: [build/img/CHRISTMAS SHIMMERING GARLAND SMALL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRISTMAS TRADITIONAL TREE 1.8 M.jpg]
+
+File to: [build/img/CHRISTMAS TRADITIONAL TREE 1.8 M.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRISTMAS TRADITIONAL TREE 1.5 M.jpg]
+
+File to: [build/img/CHRISTMAS TRADITIONAL TREE 1.5 M.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRISTMAS TINSEL GARLAND.jpg]
+
+File to: [build/img/CHRISTMAS TINSEL GARLAND.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRISTMAS SANTA STAR GLASSES.jpg]
+
+File to: [build/img/CHRISTMAS SANTA STAR GLASSES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRISTMAS TREE TOPPER.jpg]
+
+File to: [build/img/CHRISTMAS TREE TOPPER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRISTMAS TWINKLE LIGHT.jpeg]
+
+File to: [build/img/CHRISTMAS TWINKLE LIGHT.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRISTMAS WINE BOTTLE HOLDER.jpg]
+
+File to: [build/img/CHRISTMAS WINE BOTTLE HOLDER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRISTMAS WRAPPING SHEETS.jpg]
+
+File to: [build/img/CHRISTMAS WRAPPING SHEETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRISTMAS WRIST SLAP ASSORTED.jpg]
+
+File to: [build/img/CHRISTMAS WRIST SLAP ASSORTED.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRONIC MEN PERFUME GENTLE MEN 100ML.jpg]
+
+File to: [build/img/CHRONIC MEN PERFUME GENTLE MEN 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRONIC MEN PERFUME HONEST 100ML.jpeg]
+
+File to: [build/img/CHRONIC MEN PERFUME HONEST 100ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRONIC MEN PERFUME STRONG 100ML.jpg]
+
+File to: [build/img/CHRONIC MEN PERFUME STRONG 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHTOURA GARDEN MIXED VEGE1000G.jpg]
+
+File to: [build/img/CHTOURA GARDEN MIXED VEGE1000G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHUPA CHOPS SWEET.jpg]
+
+File to: [build/img/CHUPA CHOPS SWEET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHUPA CHUPS COTTON BUBBLE GUM.jpg]
+
+File to: [build/img/CHUPA CHUPS COTTON BUBBLE GUM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHUPA CHUPS WHEEL SWEET.jpg]
+
+File to: [build/img/CHUPA CHUPS WHEEL SWEET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIALIS  20MG X 2 TABS.jpg]
+
+File to: [build/img/CIALIS  20MG X 2 TABS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIALIS 20MG X 4 TABS.jpeg]
+
+File to: [build/img/CIALIS 20MG X 4 TABS.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CICATRIN POWDER BIG SIZE.jpg]
+
+File to: [build/img/CICATRIN POWDER BIG SIZE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIFLOMAX 500MG X 10.jpg]
+
+File to: [build/img/CIFLOMAX 500MG X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIFLOMAX 500MG X 14.jpg]
+
+File to: [build/img/CIFLOMAX 500MG X 14.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cikaquine (Chloroquine 250mg) tabs x10.jpg]
+
+File to: [build/img/Cikaquine (Chloroquine 250mg) tabs x10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CILOXAN EYE DROP.jpg]
+
+File to: [build/img/CILOXAN EYE DROP.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIMETIDINE CAPLETS 400MG.jpg]
+
+File to: [build/img/CIMETIDINE CAPLETS 400MG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CINNAMON TOAST CRUNCH 476G (1).jpg]
+
+File to: [build/img/CINNAMON TOAST CRUNCH 476G (1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIPROFLOXACIN 500MG TAB X 20.jpg]
+
+File to: [build/img/CIPROFLOXACIN 500MG TAB X 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIPROFLOXACIN INJECTION 200MG_100ML.jpg]
+
+File to: [build/img/CIPROFLOXACIN INJECTION 200MG_100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIPROTAB TABS 500MG X 10.jpg]
+
+File to: [build/img/CIPROTAB TABS 500MG X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIPROTAB TABS 500MG X 14.jpg]
+
+File to: [build/img/CIPROTAB TABS 500MG X 14.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIPROTAB-TN.jpg]
+
+File to: [build/img/CIPROTAB-TN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIRIO PEELED PLUM TOMATOES 400G.jpg]
+
+File to: [build/img/CIRIO PEELED PLUM TOMATOES 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIROC 1L.jpg]
+
+File to: [build/img/CIROC 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIROC 1LTRX12.jpg]
+
+File to: [build/img/CIROC 1LTRX12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIROC 6 LTRX1.jpg]
+
+File to: [build/img/CIROC 6 LTRX1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIROC COCONUT 1LTRX6.jpg]
+
+File to: [build/img/CIROC COCONUT 1LTRX6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIROC IGNITEX6.jpg]
+
+File to: [build/img/CIROC IGNITEX6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIROC PEACH 1LTRX6.jpg]
+
+File to: [build/img/CIROC PEACH 1LTRX6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIROC PINEAPPLE 1L.jpg]
+
+File to: [build/img/CIROC PINEAPPLE 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIROC PEACH 1L.jpg]
+
+File to: [build/img/CIROC PEACH 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIROC PINEAPPLE 1LTRX6.jpg]
+
+File to: [build/img/CIROC PINEAPPLE 1LTRX6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIROC RED BERRY 1LTRX6.jpg]
+
+File to: [build/img/CIROC RED BERRY 1LTRX6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIROC SUMMER COLADAX12.jpg]
+
+File to: [build/img/CIROC SUMMER COLADAX12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

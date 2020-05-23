@@ -1,0 +1,181 @@
+File from: [src/img/Kotase (Bromelain)40Mg-1Mg Tab x10satch.jpg]
+
+File to: [build/img/Kotase (Bromelain)40Mg-1Mg Tab x10satch.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KOTEX APPLICATOR TAMPON SUPER 16.JPG]
+
+File to: [build/img/KOTEX APPLICATOR TAMPON SUPER 16.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Kotex Panty Liner Deo 20s.jpg]
+
+File to: [build/img/Kotex Panty Liner Deo 20s.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Kotex Panty Liner Deo 40s.jpg]
+
+File to: [build/img/Kotex Panty Liner Deo 40s.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Kotex Panty Liner Regular 40s.jpg]
+
+File to: [build/img/Kotex Panty Liner Regular 40s.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Kotex Panty Liner Regular 20s.jpg]
+
+File to: [build/img/Kotex Panty Liner Regular 20s.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Kotex Ultra Long Sanitary Pads x8.jpg]
+
+File to: [build/img/Kotex Ultra Long Sanitary Pads x8.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Kotex Ultra Sanitary Pads Normal x8.jpg]
+
+File to: [build/img/Kotex Ultra Sanitary Pads Normal x8.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KRAZY GLUE PRECISION TIP 2G.jpg]
+
+File to: [build/img/KRAZY GLUE PRECISION TIP 2G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KRUSTEAZ LIGHT & FLUFFY BLUEBERRY PAN CAKE MIX 714G.JPG]
+
+File to: [build/img/KRUSTEAZ LIGHT & FLUFFY BLUEBERRY PAN CAKE MIX 714G.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KRUSTEAZ LIGHT & FLUFFY BUTTERMILK PAN CAKE MIX 714G.JPG]
+
+File to: [build/img/KRUSTEAZ LIGHT & FLUFFY BUTTERMILK PAN CAKE MIX 714G.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KRUSTEAZ LIGHT & FLUFFY BUTTERMILK PAN CAKE MIX 907G.JPG]
+
+File to: [build/img/KRUSTEAZ LIGHT & FLUFFY BUTTERMILK PAN CAKE MIX 907G.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KTC 100% PURE COCONUT OIL 250ML.jpg]
+
+File to: [build/img/KTC 100% PURE COCONUT OIL 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KTC CREAMED COCONUT 200G.jpg]
+
+File to: [build/img/KTC CREAMED COCONUT 200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KTC EXTRA VIRGIN OLIVE OIL 12X250ML.jpg]
+
+File to: [build/img/KTC EXTRA VIRGIN OLIVE OIL 12X250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KTC PURE ALMOND OIL 200ML.jpg]
+
+File to: [build/img/KTC PURE ALMOND OIL 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KTC PURE ALMOND OIL 300ML.jpg]
+
+File to: [build/img/KTC PURE ALMOND OIL 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KUNIMED ACTIVATED CHARCOAL POWDER.jpg]
+
+File to: [build/img/KUNIMED ACTIVATED CHARCOAL POWDER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KUNIMED YEAST POWDER  100G.png]
+
+File to: [build/img/KUNIMED YEAST POWDER  100G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/KUNIMED YEAST TABS  X 100.jpg]
+
+File to: [build/img/KUNIMED YEAST TABS  X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KUZA INDIAN HEMP HAIR TREATMENT 226G.jpg]
+
+File to: [build/img/KUZA INDIAN HEMP HAIR TREATMENT 226G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KUZA INDIAN HEMP HAIR TREATMENT 508.5G.jpg]
+
+File to: [build/img/KUZA INDIAN HEMP HAIR TREATMENT 508.5G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KUZA JAMAICAN BLACK CASTOL OIL COCONUT 118ML.jpg]
+
+File to: [build/img/KUZA JAMAICAN BLACK CASTOL OIL COCONUT 118ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KUZA JAMAICAN BLACK CASTOL OIL EXTRA DARK 118ML.jpg]
+
+File to: [build/img/KUZA JAMAICAN BLACK CASTOL OIL EXTRA DARK 118ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KUZA JAMAICAN BLACK CASTOR OIL ORIGINAL 118ML.jpg]
+
+File to: [build/img/KUZA JAMAICAN BLACK CASTOR OIL ORIGINAL 118ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KWV CLASSIC SHIRAZ 75CL.jpg]
+
+File to: [build/img/KWV CLASSIC SHIRAZ 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KWAI HEART CARE TAB X 30.jpg]
+
+File to: [build/img/KWAI HEART CARE TAB X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Kotex Ultra Thin Night 7s.png]
+
+File to: [build/img/Kotex Ultra Thin Night 7s.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Kotex Ultra Thin Normal 8s.jpg]
+
+File to: [build/img/Kotex Ultra Thin Normal 8s.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Kotex Ultra Thin Super 8s.jpg]
+
+File to: [build/img/Kotex Ultra Thin Super 8s.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

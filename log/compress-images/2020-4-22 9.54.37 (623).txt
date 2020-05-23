@@ -1,0 +1,31 @@
+File from: [src/img/DIOVAN 160MG X 14.jpg]
+
+File to: [build/img/DIOVAN 160MG X 14.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DIPLOMAT SMOKERS TOOTHBRUSH.jpeg]
+
+File to: [build/img/DIPLOMAT SMOKERS TOOTHBRUSH.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Diplomat Grip Toothbrush Hard.jpg]
+
+File to: [build/img/Diplomat Grip Toothbrush Hard.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DIOVAN 80MG X14.jpg]
+
+File to: [build/img/DIOVAN 80MG X14.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DIPROSALIC OINTMENT  30G.jpg]
+
+File to: [build/img/DIPROSALIC OINTMENT  30G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

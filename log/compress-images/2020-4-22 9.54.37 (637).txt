@@ -1,0 +1,211 @@
+File from: [src/img/ENSURE ORIGINAL CHOCOLATE 237ML.jpg]
+
+File to: [build/img/ENSURE ORIGINAL CHOCOLATE 237ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ENTEROGERMINA X1.jpg]
+
+File to: [build/img/ENTEROGERMINA X1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Enterogermina Oral Suspension Nebul x 1.jpg]
+
+File to: [build/img/Enterogermina Oral Suspension Nebul x 1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ENSURE ORIGINAL SHAKE 237ML.jpg]
+
+File to: [build/img/ENSURE ORIGINAL SHAKE 237ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ENSURE ORIGINAL SHAKE 237MLCHOCOLATE.jpg]
+
+File to: [build/img/ENSURE ORIGINAL SHAKE 237MLCHOCOLATE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ENTRANCE MAT SMALL.jpg]
+
+File to: [build/img/ENTRANCE MAT SMALL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EPIDERM LOTION  30ML.jpg]
+
+File to: [build/img/EPIDERM LOTION  30ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EPIGESIC X 20 TABS.png]
+
+File to: [build/img/EPIGESIC X 20 TABS.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/EPIDERM CREAM 30G.jpg]
+
+File to: [build/img/EPIDERM CREAM 30G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Epokine (Epoeitin) 4000units-4ml Injecti.jpg]
+
+File to: [build/img/Epokine (Epoeitin) 4000units-4ml Injecti.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EPSOM SALT(MOKO) 25G X1.jpg]
+
+File to: [build/img/EPSOM SALT(MOKO) 25G X1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ERKO MALLOW PINK & WHITE 150G.jpg]
+
+File to: [build/img/ERKO MALLOW PINK & WHITE 150G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Erko Mallow Twist Stick 80Gm.jpg]
+
+File to: [build/img/Erko Mallow Twist Stick 80Gm.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ESIDREX 25MG X20.jpg]
+
+File to: [build/img/ESIDREX 25MG X20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Esquire 3 in 1 Mens Boxer.jpeg]
+
+File to: [build/img/Esquire 3 in 1 Mens Boxer.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ESSENTIAL FORTE CAPS 300MG X50.jpeg]
+
+File to: [build/img/ESSENTIAL FORTE CAPS 300MG X50.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Estee Lauder Pleasure x30ml Perfume.jpg]
+
+File to: [build/img/Estee Lauder Pleasure x30ml Perfume.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ESTEVAN OUD VIR PERFUME 100ML.JPG]
+
+File to: [build/img/ESTEVAN OUD VIR PERFUME 100ML.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EUCERIN ORIGINAL HEALING CREAM 16 OZ.jpg]
+
+File to: [build/img/EUCERIN ORIGINAL HEALING CREAM 16 OZ.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EUCRYL POWDER FRESHMINT TOOTH PASTE 50G.jpg]
+
+File to: [build/img/EUCRYL POWDER FRESHMINT TOOTH PASTE 50G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EUCRYL POWDER ORIGINAL.jpg]
+
+File to: [build/img/EUCRYL POWDER ORIGINAL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EUCRYL POWDER SMOKERS (FRESHMINT).jpg]
+
+File to: [build/img/EUCRYL POWDER SMOKERS (FRESHMINT).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EUCRYL TOOTH PASTE 50ML.jpg]
+
+File to: [build/img/EUCRYL TOOTH PASTE 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EUCRYL TOOTH POWDER ORIGINAL 50G.jpg]
+
+File to: [build/img/EUCRYL TOOTH POWDER ORIGINAL 50G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EURAX CREAM 30GM.jpg]
+
+File to: [build/img/EURAX CREAM 30GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EUROMA THYME LEAVES 250G.jpg]
+
+File to: [build/img/EUROMA THYME LEAVES 250G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EUTHYMOL TOOTHPASTE 75M.png]
+
+File to: [build/img/EUTHYMOL TOOTHPASTE 75M.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/EUTHYMOL TOOTHPASTE 75ML.jpg]
+
+File to: [build/img/EUTHYMOL TOOTHPASTE 75ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EVA BABY 100G.jpg]
+
+File to: [build/img/EVA BABY 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EVA CLASSIC SAOP PINK 150G.jpg]
+
+File to: [build/img/EVA CLASSIC SAOP PINK 150G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Eva Complexion Care Soap 150g.jpg]
+
+File to: [build/img/Eva Complexion Care Soap 150g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EVA GOLD YELLOW 150G.jpg]
+
+File to: [build/img/EVA GOLD YELLOW 150G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EVA MORINGA 150G.jpg]
+
+File to: [build/img/EVA MORINGA 150G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EVA HERBAL GREEN 150G.jpg]
+
+File to: [build/img/EVA HERBAL GREEN 150G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EVA NATURAL FAIRNESS 150G.jpg]
+
+File to: [build/img/EVA NATURAL FAIRNESS 150G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

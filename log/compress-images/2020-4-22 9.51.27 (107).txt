@@ -1,0 +1,139 @@
+File from: [src/img/KNORR BEEF BULK PACK 3X2KG - CARTON.jpg]
+
+File to: [build/img/KNORR BEEF BULK PACK 3X2KG - CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KNORR BEEF NEW 16 X 50 X 8G.png]
+
+File to: [build/img/KNORR BEEF NEW 16 X 50 X 8G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/KNORR CHICKEN 400G X 12 - CARTON.jpg]
+
+File to: [build/img/KNORR CHICKEN 400G X 12 - CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KNORR CHICKEN 6 X 1KG.png]
+
+File to: [build/img/KNORR CHICKEN 6 X 1KG.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/KNORR CHICKEN CUBES 50 x 8G.jpg]
+
+File to: [build/img/KNORR CHICKEN CUBES 50 x 8G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KNORR CHICKEN FORTI 40X12X8G - CARTON.png]
+
+File to: [build/img/KNORR CHICKEN FORTI 40X12X8G - CARTON.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/KNORR CHICKEN POWDER 800G.jpg]
+
+File to: [build/img/KNORR CHICKEN POWDER 800G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KNORR CHICKEN POWDER FORTI 6X800G - CARTON.jpg]
+
+File to: [build/img/KNORR CHICKEN POWDER FORTI 6X800G - CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KOREAN RED GINSENG EXTRACT 100G.jpg]
+
+File to: [build/img/KOREAN RED GINSENG EXTRACT 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KOREAN RED GINSENG EXTRACT CAPSULES GOLD X60 CAPSULES.jpg]
+
+File to: [build/img/KOREAN RED GINSENG EXTRACT CAPSULES GOLD X60 CAPSULES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KOREAN RED GINSENG MULTIVITAMINS WOMEN BALANCE X 5.jpg]
+
+File to: [build/img/KOREAN RED GINSENG MULTIVITAMINS WOMEN BALANCE X 5.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KOREAN RED GINSENG TONIC MILD.jpg]
+
+File to: [build/img/KOREAN RED GINSENG TONIC MILD.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KOTASE  TABLETS X 10.jpg]
+
+File to: [build/img/KOTASE  TABLETS X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Kotase (Bromelain)40Mg-1Mg Tab x10satch.jpg]
+
+File to: [build/img/Kotase (Bromelain)40Mg-1Mg Tab x10satch.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KOTEX APPLICATOR TAMPON SUPER 16.JPG]
+
+File to: [build/img/KOTEX APPLICATOR TAMPON SUPER 16.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Kotex Panty Liner Deo 20s.jpg]
+
+File to: [build/img/Kotex Panty Liner Deo 20s.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Kotex Panty Liner Deo 40s.jpg]
+
+File to: [build/img/Kotex Panty Liner Deo 40s.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Kotex Panty Liner Regular 20s.jpg]
+
+File to: [build/img/Kotex Panty Liner Regular 20s.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Kotex Panty Liner Regular 40s.jpg]
+
+File to: [build/img/Kotex Panty Liner Regular 40s.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Kotex Ultra Long Sanitary Pads x8.jpg]
+
+File to: [build/img/Kotex Ultra Long Sanitary Pads x8.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Kotex Ultra Sanitary Pads Normal x8.jpg]
+
+File to: [build/img/Kotex Ultra Sanitary Pads Normal x8.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Kotex Ultra Thin Night 7s.png]
+
+File to: [build/img/Kotex Ultra Thin Night 7s.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Kotex Ultra Thin Normal 8s.jpg]
+
+File to: [build/img/Kotex Ultra Thin Normal 8s.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

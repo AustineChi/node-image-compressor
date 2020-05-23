@@ -1,0 +1,127 @@
+File from: [src/img/HAPPY HOUR PEACH 315ML.jpg]
+
+File to: [build/img/HAPPY HOUR PEACH 315ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HAPPY HOUR ZOBO FRUIT DRINK 150ML.jpg]
+
+File to: [build/img/HAPPY HOUR ZOBO FRUIT DRINK 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HAPPYHAIR WIG STAND.jpg]
+
+File to: [build/img/HAPPYHAIR WIG STAND.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARD COVER NOTE BOOK SHORT.jpg]
+
+File to: [build/img/HARD COVER NOTE BOOK SHORT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARDCORE MAX 250ML CAN.jpg]
+
+File to: [build/img/HARDCORE MAX 250ML CAN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARIBO CHAMALLOWS PINK & WHITE 140 GM.jpg]
+
+File to: [build/img/HARIBO CHAMALLOWS PINK & WHITE 140 GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARIBO FANTASY MIX 140 GM.jpg]
+
+File to: [build/img/HARIBO FANTASY MIX 140 GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARIBO FUNNY MIX 140 GM.jpg]
+
+File to: [build/img/HARIBO FUNNY MIX 140 GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARIBO GIANT STRAWBS 140 GM.jpg]
+
+File to: [build/img/HARIBO GIANT STRAWBS 140 GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARIBO GOLDBEARS 140 GM.jpg]
+
+File to: [build/img/HARIBO GOLDBEARS 140 GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARIBO HAPPY CHERRIES ZING 140 GM.jpg]
+
+File to: [build/img/HARIBO HAPPY CHERRIES ZING 140 GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARIBO HAPPY COLA 140 GM.jpg]
+
+File to: [build/img/HARIBO HAPPY COLA 140 GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARIBO HAPPY COLA ZING 140 GM.jpg]
+
+File to: [build/img/HARIBO HAPPY COLA ZING 140 GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARIBO SMURFS 140 GM.jpg]
+
+File to: [build/img/HARIBO SMURFS 140 GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARIBO STARMIX 140 GM.jpg]
+
+File to: [build/img/HARIBO STARMIX 140 GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARIBO STARMIX FRUIT PUNCH 140 GM.jpg]
+
+File to: [build/img/HARIBO STARMIX FRUIT PUNCH 140 GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARIBO SUPER MIX 140 GM.jpg]
+
+File to: [build/img/HARIBO SUPER MIX 140 GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARIBO SUPER MIX 140G.jpg]
+
+File to: [build/img/HARIBO SUPER MIX 140G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARIBO TANGFASTICS 140 GM.jpg]
+
+File to: [build/img/HARIBO TANGFASTICS 140 GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARIBO TANGFASTICS FRUIT SPRITZERS 140 GM.jpg]
+
+File to: [build/img/HARIBO TANGFASTICS FRUIT SPRITZERS 140 GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARIBO WINE GUM 140 GM.jpg]
+
+File to: [build/img/HARIBO WINE GUM 140 GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

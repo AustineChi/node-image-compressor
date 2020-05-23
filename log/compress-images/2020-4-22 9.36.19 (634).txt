@@ -1,0 +1,205 @@
+File from: [src/img/Bwf Cow Assorted 1kg.jpg]
+
+File to: [build/img/Bwf Cow Assorted 1kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Bwf Chicken Wings 1kg.png]
+
+File to: [build/img/Bwf Chicken Wings 1kg.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Bwf Cow Liver 500g.jpg]
+
+File to: [build/img/Bwf Cow Liver 500g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Bwf Cow Leg 1kg.jpg]
+
+File to: [build/img/Bwf Cow Leg 1kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Bwf Cow Pomo 1kg.jpg]
+
+File to: [build/img/Bwf Cow Pomo 1kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Bwf Cow Tail 500g.jpg]
+
+File to: [build/img/Bwf Cow Tail 500g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Bwf Minced Meat 500g.jpg]
+
+File to: [build/img/Bwf Minced Meat 500g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Bwf Cow Shaki 500g.png]
+
+File to: [build/img/Bwf Cow Shaki 500g.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Bwf Ram Meat 500g.png]
+
+File to: [build/img/Bwf Ram Meat 500g.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Bwf Turkey Wings 1kg.jpg]
+
+File to: [build/img/Bwf Turkey Wings 1kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Bwf Cow Assort 500g.jpg]
+
+File to: [build/img/Bwf Cow Assort 500g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Bwf Turkey Wings 500g.jpg]
+
+File to: [build/img/Bwf Turkey Wings 500g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BZ-A GOOD AFRICAN STORYByANDREW RUGASIRA.png]
+
+File to: [build/img/BZ-A GOOD AFRICAN STORYByANDREW RUGASIRA.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/BZ-AUTOBIGRAPHY OF MALCOLM XByMALCOLM X.jpg]
+
+File to: [build/img/BZ-AUTOBIGRAPHY OF MALCOLM XByMALCOLM X.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BZ-BELONGING THE STORY OF JEWSBySIMON SCHAMA.jpg]
+
+File to: [build/img/BZ-BELONGING THE STORY OF JEWSBySIMON SCHAMA.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BZ-BLOCKCHAIN REVOLUTION PCByDON TAPSCOTT.png]
+
+File to: [build/img/BZ-BLOCKCHAIN REVOLUTION PCByDON TAPSCOTT.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/BZ-DARE TO LEAD-PCByBRENE BROWN.jpg]
+
+File to: [build/img/BZ-DARE TO LEAD-PCByBRENE BROWN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BZ-ESSENTIALISM PCByGREG MCKEOWN.jpg]
+
+File to: [build/img/BZ-ESSENTIALISM PCByGREG MCKEOWN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BZ-GIGGEDBySARAH KESSLER.jpg]
+
+File to: [build/img/BZ-GIGGEDBySARAH KESSLER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BZ-GRIT-PCByANGELA DUCKWORTH.jpg]
+
+File to: [build/img/BZ-GRIT-PCByANGELA DUCKWORTH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BZ-LEADERSHIP IN TURBULENT TIMByDORIS KEARNS GODWIN.jpg]
+
+File to: [build/img/BZ-LEADERSHIP IN TURBULENT TIMByDORIS KEARNS GODWIN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BZ-MOVE YOUR BUS HCByRON CLARK.png]
+
+File to: [build/img/BZ-MOVE YOUR BUS HCByRON CLARK.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/BZ-NEVER EAT ALONEByKEITH FERRAZZI AND TAHL RAZ.jpg]
+
+File to: [build/img/BZ-NEVER EAT ALONEByKEITH FERRAZZI AND TAHL RAZ.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BZ-ORIGINALS-PCByADAM GRANT.jpg]
+
+File to: [build/img/BZ-ORIGINALS-PCByADAM GRANT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BZ-OUT OF SIGHTByJAMES PATTERSON.jpg]
+
+File to: [build/img/BZ-OUT OF SIGHTByJAMES PATTERSON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BZ-PEAK SECRETS FROM NEW..ByANDERS ERICSSON.jpg]
+
+File to: [build/img/BZ-PEAK SECRETS FROM NEW..ByANDERS ERICSSON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BZ-POKE THE BOX-PCBySETH GODIN.jpg]
+
+File to: [build/img/BZ-POKE THE BOX-PCBySETH GODIN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BZ-QUIET LEADERSHIPByCARLO ANCELOTTI.jpg]
+
+File to: [build/img/BZ-QUIET LEADERSHIPByCARLO ANCELOTTI.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BZ-REWORK-PCByJASON FRIED FRIED & DAVID HEINEMEIR HANSSON.jpg]
+
+File to: [build/img/BZ-REWORK-PCByJASON FRIED FRIED & DAVID HEINEMEIR HANSSON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BZ-RISING STRONG-PCByBRENE BROWN.jpg]
+
+File to: [build/img/BZ-RISING STRONG-PCByBRENE BROWN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BZ-SMALL MESSAGE BIG IMPACTByTERRI L. SJODIN.jpg]
+
+File to: [build/img/BZ-SMALL MESSAGE BIG IMPACTByTERRI L. SJODIN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BZ-SPRINT PCByJAKE KNAPP.jpg]
+
+File to: [build/img/BZ-SPRINT PCByJAKE KNAPP.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BZ-TAKING UP SPACEByCHELSEA KWAKYE ORE OGUNBIYI.jpg]
+
+File to: [build/img/BZ-TAKING UP SPACEByCHELSEA KWAKYE ORE OGUNBIYI.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BZ-TEAM OF TEAMS PCBySTANLEY McCHRYSTAL.jpg]
+
+File to: [build/img/BZ-TEAM OF TEAMS PCBySTANLEY McCHRYSTAL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

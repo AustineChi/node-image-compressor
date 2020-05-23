@@ -1,0 +1,115 @@
+File from: [src/img/Lemsip Cold+Flu Drink Lemon x10 sachet.jpg]
+
+File to: [build/img/Lemsip Cold+Flu Drink Lemon x10 sachet.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LEMSIP COUGH MAX CHESTY COUGH AND COLD X 10(SACHET).jpg]
+
+File to: [build/img/LEMSIP COUGH MAX CHESTY COUGH AND COLD X 10(SACHET).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LEMSIP MAX COLD & FLU CAP X 8.jpg]
+
+File to: [build/img/LEMSIP MAX COLD & FLU CAP X 8.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LEMSIP MAX ALL IN ONE X 16 CAPS.jpeg]
+
+File to: [build/img/LEMSIP MAX ALL IN ONE X 16 CAPS.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LEMSIP MAX COLD AIO CAPS X 16.png]
+
+File to: [build/img/LEMSIP MAX COLD AIO CAPS X 16.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/LEMSIP MAX COLD AND FLU BLACKCURRANT X 10(SATCHET).jpg]
+
+File to: [build/img/LEMSIP MAX COLD AND FLU BLACKCURRANT X 10(SATCHET).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LEMSIP MAX COLD AND FLU LEMON X10(SATCHET).jpg]
+
+File to: [build/img/LEMSIP MAX COLD AND FLU LEMON X10(SATCHET).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LEMSIP MAX COLD FLU LEMON 10`S.jpg]
+
+File to: [build/img/LEMSIP MAX COLD FLU LEMON 10`S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LEMSIP MAX COLD FLU LEMON X 5.jpg]
+
+File to: [build/img/LEMSIP MAX COLD FLU LEMON X 5.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lemsip Max Cold+Flu Capsules x16.jpg]
+
+File to: [build/img/Lemsip Max Cold+Flu Capsules x16.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lemsip Max Cold+Flu Drink Lemon sachet.jpg]
+
+File to: [build/img/Lemsip Max Cold+Flu Drink Lemon sachet.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LEMSIP MAX DAY & NIGHT CAPS 16.jpg]
+
+File to: [build/img/LEMSIP MAX DAY & NIGHT CAPS 16.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lemsip Cold+Flu Drink Lemon x10sachet.jpg]
+
+File to: [build/img/Lemsip Cold+Flu Drink Lemon x10sachet.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LEMSIP MAX DAY AND NIGHT X 24.jpg]
+
+File to: [build/img/LEMSIP MAX DAY AND NIGHT X 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LEMSIP MAX FLU LEMON X 10.jpg]
+
+File to: [build/img/LEMSIP MAX FLU LEMON X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LEMSIP MUCUS COUGH COLD CAPS 16.jpg]
+
+File to: [build/img/LEMSIP MUCUS COUGH COLD CAPS 16.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LENS CLEANER 30ML (PUMP SPRAY) 30ML.jpg]
+
+File to: [build/img/LENS CLEANER 30ML (PUMP SPRAY) 30ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LENS CLEANING WIPES 20.jpg]
+
+File to: [build/img/LENS CLEANING WIPES 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Leopold Raffin VSOP Cognac 75cl.jpg]
+
+File to: [build/img/Leopold Raffin VSOP Cognac 75cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

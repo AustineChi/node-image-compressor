@@ -1,0 +1,199 @@
+File from: [src/img/BRUT INSTINCT SPRAY 200ML.jpeg]
+
+File to: [build/img/BRUT INSTINCT SPRAY 200ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/brut musk spray 200ml.jpg]
+
+File to: [build/img/brut musk spray 200ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BRUT IDENTITY SPRAY 200ML.jpeg]
+
+File to: [build/img/BRUT IDENTITY SPRAY 200ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BRUT OCEAN SPRAY 200ML.jpg]
+
+File to: [build/img/BRUT OCEAN SPRAY 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BRUT ORIGINAL SPRAY 200ML.jpg]
+
+File to: [build/img/BRUT ORIGINAL SPRAY 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Bucopan (Hyoscine) 10mg tab x10 Satchet.jpg]
+
+File to: [build/img/Bucopan (Hyoscine) 10mg tab x10 Satchet.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BUDWEISER 330ML CAN.jpg]
+
+File to: [build/img/BUDWEISER 330ML CAN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/bsco10002_2_OI.png]
+
+File to: [build/img/bsco10002_2_OI.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/BUDWEISER 375ML BOTTLE.jpg]
+
+File to: [build/img/BUDWEISER 375ML BOTTLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BUDWEISER CAN 50CL.jpg]
+
+File to: [build/img/BUDWEISER CAN 50CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BUDWEISER 600ML BOTTLE.jpg]
+
+File to: [build/img/BUDWEISER 600ML BOTTLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Budweiser King Of Beer 600ml x 12.png]
+
+File to: [build/img/Budweiser King Of Beer 600ml x 12.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/BULGERM FH HAND SANITIZER 250ML.jpg]
+
+File to: [build/img/BULGERM FH HAND SANITIZER 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Budweiser Can Beer 500g x 24.jpg]
+
+File to: [build/img/Budweiser Can Beer 500g x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BULLET ENERGY DRINK.jpg]
+
+File to: [build/img/BULLET ENERGY DRINK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BULLET VODKA MIXED DRINK 250ML.jpg]
+
+File to: [build/img/BULLET VODKA MIXED DRINK 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BUNTO SUSPENSION 1L.jpeg]
+
+File to: [build/img/BUNTO SUSPENSION 1L.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Burberry Brit Rhythm Perfume Men 50ml.jpg]
+
+File to: [build/img/Burberry Brit Rhythm Perfume Men 50ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BUMBLE BEE CHUNK LIGHT TUNA IN WATER 142G.jpg]
+
+File to: [build/img/BUMBLE BEE CHUNK LIGHT TUNA IN WATER 142G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BURGER PEANUT SNACKS 50G.jpg]
+
+File to: [build/img/BURGER PEANUT SNACKS 50G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BUSCOPAN 10MG X 14.jpg]
+
+File to: [build/img/BUSCOPAN 10MG X 14.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BUSCOPAN 1OMG X 10 NG.jpg]
+
+File to: [build/img/BUSCOPAN 1OMG X 10 NG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BUTTER FIELD FAMILY LOAF.jpg]
+
+File to: [build/img/BUTTER FIELD FAMILY LOAF.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BUTTER FINGER CHOCOLATE BAR 6S.jpg]
+
+File to: [build/img/BUTTER FINGER CHOCOLATE BAR 6S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BUTTERCUP SYR 150ML.jpg]
+
+File to: [build/img/BUTTERCUP SYR 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BUTTERCUP SYR 75ML.jpg]
+
+File to: [build/img/BUTTERCUP SYR 75ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BUTTERMINT 126G.jpg]
+
+File to: [build/img/BUTTERMINT 126G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BVLGARI Aqua Divina x40ml Perfume.jpg]
+
+File to: [build/img/BVLGARI Aqua Divina x40ml Perfume.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Bwf Chicken Drum Stick 500g.jpg]
+
+File to: [build/img/Bwf Chicken Drum Stick 500g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Bwf Chicken Gizzard 1kg.jpg]
+
+File to: [build/img/Bwf Chicken Gizzard 1kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Bwf Chicken Gizzard 500g.jpg]
+
+File to: [build/img/Bwf Chicken Gizzard 500g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Bwf Chicken Laps 1kg.jpg]
+
+File to: [build/img/Bwf Chicken Laps 1kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Bwf Chicken Breast 1kg.png]
+
+File to: [build/img/Bwf Chicken Breast 1kg.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAIN

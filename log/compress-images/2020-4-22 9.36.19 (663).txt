@@ -1,0 +1,151 @@
+File from: [src/img/DEL MONTE DICED TOMATOES GREEN PEPPERS _ ONIONS 41.jpg]
+
+File to: [build/img/DEL MONTE DICED TOMATOES GREEN PEPPERS _ ONIONS 41.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DEL MONTE DICED TOMATOES WITH ZESTY CHILI STYLE 411G.jpg]
+
+File to: [build/img/DEL MONTE DICED TOMATOES WITH ZESTY CHILI STYLE 411G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DEL MONTE DICED TOMATOES WITH GARLIC _ ONION 411G.jpg]
+
+File to: [build/img/DEL MONTE DICED TOMATOES WITH GARLIC _ ONION 411G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DEL MONTE LEAF SPINACH 383G.jpg]
+
+File to: [build/img/DEL MONTE LEAF SPINACH 383G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DELE COTTON WOOL 450G.jpg]
+
+File to: [build/img/DELE COTTON WOOL 450G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DELMONTE MIXED VEGETABLES 411G.jpg]
+
+File to: [build/img/DELMONTE MIXED VEGETABLES 411G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Delta Herbal Soap 70g.jpg]
+
+File to: [build/img/Delta Herbal Soap 70g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Delta Medi _ Antisep Bath Soap 70g.jpg]
+
+File to: [build/img/Delta Medi _ Antisep Bath Soap 70g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Delta Plus Medi _ Anti Soap 70g.jpg]
+
+File to: [build/img/Delta Plus Medi _ Anti Soap 70g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Delta Summer Cool Med _ Anti Soap 70g.jpg]
+
+File to: [build/img/Delta Summer Cool Med _ Anti Soap 70g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Denivit Anti-Stain Toothpaste 50ml.jpg]
+
+File to: [build/img/Denivit Anti-Stain Toothpaste 50ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DENIVIT POLISH ANTI STAIN TOOTH PASTE 100ML.jpg]
+
+File to: [build/img/DENIVIT POLISH ANTI STAIN TOOTH PASTE 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DENTAL FLOSS 100M MINT WAXED FLUORIDE - GREEN.jpg]
+
+File to: [build/img/DENTAL FLOSS 100M MINT WAXED FLUORIDE - GREEN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DENTAL FLOSS 100M MINT WAXED - WHITE.jpg]
+
+File to: [build/img/DENTAL FLOSS 100M MINT WAXED - WHITE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DENTAL FLOSS 100M WAXED - BLUE.jpg]
+
+File to: [build/img/DENTAL FLOSS 100M WAXED - BLUE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DENTAL FLOSS 30S.jpg]
+
+File to: [build/img/DENTAL FLOSS 30S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DENTAL FLOSSERS GO BETWEEN 50.jpg]
+
+File to: [build/img/DENTAL FLOSSERS GO BETWEEN 50.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DENTAL FLOSS TWIN PACK 12M X 2.jpg]
+
+File to: [build/img/DENTAL FLOSS TWIN PACK 12M X 2.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dental Floss- ToothPicks x30pcs.jpg]
+
+File to: [build/img/Dental Floss- ToothPicks x30pcs.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DENTALPLUS ORAL CARE BREATH FRESHENER SPRAY ANISEED 25ML.jpg]
+
+File to: [build/img/DENTALPLUS ORAL CARE BREATH FRESHENER SPRAY ANISEED 25ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DENTALPLUS ORAL CARE BREATH FRESHENER SPRAY STRAWBERRY 25ML.jpg]
+
+File to: [build/img/DENTALPLUS ORAL CARE BREATH FRESHENER SPRAY STRAWBERRY 25ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DENTALPLUS ORAL CARE BREATH FRESHENER SPRAY DOUBLE STRENGHT 25ML.jpg]
+
+File to: [build/img/DENTALPLUS ORAL CARE BREATH FRESHENER SPRAY DOUBLE STRENGHT 25ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DENTALPLUS ORAL CARE FRESHMINT GREEN 500ML.jpg]
+
+File to: [build/img/DENTALPLUS ORAL CARE FRESHMINT GREEN 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DEL MONTE SLICED CARROTS 411G.jpg]
+
+File to: [build/img/DEL MONTE SLICED CARROTS 411G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DENTALPLUS ORAL CARE WHITENING&ANTI TARTAR CONTROL 500ML.jpg]
+
+File to: [build/img/DENTALPLUS ORAL CARE WHITENING&ANTI TARTAR CONTROL 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

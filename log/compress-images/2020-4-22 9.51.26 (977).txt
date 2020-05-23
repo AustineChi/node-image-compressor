@@ -1,0 +1,91 @@
+File from: [src/img/CITRAMIN DROPS  15ML.jpg]
+
+File to: [build/img/CITRAMIN DROPS  15ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Citramin Drops for Infants+Neonates 15ml.jpg]
+
+File to: [build/img/Citramin Drops for Infants+Neonates 15ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CITRAMIN SYR  100ML.png]
+
+File to: [build/img/CITRAMIN SYR  100ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CITRONELLA GLASS CANDLE.jpg]
+
+File to: [build/img/CITRONELLA GLASS CANDLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CITRONELLA INCENSE.jpg]
+
+File to: [build/img/CITRONELLA INCENSE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLARION VIT A X 30.png]
+
+File to: [build/img/CLARION VIT A X 30.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Claritek (Clarithromycin) 250mg Tabs x10.jpg]
+
+File to: [build/img/Claritek (Clarithromycin) 250mg Tabs x10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Clarithromycin (Sandoz) 500mg Tabs x14.jpg]
+
+File to: [build/img/Clarithromycin (Sandoz) 500mg Tabs x14.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLARITHROMYCIN 500MG X 14(SANDOZ).jpg]
+
+File to: [build/img/CLARITHROMYCIN 500MG X 14(SANDOZ).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLARITYN TABS X 14.jpg]
+
+File to: [build/img/CLARITYN TABS X 14.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLARITYN TABS X 30.jpg]
+
+File to: [build/img/CLARITYN TABS X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLARITYN TABS X 7.jpg]
+
+File to: [build/img/CLARITYN TABS X 7.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLASSIC FACE DEFINER.jpg]
+
+File to: [build/img/CLASSIC FACE DEFINER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Classic Jenga Game.jpg]
+
+File to: [build/img/Classic Jenga Game.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLASSIC PRESSED POWDER.jpg]
+
+File to: [build/img/CLASSIC PRESSED POWDER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

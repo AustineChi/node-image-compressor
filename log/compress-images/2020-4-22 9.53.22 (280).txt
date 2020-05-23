@@ -1,0 +1,313 @@
+File from: [src/img/HUNGRY JACK EXTRA LIGHT&FLUFFY 907G.jpg]
+
+File to: [build/img/HUNGRY JACK EXTRA LIGHT&FLUFFY 907G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HUNGRY JACK ORIGINAL SYRUP 816ML.jpg]
+
+File to: [build/img/HUNGRY JACK ORIGINAL SYRUP 816ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/hungry Jack.jpeg]
+
+File to: [build/img/hungry Jack.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HUNT'S ORIGINAL BBQ SAUCE 510G.jpg]
+
+File to: [build/img/HUNT'S ORIGINAL BBQ SAUCE 510G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Huntley Palmers Mini Crackers 350g.jpg]
+
+File to: [build/img/Huntley Palmers Mini Crackers 350g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hwa Tai Cream Crackers 21g.jpg]
+
+File to: [build/img/Hwa Tai Cream Crackers 21g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hwa Tai Cream Kracker 200g.jpeg]
+
+File to: [build/img/Hwa Tai Cream Kracker 200g.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HY.TOP APPLE CIDER VINEGAR 473ML.jpg]
+
+File to: [build/img/HY.TOP APPLE CIDER VINEGAR 473ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HY.TOP DISTILLED WHITE VINEGAR 5% 473ML.png]
+
+File to: [build/img/HY.TOP DISTILLED WHITE VINEGAR 5% 473ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HYDREX TAB 25MG X 10.jpg]
+
+File to: [build/img/HYDREX TAB 25MG X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HYDROCORTISONE CREAM(DGF).jpg]
+
+File to: [build/img/HYDROCORTISONE CREAM(DGF).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HYDROGEN PEROXIDE. 200ML.jpg]
+
+File to: [build/img/HYDROGEN PEROXIDE. 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HYDROXYCHLOROQUINE 200MG X 60.jpg]
+
+File to: [build/img/HYDROXYCHLOROQUINE 200MG X 60.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HYGIENICS POMEGRANATE & PEACH HAND WASH 500ML.jpg]
+
+File to: [build/img/HYGIENICS POMEGRANATE & PEACH HAND WASH 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HYOSCINE N BUTYLBROMIDE X10.jpg]
+
+File to: [build/img/HYOSCINE N BUTYLBROMIDE X10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HYPO 1000 ML BOTTLE  LIME x12.jfif.jpg]
+
+File to: [build/img/HYPO 1000 ML BOTTLE  LIME x12.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HYPO 1500 ML BOTTLE CARTONS.jpg]
+
+File to: [build/img/HYPO 1500 ML BOTTLE CARTONS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HYPO 1L.jpg]
+
+File to: [build/img/HYPO 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HYPO 1LTR BOTTLE CARTONS.jpg]
+
+File to: [build/img/HYPO 1LTR BOTTLE CARTONS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HYPO 3.5LTR 4 BOTTLES.jpg]
+
+File to: [build/img/HYPO 3.5LTR 4 BOTTLES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HYPO 500 ML BOTTLE CARTONS.jpg]
+
+File to: [build/img/HYPO 500 ML BOTTLE CARTONS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HYPO BLEACH 1L LIME.png]
+
+File to: [build/img/HYPO BLEACH 1L LIME.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HYPO BLEACH 1L.jpg]
+
+File to: [build/img/HYPO BLEACH 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HYPO BLEACH 1LTR.jpg]
+
+File to: [build/img/HYPO BLEACH 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HYPO BLEACH 500 ML LIME.png]
+
+File to: [build/img/HYPO BLEACH 500 ML LIME.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HYPO BLEACH 500 ML.png]
+
+File to: [build/img/HYPO BLEACH 500 ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HYPO BLEACH 500ML.jpg]
+
+File to: [build/img/HYPO BLEACH 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HYPO BLEACH LIME BREEZE 1L.png]
+
+File to: [build/img/HYPO BLEACH LIME BREEZE 1L.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Hypo Bleach Lime Breeze 500ML.jpg]
+
+File to: [build/img/Hypo Bleach Lime Breeze 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HYPO BLEACH LIME BREEZE 500ML.png]
+
+File to: [build/img/HYPO BLEACH LIME BREEZE 500ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HYPO LIME BREEZE 3.5 LIT x4.jfif.jpg]
+
+File to: [build/img/HYPO LIME BREEZE 3.5 LIT x4.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hypo Lime Breeze Bleach Yellow 1Ltr.jpg]
+
+File to: [build/img/Hypo Lime Breeze Bleach Yellow 1Ltr.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hypo Lime Breeze Bleach Yellow 500ml.jpg]
+
+File to: [build/img/Hypo Lime Breeze Bleach Yellow 500ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hypo Super Bleach White 500ml.jpg]
+
+File to: [build/img/Hypo Super Bleach White 500ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hypo Super White Bleach 1.5 Ltr.jpg]
+
+File to: [build/img/Hypo Super White Bleach 1.5 Ltr.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hypo Super White Bleach 1Ltr.jpg]
+
+File to: [build/img/Hypo Super White Bleach 1Ltr.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HYPO TOILET CLEANER 450ML.png]
+
+File to: [build/img/HYPO TOILET CLEANER 450ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HYPO TOILET CLEANER 725ML.png]
+
+File to: [build/img/HYPO TOILET CLEANER 725ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Hypo Toilet Cleaner 725ml(1).png]
+
+File to: [build/img/Hypo Toilet Cleaner 725ml(1).png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HYPO TOILET CLEANER BOTTLES 450 x 12.jpg]
+
+File to: [build/img/HYPO TOILET CLEANER BOTTLES 450 x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HYPO TOILET CLEANER BOTTLES 725 X 12.jpg]
+
+File to: [build/img/HYPO TOILET CLEANER BOTTLES 725 X 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HYPO TOILET CLEANER BOTTLES CITRUS 450 x 12.jpg]
+
+File to: [build/img/HYPO TOILET CLEANER BOTTLES CITRUS 450 x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HYPO TOILET CLEANER BOTTLES CITRUS 725 X 12.jpg]
+
+File to: [build/img/HYPO TOILET CLEANER BOTTLES CITRUS 725 X 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hypo Toilet Cleaner Citrus Fragrance 450ML.jpg]
+
+File to: [build/img/Hypo Toilet Cleaner Citrus Fragrance 450ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hypo Toilet Cleaner Citrus Fragrance 725ML.jpg]
+
+File to: [build/img/Hypo Toilet Cleaner Citrus Fragrance 725ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HYPO TOILET CLEANER CITRUS FRANGRANCE 450ML.jpg]
+
+File to: [build/img/HYPO TOILET CLEANER CITRUS FRANGRANCE 450ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HYPO TOILET CLEANER CITRUS FRANGRANCE 725ML.jpg]
+
+File to: [build/img/HYPO TOILET CLEANER CITRUS FRANGRANCE 725ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hyprogel 30g.png]
+
+File to: [build/img/Hyprogel 30g.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HYPROMELLOSE EYE DROPS 0.3% 10ML (MARTINDALE).jpg]
+
+File to: [build/img/HYPROMELLOSE EYE DROPS 0.3% 10ML (MARTINDALE).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/I CANT BELIVE ITS NOT BUTTER 500G.jpg]
+
+File to: [build/img/I CANT BELIVE ITS NOT BUTTER 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/I pad 5 32gb.jpg]
+
+File to: [build/img/I pad 5 32gb.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/I pad 6. 32gb.jpg]
+
+File to: [build/img/I pad 6. 32gb.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

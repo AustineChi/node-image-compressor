@@ -1,0 +1,343 @@
+File from: [src/img/PERT REPELLING AID.jpg]
+
+File to: [build/img/PERT REPELLING AID.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Petamide (Furosemide)20mgInjection IM-IV.jpg]
+
+File to: [build/img/Petamide (Furosemide)20mgInjection IM-IV.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PETER PAN CRUNCHY PEANUT462G.jpg]
+
+File to: [build/img/PETER PAN CRUNCHY PEANUT462G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PETER PAN CREAMY PEANUT BUTTER 462g.jpg]
+
+File to: [build/img/PETER PAN CREAMY PEANUT BUTTER 462g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PETROLEUM JELLY CREAM 226.jpg]
+
+File to: [build/img/PETROLEUM JELLY CREAM 226.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PETROLEUM JELLY CREAM 284G.jpg]
+
+File to: [build/img/PETROLEUM JELLY CREAM 284G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PETER PAN HONEY ROAST CREAMY 462G.jpg]
+
+File to: [build/img/PETER PAN HONEY ROAST CREAMY 462G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PG TEA BAGS 35S DECAF 101G.jpg]
+
+File to: [build/img/PG TEA BAGS 35S DECAF 101G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PG TIPS ORIGINAL 40PC.jpg]
+
+File to: [build/img/PG TIPS ORIGINAL 40PC.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PG TIPS DECAF TEA 101G.jpg]
+
+File to: [build/img/PG TIPS DECAF TEA 101G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PG TIPS ORIGINAL TEA 116G.jpg]
+
+File to: [build/img/PG TIPS ORIGINAL TEA 116G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PharmaMax Lisinopril 10mg Tab x28.jpg]
+
+File to: [build/img/PharmaMax Lisinopril 10mg Tab x28.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pharmaton Kiddi Syrup -200ml.jpg]
+
+File to: [build/img/Pharmaton Kiddi Syrup -200ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PET JELLY COCO BUT 226G.jpeg]
+
+File to: [build/img/PET JELLY COCO BUT 226G.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PHENERGAN ELIXIR 5MG 5ML X 100ML.jpg]
+
+File to: [build/img/PHENERGAN ELIXIR 5MG 5ML X 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PHENERGAN NIGHT TIME 25MG X 14 TAB.jpg]
+
+File to: [build/img/PHENERGAN NIGHT TIME 25MG X 14 TAB.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Phiima2 BURNER CABINET GAS COOKERBLACK.jpg]
+
+File to: [build/img/Phiima2 BURNER CABINET GAS COOKERBLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Phiima90 Cm Gas And Induction Ceramic HobBLACK.jpg]
+
+File to: [build/img/Phiima90 Cm Gas And Induction Ceramic HobBLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Phiima90 Cm Island Digital Range HoodSilver.jpg]
+
+File to: [build/img/Phiima90 Cm Island Digital Range HoodSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Phiima90cm Ductless Hoodsilver.jpg]
+
+File to: [build/img/Phiima90cm Ductless Hoodsilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Phiima90cm Plasma Wall Mount Rangehood With Charcoal FilterBlack.jpg]
+
+File to: [build/img/Phiima90cm Plasma Wall Mount Rangehood With Charcoal FilterBlack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Phiima90cm Gesture _Move Control Range Hood {double Hood Pan}Black.jpg]
+
+File to: [build/img/Phiima90cm Gesture _Move Control Range Hood {double Hood Pan}Black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PhiimaBlack DishwasherBlack.jpg]
+
+File to: [build/img/PhiimaBlack DishwasherBlack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PhiimaBuilt In 3x1 Stainless Gas Hobsteel.jpg]
+
+File to: [build/img/PhiimaBuilt In 3x1 Stainless Gas Hobsteel.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PhiimaBuilt-in Electric Oven - SilverSILVER.jpg]
+
+File to: [build/img/PhiimaBuilt-in Electric Oven - SilverSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PhiimaBuilt-in Gas And Electric Oven - SilverMETAL.jpg]
+
+File to: [build/img/PhiimaBuilt-in Gas And Electric Oven - SilverMETAL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PhiimaBuilt-in Gas And Electric Oven Stainlesssteel.jpg]
+
+File to: [build/img/PhiimaBuilt-in Gas And Electric Oven Stainlesssteel.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PhiimaElectric Oven Blackblack.jpg]
+
+File to: [build/img/PhiimaElectric Oven Blackblack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PhiimaFour Burner Glass Gas Hob - BlackBLACK.jpg]
+
+File to: [build/img/PhiimaFour Burner Glass Gas Hob - BlackBLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PhiimaFour Burner Glass Gas Hob - OrangeORANGE.jpg]
+
+File to: [build/img/PhiimaFour Burner Glass Gas Hob - OrangeORANGE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PhiimaGas & Electric Oven 90cmStainless Steel.jpg]
+
+File to: [build/img/PhiimaGas & Electric Oven 90cmStainless Steel.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PhiimaGlass Five Burner Gas Hob - Built-In GASORANGE.jpg]
+
+File to: [build/img/PhiimaGlass Five Burner Gas Hob - Built-In GASORANGE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PhiimaMicrowave Oven With Grill 25Lblack.jpg]
+
+File to: [build/img/PhiimaMicrowave Oven With Grill 25Lblack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PhiimaSilver DishwasherSilver.jpg]
+
+File to: [build/img/PhiimaSilver DishwasherSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PhiimaWhite DishwasherWHITE.jpg]
+
+File to: [build/img/PhiimaWhite DishwasherWHITE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PHILLIPS MILK OF MAGNESIA. SUSP 118ML.jpg]
+
+File to: [build/img/PHILLIPS MILK OF MAGNESIA. SUSP 118ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Philodexa (Dexamethasone) 4mg Inj. x1Amp.jpg]
+
+File to: [build/img/Philodexa (Dexamethasone) 4mg Inj. x1Amp.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Philometro Metochlopramide Inj. x1 Amp.jpg]
+
+File to: [build/img/Philometro Metochlopramide Inj. x1 Amp.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PhoneLogo.jpeg]
+
+File to: [build/img/PhoneLogo.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PICCAN SYR 100ML.jpg]
+
+File to: [build/img/PICCAN SYR 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PICNIC 58G.jpg]
+
+File to: [build/img/PICNIC 58G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PICNIC MILKY SHORCAKE BISCUITS.jpg]
+
+File to: [build/img/PICNIC MILKY SHORCAKE BISCUITS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PILEX SUPPOSITORY.jpg]
+
+File to: [build/img/PILEX SUPPOSITORY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PINE SOL LEMON FRESH.jpg]
+
+File to: [build/img/PINE SOL LEMON FRESH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PINE-SOL MULTI SURFACE CLEAN & DEODORIZE 2.95L.jpeg]
+
+File to: [build/img/PINE-SOL MULTI SURFACE CLEAN & DEODORIZE 2.95L.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PINE SOL MULTISURFACE CLEANER 709ML.jpg]
+
+File to: [build/img/PINE SOL MULTISURFACE CLEANER 709ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PINE-SOL MULTI SURFACE CLEANER 828ML LEMON FRESH.jpg]
+
+File to: [build/img/PINE-SOL MULTI SURFACE CLEANER 828ML LEMON FRESH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PINK CAT 2014 750ML.jpg]
+
+File to: [build/img/PINK CAT 2014 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PINK GRAPE FRUITS PER KG.jpg]
+
+File to: [build/img/PINK GRAPE FRUITS PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PINE-SOL MULTI SURFACE CLEANER 828ML SUNSHINE MEADOW.jpeg]
+
+File to: [build/img/PINE-SOL MULTI SURFACE CLEANER 828ML SUNSHINE MEADOW.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PINK LADY SPARK PERRY 75CL.jpg]
+
+File to: [build/img/PINK LADY SPARK PERRY 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/pinterest-logo-gray.png]
+
+File to: [build/img/pinterest-logo-gray.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Piriteze (Cetirizine) Tabs x 30.jpg]
+
+File to: [build/img/Piriteze (Cetirizine) Tabs x 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PIRITEZE TABS X 30.jpg]
+
+File to: [build/img/PIRITEZE TABS X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PIRITEZE TABS X 7.jpg]
+
+File to: [build/img/PIRITEZE TABS X 7.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PIRITON ALLERGY TABLETS X 60 TABLETS.jpg]
+
+File to: [build/img/PIRITON ALLERGY TABLETS X 60 TABLETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PhiimaBuilt-in Gas And Electric Oven Stainlesssteel.jpeg]
+
+File to: [build/img/PhiimaBuilt-in Gas And Electric Oven Stainlesssteel.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

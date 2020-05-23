@@ -1,0 +1,43 @@
+File from: [src/img/LOYA MILK 400G TIN.jpg]
+
+File to: [build/img/LOYA MILK 400G TIN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LOYA MILK FULL CREAM 2.5KG POUCH.png]
+
+File to: [build/img/LOYA MILK FULL CREAM 2.5KG POUCH.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/LOYA MILK 2.5KG SACHET.png]
+
+File to: [build/img/LOYA MILK 2.5KG SACHET.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/LOYA MILK TIN 900 GM.png]
+
+File to: [build/img/LOYA MILK TIN 900 GM.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Loya Powder Milk Tin 400g.jpg]
+
+File to: [build/img/Loya Powder Milk Tin 400g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Loya Powder Milk Tin 900g copy.jpg]
+
+File to: [build/img/Loya Powder Milk Tin 900g copy.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Loya Powdered Milk Pouch 900g copy.jpg]
+
+File to: [build/img/Loya Powdered Milk Pouch 900g copy.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

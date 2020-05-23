@@ -1,0 +1,61 @@
+File from: [src/img/cherie D or natural grap drink - Copy.jpeg]
+
+File to: [build/img/cherie D or natural grap drink - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cherry Carmex Moisturising Lip Balm 7.5g.jpg]
+
+File to: [build/img/Cherry Carmex Moisturising Lip Balm 7.5g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHERRY FRUITS PER KG.jpg]
+
+File to: [build/img/CHERRY FRUITS PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHERRY TOMATOES.jpg]
+
+File to: [build/img/CHERRY TOMATOES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHEMIRON SYR  200ML.jpg]
+
+File to: [build/img/CHEMIRON SYR  200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHEST AND LUNGS(DIVINE) X 20.jpg]
+
+File to: [build/img/CHEST AND LUNGS(DIVINE) X 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHEX MIX BOLD PARTY BLEND 248G.png]
+
+File to: [build/img/CHEX MIX BOLD PARTY BLEND 248G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CHELSEA LONDON DRY GIN 180ML.jpg]
+
+File to: [build/img/CHELSEA LONDON DRY GIN 180ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHESS MAGNETIC FOLDING BOAD.jpg]
+
+File to: [build/img/CHESS MAGNETIC FOLDING BOAD.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHERRY BLOSSOM BODY BUTTER CREAM 200ML.jpg]
+
+File to: [build/img/CHERRY BLOSSOM BODY BUTTER CREAM 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

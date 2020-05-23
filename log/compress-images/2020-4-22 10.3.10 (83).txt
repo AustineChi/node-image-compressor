@@ -1,0 +1,109 @@
+File from: [src/img/ORAL-B PRO HEALTH TOOTHPASTE 158G.png]
+
+File to: [build/img/ORAL-B PRO HEALTH TOOTHPASTE 158G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/ORAL-B PRO-EXPERT.png]
+
+File to: [build/img/ORAL-B PRO-EXPERT.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/ORAL-B PRO-HEALTH WHITENING ARP 95G.png]
+
+File to: [build/img/ORAL-B PRO-HEALTH WHITENING ARP 95G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/ORAL-B PROFLEX CLINICAL.jpg]
+
+File to: [build/img/ORAL-B PROFLEX CLINICAL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ORAL-B PRO-FLEX TOOTHBRUSH PRO-EXPERT.jpg]
+
+File to: [build/img/ORAL-B PRO-FLEX TOOTHBRUSH PRO-EXPERT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ORAL-B TOOTHPASTE 140GM.jpg]
+
+File to: [build/img/ORAL-B TOOTHPASTE 140GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ORAL-B TOOTHPASTE HERBAL MINT GEL 90G.jpg]
+
+File to: [build/img/ORAL-B TOOTHPASTE HERBAL MINT GEL 90G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ORAL-B TOOTHPASTE STRONG TEETH GEL 90G.jpg]
+
+File to: [build/img/ORAL-B TOOTHPASTE STRONG TEETH GEL 90G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Orange.jpg]
+
+File to: [build/img/Orange.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ORAXIN  SYRUP 200ML.jpg]
+
+File to: [build/img/ORAXIN  SYRUP 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ORBIT 10 PELLETS STRAWBERRY GUM 13.6G.jpg]
+
+File to: [build/img/ORBIT 10 PELLETS STRAWBERRY GUM 13.6G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ORBIT 10PELLET PEPPERMINT.jpg]
+
+File to: [build/img/ORBIT 10PELLET PEPPERMINT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ORBIT 10PELLET SPEARMINT.jpg]
+
+File to: [build/img/ORBIT 10PELLET SPEARMINT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ORBIT 10PELLET STRONGMINT.jpg]
+
+File to: [build/img/ORBIT 10PELLET STRONGMINT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ORBIT BUBBLEMINT GUM 55S.jpg]
+
+File to: [build/img/ORBIT BUBBLEMINT GUM 55S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Orbit Chewing Gum Mixed 13.6g.jpg]
+
+File to: [build/img/Orbit Chewing Gum Mixed 13.6g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Orbit Chewing Gum Mixed 27g.png]
+
+File to: [build/img/Orbit Chewing Gum Mixed 27g.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/ORBIT TAB PEPPERMINT.jpg]
+
+File to: [build/img/ORBIT TAB PEPPERMINT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

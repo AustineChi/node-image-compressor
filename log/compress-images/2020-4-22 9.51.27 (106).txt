@@ -1,0 +1,25 @@
+File from: [src/img/KNOR CHICKEN FORTI CUBE 50X8G.jpg]
+
+File to: [build/img/KNOR CHICKEN FORTI CUBE 50X8G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KNORR BEEF 400G.jpg]
+
+File to: [build/img/KNORR BEEF 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KNITTED SCARF.jpg]
+
+File to: [build/img/KNITTED SCARF.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KNORR BEEF BOULION CUBE FORT 17X50X8G - CARTON.jpg]
+
+File to: [build/img/KNORR BEEF BOULION CUBE FORT 17X50X8G - CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

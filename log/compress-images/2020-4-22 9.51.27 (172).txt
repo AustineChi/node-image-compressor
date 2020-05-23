@@ -1,0 +1,757 @@
+File from: [src/img/REDOXXON IMMUNE SUPP EFF X 30.png]
+
+File to: [build/img/REDOXXON IMMUNE SUPP EFF X 30.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/REDOXXON IMMUNE SUPP EFF TAB X 15.jpg]
+
+File to: [build/img/REDOXXON IMMUNE SUPP EFF TAB X 15.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REDOXON EFFERV VIT C D.A X 30.jpg]
+
+File to: [build/img/REDOXON EFFERV VIT C D.A X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REEL FRUIT DRIED PINEAPPLE 100G.jpg]
+
+File to: [build/img/REEL FRUIT DRIED PINEAPPLE 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REEL FRUIT DRIED PINEAPPLE 50G.jpg]
+
+File to: [build/img/REEL FRUIT DRIED PINEAPPLE 50G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REEL FRUIT FRUIT AND NUT MIX 250G.jpg]
+
+File to: [build/img/REEL FRUIT FRUIT AND NUT MIX 250G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RED BULL ENERGY DRINK 250ML.jpg]
+
+File to: [build/img/RED BULL ENERGY DRINK 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REEL FRUIT FRUIT AND NUT MIX 40G.jpg]
+
+File to: [build/img/REEL FRUIT FRUIT AND NUT MIX 40G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REEL FRUIT ROASTED CASHEWS 250G.jpg]
+
+File to: [build/img/REEL FRUIT ROASTED CASHEWS 250G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REEL FRUIT ROASTED CASHEWS NUTS 40G.jpg]
+
+File to: [build/img/REEL FRUIT ROASTED CASHEWS NUTS 40G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Refresh multipurpose solutin 60ml.jpg]
+
+File to: [build/img/Refresh multipurpose solutin 60ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REFUCIL TABS 500MG X 20.jpg]
+
+File to: [build/img/REFUCIL TABS 500MG X 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Reel Fruit Coconut Flakes 200g.jpg]
+
+File to: [build/img/Reel Fruit Coconut Flakes 200g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REFUCIL SUSP 125MG 100ML.jpg]
+
+File to: [build/img/REFUCIL SUSP 125MG 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REGAINE SOLUTION FOR MULTIVITAMINS WOMEN.jpg]
+
+File to: [build/img/REGAINE SOLUTION FOR MULTIVITAMINS WOMEN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REGULAR MIXING BOWL.jpg]
+
+File to: [build/img/REGULAR MIXING BOWL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Regal Dry Gin 75cl.jpg]
+
+File to: [build/img/Regal Dry Gin 75cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REGENERATING HAND CREAM 100ML.jpg]
+
+File to: [build/img/REGENERATING HAND CREAM 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REFLECTIONS CUTLERY SET 160S.jpg]
+
+File to: [build/img/REFLECTIONS CUTLERY SET 160S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RELEV TABS 500MG X 20.jpg]
+
+File to: [build/img/RELEV TABS 500MG X 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Reload Infant Drops -60Ml.jpg]
+
+File to: [build/img/Reload Infant Drops -60Ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RELCER SUSP 180ML.png]
+
+File to: [build/img/RELCER SUSP 180ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RELOAD KID CHEWABLE X 80.jpg]
+
+File to: [build/img/RELOAD KID CHEWABLE X 80.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RELOAD MEN 50+ X 90.jpg]
+
+File to: [build/img/RELOAD MEN 50+ X 90.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RELOAD MEN X 30.jpg]
+
+File to: [build/img/RELOAD MEN X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RELOAD MEN X 90.jpg]
+
+File to: [build/img/RELOAD MEN X 90.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RELOAD MULTIVITAMINS WOMEN 50+ X 90.jpg]
+
+File to: [build/img/RELOAD MULTIVITAMINS WOMEN 50+ X 90.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RELOAD MULTIVITAMINS WOMEN X 30.jpg]
+
+File to: [build/img/RELOAD MULTIVITAMINS WOMEN X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RELOAD MULTIVITAMINS WOMEN X 90.jpg]
+
+File to: [build/img/RELOAD MULTIVITAMINS WOMEN X 90.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REMIA CAESAR DRESSING 250ML copy.jpg]
+
+File to: [build/img/REMIA CAESAR DRESSING 250ML copy.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REMIA FRENCH DRESING 250ML.jpg]
+
+File to: [build/img/REMIA FRENCH DRESING 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REMIA ITALIAN DRESSING 250ML.jpg]
+
+File to: [build/img/REMIA ITALIAN DRESSING 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REMIA GARLIC SAUCE 250ML.jpg]
+
+File to: [build/img/REMIA GARLIC SAUCE 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Remia Mayonnaise 1000ml.jpg]
+
+File to: [build/img/Remia Mayonnaise 1000ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REMIA MAYONNAISE 500ML.jpg]
+
+File to: [build/img/REMIA MAYONNAISE 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Remia Mayonnaise 250ml.jpg]
+
+File to: [build/img/Remia Mayonnaise 250ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REMIA MUSTARD MILDLY SPICED 375ML.jpg]
+
+File to: [build/img/REMIA MUSTARD MILDLY SPICED 375ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Remia Salad Cream Dressing 250ml.jpg]
+
+File to: [build/img/Remia Salad Cream Dressing 250ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REMIA SALAD DRESSING GARLIC DRESSING 258G.jpg]
+
+File to: [build/img/REMIA SALAD DRESSING GARLIC DRESSING 258G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REMY M. VSOP 70CL WOG.png]
+
+File to: [build/img/REMY M. VSOP 70CL WOG.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/REMY M. 1738 70CL.jpg]
+
+File to: [build/img/REMY M. 1738 70CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REMY MARTIN - VSOP 35CL.png]
+
+File to: [build/img/REMY MARTIN - VSOP 35CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RENDEZ-VOUS WHITE GRAPE 75CL.jpg]
+
+File to: [build/img/RENDEZ-VOUS WHITE GRAPE 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REMY MARTIN VSOP 70CL.jpeg]
+
+File to: [build/img/REMY MARTIN VSOP 70CL.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RENERVE PLUS X 30.png]
+
+File to: [build/img/RENERVE PLUS X 30.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RENEW COLD WATER FABRIC STARCH 300G.jpg]
+
+File to: [build/img/RENEW COLD WATER FABRIC STARCH 300G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RENEW MACHINE WASH DETERGENT 2KG.jpg]
+
+File to: [build/img/RENEW MACHINE WASH DETERGENT 2KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RENEW MACHINE WASH DETERGENT 4KG.jpg]
+
+File to: [build/img/RENEW MACHINE WASH DETERGENT 4KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RENNIE ORANGE FLAVOUR X 48.jpg]
+
+File to: [build/img/RENNIE ORANGE FLAVOUR X 48.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RENNIE P.MINT TABLETS X 24.jpg]
+
+File to: [build/img/RENNIE P.MINT TABLETS X 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REPROFEN SUSP 100ML.jpg]
+
+File to: [build/img/REPROFEN SUSP 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RENU CONTACT LENS SOLUTION 120ML.jpg]
+
+File to: [build/img/RENU CONTACT LENS SOLUTION 120ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Restpoint10KG Double Top Washing Machine WC-100XPPWhite.jpg]
+
+File to: [build/img/Restpoint10KG Double Top Washing Machine WC-100XPPWhite.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Restpoint18″ Rechargeable Fan S48R WhiteWhite.png]
+
+File to: [build/img/Restpoint18″ Rechargeable Fan S48R WhiteWhite.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Restpoint1HP Air-Conditioner RP-EF9PK With Installtion KitWhite.jpg]
+
+File to: [build/img/Restpoint1HP Air-Conditioner RP-EF9PK With Installtion KitWhite.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointAir Cooler - EL-16A (White And Black).jpg]
+
+File to: [build/img/RestpointAir Cooler - EL-16A (White And Black).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REPLENS.jpg]
+
+File to: [build/img/REPLENS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointBeverage Cooler RP-350SCWhite.png]
+
+File to: [build/img/RestpointBeverage Cooler RP-350SCWhite.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RestpointDeep Freezer Single Door RP-405White.png]
+
+File to: [build/img/RestpointDeep Freezer Single Door RP-405White.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RestpointBuilt In Gas Cooker - RC-60EBlack.jpg]
+
+File to: [build/img/RestpointBuilt In Gas Cooker - RC-60EBlack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointDigital Cooker Hood With Vent - HD70SILVER_BLACK.png]
+
+File to: [build/img/RestpointDigital Cooker Hood With Vent - HD70SILVER_BLACK.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RestpointDigital Cooker Hood With Vent + Non Vent BlackSILVER.jpg]
+
+File to: [build/img/RestpointDigital Cooker Hood With Vent + Non Vent BlackSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointDigital Cooker Hood With VentSILVER.jpg]
+
+File to: [build/img/RestpointDigital Cooker Hood With VentSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointDigital Kitchen Range HoodSILVER.jpg]
+
+File to: [build/img/RestpointDigital Kitchen Range HoodSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointDigital Kitchen Range HoodBLACK.jpg]
+
+File to: [build/img/RestpointDigital Kitchen Range HoodBLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointDouble Door Showcase Freezer RC-920SC-.jpeg]
+
+File to: [build/img/RestpointDouble Door Showcase Freezer RC-920SC-.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointFloor Standing 2 Hp Air Conditioner - Rp-2002bRED.jpg]
+
+File to: [build/img/RestpointFloor Standing 2 Hp Air Conditioner - Rp-2002bRED.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointFree-Standing Gas Oven  RC-50G - SIlversilver.jpg]
+
+File to: [build/img/RestpointFree-Standing Gas Oven  RC-50G - SIlversilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointFree-Standing Gas Oven RC-50GR - SIlversilver.jpg]
+
+File to: [build/img/RestpointFree-Standing Gas Oven RC-50GR - SIlversilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointFree-Standing Gas Oven RC-60GF - SIlversilver.jpg]
+
+File to: [build/img/RestpointFree-Standing Gas Oven RC-60GF - SIlversilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointFree-Standing Gas Oven RC-92GE - BrownBrown.jpg]
+
+File to: [build/img/RestpointFree-Standing Gas Oven RC-92GE - BrownBrown.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointFree-Standing Gas Oven RC-92GE - SIlversilver.jpg]
+
+File to: [build/img/RestpointFree-Standing Gas Oven RC-92GE - SIlversilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointFree-Standing Gas Oven RC-92Gsilver.jpg]
+
+File to: [build/img/RestpointFree-Standing Gas Oven RC-92Gsilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointFreestanding Hot And Cold Water Dispenser - RP-WS40white.jpg]
+
+File to: [build/img/RestpointFreestanding Hot And Cold Water Dispenser - RP-WS40white.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointIce Cream Display Freezer RP-150SDCMULTI.jpg]
+
+File to: [build/img/RestpointIce Cream Display Freezer RP-150SDCMULTI.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointInbuilt Electric Oven MC60VGBLACK.jpg]
+
+File to: [build/img/RestpointInbuilt Electric Oven MC60VGBLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointInbuilt Electric Oven MC60VSSILVER.jpg]
+
+File to: [build/img/RestpointInbuilt Electric Oven MC60VSSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointPackage Unit Floor Standing Air ConditionerSILVER.jpg]
+
+File to: [build/img/RestpointPackage Unit Floor Standing Air ConditionerSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointRange Hood With Tampered Glass Body - HD60B-.png]
+
+File to: [build/img/RestpointRange Hood With Tampered Glass Body - HD60B-.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RestpointRestpoint  In Built Gas And Electric Top With Safety DeviceSILVER.jpg]
+
+File to: [build/img/RestpointRestpoint  In Built Gas And Electric Top With Safety DeviceSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointRestpoint  In Built Gas And Electric TopSILVER.jpg]
+
+File to: [build/img/RestpointRestpoint  In Built Gas And Electric TopSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointRestpoint  In Built Gas Top With Safety DeviceSILVER.jpg]
+
+File to: [build/img/RestpointRestpoint  In Built Gas Top With Safety DeviceSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointRestpoint  In Built Gas Top With Safety Deviceblack.jpg]
+
+File to: [build/img/RestpointRestpoint  In Built Gas Top With Safety Deviceblack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointRestpoint  In Built Gas TopSILVER.jpg]
+
+File to: [build/img/RestpointRestpoint  In Built Gas TopSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointRestpoint  In Built Gas Topblack.jpg]
+
+File to: [build/img/RestpointRestpoint  In Built Gas Topblack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointRP-WS100S Freestanding Hot And Cold Water Dispenser - SilverSilver.jpg]
+
+File to: [build/img/RestpointRP-WS100S Freestanding Hot And Cold Water Dispenser - SilverSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointSingle Door Deep Freezer RP-161SILVER.jpg]
+
+File to: [build/img/RestpointSingle Door Deep Freezer RP-161SILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointSingle Door Deep Freezer RP-164White.JPG]
+
+File to: [build/img/RestpointSingle Door Deep Freezer RP-164White.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointSingle Door Deep Freezer RP-161WHITE.JPG]
+
+File to: [build/img/RestpointSingle Door Deep Freezer RP-161WHITE.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointWater Dispenser Hot And Cold With Refrigerator - RP-WS100BBlue.jpg]
+
+File to: [build/img/RestpointWater Dispenser Hot And Cold With Refrigerator - RP-WS100BBlue.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointSingle-door Refrigerator RP-133.png]
+
+File to: [build/img/RestpointSingle-door Refrigerator RP-133.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RestpointWater Dispenser Hot And Cold With Refrigerator - RP-WS100RRed.jpg]
+
+File to: [build/img/RestpointWater Dispenser Hot And Cold With Refrigerator - RP-WS100RRed.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Retin-A 0.05% Cream 15g.jpg]
+
+File to: [build/img/Retin-A 0.05% Cream 15g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RETIN-A CREAM 0.05% 20G.jpg]
+
+File to: [build/img/RETIN-A CREAM 0.05% 20G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REXONA ANTIBACTERIAL PROTECTION 200ML.jpg]
+
+File to: [build/img/REXONA ANTIBACTERIAL PROTECTION 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointBuilt-in Microwave Oven - MN35CC Stainless Steel Framesilver.jpg]
+
+File to: [build/img/RestpointBuilt-in Microwave Oven - MN35CC Stainless Steel Framesilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointDeep Freezer Single Door RP-207White.jpg]
+
+File to: [build/img/RestpointDeep Freezer Single Door RP-207White.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Rexona Body Spray Invisible B+W 200ml.jpg]
+
+File to: [build/img/Rexona Body Spray Invisible B+W 200ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REXONA BRIGHT BOUQUET SPRAY 200ML.jpg]
+
+File to: [build/img/REXONA BRIGHT BOUQUET SPRAY 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REXONA BRIGHT BOUQUET  200ML.jpg]
+
+File to: [build/img/REXONA BRIGHT BOUQUET  200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REXONA COOL PINK BODY SPRAY 200ML.jpg]
+
+File to: [build/img/REXONA COOL PINK BODY SPRAY 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REXONA COOL PINK 200ML.jpg]
+
+File to: [build/img/REXONA COOL PINK 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REXONA INVISIBLE AQUA SPRAY 200ML.jpg]
+
+File to: [build/img/REXONA INVISIBLE AQUA SPRAY 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REXONA LINEN DRY STICK 50ML.jpg]
+
+File to: [build/img/REXONA LINEN DRY STICK 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REXONA LINEN DRY 200ML.jpg]
+
+File to: [build/img/REXONA LINEN DRY 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REXONA MEN ACTIVE DRY SPRAY 200ML.jpg]
+
+File to: [build/img/REXONA MEN ACTIVE DRY SPRAY 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REXONA MEN ANTI FRESH SPRAY 200ML.jpg]
+
+File to: [build/img/REXONA MEN ANTI FRESH SPRAY 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Revive Cap -10.jpg]
+
+File to: [build/img/Revive Cap -10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Rexona Men Body Spray Ace Fresh 200ml.jpg]
+
+File to: [build/img/Rexona Men Body Spray Ace Fresh 200ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REXONA MEN ANTIBACTERIAL PROTECTION 200ML.jpg]
+
+File to: [build/img/REXONA MEN ANTIBACTERIAL PROTECTION 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REXONA MEN COBALT DRY 200ML.jpg]
+
+File to: [build/img/REXONA MEN COBALT DRY 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REXONA MEN COBAT DRY SPRAY 200ML.jpg]
+
+File to: [build/img/REXONA MEN COBAT DRY SPRAY 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REXONA MEN INVISIBLE BLACK AND WHITE STICK 50ML.jpg]
+
+File to: [build/img/REXONA MEN INVISIBLE BLACK AND WHITE STICK 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REXONA MEN QUANTUM ROLL ON 50ML.png]
+
+File to: [build/img/REXONA MEN QUANTUM ROLL ON 50ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/REXONA MEN SPORT DEFENCE ROLL ON 50ML.png]
+
+File to: [build/img/REXONA MEN SPORT DEFENCE ROLL ON 50ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/REXONA MEN TURBO MOITON ACTION PROTECTION 200ML.jpg]
+
+File to: [build/img/REXONA MEN TURBO MOITON ACTION PROTECTION 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REXONA MEN SPORT DEFENCE STICK 50ML.jpg]
+
+File to: [build/img/REXONA MEN SPORT DEFENCE STICK 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REXONA MEN TURBO STICK 50ML.jpg]
+
+File to: [build/img/REXONA MEN TURBO STICK 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REXONA MEN TURBO ROLL ON 50ML.jpg]
+
+File to: [build/img/REXONA MEN TURBO ROLL ON 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REXONA MEN V8 ROLL ON 50ML.jpg]
+
+File to: [build/img/REXONA MEN V8 ROLL ON 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REXONA MEN WILLIAMS RACING ROLL ON 50ML.jpg]
+
+File to: [build/img/REXONA MEN WILLIAMS RACING ROLL ON 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REXONA MEN BODY SPRAY 200ML.jpg]
+
+File to: [build/img/REXONA MEN BODY SPRAY 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REXONA MEN XTRA COOL 200ML.jpg]
+
+File to: [build/img/REXONA MEN XTRA COOL 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REXONA MOTION SENSE LINEN DRY 119ML.jpg]
+
+File to: [build/img/REXONA MOTION SENSE LINEN DRY 119ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REXONA MOTION RADIANT SUNSHINE 200ML.jpg]
+
+File to: [build/img/REXONA MOTION RADIANT SUNSHINE 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REXONA MEN ADVENTURE 200ML.png]
+
+File to: [build/img/REXONA MEN ADVENTURE 200ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAIN

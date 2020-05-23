@@ -1,0 +1,223 @@
+File from: [src/img/Dove 4 in1 Beauty Cream Soap 100g x 12.jpg]
+
+File to: [build/img/Dove 4 in1 Beauty Cream Soap 100g x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dove Anti-Perspirant Stick 74g x48.png]
+
+File to: [build/img/Dove Anti-Perspirant Stick 74g x48.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Dove Bath Moisturing Cream 750ml.jpg]
+
+File to: [build/img/Dove Bath Moisturing Cream 750ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dove Beauty Body Lotion 400ml.jpg]
+
+File to: [build/img/Dove Beauty Body Lotion 400ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dove Beauty Cream Bar Soap 100g.jpg]
+
+File to: [build/img/Dove Beauty Cream Bar Soap 100g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOVE COCONUT BODY WASH 709ML.jpg]
+
+File to: [build/img/DOVE COCONUT BODY WASH 709ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOVE CREAM OIL SHEA BUTTER BODY LOTION.jpg]
+
+File to: [build/img/DOVE CREAM OIL SHEA BUTTER BODY LOTION.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOVE DEEP MOISTURE BODY WASH 709ML.jpg]
+
+File to: [build/img/DOVE DEEP MOISTURE BODY WASH 709ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOVE DERMA SPA 150ML.jpg]
+
+File to: [build/img/DOVE DERMA SPA 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOVE GENTLE EXFOLIATING BODY WASH 709ML.jpg]
+
+File to: [build/img/DOVE GENTLE EXFOLIATING BODY WASH 709ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOVE GO FRESH BODY WASH 709ML.jpg]
+
+File to: [build/img/DOVE GO FRESH BODY WASH 709ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOVE GO FRESH GRAPEFRUIT ROLL ON 50ML.jpg]
+
+File to: [build/img/DOVE GO FRESH GRAPEFRUIT ROLL ON 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOVE GO FRESH POMEGRANATE BODY WASH 750ML.jpg]
+
+File to: [build/img/DOVE GO FRESH POMEGRANATE BODY WASH 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOVE GO FRESH POMEGRANATE ROLL ON 50ML.jpg]
+
+File to: [build/img/DOVE GO FRESH POMEGRANATE ROLL ON 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOVE GO FRESH ROLL ON 50ML.jpg]
+
+File to: [build/img/DOVE GO FRESH ROLL ON 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOVE GO INVISIBLE ROLL ON 50ML.jpg]
+
+File to: [build/img/DOVE GO INVISIBLE ROLL ON 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOVE HAND WASH CUCUMBER & GREEN TEA 250ML.jpg]
+
+File to: [build/img/DOVE HAND WASH CUCUMBER & GREEN TEA 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dove Handwash Fine Silk Brown 250ml.jpg]
+
+File to: [build/img/Dove Handwash Fine Silk Brown 250ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOVE MEN + CARE ELEMENTS STICK 50ML MIX.jpg]
+
+File to: [build/img/DOVE MEN + CARE ELEMENTS STICK 50ML MIX.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOVE MEN + CARE EXTRA FRESH BODY & FACE WASH 532ML.png]
+
+File to: [build/img/DOVE MEN + CARE EXTRA FRESH BODY & FACE WASH 532ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DOVE MEN + CARE INVISIBLE DRY SPRAY 250ML.jpg]
+
+File to: [build/img/DOVE MEN + CARE INVISIBLE DRY SPRAY 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOVE MEN + CARE INVISIBLE EXTRA FRESH SPRAY 250ML.jpg]
+
+File to: [build/img/DOVE MEN + CARE INVISIBLE EXTRA FRESH SPRAY 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOVE MEN+CARE CLEAN COMFORT ROLL ON 50ML.png]
+
+File to: [build/img/DOVE MEN+CARE CLEAN COMFORT ROLL ON 50ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Dettol Instant Hand Sanitizer 50ml.jpg]
+
+File to: [build/img/Dettol Instant Hand Sanitizer 50ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOVE MEN+CARE COOL FRESH ROLL ON 50ML.jpg]
+
+File to: [build/img/DOVE MEN+CARE COOL FRESH ROLL ON 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOVE MORNING BLOSSOM BODY WASH 709ML.jpg]
+
+File to: [build/img/DOVE MORNING BLOSSOM BODY WASH 709ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOVE ORIGINAL SIICK 40ML.jpg]
+
+File to: [build/img/DOVE ORIGINAL SIICK 40ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dove Pink Beauty Bar Soap 113g.jpg]
+
+File to: [build/img/Dove Pink Beauty Bar Soap 113g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOVE PURELY PAMPERING 709ML.jpg]
+
+File to: [build/img/DOVE PURELY PAMPERING 709ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOVE PURELY PAMPERING BODY WASH 709ML.jpg]
+
+File to: [build/img/DOVE PURELY PAMPERING BODY WASH 709ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOVE SENSITIVE SKIN BODY WASH 709ML.jpg]
+
+File to: [build/img/DOVE SENSITIVE SKIN BODY WASH 709ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DETTOL MPC CITRUS 200ML.JPG]
+
+File to: [build/img/DETTOL MPC CITRUS 200ML.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dove Soap For Men 678g x 6.jpg]
+
+File to: [build/img/Dove Soap For Men 678g x 6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOVE SOFT FEEL SIICK 40ML.png]
+
+File to: [build/img/DOVE SOFT FEEL SIICK 40ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DOVE SWEET CREAM BODY WASH 709ML.jpg]
+
+File to: [build/img/DOVE SWEET CREAM BODY WASH 709ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOVE 16 BAR SOAP SENSITIVE SKIN 113G.jpg]
+
+File to: [build/img/DOVE 16 BAR SOAP SENSITIVE SKIN 113G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dove Anti-Persp Deo Roll-On 50ml.jpg]
+
+File to: [build/img/Dove Anti-Persp Deo Roll-On 50ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

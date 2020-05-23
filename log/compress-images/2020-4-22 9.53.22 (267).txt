@@ -1,0 +1,283 @@
+File from: [src/img/Grace Cole Rhubarb & Pomegrante 500ml Bath & Shower Gel  -.jpg]
+
+File to: [build/img/Grace Cole Rhubarb & Pomegrante 500ml Bath & Shower Gel  -.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Sea Breeze & Lemongrass 250ml Body Mist  -.jpg]
+
+File to: [build/img/Grace Cole Sea Breeze & Lemongrass 250ml Body Mist  -.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Sea Breeze & Lemongrass 250ml Body Mist.jpg]
+
+File to: [build/img/Grace Cole Sea Breeze & Lemongrass 250ml Body Mist.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Sea Breeze & Lemongrass 500ml Body Wash.jpg]
+
+File to: [build/img/Grace Cole Sea Breeze & Lemongrass 500ml Body Wash.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Strawberry & Pomelo 250ml Body Mist -.jpg]
+
+File to: [build/img/Grace Cole Strawberry & Pomelo 250ml Body Mist -.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Strawberry & Pomelo 500ml Bath & Shower Gel -.jpg]
+
+File to: [build/img/Grace Cole Strawberry & Pomelo 500ml Bath & Shower Gel -.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Velvet Rose & Sandalwood 250ml Body Mist  -.jpg]
+
+File to: [build/img/Grace Cole Velvet Rose & Sandalwood 250ml Body Mist  -.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Velvet Rose & Sandalwood 250ml Mist.jpg]
+
+File to: [build/img/Grace Cole Velvet Rose & Sandalwood 250ml Mist.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Velvet Rose & Sandalwood 500ml Body Wash.jpg]
+
+File to: [build/img/Grace Cole Velvet Rose & Sandalwood 500ml Body Wash.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRACE ColeOud Cassis 250ML Body Mis.jpg]
+
+File to: [build/img/GRACE ColeOud Cassis 250ML Body Mis.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRACE COleSea Breee Leograss 500ML Body WasH.jpg]
+
+File to: [build/img/GRACE COleSea Breee Leograss 500ML Body WasH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRACECO CORN FLOUR 500G.jpg]
+
+File to: [build/img/GRACECO CORN FLOUR 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRACECO FOODS GOUND RICE 1KG.jpg]
+
+File to: [build/img/GRACECO FOODS GOUND RICE 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRACECO FOODS POUNDED YAM FLOUR 1KG.jpeg]
+
+File to: [build/img/GRACECO FOODS POUNDED YAM FLOUR 1KG.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAND APPLE TURNOVER.jpg]
+
+File to: [build/img/GRAND APPLE TURNOVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grae Cole Neroli Sea Sal 500ML Body WasH.jpg]
+
+File to: [build/img/Grae Cole Neroli Sea Sal 500ML Body WasH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAND AVOCADO PEAR.png]
+
+File to: [build/img/GRAND AVOCADO PEAR.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GRAND BANANA.jpg]
+
+File to: [build/img/GRAND BANANA.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAND BROCCOLI.jpg]
+
+File to: [build/img/GRAND BROCCOLI.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAND CABBAGE.jpg]
+
+File to: [build/img/GRAND CABBAGE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAND CARROT PER PACK.jpg]
+
+File to: [build/img/GRAND CARROT PER PACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAND CARROT.png]
+
+File to: [build/img/GRAND CARROT.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GRAND CELERY LEAVES.png]
+
+File to: [build/img/GRAND CELERY LEAVES.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GRAND LIME.jpg]
+
+File to: [build/img/GRAND LIME.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAND MALT 250ML PET.jpg]
+
+File to: [build/img/GRAND MALT 250ML PET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAND MALT 330ML CAN.jpg]
+
+File to: [build/img/GRAND MALT 330ML CAN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAND MALT 330ML PET.jpg]
+
+File to: [build/img/GRAND MALT 330ML PET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grand Malt Drink Can 33cl.jpg]
+
+File to: [build/img/Grand Malt Drink Can 33cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grand Malt Drink Can 33cl(1).jpg]
+
+File to: [build/img/Grand Malt Drink Can 33cl(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAND MANGO.jpeg]
+
+File to: [build/img/GRAND MANGO.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAND MARROW PER KG.jpg]
+
+File to: [build/img/GRAND MARROW PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAND MARROW REGULAR PER KG.jpg]
+
+File to: [build/img/GRAND MARROW REGULAR PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grand Master_s Malt Blended Whisky 750ml.jpg]
+
+File to: [build/img/Grand Master_s Malt Blended Whisky 750ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grand Master_s Malt Blended Whisky 750ml(1).jpg]
+
+File to: [build/img/Grand Master_s Malt Blended Whisky 750ml(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grand Master_s Vodka 75cl.jpg]
+
+File to: [build/img/Grand Master_s Vodka 75cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grand Master_s Vodka 75cl(1).jpg]
+
+File to: [build/img/Grand Master_s Vodka 75cl(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grand Master's Malt Blended Whisky 750ml.jpg]
+
+File to: [build/img/Grand Master's Malt Blended Whisky 750ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grand Master's Vodka 75cl.jpg]
+
+File to: [build/img/Grand Master's Vodka 75cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAND MOI-MOI.jpeg]
+
+File to: [build/img/GRAND MOI-MOI.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAND OKRO.jpg]
+
+File to: [build/img/GRAND OKRO.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAND ONIONS IN NET.jpg]
+
+File to: [build/img/GRAND ONIONS IN NET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAND OR CREAM CHEESE PER KG.jpg]
+
+File to: [build/img/GRAND OR CREAM CHEESE PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAND PARSLEY PER PACK.jpeg]
+
+File to: [build/img/GRAND PARSLEY PER PACK.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAND PEAR BIG.jpg]
+
+File to: [build/img/GRAND PEAR BIG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAND PAW PAW PER PC.jpg]
+
+File to: [build/img/GRAND PAW PAW PER PC.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAND BEETROOT.jpg]
+
+File to: [build/img/GRAND BEETROOT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAND MALT 33CL.jpg]
+
+File to: [build/img/GRAND MALT 33CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

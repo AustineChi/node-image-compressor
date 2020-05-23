@@ -1,0 +1,193 @@
+File from: [src/img/NESTLE WATER PURELIFE PACK 60CL_20.jpg]
+
+File to: [build/img/NESTLE WATER PURELIFE PACK 60CL_20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NESTLE WATER ZINC PACK 60CL_20.jpg]
+
+File to: [build/img/NESTLE WATER ZINC PACK 60CL_20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEUAGE HEAD FUNK EXTREME HOLD STYLING WAX 75ML.jpg]
+
+File to: [build/img/NEUAGE HEAD FUNK EXTREME HOLD STYLING WAX 75ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEUAGE TATTO MOISTURISER 150ML.jpg]
+
+File to: [build/img/NEUAGE TATTO MOISTURISER 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Neuracalm 150 caps x30.jpg]
+
+File to: [build/img/Neuracalm 150 caps x30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Neuracalm 75 caps x30.jpg]
+
+File to: [build/img/Neuracalm 75 caps x30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEURACALM 75 CAPS X 30.jpg]
+
+File to: [build/img/NEURACALM 75 CAPS X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Neurogesic Extra Ointment -85G.jpg]
+
+File to: [build/img/Neurogesic Extra Ointment -85G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEUROVITE FORTE TAB X 10.jpg]
+
+File to: [build/img/NEUROVITE FORTE TAB X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEUROZAN CAPS X 30.jpg]
+
+File to: [build/img/NEUROZAN CAPS X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Neurozan Plus Omega3 .Caps x56.jpg]
+
+File to: [build/img/Neurozan Plus Omega3 .Caps x56.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEUROZAN PLUS TABS  X 56.jpg]
+
+File to: [build/img/NEUROZAN PLUS TABS  X 56.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Neurozan With Vit D3 .Tabs x30.jpg]
+
+File to: [build/img/Neurozan With Vit D3 .Tabs x30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Neutradol  Gel Odour Destroyer .jpg]
+
+File to: [build/img/Neutradol  Gel Odour Destroyer .jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Neutradol Room Spray Odour Destroy 330ml.jpg]
+
+File to: [build/img/Neutradol Room Spray Odour Destroy 330ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Neutrogena Acne-Prone Soap 100g.jpg]
+
+File to: [build/img/Neutrogena Acne-Prone Soap 100g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Neutrogena Body Moist  Lotion 250ml .jpg]
+
+File to: [build/img/Neutrogena Body Moist  Lotion 250ml .jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEUTROGENA BODY OIL LIGHT SESAME FORMULA 250ML.jpg]
+
+File to: [build/img/NEUTROGENA BODY OIL LIGHT SESAME FORMULA 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEUTROGENA BODY SHEER OIL LOTION LIGHT FORMULA 250ML.jpg]
+
+File to: [build/img/NEUTROGENA BODY SHEER OIL LOTION LIGHT FORMULA 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Neutrogena Daily Body Oil 250ml .jpg]
+
+File to: [build/img/Neutrogena Daily Body Oil 250ml .jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEUTROGENA FAST ABSORBING HAND CREAM 75ML.jpg]
+
+File to: [build/img/NEUTROGENA FAST ABSORBING HAND CREAM 75ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Neutrogena Moisture Wrap 449ml.jpg]
+
+File to: [build/img/Neutrogena Moisture Wrap 449ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEUTROGENA PINK GRAPEFRUIT FACIAL SCRUB 124ML.png]
+
+File to: [build/img/NEUTROGENA PINK GRAPEFRUIT FACIAL SCRUB 124ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/NEUTROGENA SHOWER GEL 473ML.jpg]
+
+File to: [build/img/NEUTROGENA SHOWER GEL 473ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEUTROGENA TRANSPARENT FACIAL BAR SOAP.jpg]
+
+File to: [build/img/NEUTROGENA TRANSPARENT FACIAL BAR SOAP.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEUTROGENA TRANSPARENT FACIAL SOAP BLACK.jpg]
+
+File to: [build/img/NEUTROGENA TRANSPARENT FACIAL SOAP BLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEUTROGENA TRANSPARENT FACIAL SOAP RED.jpg]
+
+File to: [build/img/NEUTROGENA TRANSPARENT FACIAL SOAP RED.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEUTROGENA VISIBLY CLEAR PORE&SHINE SCRUB 150ML.jpg]
+
+File to: [build/img/NEUTROGENA VISIBLY CLEAR PORE&SHINE SCRUB 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEUTROGENA VISIBLY PINK GRAPEFRUIT SCRUB 150ML.jpg]
+
+File to: [build/img/NEUTROGENA VISIBLY PINK GRAPEFRUIT SCRUB 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/New Amsterdam Vodka 750ml.jpg]
+
+File to: [build/img/New Amsterdam Vodka 750ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/New Canoe Bar Soap 140g.jpg]
+
+File to: [build/img/New Canoe Bar Soap 140g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/New Canoe Bar Soap 250g.jpg]
+
+File to: [build/img/New Canoe Bar Soap 250g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

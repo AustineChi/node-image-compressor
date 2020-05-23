@@ -1,0 +1,40 @@
+File from: [src/img/MOLPED MAXI THICK SW LONG 16S.jpg]
+
+File to: [build/img/MOLPED MAXI THICK SW LONG 16S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg -quality 60 -outfile build/img/MOLPED MAXI THICK SW LONG 16S.jpg src/img/MOLPED MAXI THICK SW LONG 16S.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [src/img/FROSTY BITE CHOCOLATE ICE CREAM 150ML.png]
+
+File to: [build/img/FROSTY BITE CHOCOLATE ICE CREAM 150ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant --quality=20-50 -o build/img/FROSTY BITE CHOCOLATE ICE CREAM 150ML.png src/img/FROSTY BITE CHOCOLATE ICE CREAM 150ML.png
+  error: cannot decode image FROSTY BITE CHOCOLATE ICE CREAM 150ML.png
+File from: [src/img/FROSTY BITE FANTASY PEANUT CRUNCH ICE CREAM 70G.png]
+
+File to: [build/img/FROSTY BITE FANTASY PEANUT CRUNCH ICE CREAM 70G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant --quality=20-50 -o build/img/FROSTY BITE FANTASY PEANUT CRUNCH ICE CREAM 70G.png src/img/FROSTY BITE FANTASY PEANUT CRUNCH ICE CREAM 70G.png
+  error: cannot decode image FROSTY BITE FANTASY PEANUT CRUNCH ICE CREAM 70G.png
+File from: [src/img/MASTER PRIME PERFECTOR 50 HYDRATING PORE.jpg]
+
+File to: [build/img/MASTER PRIME PERFECTOR 50 HYDRATING PORE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg -quality 60 -outfile build/img/MASTER PRIME PERFECTOR 50 HYDRATING PORE.jpg src/img/MASTER PRIME PERFECTOR 50 HYDRATING PORE.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [src/img/CHI HAPPY HOUR FROOTY Berry Bounce 100ML.png]
+
+File to: [build/img/CHI HAPPY HOUR FROOTY Berry Bounce 100ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant --quality=20-50 -o build/img/CHI HAPPY HOUR FROOTY Berry Bounce 100ML.png src/img/CHI HAPPY HOUR FROOTY Berry Bounce 100ML.png
+  error: cannot decode image CHI HAPPY HOUR FROOTY Berry Bounce 100ML.png

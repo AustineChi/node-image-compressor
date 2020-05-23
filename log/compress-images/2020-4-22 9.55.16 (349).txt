@@ -1,0 +1,259 @@
+File from: [src/img/NESCAFE CLASSIC SACHET 6(8X25G).jpg]
+
+File to: [build/img/NESCAFE CLASSIC SACHET 6(8X25G).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NESCAFE GOLD BLEND (100G).jpg]
+
+File to: [build/img/NESCAFE GOLD BLEND (100G).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NESCAFE COFFEE FINE BLEND 100G.jpg]
+
+File to: [build/img/NESCAFE COFFEE FINE BLEND 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NESCAFE GOLD BLEND (100G) - Rich &.png]
+
+File to: [build/img/NESCAFE GOLD BLEND (100G) - Rich &.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Nescafe Gold Blend Decafe 100g.jpg]
+
+File to: [build/img/Nescafe Gold Blend Decafe 100g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nescafe Gold Blend Coffee 100g.jpg]
+
+File to: [build/img/Nescafe Gold Blend Coffee 100g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nescafe Original Coffe .jpg]
+
+File to: [build/img/Nescafe Original Coffe .jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NESCAFE GOLD BLEND (100G) - Decaf, Rich &.jpg]
+
+File to: [build/img/NESCAFE GOLD BLEND (100G) - Decaf, Rich &.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEO HEALER SUPPOSITORY X 10.jpg]
+
+File to: [build/img/NEO HEALER SUPPOSITORY X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nescafe Original Coffe 230g.jpg]
+
+File to: [build/img/Nescafe Original Coffe 230g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestl Cerelac Infant Maize _ Soya 900g.jpg]
+
+File to: [build/img/Nestl Cerelac Infant Maize _ Soya 900g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle 3in1 Instant Coffee 18g.jpg]
+
+File to: [build/img/Nestle 3in1 Instant Coffee 18g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NESTLE BUTTERFINGER PEANUT BUTTER CRISP BAR 6S.jpg]
+
+File to: [build/img/NESTLE BUTTERFINGER PEANUT BUTTER CRISP BAR 6S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nescafe Original Coffe 200g.jpg]
+
+File to: [build/img/Nescafe Original Coffe 200g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NESCAFE BREAKFAST 3IN 1 352G PROMO.jpg]
+
+File to: [build/img/NESCAFE BREAKFAST 3IN 1 352G PROMO.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle Cerela My 1st MaizeWheat 1Kg.jpg]
+
+File to: [build/img/Nestle Cerela My 1st MaizeWheat 1Kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle Cerelac My 1st Maize 400g.jpg]
+
+File to: [build/img/Nestle Cerelac My 1st Maize 400g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle Cerelac My 1st Wheat 400g.jpg]
+
+File to: [build/img/Nestle Cerelac My 1st Wheat 400g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle Cerelac Ranges 1kg.jpg]
+
+File to: [build/img/Nestle Cerelac Ranges 1kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle Cerelac Ranges 400g.jpg]
+
+File to: [build/img/Nestle Cerelac Ranges 400g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle Cerelac Wheat 50g.jpg]
+
+File to: [build/img/Nestle Cerelac Wheat 50g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle Chocapic 375G.jpg]
+
+File to: [build/img/Nestle Chocapic 375G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle Choco Milo 275g.jpg]
+
+File to: [build/img/Nestle Choco Milo 275g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle Coffee Mate 400g.jpg]
+
+File to: [build/img/Nestle Coffee Mate 400g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle Coffee Mate 400g.png]
+
+File to: [build/img/Nestle Coffee Mate 400g.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Nestle Coffee Mate Catering 1kg .jpg]
+
+File to: [build/img/Nestle Coffee Mate Catering 1kg .jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle Coffee Mate Light 500g.jpg]
+
+File to: [build/img/Nestle Coffee Mate Light 500g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle Coffee Mate LightOrigi 200g.jpg]
+
+File to: [build/img/Nestle Coffee Mate LightOrigi 200g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NESTLE COFFEE MATE ORIGINAL 311.8G.jpg]
+
+File to: [build/img/NESTLE COFFEE MATE ORIGINAL 311.8G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle Coffee Mate Original 500g.jpg]
+
+File to: [build/img/Nestle Coffee Mate Original 500g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle Fitness Fruits 375G.jpg]
+
+File to: [build/img/Nestle Fitness Fruits 375G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NESTLE FITNESS MILK CHOCOLATE 22.5G.jpg]
+
+File to: [build/img/NESTLE FITNESS MILK CHOCOLATE 22.5G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NESTLE FITNESS CHOCO BANANA 23.5G.jpg]
+
+File to: [build/img/NESTLE FITNESS CHOCO BANANA 23.5G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NESTLE FITNESS STRAWBERRY 23.5G.jpg]
+
+File to: [build/img/NESTLE FITNESS STRAWBERRY 23.5G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle Golden Morn 1Kg.jpg]
+
+File to: [build/img/Nestle Golden Morn 1Kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle Golden Morn 50g.jpg]
+
+File to: [build/img/Nestle Golden Morn 50g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle Golden Morn Classic 500g.jpg]
+
+File to: [build/img/Nestle Golden Morn Classic 500g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NESTLE GOLDEN MORN MAIZE 1KG.jpg]
+
+File to: [build/img/NESTLE GOLDEN MORN MAIZE 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NESTLE GOLDEN MORN MAIZE 50G.jpg]
+
+File to: [build/img/NESTLE GOLDEN MORN MAIZE 50G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NESTLE GOLDEN MORN MAIZE AND SOYA PROTEIN 50G.jpg]
+
+File to: [build/img/NESTLE GOLDEN MORN MAIZE AND SOYA PROTEIN 50G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NESTLE GOLDEN MORN PUFFS 500G.jpg]
+
+File to: [build/img/NESTLE GOLDEN MORN PUFFS 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle Golden Morn Puffs 50g.jpg]
+
+File to: [build/img/Nestle Golden Morn Puffs 50g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle Kitkat Choco Bars 41.5g.jpg]
+
+File to: [build/img/Nestle Kitkat Choco Bars 41.5g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

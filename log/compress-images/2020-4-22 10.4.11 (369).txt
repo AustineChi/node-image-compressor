@@ -1,0 +1,157 @@
+File from: [src/img/SEMIU MANGOES BIG.jpg]
+
+File to: [build/img/SEMIU MANGOES BIG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU PEAR.jpg]
+
+File to: [build/img/SEMIU PEAR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU PINEAPPLE.jpg]
+
+File to: [build/img/SEMIU PINEAPPLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU ONIONS PER KG.jpg]
+
+File to: [build/img/SEMIU ONIONS PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU RED PEPPER.jpg]
+
+File to: [build/img/SEMIU RED PEPPER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU SPRING ONIONS.jpg]
+
+File to: [build/img/SEMIU SPRING ONIONS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU SWEET POTATO PER PACK.jpg]
+
+File to: [build/img/SEMIU SWEET POTATO PER PACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU TATASHE PER KG copy.jpg]
+
+File to: [build/img/SEMIU TATASHE PER KG copy.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU YAM TUBER.jpg]
+
+File to: [build/img/SEMIU YAM TUBER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEMIU TUMERIC PER PACK.jpg]
+
+File to: [build/img/SEMIU TUMERIC PER PACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Sendinor 2 tabs x 2.jpg]
+
+File to: [build/img/Sendinor 2 tabs x 2.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SENOKOT TABS  X 20.jpg]
+
+File to: [build/img/SENOKOT TABS  X 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SENSODYNE COOL MINT MOUTH WASH 500ML.jpg]
+
+File to: [build/img/SENSODYNE COOL MINT MOUTH WASH 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SENSITIVE WHITENING TOOTHPASTE 100ML.jpg]
+
+File to: [build/img/SENSITIVE WHITENING TOOTHPASTE 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SENSODYNE DAILY CARE 75ML.jpg]
+
+File to: [build/img/SENSODYNE DAILY CARE 75ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SENSODYNE DAILY CARE PUMP PASTE 100ML.jpg]
+
+File to: [build/img/SENSODYNE DAILY CARE PUMP PASTE 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SENSODYNE DEEP CLEAN 75ML.jpg]
+
+File to: [build/img/SENSODYNE DEEP CLEAN 75ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Sensodyne Deep Clean Daily Care 75ml.jpg]
+
+File to: [build/img/Sensodyne Deep Clean Daily Care 75ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SENSODYNE EXTRA FRESH 75ML.jpg]
+
+File to: [build/img/SENSODYNE EXTRA FRESH 75ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SENSODYNE GENTLE WHITENING 75ML.jpg]
+
+File to: [build/img/SENSODYNE GENTLE WHITENING 75ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Sensodyne Gentle Whitening Toothpast75ml.jpg]
+
+File to: [build/img/Sensodyne Gentle Whitening Toothpast75ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SENSODYNE RAPID ACTION 75ML.jpg]
+
+File to: [build/img/SENSODYNE RAPID ACTION 75ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SENSODYNE TRUE WHITE TOOTH BRUSH.jpg]
+
+File to: [build/img/SENSODYNE TRUE WHITE TOOTH BRUSH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Septol Antisept & Med Soap 70g.jpg]
+
+File to: [build/img/Septol Antisept & Med Soap 70g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SEPTOL HAND SANITIZER 500ML.jpg]
+
+File to: [build/img/SEPTOL HAND SANITIZER 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SERENA SNACK CRACKERS CHICKEN FLAVOURED 240G.jpg]
+
+File to: [build/img/SERENA SNACK CRACKERS CHICKEN FLAVOURED 240G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

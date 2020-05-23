@@ -1,0 +1,295 @@
+File from: [src/img/KENWOOD SMOTHIE 1.5L SB266.jpg]
+
+File to: [build/img/KENWOOD SMOTHIE 1.5L SB266.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KERRYGOLD INSTANT FULL CREAM MILK POWDER SACHET 18G.png]
+
+File to: [build/img/KERRYGOLD INSTANT FULL CREAM MILK POWDER SACHET 18G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/KERRYGOLD INSTANT FULL CREAM MILK POWDER POUCH 850G.png]
+
+File to: [build/img/KERRYGOLD INSTANT FULL CREAM MILK POWDER POUCH 850G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/KENWOOD STEAM IRON ISP100BL.png]
+
+File to: [build/img/KENWOOD STEAM IRON ISP100BL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/KERRYGOLD INSTANT FULL CREAM MILK POWDER TIN 400G.jpg]
+
+File to: [build/img/KERRYGOLD INSTANT FULL CREAM MILK POWDER TIN 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KERRYGOLD PURE IRISH SALTED BUTTER 250G ALUFOIL.png]
+
+File to: [build/img/KERRYGOLD PURE IRISH SALTED BUTTER 250G ALUFOIL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/KERRYGOLD INSTANT FULL CREAM MILK POWDER TIN 900G.png]
+
+File to: [build/img/KERRYGOLD INSTANT FULL CREAM MILK POWDER TIN 900G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/KERRYGOLD PURE IRISH UNSALTED BUTTER 250G ALUFOIL.jpg]
+
+File to: [build/img/KERRYGOLD PURE IRISH UNSALTED BUTTER 250G ALUFOIL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KERRYGOLD REFILL - 400G.jpg]
+
+File to: [build/img/KERRYGOLD REFILL - 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KERRYGOLD REFILL - 900G.jpg]
+
+File to: [build/img/KERRYGOLD REFILL - 900G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KERRYGOLD TIN (400G).jpg]
+
+File to: [build/img/KERRYGOLD TIN (400G).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KETEL ONE VODKA 1LTRX12.jpg]
+
+File to: [build/img/KETEL ONE VODKA 1LTRX12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Kid K_NEX Blinkin_ Buddies Building Set (23Pieces).jpg]
+
+File to: [build/img/Kid K_NEX Blinkin_ Buddies Building Set (23Pieces).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KIDDIES BOOTIES.jpg]
+
+File to: [build/img/KIDDIES BOOTIES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KIDDIES TOILET SEAT.jpeg]
+
+File to: [build/img/KIDDIES TOILET SEAT.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Kidney.jpg]
+
+File to: [build/img/Kidney.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KIDS @ WORK BUILDING BLOCKS.jpg]
+
+File to: [build/img/KIDS @ WORK BUILDING BLOCKS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KIDS KLENZ HAND SANITIZER 100ML.jpg]
+
+File to: [build/img/KIDS KLENZ HAND SANITIZER 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KIDS FLOURIDE TOOTHPASTE 100ML.jpg]
+
+File to: [build/img/KIDS FLOURIDE TOOTHPASTE 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KIDS KLENZ HAND SANITIZER 100ML(Clone).jpg]
+
+File to: [build/img/KIDS KLENZ HAND SANITIZER 100ML(Clone).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KIDS ORGANIC SHEA BUTTER LOTION 473ML.jpg]
+
+File to: [build/img/KIDS ORGANIC SHEA BUTTER LOTION 473ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KIDS ORGANIC SHEA BUTTER SHAMPOO 473ML.jpg]
+
+File to: [build/img/KIDS ORGANIC SHEA BUTTER SHAMPOO 473ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KIDS ORGANICS CONDITIONING RELAXER.jpg]
+
+File to: [build/img/KIDS ORGANICS CONDITIONING RELAXER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KIDS QUICK RINSE 500ML.jpg]
+
+File to: [build/img/KIDS QUICK RINSE 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KIJANI BLACK SOAP 350G.jpg]
+
+File to: [build/img/KIJANI BLACK SOAP 350G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KIJANI BODY BUTTER 150G.jpg]
+
+File to: [build/img/KIJANI BODY BUTTER 150G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KIJANI COCONUT OIL X 250ML.jpg]
+
+File to: [build/img/KIJANI COCONUT OIL X 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KIJANI SHEA BUTTER 300G.jpg]
+
+File to: [build/img/KIJANI SHEA BUTTER 300G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Kik-Off Lotion Insect Repellent 250ml.jpg]
+
+File to: [build/img/Kik-Off Lotion Insect Repellent 250ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KINDER BUENI 43G T CHOCOLATE.jpg]
+
+File to: [build/img/KINDER BUENI 43G T CHOCOLATE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Kinetic Sand Bake Shoppe Playset.jpg]
+
+File to: [build/img/Kinetic Sand Bake Shoppe Playset.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KING_S PURE VEGETABLE OIL 3L.jpg]
+
+File to: [build/img/KING_S PURE VEGETABLE OIL 3L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/King's Delight Wheat Bread.jpg]
+
+File to: [build/img/King's Delight Wheat Bread.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KingofShaves  Gel & Moisturiser.jpeg]
+
+File to: [build/img/KingofShaves  Gel & Moisturiser.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KINGS OIL 3 LITRES.jpg]
+
+File to: [build/img/KINGS OIL 3 LITRES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KINGS SCOURING PAD 4S.jpg]
+
+File to: [build/img/KINGS SCOURING PAD 4S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KINGS VEG OIL 3L.jpg]
+
+File to: [build/img/KINGS VEG OIL 3L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KINGS VEGETABLE OIL 5LTR.jpg]
+
+File to: [build/img/KINGS VEGETABLE OIL 5LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KINGS VEG OIL 5L.jpg]
+
+File to: [build/img/KINGS VEG OIL 5L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KIPTRACK 2 IN 1 BLOOD GLUCOSE & BLOOD PRESSURE MONITORING SYSTEM.jpg]
+
+File to: [build/img/KIPTRACK 2 IN 1 BLOOD GLUCOSE & BLOOD PRESSURE MONITORING SYSTEM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KIPTRACK BLOOD GLUCOSE MONITORING SYSTEM.jpg]
+
+File to: [build/img/KIPTRACK BLOOD GLUCOSE MONITORING SYSTEM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KIRKLAND BABY WIPES ULTRA SOFT.jpg]
+
+File to: [build/img/KIRKLAND BABY WIPES ULTRA SOFT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KIPTRACK TEST STRIPS x50.png]
+
+File to: [build/img/KIPTRACK TEST STRIPS x50.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/KIRKLAND BATH TISSUE 2PLY 6S.jpg]
+
+File to: [build/img/KIRKLAND BATH TISSUE 2PLY 6S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KIRKLAND GOLDEN SWEET CORN.jpg]
+
+File to: [build/img/KIRKLAND GOLDEN SWEET CORN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KIRKLAND ICE MINT MOUTH WASH 1.5L.jpg]
+
+File to: [build/img/KIRKLAND ICE MINT MOUTH WASH 1.5L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KIRKLAND INFANT FORMULA NON-GMO 0-12M0NTHS 964G.jpg]
+
+File to: [build/img/KIRKLAND INFANT FORMULA NON-GMO 0-12M0NTHS 964G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KIRKLAND ORGANIC RAW HONEY 608G.jpg]
+
+File to: [build/img/KIRKLAND ORGANIC RAW HONEY 608G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KIRKLAND OGANIC SOY VANILLA 946ML.jpg]
+
+File to: [build/img/KIRKLAND OGANIC SOY VANILLA 946ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

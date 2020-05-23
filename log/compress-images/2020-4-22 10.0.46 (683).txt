@@ -1,0 +1,55 @@
+File from: [src/img/NATURE`S FIELD MEGA C 1000MG X 30.jpg]
+
+File to: [build/img/NATURE`S FIELD MEGA C 1000MG X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE`S FIELD MEGA CALCIUM 10 X 10.jpg]
+
+File to: [build/img/NATURE`S FIELD MEGA CALCIUM 10 X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE`S FIELD MEGA GARLIC (ODOR FREE) X 100.jpg]
+
+File to: [build/img/NATURE`S FIELD MEGA GARLIC (ODOR FREE) X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE`S FIELD OMEGOL (OMEGA 3) 1200MG X 100.jpg]
+
+File to: [build/img/NATURE`S FIELD OMEGOL (OMEGA 3) 1200MG X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE`S FIELD PSYLLIUM HUSK POWER.jpg]
+
+File to: [build/img/NATURE`S FIELD PSYLLIUM HUSK POWER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE`S FIELD OMEGOL PLUS(OMEGA 3-6-9) 1000MG X 100.jpg]
+
+File to: [build/img/NATURE`S FIELD OMEGOL PLUS(OMEGA 3-6-9) 1000MG X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE`S FIELD STRESS DEFENCE X 30.jpg]
+
+File to: [build/img/NATURE`S FIELD STRESS DEFENCE X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE`S FIELD SUPER STRENGTH YOHIMBE 800MG X 30.jpg]
+
+File to: [build/img/NATURE`S FIELD SUPER STRENGTH YOHIMBE 800MG X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE`S FIELD SELENIUM 200MG X 100.jpg]
+
+File to: [build/img/NATURE`S FIELD SELENIUM 200MG X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

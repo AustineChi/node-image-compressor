@@ -1,0 +1,49 @@
+File from: [src/img/PURITAN'S PRIDE CALCIUM CITRATE+ VITAMIN D3 MINATURES X 200.jpg]
+
+File to: [build/img/PURITAN'S PRIDE CALCIUM CITRATE+ VITAMIN D3 MINATURES X 200.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE CHELATED COPPER 2MG X 100 TABLETS.jpg]
+
+File to: [build/img/PURITAN'S PRIDE CHELATED COPPER 2MG X 100 TABLETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE CRANBERRY TRIPLE TRENGTH 12600 X 100.jpg]
+
+File to: [build/img/PURITAN'S PRIDE CRANBERRY TRIPLE TRENGTH 12600 X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE FENUGREEK  610MG X 100 CAPSULES.jpg]
+
+File to: [build/img/PURITAN'S PRIDE FENUGREEK  610MG X 100 CAPSULES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE FLAX OIL 1000MG OMEGA 3,6,9 X 120.jpg]
+
+File to: [build/img/PURITAN'S PRIDE FLAX OIL 1000MG OMEGA 3,6,9 X 120.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE GARCINA CAMBOGIA 1500MG X 60 CAPLETS.jpg]
+
+File to: [build/img/PURITAN'S PRIDE GARCINA CAMBOGIA 1500MG X 60 CAPLETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE GINKGO BILOBA 60MG X 120.jpg]
+
+File to: [build/img/PURITAN'S PRIDE GINKGO BILOBA 60MG X 120.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE GLUCOSAMINE CHONDROITIN COMPLEX X 120.jpg]
+
+File to: [build/img/PURITAN'S PRIDE GLUCOSAMINE CHONDROITIN COMPLEX X 120.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

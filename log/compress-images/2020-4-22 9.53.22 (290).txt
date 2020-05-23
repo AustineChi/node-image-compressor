@@ -1,0 +1,253 @@
+File from: [src/img/INDOMIE SUPER PACK CHICKEN FLAVOR 120G.jpg]
+
+File to: [build/img/INDOMIE SUPER PACK CHICKEN FLAVOR 120G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE SUPER PACK CHICKEN FLAVOR.jpg]
+
+File to: [build/img/INDOMIE SUPER PACK CHICKEN FLAVOR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE SUPER PACK CHICKEN FLAVOR CARTON.jpg]
+
+File to: [build/img/INDOMIE SUPER PACK CHICKEN FLAVOR CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE SUPER PACK ONION CHICKEN 120G.jpg]
+
+File to: [build/img/INDOMIE SUPER PACK ONION CHICKEN 120G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE SUPER PACK ONION CHICKEN 120G.png]
+
+File to: [build/img/INDOMIE SUPER PACK ONION CHICKEN 120G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/INDOMIE SUPER PACK ONION CHICKEN.jpg]
+
+File to: [build/img/INDOMIE SUPER PACK ONION CHICKEN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INFACOL  SUSPENSION.jpg]
+
+File to: [build/img/INFACOL  SUSPENSION.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Infinity Breakfast Cereals 350g.jpg]
+
+File to: [build/img/Infinity Breakfast Cereals 350g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Infinity Cereals Ranges 40g.png]
+
+File to: [build/img/Infinity Cereals Ranges 40g.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/INFINITY COCO BALLS 350G.jpg]
+
+File to: [build/img/INFINITY COCO BALLS 350G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INFINITY COCOBALL 500G-POUCH.jpg]
+
+File to: [build/img/INFINITY COCOBALL 500G-POUCH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Infinity Corn Flakes 1kg.jpeg]
+
+File to: [build/img/Infinity Corn Flakes 1kg.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INFINITY CORN FLAKES 350G.jpg]
+
+File to: [build/img/INFINITY CORN FLAKES 350G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Infinity Corn Flakes 350gx10.jpg]
+
+File to: [build/img/Infinity Corn Flakes 350gx10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INFINITY CORN FLAKES 500G-POUCH.jpg]
+
+File to: [build/img/INFINITY CORN FLAKES 500G-POUCH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INFINITY CORN FLAKES 500G.jpg]
+
+File to: [build/img/INFINITY CORN FLAKES 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INFINITY CUSTARD 2KG.jpg]
+
+File to: [build/img/INFINITY CUSTARD 2KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INFINITY CUSTARD POWDER 500G TIN.jpg]
+
+File to: [build/img/INFINITY CUSTARD POWDER 500G TIN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INFINITY FROSTED HONEY STARS 350G.jpg]
+
+File to: [build/img/INFINITY FROSTED HONEY STARS 350G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INFINITY FRUIT CRUNCHIES 350G.jpg]
+
+File to: [build/img/INFINITY FRUIT CRUNCHIES 350G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INFINITY MAGIC CRUNCH 350G.jpg]
+
+File to: [build/img/INFINITY MAGIC CRUNCH 350G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INFINITY MAGIC CRUNCH STRAWBERRY 350G.jpg]
+
+File to: [build/img/INFINITY MAGIC CRUNCH STRAWBERRY 350G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INFINITY MAGIC CRUNCH VANILLA 350G.jpg]
+
+File to: [build/img/INFINITY MAGIC CRUNCH VANILLA 350G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INFINITY PAN CAKE MIX 500G.jpg]
+
+File to: [build/img/INFINITY PAN CAKE MIX 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Infinity Pancake Mix 500g.png]
+
+File to: [build/img/Infinity Pancake Mix 500g.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/INFINITY PARBOILED RICE 1KG.jpg]
+
+File to: [build/img/INFINITY PARBOILED RICE 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INFINITY PARBOILED RICE 2KG.jpg]
+
+File to: [build/img/INFINITY PARBOILED RICE 2KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INFINITY PARBOILED RICE 5KG.jpg]
+
+File to: [build/img/INFINITY PARBOILED RICE 5KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Infinity Paris Perfume Roll-on 50ml.jpg]
+
+File to: [build/img/Infinity Paris Perfume Roll-on 50ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INFINITY PUFF PUFF MIX 500G.jpg]
+
+File to: [build/img/INFINITY PUFF PUFF MIX 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INFINITY RICE CRISPIES 350G.jpg]
+
+File to: [build/img/INFINITY RICE CRISPIES 350G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/infraThermometer.jpeg]
+
+File to: [build/img/infraThermometer.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INSPIRATIONAL CARDS, GET WELL SOON, THANK YOU, I MISS YOU, CONGRATULATIONS, LOVE.jpg]
+
+File to: [build/img/INSPIRATIONAL CARDS, GET WELL SOON, THANK YOU, I MISS YOU, CONGRATULATIONS, LOVE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INSTANT VALET 300ML.jpg]
+
+File to: [build/img/INSTANT VALET 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/instagram-logo-gray.png]
+
+File to: [build/img/instagram-logo-gray.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/INSUMAN COMBO 30 10ML.jpg]
+
+File to: [build/img/INSUMAN COMBO 30 10ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INSULIN SYRINGE 1ML(100 40).jpg]
+
+File to: [build/img/INSULIN SYRINGE 1ML(100 40).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INTERIOR CLEAN & SHINE.jpg]
+
+File to: [build/img/INTERIOR CLEAN & SHINE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Intesa Unisex Deo Body Spray 125ml.jpg]
+
+File to: [build/img/Intesa Unisex Deo Body Spray 125ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INTERIOR DEHUMIDIFIER.jpg]
+
+File to: [build/img/INTERIOR DEHUMIDIFIER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INTERIOR DEHUMIDIFIER SET.jpg]
+
+File to: [build/img/INTERIOR DEHUMIDIFIER SET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INSECTICIDE ORO INSECTICDE-D. ACTION 300ML.png]
+
+File to: [build/img/INSECTICIDE ORO INSECTICDE-D. ACTION 300ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAIN

@@ -1,0 +1,157 @@
+File from: [src/img/CARLINI OLIVE OIL COOKING SPRAY 141G.png]
+
+File to: [build/img/CARLINI OLIVE OIL COOKING SPRAY 141G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CARLO BOSSI ACTION IN HOMME PERFUME 100ML.jpg]
+
+File to: [build/img/CARLO BOSSI ACTION IN HOMME PERFUME 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CARLO BOSSI BEL CANTO PERFUME100ML.jpg]
+
+File to: [build/img/CARLO BOSSI BEL CANTO PERFUME100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CARLO BOSSI BLISS PERFUME 100ML.jpg]
+
+File to: [build/img/CARLO BOSSI BLISS PERFUME 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CARLO BOSSI CARLA WHITE PERFUME 100ML.jpg]
+
+File to: [build/img/CARLO BOSSI CARLA WHITE PERFUME 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CARLO BOSSI CB HER PERFUME 100ML.jpg]
+
+File to: [build/img/CARLO BOSSI CB HER PERFUME 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CARLO BOSSI CRYSTAL PINK PERFUME 100ML.jpg]
+
+File to: [build/img/CARLO BOSSI CRYSTAL PINK PERFUME 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CARLO BOSSI DENY GOLD PERFUME 100ML.jpg]
+
+File to: [build/img/CARLO BOSSI DENY GOLD PERFUME 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CARLO BOSSI ELIXIA PERFUME 100ML.jpg]
+
+File to: [build/img/CARLO BOSSI ELIXIA PERFUME 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CARLO BOSSI EUQES GOLDE PERFUME 100ML.jpg]
+
+File to: [build/img/CARLO BOSSI EUQES GOLDE PERFUME 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CARLO BOSSI FANCY PERFUME 100ML.jpg]
+
+File to: [build/img/CARLO BOSSI FANCY PERFUME 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CARLO BOSSI LAMORE SPRINGE PERFUME 100ML.jpg]
+
+File to: [build/img/CARLO BOSSI LAMORE SPRINGE PERFUME 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CARLO BOSSI MARCUS PERFUME 100ML.jpg]
+
+File to: [build/img/CARLO BOSSI MARCUS PERFUME 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CARLO BOSSI OBSESIVE PERFUME 100ML.jpg]
+
+File to: [build/img/CARLO BOSSI OBSESIVE PERFUME 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CARLO ROSSI CALF RED 750ML.png]
+
+File to: [build/img/CARLO ROSSI CALF RED 750ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CARLO BOSSI LAVIELLE PERFUME 100ML.jpg]
+
+File to: [build/img/CARLO BOSSI LAVIELLE PERFUME 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Carlo Rossi Claifornia Ranges 75clx12.jpg]
+
+File to: [build/img/Carlo Rossi Claifornia Ranges 75clx12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CARLO ROSSI ICE MIXED BERRY 75CL.jpg]
+
+File to: [build/img/CARLO ROSSI ICE MIXED BERRY 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CARLO ROSSI MIXED BERRY ICE.png]
+
+File to: [build/img/CARLO ROSSI MIXED BERRY ICE.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CARLO ROSSI MOSCATO WH. 750ML.png]
+
+File to: [build/img/CARLO ROSSI MOSCATO WH. 750ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CARLO ROSSI PEACH 750ML.png]
+
+File to: [build/img/CARLO ROSSI PEACH 750ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CARLO ROSSI PINK SWEET 75CL.png]
+
+File to: [build/img/CARLO ROSSI PINK SWEET 75CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CARLO ROSSI ROSE 750ML.png]
+
+File to: [build/img/CARLO ROSSI ROSE 750ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CARLO ROSSI STRAWBERRY 750ML.png]
+
+File to: [build/img/CARLO ROSSI STRAWBERRY 750ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CARLO ROSSI SWEET RED 750ML.png]
+
+File to: [build/img/CARLO ROSSI SWEET RED 750ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CARLO ROSSI WHITE 750ML.png]
+
+File to: [build/img/CARLO ROSSI WHITE 750ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAIN

@@ -1,0 +1,109 @@
+File from: [src/img/DOLLY_S PEANUT BUTTER CRUCHY 340G.png]
+
+File to: [build/img/DOLLY_S PEANUT BUTTER CRUCHY 340G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Dolly_s Tomato Ketchup 340g.jpeg]
+
+File to: [build/img/Dolly_s Tomato Ketchup 340g.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dolly's Tomato Ketchup Squeeze 450g.jpg]
+
+File to: [build/img/Dolly's Tomato Ketchup Squeeze 450g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dolly_s Tomato Ketchup Squeezy 900g.jpg]
+
+File to: [build/img/Dolly_s Tomato Ketchup Squeezy 900g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOLLY`S MAYONNAISE 250ML.jpg]
+
+File to: [build/img/DOLLY`S MAYONNAISE 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOLO-META B TABS X 10.jpg]
+
+File to: [build/img/DOLO-META B TABS X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOLO-META B. TABS  {FORTE} X 10.jpg]
+
+File to: [build/img/DOLO-META B. TABS  {FORTE} X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOMESTOS BLEACH 750ML CITRUS FRESH.jpg]
+
+File to: [build/img/DOMESTOS BLEACH 750ML CITRUS FRESH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOMESTOS BLEACH 750ML MOUNTAIN FRESH.jpg]
+
+File to: [build/img/DOMESTOS BLEACH 750ML MOUNTAIN FRESH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dominio Del Rey Brut Sparkling 750ml.jpg]
+
+File to: [build/img/Dominio Del Rey Brut Sparkling 750ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOMESTOS BLEACH 750ML ORIGINAL.jpg]
+
+File to: [build/img/DOMESTOS BLEACH 750ML ORIGINAL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dominio Del Rey Wine Ranges 75cl.jpg]
+
+File to: [build/img/Dominio Del Rey Wine Ranges 75cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOMINO DARK BROWN SUGAR 453G.jpg]
+
+File to: [build/img/DOMINO DARK BROWN SUGAR 453G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOMINO LIGHT BROWN SUGAR 453G.jpg]
+
+File to: [build/img/DOMINO LIGHT BROWN SUGAR 453G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOMO CUSTARD POWDER CHOCOLATE 340G.jpg]
+
+File to: [build/img/DOMO CUSTARD POWDER CHOCOLATE 340G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOMO CUSTARD POWDER STRAWBERRY 340G.png]
+
+File to: [build/img/DOMO CUSTARD POWDER STRAWBERRY 340G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DOMO PANCAKE MIX 460G.png]
+
+File to: [build/img/DOMO PANCAKE MIX 460G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DON ALVARO RED WINE 75CL.jpg]
+
+File to: [build/img/DON ALVARO RED WINE 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

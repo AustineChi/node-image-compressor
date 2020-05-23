@@ -1,0 +1,133 @@
+File from: [src/img/GENERAL FRESH TOILET BLOCK BLEACH EFFECT 55ML.jpg]
+
+File to: [build/img/GENERAL FRESH TOILET BLOCK BLEACH EFFECT 55ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENERAL FRESH TOILET LIQUID CLEANER PINE NEW.jpg]
+
+File to: [build/img/GENERAL FRESH TOILET LIQUID CLEANER PINE NEW.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENERAL FRESH TOILET LIQUID CLEANER LEMON FLORAL.jpg]
+
+File to: [build/img/GENERAL FRESH TOILET LIQUID CLEANER LEMON FLORAL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENERAL FRESH TOILET LIQUID ORANGE FRESH NEW.jpg]
+
+File to: [build/img/GENERAL FRESH TOILET LIQUID ORANGE FRESH NEW.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENERAL FRESH TOILET LIQUID LEMON NEW 1LTR.jpg]
+
+File to: [build/img/GENERAL FRESH TOILET LIQUID LEMON NEW 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENERAL FRESH TOILET LIQUID CLEANER 12 FRESH OCEAN.jpg]
+
+File to: [build/img/GENERAL FRESH TOILET LIQUID CLEANER 12 FRESH OCEAN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENERAL LUCKY CHARMS FROSTED FLASK 391G.jpg]
+
+File to: [build/img/GENERAL LUCKY CHARMS FROSTED FLASK 391G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/General Fresh Tri-Force WC Block 45g.png]
+
+File to: [build/img/General Fresh Tri-Force WC Block 45g.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GENERAL MIILS BUGLES ORIGINAL 104G.jpeg]
+
+File to: [build/img/GENERAL MIILS BUGLES ORIGINAL 104G.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENERAL MIILS LUCKY CHARM 422G.JPG]
+
+File to: [build/img/GENERAL MIILS LUCKY CHARM 422G.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENERAL MIILS CHOCOLATE LUCKY CHARM 340G.jpg]
+
+File to: [build/img/GENERAL MIILS CHOCOLATE LUCKY CHARM 340G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENERAL MILL HONEY NUTS CHEERIOS OAT BIG 436G.png]
+
+File to: [build/img/GENERAL MILL HONEY NUTS CHEERIOS OAT BIG 436G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GENERAL MILL REESE'S PUFF 586G.jpg]
+
+File to: [build/img/GENERAL MILL REESE'S PUFF 586G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENERAL MILLS APPLE CINNAMON CHEERIOS OATS 311G.jpg]
+
+File to: [build/img/GENERAL MILLS APPLE CINNAMON CHEERIOS OATS 311G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENERAL MILLS CINNAMON TOAST CRUNCH 340G.jpg]
+
+File to: [build/img/GENERAL MILLS CINNAMON TOAST CRUNCH 340G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENERAL MILLS CINNAMON TOAST CRUNCH 547G.jpg]
+
+File to: [build/img/GENERAL MILLS CINNAMON TOAST CRUNCH 547G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENERAL MILLS HONEY NUTS CHEERIOS 306G.jpg]
+
+File to: [build/img/GENERAL MILLS HONEY NUTS CHEERIOS 306G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENERAL MILLS MAPLE CHEERIOS OAT 306G.jpg]
+
+File to: [build/img/GENERAL MILLS MAPLE CHEERIOS OAT 306G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENERAL MILLS RASIN NUTS BRAN 484G.jpg]
+
+File to: [build/img/GENERAL MILLS RASIN NUTS BRAN 484G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENERAL MILLS REESES PUFFS SWEET & CRUNCHY CORN PUFFS26G.jpg]
+
+File to: [build/img/GENERAL MILLS REESES PUFFS SWEET & CRUNCHY CORN PUFFS26G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENERAL MILLS VERY CHEERIOS FLAVORED REAL FRUIT 309G.jpg]
+
+File to: [build/img/GENERAL MILLS VERY CHEERIOS FLAVORED REAL FRUIT 309G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gentalab Eye-ear Drops 10ml.jpg]
+
+File to: [build/img/Gentalab Eye-ear Drops 10ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

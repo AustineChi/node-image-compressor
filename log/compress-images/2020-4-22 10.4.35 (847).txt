@@ -1,0 +1,73 @@
+File from: [src/img/SAVANNA DRY PREMIUM CIDER 33CL.png]
+
+File to: [build/img/SAVANNA DRY PREMIUM CIDER 33CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SAVLON ANTISEPTIC 125ML.jpg]
+
+File to: [build/img/SAVLON ANTISEPTIC 125ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SAVLON ANTISEPTIC 250ML.jpg]
+
+File to: [build/img/SAVLON ANTISEPTIC 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SAVLON ANTISEPTIC 500ML.jpg]
+
+File to: [build/img/SAVLON ANTISEPTIC 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SAVLON ANTISEPTIC 750ML.jpg]
+
+File to: [build/img/SAVLON ANTISEPTIC 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SAVLON CREAM 15GM.jpg]
+
+File to: [build/img/SAVLON CREAM 15GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SC JOHNSON 54 FREEZER QUART 17.7CMx18.8 CM.jpg]
+
+File to: [build/img/SC JOHNSON 54 FREEZER QUART 17.7CMx18.8 CM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SC JOHNSON SANDWICH BAG 145S 16.5CMX14.9CM.jpg]
+
+File to: [build/img/SC JOHNSON SANDWICH BAG 145S 16.5CMX14.9CM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SC JOHNSON ZIPLOC VARIETY PACK.jpg]
+
+File to: [build/img/SC JOHNSON ZIPLOC VARIETY PACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SCALP VEIN SET 21G.jpg]
+
+File to: [build/img/SCALP VEIN SET 21G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SCALP VEIN SET 23G.jpg]
+
+File to: [build/img/SCALP VEIN SET 23G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SCENT LEAVE.jpg]
+
+File to: [build/img/SCENT LEAVE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

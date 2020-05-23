@@ -1,0 +1,85 @@
+File from: [src/img/Passion fruit smoothie.jpg]
+
+File to: [build/img/Passion fruit smoothie.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Passport STD75cl x12.jpg]
+
+File to: [build/img/Passport STD75cl x12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pastis Jean Canon 45_ 100cl x 12.jpg]
+
+File to: [build/img/Pastis Jean Canon 45_ 100cl x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PASTA STORAGE CONTAINER.jpg]
+
+File to: [build/img/PASTA STORAGE CONTAINER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pata Negra Wine Ranges  75cl x 6.jpg]
+
+File to: [build/img/Pata Negra Wine Ranges  75cl x 6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Paterson_s Shortbread Fingers 150g x 18.jpg]
+
+File to: [build/img/Paterson_s Shortbread Fingers 150g x 18.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Paul Masson VS Brandy 750ml x 12.jpg]
+
+File to: [build/img/Paul Masson VS Brandy 750ml x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Paul Masson V.S.O.P Brandy 75cl x 12.jpg]
+
+File to: [build/img/Paul Masson V.S.O.P Brandy 75cl x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PAVO SAUSAGES.jpg]
+
+File to: [build/img/PAVO SAUSAGES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PAWPAW 1KG.jpg]
+
+File to: [build/img/PAWPAW 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PAWPAW PER KG.jpg]
+
+File to: [build/img/PAWPAW PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PAWPAW SLICED.png]
+
+File to: [build/img/PAWPAW SLICED.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Pawpaw.jpg]
+
+File to: [build/img/Pawpaw.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEACE WHOLE KERNEL SWEET CORN 340G.jpg]
+
+File to: [build/img/PEACE WHOLE KERNEL SWEET CORN 340G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

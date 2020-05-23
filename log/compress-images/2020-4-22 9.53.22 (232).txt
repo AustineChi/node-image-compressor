@@ -1,0 +1,187 @@
+File from: [src/img/Dettol Multi Purpose Kitchen 440ml.jpg]
+
+File to: [build/img/Dettol Multi Purpose Kitchen 440ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DETTOL SOAP EVEN TONE 160G.jpg]
+
+File to: [build/img/DETTOL SOAP EVEN TONE 160G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DETTOL SOAP 70G A DEO.png]
+
+File to: [build/img/DETTOL SOAP 70G A DEO.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DETTOL SOAP ORIGINAL 110G.png]
+
+File to: [build/img/DETTOL SOAP ORIGINAL 110G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Dettol Surface Cleanser 500ml.jpg]
+
+File to: [build/img/Dettol Surface Cleanser 500ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DETTOL SOFT ON SKIN REFILL 250ML.jpg]
+
+File to: [build/img/DETTOL SOFT ON SKIN REFILL 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DEVAUX DEM-SEC 75CL.png]
+
+File to: [build/img/DEVAUX DEM-SEC 75CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DEVAUX BURT 75CL.jpg]
+
+File to: [build/img/DEVAUX BURT 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DEVAUX ROSE 75CL.png]
+
+File to: [build/img/DEVAUX ROSE 75CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Devon King_s Pure Veg Cooking Oil 2Ltr.jpg]
+
+File to: [build/img/Devon King_s Pure Veg Cooking Oil 2Ltr.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Devon King_s Pure Veg Cooking Oil 3Ltr.jpg]
+
+File to: [build/img/Devon King_s Pure Veg Cooking Oil 3Ltr.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Devon King_s Pure Veg Cooking Oil 5Ltr.jpg]
+
+File to: [build/img/Devon King_s Pure Veg Cooking Oil 5Ltr.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Devon King_s Pure Veg Cooking Oil1ltr.png]
+
+File to: [build/img/Devon King_s Pure Veg Cooking Oil1ltr.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Devon King's Pure Veg Cooking Oil 2Ltrx6.jpg]
+
+File to: [build/img/Devon King's Pure Veg Cooking Oil 2Ltrx6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Devon King's Pure Veg Cooking Oil 5Ltrx4.jpg]
+
+File to: [build/img/Devon King's Pure Veg Cooking Oil 5Ltrx4.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DEVON KINGS OIL SACHET.jpg]
+
+File to: [build/img/DEVON KINGS OIL SACHET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DGF Drugamol Paracetamol Inj 300mg-2ml.jpg]
+
+File to: [build/img/DGF Drugamol Paracetamol Inj 300mg-2ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DEXTROSE SALINE 5% WATER.jpg]
+
+File to: [build/img/DEXTROSE SALINE 5% WATER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DGF Hydrocortisone cream 15g.jpg]
+
+File to: [build/img/DGF Hydrocortisone cream 15g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DIABETAMIL CHOCOLATE.jpg]
+
+File to: [build/img/DIABETAMIL CHOCOLATE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DIABETAMIL COOKIES CHOCOLATE.jpg]
+
+File to: [build/img/DIABETAMIL COOKIES CHOCOLATE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DIABETAMIL COOKIES VANILLA.jpg]
+
+File to: [build/img/DIABETAMIL COOKIES VANILLA.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DIABETAMIL MOCHACCINO.jpg]
+
+File to: [build/img/DIABETAMIL MOCHACCINO.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DIABETAMIL VANILLA.jpg]
+
+File to: [build/img/DIABETAMIL VANILLA.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DIABETMIN TABS 500MG X 100.jpg]
+
+File to: [build/img/DIABETMIN TABS 500MG X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DIAL ASSORTED BODY WASH.jpg]
+
+File to: [build/img/DIAL ASSORTED BODY WASH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DIAL FOR MEN BDDY WASH MIX.jpg]
+
+File to: [build/img/DIAL FOR MEN BDDY WASH MIX.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DIAMICRON 60MR X30.jpg]
+
+File to: [build/img/DIAMICRON 60MR X30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DIAMICRON MR TABS 30MG X 30.jpeg]
+
+File to: [build/img/DIAMICRON MR TABS 30MG X 30.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DIAMOND CRYSTAL IODIZED SALT 624G.jpg]
+
+File to: [build/img/DIAMOND CRYSTAL IODIZED SALT 624G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DIAMOND ADULT 3.63KG.jpg]
+
+File to: [build/img/DIAMOND ADULT 3.63KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

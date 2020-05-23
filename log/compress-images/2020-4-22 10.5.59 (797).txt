@@ -1,0 +1,48 @@
+File from: [src/img/REXONA MEN QUANTUM ROLL ON 50ML.png]
+
+File to: [build/img/REXONA MEN QUANTUM ROLL ON 50ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant --quality=20-50 -o build/img/REXONA MEN QUANTUM ROLL ON 50ML.png src/img/REXONA MEN QUANTUM ROLL ON 50ML.png
+  error: cannot decode image REXONA MEN QUANTUM ROLL ON 50ML.png
+File from: [src/img/FROSTY BITE FANTASY PEANUT CRUNCH ICE CREAM 70G.png]
+
+File to: [build/img/FROSTY BITE FANTASY PEANUT CRUNCH ICE CREAM 70G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant --quality=20-50 -o build/img/FROSTY BITE FANTASY PEANUT CRUNCH ICE CREAM 70G.png src/img/FROSTY BITE FANTASY PEANUT CRUNCH ICE CREAM 70G.png
+  error: cannot decode image FROSTY BITE FANTASY PEANUT CRUNCH ICE CREAM 70G.png
+File from: [src/img/FROSTY BITE CHOCOLATE ICE CREAM 150ML.png]
+
+File to: [build/img/FROSTY BITE CHOCOLATE ICE CREAM 150ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant --quality=20-50 -o build/img/FROSTY BITE CHOCOLATE ICE CREAM 150ML.png src/img/FROSTY BITE CHOCOLATE ICE CREAM 150ML.png
+  error: cannot decode image FROSTY BITE CHOCOLATE ICE CREAM 150ML.png
+File from: [src/img/PRINGLES SOURCREAM & ONION REDUCED FAT 158G.png]
+
+File to: [build/img/PRINGLES SOURCREAM & ONION REDUCED FAT 158G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant --quality=20-50 -o build/img/PRINGLES SOURCREAM & ONION REDUCED FAT 158G.png src/img/PRINGLES SOURCREAM & ONION REDUCED FAT 158G.png
+  error: cannot decode image PRINGLES SOURCREAM & ONION REDUCED FAT 158G.png
+File from: [src/img/CHI HAPPY HOUR FROOTY Berry Bounce 100ML.png]
+
+File to: [build/img/CHI HAPPY HOUR FROOTY Berry Bounce 100ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant --quality=20-50 -o build/img/CHI HAPPY HOUR FROOTY Berry Bounce 100ML.png src/img/CHI HAPPY HOUR FROOTY Berry Bounce 100ML.png
+  error: cannot decode image CHI HAPPY HOUR FROOTY Berry Bounce 100ML.png
+File from: [src/img/REXONA MEN SPORT DEFENCE ROLL ON 50ML.png]
+
+File to: [build/img/REXONA MEN SPORT DEFENCE ROLL ON 50ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant --quality=20-50 -o build/img/REXONA MEN SPORT DEFENCE ROLL ON 50ML.png src/img/REXONA MEN SPORT DEFENCE ROLL ON 50ML.png
+  error: cannot decode image REXONA MEN SPORT DEFENCE ROLL ON 50ML.png

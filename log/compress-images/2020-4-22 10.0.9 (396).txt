@@ -1,0 +1,175 @@
+File from: [src/img/WHITE GLOW VISIBLE LIGHTENING & BODY MILK PINK 400ML.jpg]
+
+File to: [build/img/WHITE GLOW VISIBLE LIGHTENING & BODY MILK PINK 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WHITE GLOW MOISTURIZING BODY LOTION 400ML.jpg]
+
+File to: [build/img/WHITE GLOW MOISTURIZING BODY LOTION 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WHITE GLOW GOLD EXCLUSIVE BODY MILK 400ML.jpg]
+
+File to: [build/img/WHITE GLOW GOLD EXCLUSIVE BODY MILK 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WHITE GRAPEFRUITS PER PIECE.jpg]
+
+File to: [build/img/WHITE GRAPEFRUITS PER PIECE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WHITE HORSE FO 70CL.jpg]
+
+File to: [build/img/WHITE HORSE FO 70CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WHITE HORSE SCOTCH WHISKY X 12.jpg]
+
+File to: [build/img/WHITE HORSE SCOTCH WHISKY X 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WHITE PEARL PEELED TOMA 400G.jpg]
+
+File to: [build/img/WHITE PEARL PEELED TOMA 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WHITE PEARL SUNFLOWER OIL 3LT.jpg]
+
+File to: [build/img/WHITE PEARL SUNFLOWER OIL 3LT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WHITE GARDEN EGGS PER KG.jpg]
+
+File to: [build/img/WHITE GARDEN EGGS PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WHITE RAIN MEN BODY WASH 354ML COOL OCEAN WAVE.jpg]
+
+File to: [build/img/WHITE RAIN MEN BODY WASH 354ML COOL OCEAN WAVE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WHITE POT FLOWER.jpg]
+
+File to: [build/img/WHITE POT FLOWER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/White Secret Body Lotion 300ml x 36.jpg]
+
+File to: [build/img/White Secret Body Lotion 300ml x 36.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/White Secret Ligh Body Cream 140ml x72.jpg]
+
+File to: [build/img/White Secret Ligh Body Cream 140ml x72.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/White Secret Body Lotion 500ml x 24.jpg]
+
+File to: [build/img/White Secret Body Lotion 500ml x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/White Secret Lithening Savon Soap 190ml .jpg]
+
+File to: [build/img/White Secret Lithening Savon Soap 190ml .jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/White Secret Ligh Body Creme 320ml x36.jpg]
+
+File to: [build/img/White Secret Ligh Body Creme 320ml x36.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WHITFIELD`S OINTMENT 20G.jpg]
+
+File to: [build/img/WHITFIELD`S OINTMENT 20G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WHO IS MUHAMMAD ALI.jpg]
+
+File to: [build/img/WHO IS MUHAMMAD ALI.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WHO WAS ALEXANDER THE GREAT.jpg]
+
+File to: [build/img/WHO WAS ALEXANDER THE GREAT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WHO WAS CHARLES DARWIN.jpg]
+
+File to: [build/img/WHO WAS CHARLES DARWIN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WHO WAS JOHN F. KENNEDY.jpg]
+
+File to: [build/img/WHO WAS JOHN F. KENNEDY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WHO WAS SHAKESPEARE.jpg]
+
+File to: [build/img/WHO WAS SHAKESPEARE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Whole Chicken.jpg]
+
+File to: [build/img/Whole Chicken.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Wholemeal Cream Cracker 220g x 24.jpg]
+
+File to: [build/img/Wholemeal Cream Cracker 220g x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Wild Africa Cream Liquor 75cl x 6.jpg]
+
+File to: [build/img/Wild Africa Cream Liquor 75cl x 6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WILD LILY & JASMINE.jpg]
+
+File to: [build/img/WILD LILY & JASMINE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Wild Turkey Bourbon Whiskey 75cl X12.jpg]
+
+File to: [build/img/Wild Turkey Bourbon Whiskey 75cl X12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WILD WOLF LIQUID SHOE POLISH 75ML.jpg]
+
+File to: [build/img/WILD WOLF LIQUID SHOE POLISH 75ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WHITE GARRI PER KG.jpg]
+
+File to: [build/img/WHITE GARRI PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

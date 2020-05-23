@@ -1,0 +1,8 @@
+File from: [src/img/CenturyCentury 6KG Twin Tub Washing Machine - CW8522-B (6KG Wash And 4KG Spin)White.jpg]
+
+File to: [build/img/CenturyCentury 6KG Twin Tub Washing Machine - CW8522-B (6KG Wash And 4KG Spin)White.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg -quality 60 -outfile build/img/CenturyCentury 6KG Twin Tub Washing Machine - CW8522-B (6KG Wash And 4KG Spin)White.jpg src/img/CenturyCentury 6KG Twin Tub Washing Machine - CW8522-B (6KG Wash And 4KG Spin)White.jpg
+Unrecognized input file format --- perhaps you need -targa

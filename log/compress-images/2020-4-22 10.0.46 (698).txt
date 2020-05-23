@@ -1,0 +1,79 @@
+File from: [src/img/NUBY ICY BITE KEYS.jpeg]
+
+File to: [build/img/NUBY ICY BITE KEYS.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUBY FLIP N SIP.jpg]
+
+File to: [build/img/NUBY FLIP N SIP.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUBY GATOR GRIP 450ML.jpg]
+
+File to: [build/img/NUBY GATOR GRIP 450ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUBY MASH AND FEED BOWL.jpg]
+
+File to: [build/img/NUBY MASH AND FEED BOWL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUBY SIPEEZ IST CUP GRIP N SIP.jpg]
+
+File to: [build/img/NUBY SIPEEZ IST CUP GRIP N SIP.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUBY SOOTHE N COOL.jpg]
+
+File to: [build/img/NUBY SOOTHE N COOL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUBY SQUEEZE FEEDER.jpg]
+
+File to: [build/img/NUBY SQUEEZE FEEDER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUBY STAINLESS SPOON N FORK.jpg]
+
+File to: [build/img/NUBY STAINLESS SPOON N FORK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUBY SURE GRIP BOWL.jpg]
+
+File to: [build/img/NUBY SURE GRIP BOWL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUBY THIRSTY KIDS FLIP IT.jpeg]
+
+File to: [build/img/NUBY THIRSTY KIDS FLIP IT.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUBY THIRSTY KIDS INCREDIBLE GULP 99004.jpg]
+
+File to: [build/img/NUBY THIRSTY KIDS INCREDIBLE GULP 99004.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUBY WACKY BOWL WITH CUTLERY.jpg]
+
+File to: [build/img/NUBY WACKY BOWL WITH CUTLERY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUNU EVAPORATED 160G.png]
+
+File to: [build/img/NUNU EVAPORATED 160G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAIN

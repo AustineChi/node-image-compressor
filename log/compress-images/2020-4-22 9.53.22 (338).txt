@@ -1,0 +1,361 @@
+File from: [src/img/Panadol Extra Advance 500mg-65mg Tabx14.jpg]
+
+File to: [build/img/Panadol Extra Advance 500mg-65mg Tabx14.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Panadol Extra Advance 500mg65mg Tabx14.jpg]
+
+File to: [build/img/Panadol Extra Advance 500mg65mg Tabx14.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PANADOL EXTRA ADVANCE X 14`S.jpg]
+
+File to: [build/img/PANADOL EXTRA ADVANCE X 14`S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PANADOL EXTRA ADVANCE X 32.jpg]
+
+File to: [build/img/PANADOL EXTRA ADVANCE X 32.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PANADOL EXTRA SOLUBLE X 24.jpg]
+
+File to: [build/img/PANADOL EXTRA SOLUBLE X 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PANADOL. NIGHT PAIN TABS X 24.png]
+
+File to: [build/img/PANADOL. NIGHT PAIN TABS X 24.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/PANASONIC 9V BATTERIES.jpg]
+
+File to: [build/img/PANASONIC 9V BATTERIES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PANASONIC AA4 BATTERY.jpg]
+
+File to: [build/img/PANASONIC AA4 BATTERY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PANASONIC AAA4 BATTERY.jpg]
+
+File to: [build/img/PANASONIC AAA4 BATTERY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PANASONIC C BATTERIES 2S.jpg]
+
+File to: [build/img/PANASONIC C BATTERIES 2S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PANASONIC D2 BATTERY.jpg]
+
+File to: [build/img/PANASONIC D2 BATTERY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PANDA DROPS  15ML.jpg]
+
+File to: [build/img/PANDA DROPS  15ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PANDA PARACETAMOL 60ML.jpg]
+
+File to: [build/img/PANDA PARACETAMOL 60ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PANFOR SR-1000 TABS  X 10.jpg]
+
+File to: [build/img/PANFOR SR-1000 TABS  X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PANFOR SR-500 TABS  X 10.jpg]
+
+File to: [build/img/PANFOR SR-500 TABS  X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Panla.jpg]
+
+File to: [build/img/Panla.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PAPIA 3 PLY KITCHEN TOWEL DOUBLE.jpg]
+
+File to: [build/img/PAPIA 3 PLY KITCHEN TOWEL DOUBLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PAPIA 3 PLY KITCHEN TOWEL SINGLE.jpg]
+
+File to: [build/img/PAPIA 3 PLY KITCHEN TOWEL SINGLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Papia Kitchen Roll x 12.jpeg]
+
+File to: [build/img/Papia Kitchen Roll x 12.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PAPIA 3 PLY TOILET PAPER DOUBLE.jpeg]
+
+File to: [build/img/PAPIA 3 PLY TOILET PAPER DOUBLE.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Papia Kitchen Rolls 2x6.jpg]
+
+File to: [build/img/Papia Kitchen Rolls 2x6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PAPILLON NON-ALCOHOLIC WINE 750ML SPARKLING BLUSH.jpg]
+
+File to: [build/img/PAPILLON NON-ALCOHOLIC WINE 750ML SPARKLING BLUSH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PAPILLON NON-ALCOHOLIC WINE 750ML SPARKLING WHITE.jpg]
+
+File to: [build/img/PAPILLON NON-ALCOHOLIC WINE 750ML SPARKLING WHITE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PARACETAMOL (EMZOR.) DROPS.jpg]
+
+File to: [build/img/PARACETAMOL (EMZOR.) DROPS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PARACETAMOL (EMZOR) SYR  60ML.jpg]
+
+File to: [build/img/PARACETAMOL (EMZOR) SYR  60ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PARACETAMOL (EMZOR) TABS 500MG X 12.jpg]
+
+File to: [build/img/PARACETAMOL (EMZOR) TABS 500MG X 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PARACETAMOL (M&B) SYR  60ML.jpg]
+
+File to: [build/img/PARACETAMOL (M&B) SYR  60ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PARACETAMOL (M&B) TABS 500MG X 96.jpeg]
+
+File to: [build/img/PARACETAMOL (M&B) TABS 500MG X 96.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PARACETAMOL TAB X 32(MANDANOL).jpg]
+
+File to: [build/img/PARACETAMOL TAB X 32(MANDANOL).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PARACETAMOL INJECTION.jpg]
+
+File to: [build/img/PARACETAMOL INJECTION.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PARACETAMOL. (CRESCENT)  TABS 500MG X 10.jpg]
+
+File to: [build/img/PARACETAMOL. (CRESCENT)  TABS 500MG X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Parade Panko Bread Crumbs 227g.jpg]
+
+File to: [build/img/Parade Panko Bread Crumbs 227g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Parker & Brush With Long Handle.jpeg]
+
+File to: [build/img/Parker & Brush With Long Handle.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Parker& Brush With Short Handle.jpg]
+
+File to: [build/img/Parker& Brush With Short Handle.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PARLODEL TABS 2.5MG X 30.jpg]
+
+File to: [build/img/PARLODEL TABS 2.5MG X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PARMALAT NATURE PLAIN YOGURT 100G.jpg]
+
+File to: [build/img/PARMALAT NATURE PLAIN YOGURT 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PARMALAT STRAWBERRY YOGURT 100G.jpg]
+
+File to: [build/img/PARMALAT STRAWBERRY YOGURT 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PAROZONE THICK BLEACH 750ML HOT PINK.jpg]
+
+File to: [build/img/PAROZONE THICK BLEACH 750ML HOT PINK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PAROZONE THICK BLEACH 750ML CITRUS.jpg]
+
+File to: [build/img/PAROZONE THICK BLEACH 750ML CITRUS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PAROZONE THICK BLEACH ORIGINAL 750ML.jpg]
+
+File to: [build/img/PAROZONE THICK BLEACH ORIGINAL 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PAROZONE THICK BLEACH750ML LAVENDAR.jpg]
+
+File to: [build/img/PAROZONE THICK BLEACH750ML LAVENDAR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pascual original yoghurts.JPG]
+
+File to: [build/img/Pascual original yoghurts.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pascual original.JPG]
+
+File to: [build/img/Pascual original.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pascual Yoghurt 125g x 24.jpg]
+
+File to: [build/img/Pascual Yoghurt 125g x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pascual yogi kids.jpg]
+
+File to: [build/img/Pascual yogi kids.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pascual yogi kids.png]
+
+File to: [build/img/Pascual yogi kids.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Passion Energy Drink Sachet 4g x 10.jpg]
+
+File to: [build/img/Passion Energy Drink Sachet 4g x 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PASSION FRUIT PER KG.jpeg]
+
+File to: [build/img/PASSION FRUIT PER KG.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Passion fruit smoothie.jpg]
+
+File to: [build/img/Passion fruit smoothie.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Passport STD75cl x12.jpg]
+
+File to: [build/img/Passport STD75cl x12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PASTA STORAGE CONTAINER.jpg]
+
+File to: [build/img/PASTA STORAGE CONTAINER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pastis Jean Canon 45_ 100cl x 12.jpg]
+
+File to: [build/img/Pastis Jean Canon 45_ 100cl x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pata Negra Wine Ranges  75cl x 6.jpg]
+
+File to: [build/img/Pata Negra Wine Ranges  75cl x 6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Paterson_s Shortbread Fingers 150g x 18.jpg]
+
+File to: [build/img/Paterson_s Shortbread Fingers 150g x 18.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Paul Masson V.S.O.P Brandy 75cl x 12.jpg]
+
+File to: [build/img/Paul Masson V.S.O.P Brandy 75cl x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Paul Masson VS Brandy 750ml x 12.jpg]
+
+File to: [build/img/Paul Masson VS Brandy 750ml x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PAVO SAUSAGES.jpg]
+
+File to: [build/img/PAVO SAUSAGES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PAWPAW 1KG.jpg]
+
+File to: [build/img/PAWPAW 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PAWPAW PER KG.jpg]
+
+File to: [build/img/PAWPAW PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PAWPAW SLICED.png]
+
+File to: [build/img/PAWPAW SLICED.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAIN

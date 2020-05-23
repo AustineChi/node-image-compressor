@@ -1,0 +1,307 @@
+File from: [src/img/FAN MILK ICE-CREAM-CHOCOLATE (250 LTR).jpg]
+
+File to: [build/img/FAN MILK ICE-CREAM-CHOCOLATE (250 LTR).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAN MILK ICE-CREAM-DOUBLE TREAT (900 LTR).jpg]
+
+File to: [build/img/FAN MILK ICE-CREAM-DOUBLE TREAT (900 LTR).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAN MILK ICE-CREAM-DOUBLE TREAT (3.75LTR).jpg]
+
+File to: [build/img/FAN MILK ICE-CREAM-DOUBLE TREAT (3.75LTR).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAN MILK ICE-CREAM-STRAW (0.12LTR).jpg]
+
+File to: [build/img/FAN MILK ICE-CREAM-STRAW (0.12LTR).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAN MILK ICE-CREAM-VAN (3.75LTR).jpg]
+
+File to: [build/img/FAN MILK ICE-CREAM-VAN (3.75LTR).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAN MILK ICE-CREAM-VAN (900 LTR).jpg]
+
+File to: [build/img/FAN MILK ICE-CREAM-VAN (900 LTR).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAN MILK PAPER FAN VANILLE 180ML.jpg]
+
+File to: [build/img/FAN MILK PAPER FAN VANILLE 180ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAN MILK PAPER SUPER YOGO 180ML.jpg]
+
+File to: [build/img/FAN MILK PAPER SUPER YOGO 180ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAN MILK SACHET SUPER YOGO 150ML.jpg]
+
+File to: [build/img/FAN MILK SACHET SUPER YOGO 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FANCY HARD COVER NOTE BOOK 200 SHEETS.jpg]
+
+File to: [build/img/FANCY HARD COVER NOTE BOOK 200 SHEETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FANCY HARD COVER NOTE BOOK 400 SHEETS.jpg]
+
+File to: [build/img/FANCY HARD COVER NOTE BOOK 400 SHEETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Fanice Ice Cream 120ml.jpg]
+
+File to: [build/img/Fanice Ice Cream 120ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Fanice Ice Cream 2ltr.jpg]
+
+File to: [build/img/Fanice Ice Cream 2ltr.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Fanice Ice Cream 900ml.jpg]
+
+File to: [build/img/Fanice Ice Cream 900ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Fanice Ice Cream 900ml(1).jpg]
+
+File to: [build/img/Fanice Ice Cream 900ml(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FANTA 33CL CAN.jpg]
+
+File to: [build/img/FANTA 33CL CAN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FANTA APPLE 60CL.jpg]
+
+File to: [build/img/FANTA APPLE 60CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FANTA ORANGE PET 35CL.png]
+
+File to: [build/img/FANTA ORANGE PET 35CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/FANTA ORANGE PET 60CL.jpg]
+
+File to: [build/img/FANTA ORANGE PET 60CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FANTA PET 60CL.jpg]
+
+File to: [build/img/FANTA PET 60CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FANTA PINEAPPLE PET 50CL.jpg]
+
+File to: [build/img/FANTA PINEAPPLE PET 50CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Fantasia Pour Femme Perfume 100ml.jpg]
+
+File to: [build/img/Fantasia Pour Femme Perfume 100ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Fantasy Britney Spears EDP 100ml.jpg]
+
+File to: [build/img/Fantasy Britney Spears EDP 100ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Fantinel Prosecco Rose 75CL.jpg]
+
+File to: [build/img/Fantinel Prosecco Rose 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FARLEYS RUSKS BABY BISCUIT 150G.JPG]
+
+File to: [build/img/FARLEYS RUSKS BABY BISCUIT 150G.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Farm Feast Juice Ranges 1000ml.png]
+
+File to: [build/img/Farm Feast Juice Ranges 1000ml.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Farm Feast Juice Ranges 1000ml(1).jpg]
+
+File to: [build/img/Farm Feast Juice Ranges 1000ml(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAN MILK ICE-CREAM-VAN (450 LTR).jpg]
+
+File to: [build/img/FAN MILK ICE-CREAM-VAN (450 LTR).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FANTA PET 1L.jpg]
+
+File to: [build/img/FANTA PET 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAN MILK PAPER CHOCO 180ML.jpg]
+
+File to: [build/img/FAN MILK PAPER CHOCO 180ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Farm Feast Juice Ranges 1000ml(2).jpg]
+
+File to: [build/img/Farm Feast Juice Ranges 1000ml(2).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FARM FRESH BANANA YOGHURT 1L.jpg]
+
+File to: [build/img/FARM FRESH BANANA YOGHURT 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FARM PRIDE GUAVA 1L.png]
+
+File to: [build/img/FARM PRIDE GUAVA 1L.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/FARM PRIDE MANGO 1L.png]
+
+File to: [build/img/FARM PRIDE MANGO 1L.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/FARM PRIDE GUAVA 500ML.png]
+
+File to: [build/img/FARM PRIDE GUAVA 500ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/FARM PRIDE ORANGE 1L.png]
+
+File to: [build/img/FARM PRIDE ORANGE 1L.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/FARM PRIDE MANGO 500ML.png]
+
+File to: [build/img/FARM PRIDE MANGO 500ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/FARM PRIDE ORANGE 500ML.jpg]
+
+File to: [build/img/FARM PRIDE ORANGE 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FARM PRIDE SWEETENED YOGURT 500ML.jpg]
+
+File to: [build/img/FARM PRIDE SWEETENED YOGURT 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FARM PRIDE TROPICAL 1L.png]
+
+File to: [build/img/FARM PRIDE TROPICAL 1L.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/FARM PRIDE TROPICAL 500ML.jpg]
+
+File to: [build/img/FARM PRIDE TROPICAL 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FARM PRIDE YOGHURT SUGAR FREE 1L.jpg]
+
+File to: [build/img/FARM PRIDE YOGHURT SUGAR FREE 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FARM PRIDE YOGHURT SUGAR FREE 500ML.jpg]
+
+File to: [build/img/FARM PRIDE YOGHURT SUGAR FREE 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Farmcraft Eggs 15pcs X 16.jpg]
+
+File to: [build/img/Farmcraft Eggs 15pcs X 16.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Farmcraft Eggs 30PCS X 8.jpg]
+
+File to: [build/img/Farmcraft Eggs 30PCS X 8.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Farmfresh Pure Yoghurt 500ml.jpg]
+
+File to: [build/img/Farmfresh Pure Yoghurt 500ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FARM FRESH BANANA YOGHURT DRINK 500ML.png]
+
+File to: [build/img/FARM FRESH BANANA YOGHURT DRINK 500ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Farmfresh Pure Yoghurt 500ml.png]
+
+File to: [build/img/Farmfresh Pure Yoghurt 500ml.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Farmfresh Pure Yoghurt 500ml(1).png]
+
+File to: [build/img/Farmfresh Pure Yoghurt 500ml(1).png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/FARM FRESH PINEAPPLE 500ML.jpg]
+
+File to: [build/img/FARM FRESH PINEAPPLE 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FARM FRESH UNSWEETENED YOGHURT 500ML.jpg]
+
+File to: [build/img/FARM FRESH UNSWEETENED YOGHURT 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

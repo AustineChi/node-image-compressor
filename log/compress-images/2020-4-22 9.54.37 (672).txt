@@ -1,0 +1,217 @@
+File from: [src/img/GRISEOFULVIN. TABS 500MG X 20.jpeg]
+
+File to: [build/img/GRISEOFULVIN. TABS 500MG X 20.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grocery Bazaar Fruit Bread.jpg]
+
+File to: [build/img/Grocery Bazaar Fruit Bread.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grocery Bazaar loaf-slice Bread.jpg]
+
+File to: [build/img/Grocery Bazaar loaf-slice Bread.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grocery Bazaar Coconut Bread.jpg]
+
+File to: [build/img/Grocery Bazaar Coconut Bread.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grocery Bazaar Sardine Bread.jpg]
+
+File to: [build/img/Grocery Bazaar Sardine Bread.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GroceryBazaar.png]
+
+File to: [build/img/GroceryBazaar.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GROWING UP MILK POWDER 400 GM x12.jfif.jpg]
+
+File to: [build/img/GROWING UP MILK POWDER 400 GM x12.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GROWING UP MILK POWDER 12 X 380 GM.jpg]
+
+File to: [build/img/GROWING UP MILK POWDER 12 X 380 GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/gs barracuda fish steak.jpg]
+
+File to: [build/img/gs barracuda fish steak.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GS CALAMARI RINGS 1KG.jpg]
+
+File to: [build/img/GS CALAMARI RINGS 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GUINESS GOLD LAGER BEER 600ML.jpg]
+
+File to: [build/img/GUINESS GOLD LAGER BEER 600ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GUINNESS AFRICA SPECIAL 450ML X 18 RGB.png]
+
+File to: [build/img/GUINNESS AFRICA SPECIAL 450ML X 18 RGB.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GUINNESS AFRICA SPECIAL STOUT 450ML.png]
+
+File to: [build/img/GUINNESS AFRICA SPECIAL STOUT 450ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GUINNESS AFRICAN SPECIAL BOTTLE.png]
+
+File to: [build/img/GUINNESS AFRICAN SPECIAL BOTTLE.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GUINNESS CRATES.jpg]
+
+File to: [build/img/GUINNESS CRATES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Guinness Extra Big Stout 600ml.jpg]
+
+File to: [build/img/Guinness Extra Big Stout 600ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Guinness Extra Big Stout 600ml(1).jpg]
+
+File to: [build/img/Guinness Extra Big Stout 600ml(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Guinness Extra Medium Stout 450ml.jpg]
+
+File to: [build/img/Guinness Extra Medium Stout 450ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Guinness Extra Medium Stout 450ml(1).jpg]
+
+File to: [build/img/Guinness Extra Medium Stout 450ml(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Guinness Extra Small Stout 325ml.png]
+
+File to: [build/img/Guinness Extra Small Stout 325ml.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Guinness Extra Small Stout 325ml(1).png]
+
+File to: [build/img/Guinness Extra Small Stout 325ml(1).png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Guinness Extra Stout Can 330ml.png]
+
+File to: [build/img/Guinness Extra Stout Can 330ml.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Guinness Extra Stout Can 330ml(1).png]
+
+File to: [build/img/Guinness Extra Stout Can 330ml(1).png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GUINNESS FES 330ML CAN.png]
+
+File to: [build/img/GUINNESS FES 330ML CAN.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GUINNESS FES 325ML RET + CRATE.jpg]
+
+File to: [build/img/GUINNESS FES 325ML RET + CRATE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GUINNESS FES 450ML.jpg]
+
+File to: [build/img/GUINNESS FES 450ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GUINNESS FES 600ML.jpg]
+
+File to: [build/img/GUINNESS FES 600ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Guinness Gold Lager Beer 60cl.jpg]
+
+File to: [build/img/Guinness Gold Lager Beer 60cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Guinness Gold Lager Beer 60cl(1).jpg]
+
+File to: [build/img/Guinness Gold Lager Beer 60cl(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Guinness Gold Lager Beer 60cljj.jpg]
+
+File to: [build/img/Guinness Gold Lager Beer 60cljj.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Guinness Gold Lager Beer 60cljj(1).jpg]
+
+File to: [build/img/Guinness Gold Lager Beer 60cljj(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GUINNESS GOLD.jpg]
+
+File to: [build/img/GUINNESS GOLD.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GUINNESS MEDIUM STOUT CRATES.jpg]
+
+File to: [build/img/GUINNESS MEDIUM STOUT CRATES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GUINNESS MEDIUM STOUT CRATES(1).jpg]
+
+File to: [build/img/GUINNESS MEDIUM STOUT CRATES(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GULDER 60CL FULL BTL CRATE.jpg]
+
+File to: [build/img/GULDER 60CL FULL BTL CRATE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GULDER 33CL FULL CAN.png]
+
+File to: [build/img/GULDER 33CL FULL CAN.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAIN

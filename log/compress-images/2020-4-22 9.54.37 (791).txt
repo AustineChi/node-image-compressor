@@ -1,0 +1,85 @@
+File from: [src/img/TYLENOL PM X 24.jpg]
+
+File to: [build/img/TYLENOL PM X 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TYPHOO ENGLISH BREAKFAST TEA 40G.jpg]
+
+File to: [build/img/TYPHOO ENGLISH BREAKFAST TEA 40G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/U-Mec Fabric Plaster x5.jpg]
+
+File to: [build/img/U-Mec Fabric Plaster x5.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/tylenol x 2 tablets.jpg]
+
+File to: [build/img/tylenol x 2 tablets.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/UB Universal Basic Relaxer (2) 450ml-600x702.jpg]
+
+File to: [build/img/UB Universal Basic Relaxer (2) 450ml-600x702.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/UB UNIVERSAL BASIC RELAXER 450ML.jpg]
+
+File to: [build/img/UB UNIVERSAL BASIC RELAXER 450ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/UB UNIVERSAL BASIC RELAXER 950ML.jpg]
+
+File to: [build/img/UB UNIVERSAL BASIC RELAXER 950ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/UBL MCV DIGESTIVE 104G.jpg]
+
+File to: [build/img/UBL MCV DIGESTIVE 104G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/UB UNIVERSAL BASIC RELAXER ARGAN OIL 450ML.png]
+
+File to: [build/img/UB UNIVERSAL BASIC RELAXER ARGAN OIL 450ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/UBL MCV DIGESTIVE CHOC CHIP 31G.jpg]
+
+File to: [build/img/UBL MCV DIGESTIVE CHOC CHIP 31G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/UBL MCV HOBNOBS 200G.jpg]
+
+File to: [build/img/UBL MCV HOBNOBS 200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/UBL MCV HONOBS CHOC CHIP 31G.jpg]
+
+File to: [build/img/UBL MCV HONOBS CHOC CHIP 31G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/UBL NOREOS CHOCOLATE 30G.jpg]
+
+File to: [build/img/UBL NOREOS CHOCOLATE 30G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TYONEX VITAMIN-C CHEWABLE X 100.jpg]
+
+File to: [build/img/TYONEX VITAMIN-C CHEWABLE X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

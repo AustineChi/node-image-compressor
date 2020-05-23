@@ -1,0 +1,277 @@
+File from: [src/img/LEVINIA POWDER 50G.jpg]
+
+File to: [build/img/LEVINIA POWDER 50G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LEVOFLOX TABS 500MG X 10.jpg]
+
+File to: [build/img/LEVOFLOX TABS 500MG X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LEVOTHYROXINE 100MCG X 28(MECURY).png]
+
+File to: [build/img/LEVOTHYROXINE 100MCG X 28(MECURY).png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/LEVOTHYROXINE 25MCG X 28(MECURY).jpg]
+
+File to: [build/img/LEVOTHYROXINE 25MCG X 28(MECURY).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LEVOTHYROXINE 50MG X 28 (MECURY).jpg]
+
+File to: [build/img/LEVOTHYROXINE 50MG X 28 (MECURY).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LEVOTHYROXINE TABLETS 50MCG X 28 (TEVA).jpg]
+
+File to: [build/img/LEVOTHYROXINE TABLETS 50MCG X 28 (TEVA).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LEVOTIL LEVOFLOXACIN 500MG X 10.jpeg]
+
+File to: [build/img/LEVOTIL LEVOFLOXACIN 500MG X 10.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lexus Milky Comp Chocolate 180g220g.jpg]
+
+File to: [build/img/Lexus Milky Comp Chocolate 180g220g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LFYE SUPPORT PURE GREEN TEA X 30.jpg]
+
+File to: [build/img/LFYE SUPPORT PURE GREEN TEA X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LG7KG Automatic Front Loader Washing MachineSilver.jpg]
+
+File to: [build/img/LG7KG Automatic Front Loader Washing MachineSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LG8kg Dryer 8066Silver.jpg]
+
+File to: [build/img/LG8kg Dryer 8066Silver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LG9KG DRYER FRONT LOADER 9066A3F.jpg]
+
+File to: [build/img/LG9KG DRYER FRONT LOADER 9066A3F.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LGLHD 1200watts Wireless Rear Speaker  -AUD 756BLACK.jpg]
+
+File to: [build/img/LGLHD 1200watts Wireless Rear Speaker  -AUD 756BLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LGOne Door Refrigerator REF 201 SL - 169 LtrsSilver.jpg]
+
+File to: [build/img/LGOne Door Refrigerator REF 201 SL - 169 LtrsSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LGWASHING MACHINE FRONT LOADER (2J3QDNP0)WHITE.jpg]
+
+File to: [build/img/LGWASHING MACHINE FRONT LOADER (2J3QDNP0)WHITE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LI LINK SIZE 16 BICYCLE.jpg]
+
+File to: [build/img/LI LINK SIZE 16 BICYCLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LIFE BUOY LEMON 110G.jpg]
+
+File to: [build/img/LIFE BUOY LEMON 110G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LIFE BUOY LEMON SOAP 60G.jpg]
+
+File to: [build/img/LIFE BUOY LEMON SOAP 60G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LIFE BUOY TOTAL SOAP 110G.jpg]
+
+File to: [build/img/LIFE BUOY TOTAL SOAP 110G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LIFE BUOY TOTAL SOAP 60G.jpg]
+
+File to: [build/img/LIFE BUOY TOTAL SOAP 60G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Life Premium Lager Beer 60cl.jpg]
+
+File to: [build/img/Life Premium Lager Beer 60cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Life Premium Lager Beer Can 50cl.jpg]
+
+File to: [build/img/Life Premium Lager Beer Can 50cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LIFEBUOY LEMONFRESH KALAL 48X110G CARTON.png]
+
+File to: [build/img/LIFEBUOY LEMONFRESH KALAL 48X110G CARTON.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/LIFEBUOY TOTAL 10 KALAL 48X110G CARTON.png]
+
+File to: [build/img/LIFEBUOY TOTAL 10 KALAL 48X110G CARTON.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/LIGHT UP LED BALLOONS 5S.jpg]
+
+File to: [build/img/LIGHT UP LED BALLOONS 5S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Limca Lemon Flavd Drink Pet 50cl60cl.jpg]
+
+File to: [build/img/Limca Lemon Flavd Drink Pet 50cl60cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LIME PER DOZEN.jpg]
+
+File to: [build/img/LIME PER DOZEN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lindeman's Sweet Red 75CL.jpg]
+
+File to: [build/img/Lindeman's Sweet Red 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LINDT EXCELLENCE DARK 85% 100GM.jpg]
+
+File to: [build/img/LINDT EXCELLENCE DARK 85% 100GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LINDT EXCELLENCE DARK CHOC 90 % 100 GM.jpeg]
+
+File to: [build/img/LINDT EXCELLENCE DARK CHOC 90 % 100 GM.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LINDT EXCELLENCE INTENSE ORANGE 100GM.jpg]
+
+File to: [build/img/LINDT EXCELLENCE INTENSE ORANGE 100GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LINT ROLLER & REFILL.jpeg]
+
+File to: [build/img/LINT ROLLER & REFILL.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lion Cashew Nuts 50g.jpg]
+
+File to: [build/img/Lion Cashew Nuts 50g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LION CASHEWS NUT 100G.jpg]
+
+File to: [build/img/LION CASHEWS NUT 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LION CASHEWS NUT 20G.jpg]
+
+File to: [build/img/LION CASHEWS NUT 20G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LION CASHEWS NUT 50G.jpg]
+
+File to: [build/img/LION CASHEWS NUT 50G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lion Dried CurryThyme 10g.jpg]
+
+File to: [build/img/Lion Dried CurryThyme 10g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LIPITOR 20MG X 30 TABS.jpeg]
+
+File to: [build/img/LIPITOR 20MG X 30 TABS.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LIPITOR 10MG X 30 TABS.jpeg]
+
+File to: [build/img/LIPITOR 10MG X 30 TABS.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LIPITOR 40MG X 30.jpg]
+
+File to: [build/img/LIPITOR 40MG X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lipitor 80mg tab x30 Pack.jpg]
+
+File to: [build/img/Lipitor 80mg tab x30 Pack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LIPSILK LIP BALM 7G.jpg]
+
+File to: [build/img/LIPSILK LIP BALM 7G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LIPSORE 5% W_W ACICLOVIR CREAM 2G.jpg]
+
+File to: [build/img/LIPSORE 5% W_W ACICLOVIR CREAM 2G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LIPTON PEACH PET 50CL.jpg]
+
+File to: [build/img/LIPTON PEACH PET 50CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LIPTON LEMON PET 50CL.jpg]
+
+File to: [build/img/LIPTON LEMON PET 50CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LIPTON TEA.jpg]
+
+File to: [build/img/LIPTON TEA.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

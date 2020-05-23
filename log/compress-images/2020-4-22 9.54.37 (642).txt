@@ -1,0 +1,157 @@
+File from: [src/img/Familia Ultra Kitchen Towel.jpg]
+
+File to: [build/img/Familia Ultra Kitchen Towel.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAMILIA ULTRA PERFUMED 3 PLY TOILET PAPER DOUBLE STRAWBERRY.jpg]
+
+File to: [build/img/FAMILIA ULTRA PERFUMED 3 PLY TOILET PAPER DOUBLE STRAWBERRY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAMILIA ULTRA PERFUMED 3 PLY TOILET PAPER 4S STRAWBERRY.jpg]
+
+File to: [build/img/FAMILIA ULTRA PERFUMED 3 PLY TOILET PAPER 4S STRAWBERRY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Familia Ultra Toilet Rolls Purple x2.jpg]
+
+File to: [build/img/Familia Ultra Toilet Rolls Purple x2.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAMILIA ULTRA WHITE 3 PLY TOILET PAPER DOUBLE.jpeg]
+
+File to: [build/img/FAMILIA ULTRA WHITE 3 PLY TOILET PAPER DOUBLE.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAMILIA ULTRA WHITE 3 PLY TOILET PAPER SINGLE.jpg]
+
+File to: [build/img/FAMILIA ULTRA WHITE 3 PLY TOILET PAPER SINGLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Familia Ultra White Tissue Paper.jpg]
+
+File to: [build/img/Familia Ultra White Tissue Paper.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAMILY GRANULATED SUGAR 1KG.jpg]
+
+File to: [build/img/FAMILY GRANULATED SUGAR 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAMILY GRANULATED SUGAR 500G.jpg]
+
+File to: [build/img/FAMILY GRANULATED SUGAR 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAMILY MILK 3IN1 CUSTARD 2KG.jpg]
+
+File to: [build/img/FAMILY MILK 3IN1 CUSTARD 2KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAMILY MILK 3IN1 CUSTARD 500G.jpg]
+
+File to: [build/img/FAMILY MILK 3IN1 CUSTARD 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Family Milk Custard 2Kg X 4.jpg]
+
+File to: [build/img/Family Milk Custard 2Kg X 4.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Family Milk Custard 500g.jpg]
+
+File to: [build/img/Family Milk Custard 500g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAMILY SUGAR GRANULATED 1KG.jpg]
+
+File to: [build/img/FAMILY SUGAR GRANULATED 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Famous Amos Chocolate Chip 56g.jpeg]
+
+File to: [build/img/Famous Amos Chocolate Chip 56g.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAMOUS AMOS CHOCOLATE CHIPS 56G.jpg]
+
+File to: [build/img/FAMOUS AMOS CHOCOLATE CHIPS 56G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAN MILK DANGO CITRUS DRINK 350ML PET.jpg]
+
+File to: [build/img/FAN MILK DANGO CITRUS DRINK 350ML PET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAN MILK ICE-CREAM-CHOCOLATE (250 LTR).jpg]
+
+File to: [build/img/FAN MILK ICE-CREAM-CHOCOLATE (250 LTR).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAN MILK ICE-CREAM-DOUBLE TREAT (3.75LTR).jpg]
+
+File to: [build/img/FAN MILK ICE-CREAM-DOUBLE TREAT (3.75LTR).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAN MILK ICE-CREAM-DOUBLE TREAT (900 LTR).jpg]
+
+File to: [build/img/FAN MILK ICE-CREAM-DOUBLE TREAT (900 LTR).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAN MILK ICE-CREAM-STRAW (0.12LTR).jpg]
+
+File to: [build/img/FAN MILK ICE-CREAM-STRAW (0.12LTR).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAN MILK ICE-CREAM-VAN (3.75LTR).jpg]
+
+File to: [build/img/FAN MILK ICE-CREAM-VAN (3.75LTR).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAN MILK ICE-CREAM-VAN (450 LTR).jpg]
+
+File to: [build/img/FAN MILK ICE-CREAM-VAN (450 LTR).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAN MILK ICE-CREAM-VAN (900 LTR).jpg]
+
+File to: [build/img/FAN MILK ICE-CREAM-VAN (900 LTR).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAN MILK PAPER FAN VANILLE 180ML.jpg]
+
+File to: [build/img/FAN MILK PAPER FAN VANILLE 180ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAN MILK PAPER CHOCO 180ML.jpg]
+
+File to: [build/img/FAN MILK PAPER CHOCO 180ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

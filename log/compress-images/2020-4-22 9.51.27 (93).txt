@@ -1,0 +1,85 @@
+File from: [src/img/JERGENS MOISTURIZER 600ML.jpg]
+
+File to: [build/img/JERGENS MOISTURIZER 600ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JERGENS NOURISHING HONEY DRY SKIN 621ML.jpg]
+
+File to: [build/img/JERGENS NOURISHING HONEY DRY SKIN 621ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JERGENS ORIGINAL SCENT 783ML.jpg]
+
+File to: [build/img/JERGENS ORIGINAL SCENT 783ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JERGENS ORIGINAL SCENT LOTION 621ML.jpg]
+
+File to: [build/img/JERGENS ORIGINAL SCENT LOTION 621ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JERGENS ULTRA HEALING 295ML.jpg]
+
+File to: [build/img/JERGENS ULTRA HEALING 295ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JiepakJP-C1 Powerful 3.1 Channel Bluetooth Home Theatre SystemBlack.jpg]
+
+File to: [build/img/JiepakJP-C1 Powerful 3.1 Channel Bluetooth Home Theatre SystemBlack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JIF CREAMY PEANUT BUTTER 454G.jpeg]
+
+File to: [build/img/JIF CREAMY PEANUT BUTTER 454G.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JIF CREAMY PEANUT BUTTER 454G.jpg]
+
+File to: [build/img/JIF CREAMY PEANUT BUTTER 454G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JIF EXTRA CRUNCHY PEANUT BUTTER 454G.jpg]
+
+File to: [build/img/JIF EXTRA CRUNCHY PEANUT BUTTER 454G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JIK 1.4L.jpg]
+
+File to: [build/img/JIK 1.4L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JIM BEAM DEVIL,S CUT.jpg]
+
+File to: [build/img/JIM BEAM DEVIL,S CUT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JIK NGEU 500ML.png]
+
+File to: [build/img/JIK NGEU 500ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/JIM BEAM DOUBLE OAK 70CL.jpg]
+
+File to: [build/img/JIM BEAM DOUBLE OAK 70CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JERGENS MOISTURIZER 400ML.jpg]
+
+File to: [build/img/JERGENS MOISTURIZER 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

@@ -1,0 +1,235 @@
+File from: [src/img/COLOR SENSATIONAL VIVID HOT LIP LACQUER SLAY IT 82.jpg]
+
+File to: [build/img/COLOR SENSATIONAL VIVID HOT LIP LACQUER SLAY IT 82.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL VIVID HOT LIP LACQUER SO HOT 70.jpg]
+
+File to: [build/img/COLOR SENSATIONAL VIVID HOT LIP LACQUER SO HOT 70.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL VIVID HOT LIP LACQUER UNREAL 64.png]
+
+File to: [build/img/COLOR SENSATIONAL VIVID HOT LIP LACQUER UNREAL 64.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/COLOR SENSATIONAL VIVID HOT LIP LACQUER TEASE 60.jpg]
+
+File to: [build/img/COLOR SENSATIONAL VIVID HOT LIP LACQUER TEASE 60.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL VIVID HOT LIP LACQUER TOO CUTE 66.jpg]
+
+File to: [build/img/COLOR SENSATIONAL VIVID HOT LIP LACQUER TOO CUTE 66.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL VIVID MATTE LIQUID LIPSTICK 05 NUDE.jpg]
+
+File to: [build/img/COLOR SENSATIONAL VIVID MATTE LIQUID LIPSTICK 05 NUDE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL VIVID MATTE LIQUID LIPSTICK CORAL 20.jpg]
+
+File to: [build/img/COLOR SENSATIONAL VIVID MATTE LIQUID LIPSTICK CORAL 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL VIVID MATTE LIQUID LIPSTICK FUSHIA 30.jpg]
+
+File to: [build/img/COLOR SENSATIONAL VIVID MATTE LIQUID LIPSTICK FUSHIA 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL VIVID MATTE LIQUID LIPSTICK ELECTRIC 15.jpg]
+
+File to: [build/img/COLOR SENSATIONAL VIVID MATTE LIQUID LIPSTICK ELECTRIC 15.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL VIVID MATTE LIQUID LIPSTICK NUDE 50.jpg]
+
+File to: [build/img/COLOR SENSATIONAL VIVID MATTE LIQUID LIPSTICK NUDE 50.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL VIVID MATTE LIQUID LIPSTICK REBEL RED 35.jpg]
+
+File to: [build/img/COLOR SENSATIONAL VIVID MATTE LIQUID LIPSTICK REBEL RED 35.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL VIVID MATTE LIQUID LIPSTICK POSSESSED PLUM 45.jpg]
+
+File to: [build/img/COLOR SENSATIONAL VIVID MATTE LIQUID LIPSTICK POSSESSED PLUM 45.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOSSAL BIG SHOT MASCARA VERY BLACK.jpg]
+
+File to: [build/img/COLOSSAL BIG SHOT MASCARA VERY BLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLORFUL LOON BANDS.jpg]
+
+File to: [build/img/COLORFUL LOON BANDS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOSSAL BIG SHOT MASCARA WASHABLE DARING BLACK.jpg]
+
+File to: [build/img/COLOSSAL BIG SHOT MASCARA WASHABLE DARING BLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOSSAL GO EXTREME MASCARA 1 VERY BLACK.jpg]
+
+File to: [build/img/COLOSSAL GO EXTREME MASCARA 1 VERY BLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOR SENSATIONAL VIVID MATTE LIQUID LIPSTICK BERRY BOOST 40.jpg]
+
+File to: [build/img/COLOR SENSATIONAL VIVID MATTE LIQUID LIPSTICK BERRY BOOST 40.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOSSAL KAJAL 6 HR BLACK.jpg]
+
+File to: [build/img/COLOSSAL KAJAL 6 HR BLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOUR RUN REMOVER.jpg]
+
+File to: [build/img/COLOUR RUN REMOVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COMBISUNATE 80_480 X 6 TABS.jpeg]
+
+File to: [build/img/COMBISUNATE 80_480 X 6 TABS.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Combo Family pack.jpg]
+
+File to: [build/img/Combo Family pack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COMFORT 2 SENSITIVE P5X40 (200).jpg]
+
+File to: [build/img/COMFORT 2 SENSITIVE P5X40 (200).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/comfort apron - Copy.jpeg]
+
+File to: [build/img/comfort apron - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COMFORT FABRIC SOFTNER SUN SHINNY DAYS 1.5L.png]
+
+File to: [build/img/COMFORT FABRIC SOFTNER SUN SHINNY DAYS 1.5L.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/COMFORT FABRIC SOFTNER TROPHICAL BURST 1.5L.jpg]
+
+File to: [build/img/COMFORT FABRIC SOFTNER TROPHICAL BURST 1.5L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/comfort shower cap - Copy.jpeg]
+
+File to: [build/img/comfort shower cap - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/comfort singlet - Copy.jpeg]
+
+File to: [build/img/comfort singlet - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/concord toothbrush - Copy - Copy.jpeg]
+
+File to: [build/img/concord toothbrush - Copy - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/comfort throw pillow - Copy.jpeg]
+
+File to: [build/img/comfort throw pillow - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CONFETTI LONDON CHOCO  DEODORANT SPRAY 250ML.jpg]
+
+File to: [build/img/CONFETTI LONDON CHOCO  DEODORANT SPRAY 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CONFETTI LONDON GENIUS DEODORANT SPRAY 250ML.jpg]
+
+File to: [build/img/CONFETTI LONDON GENIUS DEODORANT SPRAY 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CONO SUR PINOT NOIR ROSE 75CL.jpg]
+
+File to: [build/img/CONO SUR PINOT NOIR ROSE 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CONTI PACENA GRAN DESSERT 75CL.JPG]
+
+File to: [build/img/CONTI PACENA GRAN DESSERT 75CL.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CONTIX PANTOPRAZOLE 40MG X 28.jpg]
+
+File to: [build/img/CONTIX PANTOPRAZOLE 40MG X 28.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CONTROL ACTION TOOTHBRUSH 3 PACK.jpg]
+
+File to: [build/img/CONTROL ACTION TOOTHBRUSH 3 PACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cool MAKER GO Glam Nail Stamper.jpg]
+
+File to: [build/img/Cool MAKER GO Glam Nail Stamper.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COOKER HOOD FILTER.jpg]
+
+File to: [build/img/COOKER HOOD FILTER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CONTAC CAPS X 18.jpg]
+
+File to: [build/img/CONTAC CAPS X 18.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COLOSSAL KAJAL 12 HR SMOKY.jpg]
+
+File to: [build/img/COLOSSAL KAJAL 12 HR SMOKY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

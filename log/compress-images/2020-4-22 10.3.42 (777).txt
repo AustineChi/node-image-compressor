@@ -1,0 +1,7 @@
+File from: [src/img/Phiima90cm Plasma Wall Mount Rangehood With Charcoal FilterBlack.jpg]
+
+File to: [build/img/Phiima90cm Plasma Wall Mount Rangehood With Charcoal FilterBlack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

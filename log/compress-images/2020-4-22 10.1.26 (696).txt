@@ -1,0 +1,55 @@
+File from: [src/img/LG7KG Automatic Front Loader Washing MachineSilver.jpg]
+
+File to: [build/img/LG7KG Automatic Front Loader Washing MachineSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LG8kg Dryer 8066Silver.jpg]
+
+File to: [build/img/LG8kg Dryer 8066Silver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LG9KG DRYER FRONT LOADER 9066A3F.jpg]
+
+File to: [build/img/LG9KG DRYER FRONT LOADER 9066A3F.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LGLHD 1200watts Wireless Rear Speaker  -AUD 756BLACK.jpg]
+
+File to: [build/img/LGLHD 1200watts Wireless Rear Speaker  -AUD 756BLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LGOne Door Refrigerator REF 201 SL - 169 LtrsSilver.jpg]
+
+File to: [build/img/LGOne Door Refrigerator REF 201 SL - 169 LtrsSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LGWASHING MACHINE FRONT LOADER (2J3QDNP0)WHITE.jpg]
+
+File to: [build/img/LGWASHING MACHINE FRONT LOADER (2J3QDNP0)WHITE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LI LINK SIZE 16 BICYCLE.jpg]
+
+File to: [build/img/LI LINK SIZE 16 BICYCLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LIFE BUOY LEMON 110G.jpg]
+
+File to: [build/img/LIFE BUOY LEMON 110G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LIFE BUOY LEMON SOAP 60G.jpg]
+
+File to: [build/img/LIFE BUOY LEMON SOAP 60G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

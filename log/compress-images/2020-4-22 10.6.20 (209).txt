@@ -1,0 +1,24 @@
+File from: [src/img/REXONA MEN QUANTUM ROLL ON 50ML.png]
+
+File to: [build/img/REXONA MEN QUANTUM ROLL ON 50ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant --quality=20-50 -o build/img/REXONA MEN QUANTUM ROLL ON 50ML.png src/img/REXONA MEN QUANTUM ROLL ON 50ML.png
+  error: cannot decode image REXONA MEN QUANTUM ROLL ON 50ML.png
+File from: [src/img/PRINGLES SOURCREAM & ONION REDUCED FAT 158G.png]
+
+File to: [build/img/PRINGLES SOURCREAM & ONION REDUCED FAT 158G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant --quality=20-50 -o build/img/PRINGLES SOURCREAM & ONION REDUCED FAT 158G.png src/img/PRINGLES SOURCREAM & ONION REDUCED FAT 158G.png
+  error: cannot decode image PRINGLES SOURCREAM & ONION REDUCED FAT 158G.png
+File from: [src/img/REXONA MEN SPORT DEFENCE ROLL ON 50ML.png]
+
+File to: [build/img/REXONA MEN SPORT DEFENCE ROLL ON 50ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant --quality=20-50 -o build/img/REXONA MEN SPORT DEFENCE ROLL ON 50ML.png src/img/REXONA MEN SPORT DEFENCE ROLL ON 50ML.png
+  error: cannot decode image REXONA MEN SPORT DEFENCE ROLL ON 50ML.png

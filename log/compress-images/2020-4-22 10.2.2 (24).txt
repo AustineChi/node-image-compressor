@@ -1,0 +1,367 @@
+File from: [src/img/NU THERAPY COCONUT OIL DIETARY SUPPLEMENT 240S.jpg]
+
+File to: [build/img/NU THERAPY COCONUT OIL DIETARY SUPPLEMENT 240S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUAGE 3-1N-1 CLEANSING FACIAL WIPES 25PK.jpg]
+
+File to: [build/img/NUAGE 3-1N-1 CLEANSING FACIAL WIPES 25PK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUAGE AQUEOUSE LOTION 250ML.jpg]
+
+File to: [build/img/NUAGE AQUEOUSE LOTION 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUAGE ALOE VERA INFUSED BATH SPONGE.jpg]
+
+File to: [build/img/NUAGE ALOE VERA INFUSED BATH SPONGE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUAGE AQUEOUSE CREAM 500ML.jpg]
+
+File to: [build/img/NUAGE AQUEOUSE CREAM 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUAGE ARGAN OIL CLEANSING FACIAL WIPES 25PK.jpg]
+
+File to: [build/img/NUAGE ARGAN OIL CLEANSING FACIAL WIPES 25PK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUAGE BODY SCRUB GINSENG&SEAWEED JAR 200ML.jpg]
+
+File to: [build/img/NUAGE BODY SCRUB GINSENG&SEAWEED JAR 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUAGE BODY SCRUB 200ML.jpg]
+
+File to: [build/img/NUAGE BODY SCRUB 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUAGE CLEANSING FACIAL WIPES 25PK.jpg]
+
+File to: [build/img/NUAGE CLEANSING FACIAL WIPES 25PK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUAGE COCONUT WATER 3-IN-1 FACIAL WIPES 25PKS.jpg]
+
+File to: [build/img/NUAGE COCONUT WATER 3-IN-1 FACIAL WIPES 25PKS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUAGE FACIAL SCRUB FRAGRANCE FREE 150ML.jpg]
+
+File to: [build/img/NUAGE FACIAL SCRUB FRAGRANCE FREE 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUAGE FACIAL WASH FRAGRANCE FREE 150ML.jpg]
+
+File to: [build/img/NUAGE FACIAL WASH FRAGRANCE FREE 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUAGE GRAPEFRUIT LIME&MINT SHOWER SMOOTHIE 200ML.jpg]
+
+File to: [build/img/NUAGE GRAPEFRUIT LIME&MINT SHOWER SMOOTHIE 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUAGE MAKE UP REMOVER WIPES 25PK.jpg]
+
+File to: [build/img/NUAGE MAKE UP REMOVER WIPES 25PK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUAGE MEN SHAVING OIL.jpg]
+
+File to: [build/img/NUAGE MEN SHAVING OIL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUAGE NAIL POLISH DRYING SPARY 150ML.jpg]
+
+File to: [build/img/NUAGE NAIL POLISH DRYING SPARY 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUAGE MICELLAR WATER 200ML.jpg]
+
+File to: [build/img/NUAGE MICELLAR WATER 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUAGE NAIL POLISH REMOVER 250ML.jpg]
+
+File to: [build/img/NUAGE NAIL POLISH REMOVER 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUAGE NAIL POLISH REMOVER SPONGE 55ML.jpg]
+
+File to: [build/img/NUAGE NAIL POLISH REMOVER SPONGE 55ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUAGE PETROLEUM JELLY 250ML.jpg]
+
+File to: [build/img/NUAGE PETROLEUM JELLY 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUAGE NAIL POLISH REMOVER ACETONE 250ML.jpg]
+
+File to: [build/img/NUAGE NAIL POLISH REMOVER ACETONE 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUAGE SKIN ENERGISING FACIAL SCRUB 180.jpg]
+
+File to: [build/img/NUAGE SKIN ENERGISING FACIAL SCRUB 180.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUAGE SKIN BRIGHTENER FACIAL SCRUB 180ML.jpg]
+
+File to: [build/img/NUAGE SKIN BRIGHTENER FACIAL SCRUB 180ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUAGE PINK GRAPEFRUIT&WATER MELON SHOWER SMOOTHIE 200ML.jpg]
+
+File to: [build/img/NUAGE PINK GRAPEFRUIT&WATER MELON SHOWER SMOOTHIE 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUAGE SUNSCREEN SPF - 50 SPRAY.jpg]
+
+File to: [build/img/NUAGE SUNSCREEN SPF - 50 SPRAY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUAGE TANNING MITT.jpg]
+
+File to: [build/img/NUAGE TANNING MITT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUBY 4 STACK BOWLS WITH SNAP LIDS AND SPOONS.jpg]
+
+File to: [build/img/NUBY 4 STACK BOWLS WITH SNAP LIDS AND SPOONS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUBY 6 FEEDING SPOONS.jpg]
+
+File to: [build/img/NUBY 6 FEEDING SPOONS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUBY FLIP N SIP.jpg]
+
+File to: [build/img/NUBY FLIP N SIP.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUBY BOTTLE AND TEAT BRUSH.jpg]
+
+File to: [build/img/NUBY BOTTLE AND TEAT BRUSH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUBY GATOR GRIP 450ML.jpg]
+
+File to: [build/img/NUBY GATOR GRIP 450ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUBY ICY BITE KEYS.jpeg]
+
+File to: [build/img/NUBY ICY BITE KEYS.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUBY MASH AND FEED BOWL.jpg]
+
+File to: [build/img/NUBY MASH AND FEED BOWL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUBY SIPEEZ IST CUP GRIP N SIP.jpg]
+
+File to: [build/img/NUBY SIPEEZ IST CUP GRIP N SIP.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUBY SOOTHE N COOL.jpg]
+
+File to: [build/img/NUBY SOOTHE N COOL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUBY SQUEEZE FEEDER.jpg]
+
+File to: [build/img/NUBY SQUEEZE FEEDER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUBY STAINLESS SPOON N FORK.jpg]
+
+File to: [build/img/NUBY STAINLESS SPOON N FORK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUBY SURE GRIP BOWL.jpg]
+
+File to: [build/img/NUBY SURE GRIP BOWL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUBY THIRSTY KIDS FLIP IT.jpeg]
+
+File to: [build/img/NUBY THIRSTY KIDS FLIP IT.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUBY WACKY BOWL WITH CUTLERY.jpg]
+
+File to: [build/img/NUBY WACKY BOWL WITH CUTLERY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUBY THIRSTY KIDS INCREDIBLE GULP 99004.jpg]
+
+File to: [build/img/NUBY THIRSTY KIDS INCREDIBLE GULP 99004.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUNU EVAPORATED 160G.png]
+
+File to: [build/img/NUNU EVAPORATED 160G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/NUROFEN 400MG TABLETS X 12.jpg]
+
+File to: [build/img/NUROFEN 400MG TABLETS X 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUROFEN 200MG CAPLETS X12.jpg]
+
+File to: [build/img/NUROFEN 200MG CAPLETS X12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUROFEN EXPRESS 200MG X10.jpg]
+
+File to: [build/img/NUROFEN EXPRESS 200MG X10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUROFEN EXPRESS 400MG X10.jpg]
+
+File to: [build/img/NUROFEN EXPRESS 400MG X10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUROFEN FOR CHILDREN ORANGE 100ML.jpg]
+
+File to: [build/img/NUROFEN FOR CHILDREN ORANGE 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nussa Choco Hazelnut Spread 400g .jpg]
+
+File to: [build/img/Nussa Choco Hazelnut Spread 400g .jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTELLA 371G.jpg]
+
+File to: [build/img/NUTELLA 371G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUROFEN FOR CHILDREN STRAW-B 100ML.jpg]
+
+File to: [build/img/NUROFEN FOR CHILDREN STRAW-B 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTELLA 350G.jpg]
+
+File to: [build/img/NUTELLA 350G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTELLA PORTION HAZELNUT SPREAD WITH COCOA15G.jpg]
+
+File to: [build/img/NUTELLA PORTION HAZELNUT SPREAD WITH COCOA15G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTELLA.jpg]
+
+File to: [build/img/NUTELLA.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTRAVIT SYR 100ML.jpg]
+
+File to: [build/img/NUTRAVIT SYR 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTRI SOYA MILK 400ML.jpg]
+
+File to: [build/img/NUTRI SOYA MILK 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTRAVIT SYR 60ML.jpg]
+
+File to: [build/img/NUTRAVIT SYR 60ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTRI SOYA MALT SOYA 400ML.jpg]
+
+File to: [build/img/NUTRI SOYA MALT SOYA 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nutri-C Flavoured Drinks 12g x 48.png]
+
+File to: [build/img/Nutri-C Flavoured Drinks 12g x 48.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/NUTRI-C AMERICAN SWEET ORANGE 8.25.jpg]
+
+File to: [build/img/NUTRI-C AMERICAN SWEET ORANGE 8.25.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTRI-C SWEET ORANGE 12G.jpg]
+
+File to: [build/img/NUTRI-C SWEET ORANGE 12G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUAGE 3-IN-1 MICELLAR CLEANING WIPES 25PK.jpg]
+
+File to: [build/img/NUAGE 3-IN-1 MICELLAR CLEANING WIPES 25PK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

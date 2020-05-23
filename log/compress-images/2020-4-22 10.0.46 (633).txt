@@ -1,0 +1,157 @@
+File from: [src/img/L&Z 1 LITRE YOGHURT VANILLA.png]
+
+File to: [build/img/L&Z 1 LITRE YOGHURT VANILLA.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/L&Z UN-SWEETENED YOGHURT 500G.jpg]
+
+File to: [build/img/L&Z UN-SWEETENED YOGHURT 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LA CASERA 60CL.jpg]
+
+File to: [build/img/LA CASERA 60CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LA FIOLE COTES D RHONE 75CL.jpg]
+
+File to: [build/img/LA FIOLE COTES D RHONE 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/L&Z 500MLS YOGHURT BANANA.jpg]
+
+File to: [build/img/L&Z 500MLS YOGHURT BANANA.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/L&Z 500MLS YOGHURT SWEETENED.jpg]
+
+File to: [build/img/L&Z 500MLS YOGHURT SWEETENED.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LA’FRESH – FRESH LAVENDER 300ML.jpg]
+
+File to: [build/img/LA’FRESH – FRESH LAVENDER 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LA’FRESH – FRESH BAKHOOR 300ML.jpg]
+
+File to: [build/img/LA’FRESH – FRESH BAKHOOR 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LA’FRESH – FRESH LEMON 300ML.jpg]
+
+File to: [build/img/LA’FRESH – FRESH LEMON 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LAB HIGH VAGINAL SWAB(HVS).jpg]
+
+File to: [build/img/LAB HIGH VAGINAL SWAB(HVS).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LA’FRESH – FRESH STRAWBERRY 300ML.jpg]
+
+File to: [build/img/LA’FRESH – FRESH STRAWBERRY 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LAB LIVER FUNCTION TEST.jpg]
+
+File to: [build/img/LAB LIVER FUNCTION TEST.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lacoste Cologne Men Grey x50ml.jpg]
+
+File to: [build/img/Lacoste Cologne Men Grey x50ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LACOSTE BLANC PURE 100ML.jpg]
+
+File to: [build/img/LACOSTE BLANC PURE 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LACOSTE POUR HOMME 100ML.jpg]
+
+File to: [build/img/LACOSTE POUR HOMME 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LACTEL CHOCOLATE MILK 180ML.jpg]
+
+File to: [build/img/LACTEL CHOCOLATE MILK 180ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LACTEL SKIMMED MILK 1L.png]
+
+File to: [build/img/LACTEL SKIMMED MILK 1L.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/LACTEL SEMI-SKIMMED MILK 1L.png]
+
+File to: [build/img/LACTEL SEMI-SKIMMED MILK 1L.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/LACTEL STRAWBERRY MILK 180ML.jpg]
+
+File to: [build/img/LACTEL STRAWBERRY MILK 180ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/L&Z 500MLS YOGHURT VANILLA.jpg]
+
+File to: [build/img/L&Z 500MLS YOGHURT VANILLA.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LACTEL UHT MILK FULL CREAM.jpg]
+
+File to: [build/img/LACTEL UHT MILK FULL CREAM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LACTEL WHOLE MILK 1L.jpg]
+
+File to: [build/img/LACTEL WHOLE MILK 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LACTOGEN 1 LR NWB034 TIN 400G.jpg]
+
+File to: [build/img/LACTOGEN 1 LR NWB034 TIN 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LACTULOSE 3.3G. 5ML 300ML.jpg]
+
+File to: [build/img/LACTULOSE 3.3G. 5ML 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LACTULOSE SOLUTION 300ML TEVA.jpg]
+
+File to: [build/img/LACTULOSE SOLUTION 300ML TEVA.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/L&Z FURA DA NONO SWEETENED 500ML.jpg]
+
+File to: [build/img/L&Z FURA DA NONO SWEETENED 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

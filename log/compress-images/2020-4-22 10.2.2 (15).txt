@@ -1,0 +1,97 @@
+File from: [src/img/MR DOWELL'S WHISKY 75CL.jpg]
+
+File to: [build/img/MR DOWELL'S WHISKY 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MR EKPA BURGER BITE 50G.JPG]
+
+File to: [build/img/MR EKPA BURGER BITE 50G.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MR EKPA FROSTED GROUNDNUT 50G.jpg]
+
+File to: [build/img/MR EKPA FROSTED GROUNDNUT 50G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MR MUSCLE DUCK TOILET CLEANER- CITRUS 500ML.jpg]
+
+File to: [build/img/MR MUSCLE DUCK TOILET CLEANER- CITRUS 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MR MUSCLE FOAMING BLEACH 190ML.jpg]
+
+File to: [build/img/MR MUSCLE FOAMING BLEACH 190ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MR MUSCLE FOAMING BLEACH 500ML.jpg]
+
+File to: [build/img/MR MUSCLE FOAMING BLEACH 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mr Muscle Multipurpose Cleaner 190mlx12.jpg]
+
+File to: [build/img/Mr Muscle Multipurpose Cleaner 190mlx12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mr Muscle Multipurpose Cleaner 500mlx12.jpg]
+
+File to: [build/img/Mr Muscle Multipurpose Cleaner 500mlx12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MR MUSCLE OVEN CLEANER 6X300ML.jpg]
+
+File to: [build/img/MR MUSCLE OVEN CLEANER 6X300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MR MUSCLE TOILET CLEANER- FOREST FRESH 500ML.jpg]
+
+File to: [build/img/MR MUSCLE TOILET CLEANER- FOREST FRESH 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MR SHEEN (SPRING FRESH) 300ML.jpg]
+
+File to: [build/img/MR SHEEN (SPRING FRESH) 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MR SHEEN MULTI SURFACE POLISH ORIGINAL 300ML.jpg]
+
+File to: [build/img/MR SHEEN MULTI SURFACE POLISH ORIGINAL 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mr. Cream Yoghurt 450ml x 12.jpg]
+
+File to: [build/img/Mr. Cream Yoghurt 450ml x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/mslogo (1).png]
+
+File to: [build/img/mslogo (1).png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Mucus Relief 400mg Tablets x15.jpg]
+
+File to: [build/img/Mucus Relief 400mg Tablets x15.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/mslogo.png]
+
+File to: [build/img/mslogo.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAIN

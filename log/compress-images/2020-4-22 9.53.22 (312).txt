@@ -1,0 +1,193 @@
+File from: [src/img/madibaMartLogo.jpeg]
+
+File to: [build/img/madibaMartLogo.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAESTRO FRIES 1KG (9X9MM).jpg]
+
+File to: [build/img/MAESTRO FRIES 1KG (9X9MM).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAESTRO SPICY WEDGES 2.5KG.jpg]
+
+File to: [build/img/MAESTRO SPICY WEDGES 2.5KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAESTRO FRIES 2.5KG (9X9MM).jpg]
+
+File to: [build/img/MAESTRO FRIES 2.5KG (9X9MM).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Maggi Chicken Cube 400g.jpg]
+
+File to: [build/img/Maggi Chicken Cube 400g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Maggi Chicken Flavour Tablets 60x10g.jpg]
+
+File to: [build/img/Maggi Chicken Flavour Tablets 60x10g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAGGI CHICKEN POWDER 450G.jpg]
+
+File to: [build/img/MAGGI CHICKEN POWDER 450G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAGGI CHICKEN SEASON(100 4G)MS.jpg]
+
+File to: [build/img/MAGGI CHICKEN SEASON(100 4G)MS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAGGI CRAYFISH POWDER 18X450G.png]
+
+File to: [build/img/MAGGI CRAYFISH POWDER 18X450G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/MAGGI CRAYFISH TABLET FORT 10G.jpg]
+
+File to: [build/img/MAGGI CRAYFISH TABLET FORT 10G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Maggi Crayfish Tablets 60x10g.jpg]
+
+File to: [build/img/Maggi Crayfish Tablets 60x10g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAGGI CUBES 25X4G EHP FORT NG.jpg]
+
+File to: [build/img/MAGGI CUBES 25X4G EHP FORT NG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAGGI NAIJA POT 50X4G.png]
+
+File to: [build/img/MAGGI NAIJA POT 50X4G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Maggi Naija Pot Seasoning Cube 200g.jpg]
+
+File to: [build/img/Maggi Naija Pot Seasoning Cube 200g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAGGI NAJIA POT SEASONING 200G.jpg]
+
+File to: [build/img/MAGGI NAJIA POT SEASONING 200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Maggi Seasoning (25 Cubes) 100g.jpg]
+
+File to: [build/img/Maggi Seasoning (25 Cubes) 100g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Maggi Seasoning Chicken Powder 450g X 18.jpg]
+
+File to: [build/img/Maggi Seasoning Chicken Powder 450g X 18.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Maggi Seasoning Cube 400g.jpg]
+
+File to: [build/img/Maggi Seasoning Cube 400g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Maggi Seasoning Powder 450g.jpg]
+
+File to: [build/img/Maggi Seasoning Powder 450g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAGGI SEASONING POWDER 450G.png]
+
+File to: [build/img/MAGGI SEASONING POWDER 450G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Maggi Signature Ranges (Sachet) 8g.jpg]
+
+File to: [build/img/Maggi Signature Ranges (Sachet) 8g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAGIC COAT ANTI STATIC SHAMPOO 473ML.jpg]
+
+File to: [build/img/MAGIC COAT ANTI STATIC SHAMPOO 473ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAGIC COAT CITRUS OIL SHAMPOO 473ML.jpg]
+
+File to: [build/img/MAGIC COAT CITRUS OIL SHAMPOO 473ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAGIC COAT HONEY & OATMEAL SHAMPOO 473ML.jpg]
+
+File to: [build/img/MAGIC COAT HONEY & OATMEAL SHAMPOO 473ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAGIC COAT HYPO ALLERGENIC SHAMPOO 473ML.jpg]
+
+File to: [build/img/MAGIC COAT HYPO ALLERGENIC SHAMPOO 473ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAGIC COAT LAVENDER SHAMPOO 473ML.jpg]
+
+File to: [build/img/MAGIC COAT LAVENDER SHAMPOO 473ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAGIC COAT MEDICATED SHAMPOO 473ML.jpg]
+
+File to: [build/img/MAGIC COAT MEDICATED SHAMPOO 473ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAGIC COAT REDUCE SHEDDING SHAMPOO 473ML.jpg]
+
+File to: [build/img/MAGIC COAT REDUCE SHEDDING SHAMPOO 473ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAGIC COAT SOFT RUBBER NUBS.jpg]
+
+File to: [build/img/MAGIC COAT SOFT RUBBER NUBS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAGIC COAT TANGLE & MATS SHAMPOO 473ML.jpg]
+
+File to: [build/img/MAGIC COAT TANGLE & MATS SHAMPOO 473ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAGIC COAT TEA TREE OIL SHAMPOO 473ML.jpg]
+
+File to: [build/img/MAGIC COAT TEA TREE OIL SHAMPOO 473ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAGGI NAIJA POT FOR SOUPS & POTTAGES 200G+20G.jpg]
+
+File to: [build/img/MAGGI NAIJA POT FOR SOUPS & POTTAGES 200G+20G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

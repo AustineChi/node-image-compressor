@@ -1,0 +1,55 @@
+File from: [src/img/HYPO TOILET CLEANER BOTTLES CITRUS 450 x 12.jpg]
+
+File to: [build/img/HYPO TOILET CLEANER BOTTLES CITRUS 450 x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HYPO TOILET CLEANER CITRUS FRANGRANCE 450ML.jpg]
+
+File to: [build/img/HYPO TOILET CLEANER CITRUS FRANGRANCE 450ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HYPO TOILET CLEANER CITRUS FRANGRANCE 725ML.jpg]
+
+File to: [build/img/HYPO TOILET CLEANER CITRUS FRANGRANCE 725ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hypo Toilet Cleaner Citrus Fragrance 725ML.jpg]
+
+File to: [build/img/Hypo Toilet Cleaner Citrus Fragrance 725ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HYPO TOILET CLEANER BOTTLES CITRUS 725 X 12.jpg]
+
+File to: [build/img/HYPO TOILET CLEANER BOTTLES CITRUS 725 X 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hypo Toilet Cleaner Citrus Fragrance 450ML.jpg]
+
+File to: [build/img/Hypo Toilet Cleaner Citrus Fragrance 450ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hyprogel 30g.png]
+
+File to: [build/img/Hyprogel 30g.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HYPROMELLOSE EYE DROPS 0.3% 10ML (MARTINDALE).jpg]
+
+File to: [build/img/HYPROMELLOSE EYE DROPS 0.3% 10ML (MARTINDALE).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/I CANT BELIVE ITS NOT BUTTER 500G.jpg]
+
+File to: [build/img/I CANT BELIVE ITS NOT BUTTER 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

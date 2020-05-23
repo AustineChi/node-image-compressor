@@ -1,0 +1,49 @@
+File from: [src/img/Polystar3 BURNER TABLE GAS COOKER WITH STAINLESS STEEL TOP PV-8318GSilver.jpg]
+
+File to: [build/img/Polystar3 BURNER TABLE GAS COOKER WITH STAINLESS STEEL TOP PV-8318GSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Polystar3 BURNER TABLE GAS COOKERGREEN.jpg]
+
+File to: [build/img/Polystar3 BURNER TABLE GAS COOKERGREEN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Polystar3.5kg Mini Front Loading Washing Machine PV40-17WBPWhite.png]
+
+File to: [build/img/Polystar3.5kg Mini Front Loading Washing Machine PV40-17WBPWhite.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Polystar303L Quick Cooling Showcase Freezer Pv-csc303lcolour.jpg]
+
+File to: [build/img/Polystar303L Quick Cooling Showcase Freezer Pv-csc303lcolour.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Polystar32 Curved Smart TV (PV-JP32SDU1100BD)NA.jpg]
+
+File to: [build/img/Polystar32 Curved Smart TV (PV-JP32SDU1100BD)NA.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Polystar32 Inches Smart Curve Led TV -PV-JP32CV1100BDSILVER.jpg]
+
+File to: [build/img/Polystar32 Inches Smart Curve Led TV -PV-JP32CV1100BDSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Polystar32 Inches Smart Curve Led TV -PV-JP32SDU1100BDSILVER.jpg]
+
+File to: [build/img/Polystar32 Inches Smart Curve Led TV -PV-JP32SDU1100BDSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Polystar3 Burner Gas Cooker + 1 Hot Plate (Gas Hob) PV-NY3G1silver.jpg]
+
+File to: [build/img/Polystar3 Burner Gas Cooker + 1 Hot Plate (Gas Hob) PV-NY3G1silver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

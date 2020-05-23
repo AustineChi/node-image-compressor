@@ -1,0 +1,16 @@
+File from: [src/img/Phiima90cm Ductless Hoodsilver.jpg]
+
+File to: [build/img/Phiima90cm Ductless Hoodsilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg -quality 60 -outfile build/img/Phiima90cm Ductless Hoodsilver.jpg src/img/Phiima90cm Ductless Hoodsilver.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [src/img/Phiima90 Cm Island Digital Range HoodSilver.jpg]
+
+File to: [build/img/Phiima90 Cm Island Digital Range HoodSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg -quality 60 -outfile build/img/Phiima90 Cm Island Digital Range HoodSilver.jpg src/img/Phiima90 Cm Island Digital Range HoodSilver.jpg
+Unrecognized input file format --- perhaps you need -targa

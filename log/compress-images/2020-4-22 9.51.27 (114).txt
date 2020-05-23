@@ -1,0 +1,301 @@
+File from: [src/img/Lisciani Princess Superdesk Edugames.jpg]
+
+File to: [build/img/Lisciani Princess Superdesk Edugames.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lisciani Mickey Superdesk Edugames.jpg]
+
+File to: [build/img/Lisciani Mickey Superdesk Edugames.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LISINOPRIL 10MG TAB X 28 (TEVA).jpg]
+
+File to: [build/img/LISINOPRIL 10MG TAB X 28 (TEVA).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lisabi Foods Beans Flour 500g.jpg]
+
+File to: [build/img/Lisabi Foods Beans Flour 500g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LISINOPRIL 5MG TAB X 28 (TEVA).jpg]
+
+File to: [build/img/LISINOPRIL 5MG TAB X 28 (TEVA).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/listerine antibacterial mouth wash 500ml.jpg]
+
+File to: [build/img/listerine antibacterial mouth wash 500ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LISTERINE ANTISEPTIC 250 ML.jpg]
+
+File to: [build/img/LISTERINE ANTISEPTIC 250 ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LISTERINE ANTISEPTIC 500 ML.png]
+
+File to: [build/img/LISTERINE ANTISEPTIC 500 ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Listerine antiseptic citrus 1.sL.JPG]
+
+File to: [build/img/Listerine antiseptic citrus 1.sL.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Listerine Antiseptic Mouthwash 250ml.jpg]
+
+File to: [build/img/Listerine Antiseptic Mouthwash 250ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Listerine Antiseptic Mouthwash 500ml.jpg]
+
+File to: [build/img/Listerine Antiseptic Mouthwash 500ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LISTERINE COOL CITRUS 500 ML.jpg]
+
+File to: [build/img/LISTERINE COOL CITRUS 500 ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LISTERINE ANTISEPTIC MOUTHWASH.png]
+
+File to: [build/img/LISTERINE ANTISEPTIC MOUTHWASH.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/LISTERINE COOL MINT MOUTH WASH 1L.jpg]
+
+File to: [build/img/LISTERINE COOL MINT MOUTH WASH 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LISTERINE COOL MINT MOUTH WASH 500ML.jpg]
+
+File to: [build/img/LISTERINE COOL MINT MOUTH WASH 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LISTERINE COOL MINT MOUTH WASH 750ML.png]
+
+File to: [build/img/LISTERINE COOL MINT MOUTH WASH 750ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Listerine cool mint.jpg]
+
+File to: [build/img/Listerine cool mint.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LISTERINE COOLMINT 500 ML.png]
+
+File to: [build/img/LISTERINE COOLMINT 500 ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/LISTERINE FRESH BURST 250 ML.png]
+
+File to: [build/img/LISTERINE FRESH BURST 250 ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/LISTERINE FRESH BURST 500 ML.jpg]
+
+File to: [build/img/LISTERINE FRESH BURST 500 ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LISTERINE FRESHBURST MOUTHWASH 250ML.jpg]
+
+File to: [build/img/LISTERINE FRESHBURST MOUTHWASH 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Listerine Mou 1.5L.JPG]
+
+File to: [build/img/Listerine Mou 1.5L.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LISTERINE MOUTH WASH COOL MINT 250ML.jpg]
+
+File to: [build/img/LISTERINE MOUTH WASH COOL MINT 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LISTERINE MOUTH WASH COOL CITRUS 250ML.jpg]
+
+File to: [build/img/LISTERINE MOUTH WASH COOL CITRUS 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LISTERINE MOUTH WASH FRESH BURST 250ML.jpg]
+
+File to: [build/img/LISTERINE MOUTH WASH FRESH BURST 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LISTERINE MOUTH WASH TOTAL CARE 2S0ML.jpg]
+
+File to: [build/img/LISTERINE MOUTH WASH TOTAL CARE 2S0ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LISTERINE MOUTH WASH SPEARMINT 2S0ML.png]
+
+File to: [build/img/LISTERINE MOUTH WASH SPEARMINT 2S0ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/LISTERINE MOUTH WASH ORIGINAL 250ML.jpg]
+
+File to: [build/img/LISTERINE MOUTH WASH ORIGINAL 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LISTERINE MOUTH WASH TOTAL CARE 500ML.jpg]
+
+File to: [build/img/LISTERINE MOUTH WASH TOTAL CARE 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LISTERINE ORIGINAL MOUTH WASH 500ML.png]
+
+File to: [build/img/LISTERINE ORIGINAL MOUTH WASH 500ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/LISTERINE PASTE GEL ASSORTED TOOTH PASTE119G.jpg]
+
+File to: [build/img/LISTERINE PASTE GEL ASSORTED TOOTH PASTE119G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LIQUID IRON(DR MEYERS) 200ML.jpg]
+
+File to: [build/img/LIQUID IRON(DR MEYERS) 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Listerine Smart Rinse x500ml.jpg]
+
+File to: [build/img/Listerine Smart Rinse x500ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LISTERINE STAY WHITE MOUTH WASH 1L.png]
+
+File to: [build/img/LISTERINE STAY WHITE MOUTH WASH 1L.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/LISTERINE STAY WHITE MOUTH WASH 500ML.jpg]
+
+File to: [build/img/LISTERINE STAY WHITE MOUTH WASH 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Listerine smart rinse .jpeg]
+
+File to: [build/img/Listerine smart rinse .jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LISTERINE NATURALS ANTISEPTIC MOUTH WASH 500ML.jpeg]
+
+File to: [build/img/LISTERINE NATURALS ANTISEPTIC MOUTH WASH 500ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LISTERINE ORIGINAL MOUTH W250M.jpg]
+
+File to: [build/img/LISTERINE ORIGINAL MOUTH W250M.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Listerine stay white.jpeg]
+
+File to: [build/img/Listerine stay white.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LISTERINE TARTAR CONTROL MOUTHWASH.jpg]
+
+File to: [build/img/LISTERINE TARTAR CONTROL MOUTHWASH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LISTERINE TARTAR CTR 250 ML.jpg]
+
+File to: [build/img/LISTERINE TARTAR CTR 250 ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LISTERINE TEETH & GUM CTR 250 ML.jpg]
+
+File to: [build/img/LISTERINE TEETH & GUM CTR 250 ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LISTERINE TOOTH BRUSH X2.jpg]
+
+File to: [build/img/LISTERINE TOOTH BRUSH X2.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LISTERINE TEETH &GUM CTR 500 ML.png]
+
+File to: [build/img/LISTERINE TEETH &GUM CTR 500 ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/LISTERINE TOOTH BRUSH.jpg]
+
+File to: [build/img/LISTERINE TOOTH BRUSH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LISTERINE TOTAL CARE MILDER TASTE MOUTH WASH 500ML.jpg]
+
+File to: [build/img/LISTERINE TOTAL CARE MILDER TASTE MOUTH WASH 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LISTERINE TOTAL CARE MOUTHWASH 1L.png]
+
+File to: [build/img/LISTERINE TOTAL CARE MOUTHWASH 1L.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/LISTERINE TOTAL CARE SENSITIVE MOUTH WASH 500ML.png]
+
+File to: [build/img/LISTERINE TOTAL CARE SENSITIVE MOUTH WASH 500ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/LISTERINE WHITENING ORIGINAL TOOTH PASTE 119G.jpeg]
+
+File to: [build/img/LISTERINE WHITENING ORIGINAL TOOTH PASTE 119G.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LISTERINE WHITENING TOOTHPASTE 119G.jpg]
+
+File to: [build/img/LISTERINE WHITENING TOOTHPASTE 119G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

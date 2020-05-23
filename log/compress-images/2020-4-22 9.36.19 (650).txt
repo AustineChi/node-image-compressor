@@ -1,0 +1,217 @@
+File from: [src/img/CLOSEUP DEEP ACTION RED (GAGA) 60 X 140G.jpg]
+
+File to: [build/img/CLOSEUP DEEP ACTION RED (GAGA) 60 X 140G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Closeup Deep Action Toothpaste 140g.jpg]
+
+File to: [build/img/Closeup Deep Action Toothpaste 140g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLOSEUP EVERFRESH REDHOT 100 X 30G - CARTON.jpg]
+
+File to: [build/img/CLOSEUP EVERFRESH REDHOT 100 X 30G - CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLOSEUP DEEP CLEAN V Clean   4x 12 - CARTON.jpg]
+
+File to: [build/img/CLOSEUP DEEP CLEAN V Clean   4x 12 - CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLOSEUP HERBAL 5BENEFITS 140G.jpg]
+
+File to: [build/img/CLOSEUP HERBAL 5BENEFITS 140G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLOSEUP NAIJA HERBAL 160G.jpg]
+
+File to: [build/img/CLOSEUP NAIJA HERBAL 160G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLOSEUP SHINY WHITE  V WHITE  4 x 12 - CARTON.png]
+
+File to: [build/img/CLOSEUP SHINY WHITE  V WHITE  4 x 12 - CARTON.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Clotrimazole 1% Cream x 20g  Care+.jpg]
+
+File to: [build/img/Clotrimazole 1% Cream x 20g  Care+.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Co-codamol 30-500mg tabs x10 SATCHET.jpg]
+
+File to: [build/img/Co-codamol 30-500mg tabs x10 SATCHET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLOSEUP NAIJA HERBAL 50 X 140G.jpg]
+
+File to: [build/img/CLOSEUP NAIJA HERBAL 50 X 140G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CO-CODAMOL TABS 30 500TABS X 10.jpg]
+
+File to: [build/img/CO-CODAMOL TABS 30 500TABS X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CO-MICARDIS 40_12.5 X 28.jpg]
+
+File to: [build/img/CO-MICARDIS 40_12.5 X 28.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COARTEM 20 120 DISPERSIBLE X 18.jpg]
+
+File to: [build/img/COARTEM 20 120 DISPERSIBLE X 18.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CO-MICARDIS 80_12.5MG X 28.jpg]
+
+File to: [build/img/CO-MICARDIS 80_12.5MG X 28.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COARTEM 20 120 DISPERSIBLE X 6.jpg]
+
+File to: [build/img/COARTEM 20 120 DISPERSIBLE X 6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COARTEM 80 480MG X 6.jpg]
+
+File to: [build/img/COARTEM 80 480MG X 6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Coartem 80Mg-480Mg Tab -6.jpg]
+
+File to: [build/img/Coartem 80Mg-480Mg Tab -6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COAST REFILL 400G.jpg]
+
+File to: [build/img/COAST REFILL 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/coaster biscuit.jpeg]
+
+File to: [build/img/coaster biscuit.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COBIZCO BEW SLIM TEA.jpg]
+
+File to: [build/img/COBIZCO BEW SLIM TEA.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COBIZCO CLASSIC 2 N 1 TEA TEA.jpg]
+
+File to: [build/img/COBIZCO CLASSIC 2 N 1 TEA TEA.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/cobweb brush.jpeg]
+
+File to: [build/img/cobweb brush.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/coca cola 60cl.jpeg]
+
+File to: [build/img/coca cola 60cl.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COCA COLA CAN 33CL.jpg]
+
+File to: [build/img/COCA COLA CAN 33CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COCA COLA CAN 33CL.png]
+
+File to: [build/img/COCA COLA CAN 33CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/COCA COLA PET 60CL.jpg]
+
+File to: [build/img/COCA COLA PET 60CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/coca cola pet.jpeg]
+
+File to: [build/img/coca cola pet.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/coca cola range.jpeg]
+
+File to: [build/img/coca cola range.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COCA COLA ZERO PET 35 CL.png]
+
+File to: [build/img/COCA COLA ZERO PET 35 CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/COCA COLA ZERO PET 50CL.jpg]
+
+File to: [build/img/COCA COLA ZERO PET 50CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COARTEM 20 120 DISPERSIBLE X12.jpg]
+
+File to: [build/img/COARTEM 20 120 DISPERSIBLE X12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COCA- COLA PET 35CL.png]
+
+File to: [build/img/COCA- COLA PET 35CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/COCA-COLA ZERO 60CL.jpg]
+
+File to: [build/img/COCA-COLA ZERO 60CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/cocacola can.jpeg]
+
+File to: [build/img/cocacola can.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COBIZCO GOLD 3 N 1 TEA TEA.jpg]
+
+File to: [build/img/COBIZCO GOLD 3 N 1 TEA TEA.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Coca-Cola Can Drinks 33cl.jpg]
+
+File to: [build/img/Coca-Cola Can Drinks 33cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

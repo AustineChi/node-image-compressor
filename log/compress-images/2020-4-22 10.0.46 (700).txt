@@ -1,0 +1,55 @@
+File from: [src/img/NUTRI-C AMERICAN SWEET ORANGE 8.25.jpg]
+
+File to: [build/img/NUTRI-C AMERICAN SWEET ORANGE 8.25.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTRI-C SWEET ORANGE 12G.jpg]
+
+File to: [build/img/NUTRI-C SWEET ORANGE 12G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nutriben 8 cereals.jpg]
+
+File to: [build/img/Nutriben 8 cereals.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nutri-C Flavoured Drinks 12g x 48.png]
+
+File to: [build/img/Nutri-C Flavoured Drinks 12g x 48.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Nutriben Breakfast Cereal Milk 750g x 6.jpg]
+
+File to: [build/img/Nutriben Breakfast Cereal Milk 750g x 6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nutriben breakfast.jpg]
+
+File to: [build/img/Nutriben breakfast.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nutriben(6mths).jpg]
+
+File to: [build/img/Nutriben(6mths).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTRIBOM BANANA AND APPLE 350G.jpg]
+
+File to: [build/img/NUTRIBOM BANANA AND APPLE 350G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTRI-C Milk Tea 200g x 48.jpg]
+
+File to: [build/img/NUTRI-C Milk Tea 200g x 48.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

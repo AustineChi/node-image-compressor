@@ -1,0 +1,295 @@
+File from: [src/img/FUROSEMIDE 40MG X 28.jpg]
+
+File to: [build/img/FUROSEMIDE 40MG X 28.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Furoxetil (Cefuroxime) 500Mg Tab x10.jpg]
+
+File to: [build/img/Furoxetil (Cefuroxime) 500Mg Tab x10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FUROSEMIDE 20MG X 28.jpg]
+
+File to: [build/img/FUROSEMIDE 20MG X 28.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FYBOGEL HI FIBRE X 10 ORANGE.jpg]
+
+File to: [build/img/FYBOGEL HI FIBRE X 10 ORANGE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FUROXETIL SUSP  100ML.jpg]
+
+File to: [build/img/FUROXETIL SUSP  100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FYBOGEL HI-FIBRE LEMON SATCHET.jpg]
+
+File to: [build/img/FYBOGEL HI-FIBRE LEMON SATCHET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/G-Oral Satchet Plus Zinc Tabs .png]
+
+File to: [build/img/G-Oral Satchet Plus Zinc Tabs .png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/FYBOGEL ORANGE ISPAGHULA HUSK X1.jpg]
+
+File to: [build/img/FYBOGEL ORANGE ISPAGHULA HUSK X1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/G-STRING PANTS.jpg]
+
+File to: [build/img/G-STRING PANTS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/G-TRYP TABS  X 30.jpg]
+
+File to: [build/img/G-TRYP TABS  X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GABAPENTIN 300MG X 10.jpg]
+
+File to: [build/img/GABAPENTIN 300MG X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gala Sausage Roll 65g x 26.jpg]
+
+File to: [build/img/Gala Sausage Roll 65g x 26.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GADGAS LOTUS 45W E27.jpg]
+
+File to: [build/img/GADGAS LOTUS 45W E27.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GALAXY PLUS FLORAL 200ML.jpg]
+
+File to: [build/img/GALAXY PLUS FLORAL 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GALAXY PLUS G1 200ML.jpg]
+
+File to: [build/img/GALAXY PLUS G1 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GALAXY PLUS FLORAL ROCOCO 200ML.jpg]
+
+File to: [build/img/GALAXY PLUS FLORAL ROCOCO 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/funtuna-egg-pack-of-12.jpg]
+
+File to: [build/img/funtuna-egg-pack-of-12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GALAXY PLUS G1 PERFUME 100ML.jpg]
+
+File to: [build/img/GALAXY PLUS G1 PERFUME 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/funtuna-egg-pack-of-12(1).jpg]
+
+File to: [build/img/funtuna-egg-pack-of-12(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GALAXY PLUS G4 200ML.jpeg]
+
+File to: [build/img/GALAXY PLUS G4 200ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GALAXY PLUS G5 200ML.jpeg]
+
+File to: [build/img/GALAXY PLUS G5 200ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GALAXY PLUS G6 200ML.jpg]
+
+File to: [build/img/GALAXY PLUS G6 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GALAXY S 111 PERFUME 100ML.jpg]
+
+File to: [build/img/GALAXY S 111 PERFUME 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Galcipro TN (Cipro+Tinidazole) caps x10.jpg]
+
+File to: [build/img/Galcipro TN (Cipro+Tinidazole) caps x10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/galcipro.jpeg]
+
+File to: [build/img/galcipro.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GALVUS 50MG X 28.jpg]
+
+File to: [build/img/GALVUS 50MG X 28.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GALVUS MET 50 1000 X 10.jpg]
+
+File to: [build/img/GALVUS MET 50 1000 X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GALVUS MET 50 500 X 10.jpg]
+
+File to: [build/img/GALVUS MET 50 500 X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gardia Mosquito Repellent Cream 8g.jpg]
+
+File to: [build/img/Gardia Mosquito Repellent Cream 8g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Garri pack.jpg]
+
+File to: [build/img/Garri pack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gas refill 12.5kg.jpg]
+
+File to: [build/img/Gas refill 12.5kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/garri.jpeg]
+
+File to: [build/img/garri.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gas refill 50kg.jpg]
+
+File to: [build/img/Gas refill 50kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gas-X Extra Strength Softgelsx10.jpg]
+
+File to: [build/img/Gas-X Extra Strength Softgelsx10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GAS-X EXTRA STRENGTH X 10 SOFT GELS.jpg]
+
+File to: [build/img/GAS-X EXTRA STRENGTH X 10 SOFT GELS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GASCOL SUSPENSION MENTHOL 150ML.jpg]
+
+File to: [build/img/GASCOL SUSPENSION MENTHOL 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gauze Bandage Large (15cm x 4.5m)x1piece.jpg]
+
+File to: [build/img/Gauze Bandage Large (15cm x 4.5m)x1piece.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GAVISCON DOUBLE ACTION 200ML.jpg]
+
+File to: [build/img/GAVISCON DOUBLE ACTION 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gauze Bandage Medium (10cm x 4.5m)x1piec.jpg]
+
+File to: [build/img/Gauze Bandage Medium (10cm x 4.5m)x1piec.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GAVISCON DOUBLE ACTION TABLETS X 12.jpg]
+
+File to: [build/img/GAVISCON DOUBLE ACTION TABLETS X 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GAVISCON DOUBLE ACTION TABS X 24.png]
+
+File to: [build/img/GAVISCON DOUBLE ACTION TABS X 24.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GAVISCON LIQUID SATCHETS 10ML X 1.jpg]
+
+File to: [build/img/GAVISCON LIQUID SATCHETS 10ML X 1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GAVISCON PEPPERMINT 200ML.jpg]
+
+File to: [build/img/GAVISCON PEPPERMINT 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Geisha Sardines in Veg. Oil 125g(1).jpg]
+
+File to: [build/img/Geisha Sardines in Veg. Oil 125g(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GEISHA.jpeg]
+
+File to: [build/img/GEISHA.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GEKO FRENCH FRIES 1KG.png]
+
+File to: [build/img/GEKO FRENCH FRIES 1KG.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GEKO FRENCH FRIES 2.5KG.png]
+
+File to: [build/img/GEKO FRENCH FRIES 2.5KG.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Geisha Sardines in Veg. Oil 125g.jpg]
+
+File to: [build/img/Geisha Sardines in Veg. Oil 125g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gas refill 25kg.jpg]
+
+File to: [build/img/Gas refill 25kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

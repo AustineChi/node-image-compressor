@@ -1,0 +1,169 @@
+File from: [src/img/TROPHY 330ML CAN.jpg]
+
+File to: [build/img/TROPHY 330ML CAN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TROPHY 500ML CAN.jpg]
+
+File to: [build/img/TROPHY 500ML CAN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TROPHY 600ML BOTTLE.jpg]
+
+File to: [build/img/TROPHY 600ML BOTTLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TROPHY CRATE.jpg]
+
+File to: [build/img/TROPHY CRATE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Trophy Premium Lager Can 500ml x 24.jpg]
+
+File to: [build/img/Trophy Premium Lager Can 500ml x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Trophy Premuim Lager Beer 60ml x 12.jpg]
+
+File to: [build/img/Trophy Premuim Lager Beer 60ml x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TROPICAL SHEA BUTTER DRY& NATURAL 125G.jpg]
+
+File to: [build/img/TROPICAL SHEA BUTTER DRY& NATURAL 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TRIDENT WATERMELON TWIST 14s.jpg]
+
+File to: [build/img/TRIDENT WATERMELON TWIST 14s.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TROPICAL SUN CINNAMON STICKS 30G.jpg]
+
+File to: [build/img/TROPICAL SUN CINNAMON STICKS 30G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TROPICAL SUN GROUND MIXED SPICE 80G.jpg]
+
+File to: [build/img/TROPICAL SUN GROUND MIXED SPICE 80G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TROPICAL SUN ONION POWDER 100G.jpg]
+
+File to: [build/img/TROPICAL SUN ONION POWDER 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Tropicana Slim Diet Sticks Brown75gx24.jpg]
+
+File to: [build/img/Tropicana Slim Diet Sticks Brown75gx24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Tropicana Slim Diet Sticks Zero 50gx24.jpg]
+
+File to: [build/img/Tropicana Slim Diet Sticks Zero 50gx24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TROPICLEAN AWAPUHI & COCONUT PET SHAPMOO 355ML.jpg]
+
+File to: [build/img/TROPICLEAN AWAPUHI & COCONUT PET SHAPMOO 355ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TROPICLEAN KIWI & COCOA BUTTER PET CONDITIONAL 355ML.jpg]
+
+File to: [build/img/TROPICLEAN KIWI & COCOA BUTTER PET CONDITIONAL 355ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TROPICLEAN LIME & COCONUT PET SHAMPOO 355ML.jpg]
+
+File to: [build/img/TROPICLEAN LIME & COCONUT PET SHAMPOO 355ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TROPICLEAN PAPAYA & COCONUT PET SHAMPOO 355ML.jpg]
+
+File to: [build/img/TROPICLEAN PAPAYA & COCONUT PET SHAMPOO 355ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TRS 100_ Pure Coconut Oil 250ml x 24.jpg]
+
+File to: [build/img/TRS 100_ Pure Coconut Oil 250ml x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TRS BLACK WHOLE PEPPER 100G.jpg]
+
+File to: [build/img/TRS BLACK WHOLE PEPPER 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TRS CINNAMON POWDER 100G.jpg]
+
+File to: [build/img/TRS CINNAMON POWDER 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TRS BROWN CHICK PEAS 500G.jpg]
+
+File to: [build/img/TRS BROWN CHICK PEAS 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TRS GARLIC POWDER 100G.jpg]
+
+File to: [build/img/TRS GARLIC POWDER 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TRS GINGER POWDER 100G.jpg]
+
+File to: [build/img/TRS GINGER POWDER 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TRS PLUM PEELED TOMATOES 400g x 24.jpg]
+
+File to: [build/img/TRS PLUM PEELED TOMATOES 400g x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TRS PLUM PEELED TOMATOES 400G.png]
+
+File to: [build/img/TRS PLUM PEELED TOMATOES 400G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/TRS RICE BASMATI 500G.jpg]
+
+File to: [build/img/TRS RICE BASMATI 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TRUE LOVE PERFUME 100ML.jpg]
+
+File to: [build/img/TRUE LOVE PERFUME 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TUC Break OriginalOlive 250g.jpg]
+
+File to: [build/img/TUC Break OriginalOlive 250g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

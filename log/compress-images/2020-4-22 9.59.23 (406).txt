@@ -1,0 +1,157 @@
+File from: [src/img/GOOD MAMA LEMON 1KG.jpg]
+
+File to: [build/img/GOOD MAMA LEMON 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOOD MORNING CORN FLAKES 450G.jpg]
+
+File to: [build/img/GOOD MORNING CORN FLAKES 450G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Good morning corn flakes.jpg]
+
+File to: [build/img/Good morning corn flakes.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Good morning corn flakes(1).jpg]
+
+File to: [build/img/Good morning corn flakes(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Good Morning Corn Flakes325gx10.jpg]
+
+File to: [build/img/Good Morning Corn Flakes325gx10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Good Morning Cornflakes 450Gm(Box).jpeg]
+
+File to: [build/img/Good Morning Cornflakes 450Gm(Box).jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOOD MORNING CORNFLAKES 500G.jpg]
+
+File to: [build/img/GOOD MORNING CORNFLAKES 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Good Morning Oats 500Gm (Box).jpg]
+
+File to: [build/img/Good Morning Oats 500Gm (Box).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Good Morning White Oats 500g.jpg]
+
+File to: [build/img/Good Morning White Oats 500g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Good Morning White Oats 500g(1).jpg]
+
+File to: [build/img/Good Morning White Oats 500g(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GORDONS 75CL.jpg]
+
+File to: [build/img/GORDONS 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GORDONS DRY GIN 20CLX48.jpg]
+
+File to: [build/img/GORDONS DRY GIN 20CLX48.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GORDONS DRY GIN 70CLX12.jpg]
+
+File to: [build/img/GORDONS DRY GIN 70CLX12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GORDONS MORINGA CITRUS BLEND 750ML.jpg]
+
+File to: [build/img/GORDONS MORINGA CITRUS BLEND 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Govmic Surgical Face Mask x 50.jpg]
+
+File to: [build/img/Govmic Surgical Face Mask x 50.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOYA ADOBO SEASONING WITH PEPPER 226G.jpg]
+
+File to: [build/img/GOYA ADOBO SEASONING WITH PEPPER 226G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOYA CHICK PEAS GARBANZOS 439G.jpg]
+
+File to: [build/img/GOYA CHICK PEAS GARBANZOS 439G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOYA ADOBO SEASONING WITH PEPPER 793G.jpg]
+
+File to: [build/img/GOYA ADOBO SEASONING WITH PEPPER 793G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOYA CHOCOLATE MARIA COOKIES 200G.jpg]
+
+File to: [build/img/GOYA CHOCOLATE MARIA COOKIES 200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOYA OLIVE OIL   88.7ML.jpg]
+
+File to: [build/img/GOYA OLIVE OIL   88.7ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOYA OLIVE OIL 1LTR.jpg]
+
+File to: [build/img/GOYA OLIVE OIL 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOYA OLIVE OIL 500ML.jpg]
+
+File to: [build/img/GOYA OLIVE OIL 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOYA OLIVE OIL 250ML.jpg]
+
+File to: [build/img/GOYA OLIVE OIL 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOYA OLIVE OIL 89ML.jpg]
+
+File to: [build/img/GOYA OLIVE OIL 89ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Boutique Body Mist- White Nectarine & Pear - 250ml.jpg]
+
+File to: [build/img/Grace Cole Boutique Body Mist- White Nectarine & Pear - 250ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRACE COLE BOUTIQUE PROSECCO & CASSIS 2S 500ML.jpg]
+
+File to: [build/img/GRACE COLE BOUTIQUE PROSECCO & CASSIS 2S 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

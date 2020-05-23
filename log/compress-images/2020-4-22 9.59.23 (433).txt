@@ -1,0 +1,103 @@
+File from: [src/img/JERGENS ULTRA HEALING 295ML.jpg]
+
+File to: [build/img/JERGENS ULTRA HEALING 295ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JiepakJP-C1 Powerful 3.1 Channel Bluetooth Home Theatre SystemBlack.jpg]
+
+File to: [build/img/JiepakJP-C1 Powerful 3.1 Channel Bluetooth Home Theatre SystemBlack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JIF CREAMY PEANUT BUTTER 454G.jpeg]
+
+File to: [build/img/JIF CREAMY PEANUT BUTTER 454G.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JIF CREAMY PEANUT BUTTER 454G.jpg]
+
+File to: [build/img/JIF CREAMY PEANUT BUTTER 454G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JIF EXTRA CRUNCHY PEANUT BUTTER 454G.jpg]
+
+File to: [build/img/JIF EXTRA CRUNCHY PEANUT BUTTER 454G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JIK 1.4L.jpg]
+
+File to: [build/img/JIK 1.4L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JIK NGEU 500ML.png]
+
+File to: [build/img/JIK NGEU 500ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/JIM BEAM DEVIL,S CUT.jpg]
+
+File to: [build/img/JIM BEAM DEVIL,S CUT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JIM BEAM DOUBLE OAK 70CL.jpg]
+
+File to: [build/img/JIM BEAM DOUBLE OAK 70CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JIM BEAM HONEY 70CL.jpg]
+
+File to: [build/img/JIM BEAM HONEY 70CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JIM BEAM RED STAG LIQUEUR 70CL.jpg]
+
+File to: [build/img/JIM BEAM RED STAG LIQUEUR 70CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JL-A4 GLITTER HARDBACK BOOK.jpg]
+
+File to: [build/img/JL-A4 GLITTER HARDBACK BOOK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JL-A4 HARD BACK NOTE-FLORAL.jpg]
+
+File to: [build/img/JL-A4 HARD BACK NOTE-FLORAL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JL-A4 HARDBACK NOTE ANIMALS.jpg]
+
+File to: [build/img/JL-A4 HARDBACK NOTE ANIMALS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JL-A4 LEATHERETTE NOTE-3 COLOR.jpg]
+
+File to: [build/img/JL-A4 LEATHERETTE NOTE-3 COLOR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JL-A4 PROJECT NOTE-250 PGS.jpg]
+
+File to: [build/img/JL-A4 PROJECT NOTE-250 PGS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JL-A4 RULED NOTE-3 COLOR HC.jpg]
+
+File to: [build/img/JL-A4 RULED NOTE-3 COLOR HC.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

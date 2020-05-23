@@ -1,0 +1,259 @@
+File from: [src/img/LACTEL CHOCOLATE MILK 180ML.jpg]
+
+File to: [build/img/LACTEL CHOCOLATE MILK 180ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LACTEL STRAWBERRY MILK 180ML.jpg]
+
+File to: [build/img/LACTEL STRAWBERRY MILK 180ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LACTEL SKIMMED MILK 1L.png]
+
+File to: [build/img/LACTEL SKIMMED MILK 1L.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/LACTEL SEMI-SKIMMED MILK 1L.png]
+
+File to: [build/img/LACTEL SEMI-SKIMMED MILK 1L.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/LACTEL UHT MILK FULL CREAM.jpg]
+
+File to: [build/img/LACTEL UHT MILK FULL CREAM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LACTEL WHOLE MILK 1L.jpg]
+
+File to: [build/img/LACTEL WHOLE MILK 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LACTOGEN 1 LR NWB034 TIN 400G.jpg]
+
+File to: [build/img/LACTOGEN 1 LR NWB034 TIN 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LACTULOSE 3.3G. 5ML 300ML.jpg]
+
+File to: [build/img/LACTULOSE 3.3G. 5ML 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LACTULOSE SOLUTION 300ML TEVA.jpg]
+
+File to: [build/img/LACTULOSE SOLUTION 300ML TEVA.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LADIES SHAVING GEL 150ML.jpg]
+
+File to: [build/img/LADIES SHAVING GEL 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lady B Custard Powder Corn Starch 2Kgx4.jpg]
+
+File to: [build/img/Lady B Custard Powder Corn Starch 2Kgx4.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lady B Custard Powder Corn Starch 500g.jpg]
+
+File to: [build/img/Lady B Custard Powder Corn Starch 500g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LADY SPEED STICK INVISIBLE DRY 39.6G.jpg]
+
+File to: [build/img/LADY SPEED STICK INVISIBLE DRY 39.6G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LADYSEPT PAD.jpg]
+
+File to: [build/img/LADYSEPT PAD.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LADYSEPT X 10.jpg]
+
+File to: [build/img/LADYSEPT X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LAILA GOLDEN SELLA BASMATI RICE 5KG.jpg]
+
+File to: [build/img/LAILA GOLDEN SELLA BASMATI RICE 5KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LAMAX HONEY 1 L.jpg]
+
+File to: [build/img/LAMAX HONEY 1 L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LAMAX PURE HONEY 1L.jpg]
+
+File to: [build/img/LAMAX PURE HONEY 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LAMAX PURE HONEY 250ML.jpg]
+
+File to: [build/img/LAMAX PURE HONEY 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LAMAX PURE HONEY 500ML.jpg]
+
+File to: [build/img/LAMAX PURE HONEY 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lamb bone.jpg]
+
+File to: [build/img/Lamb bone.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lamb Chop.jpg]
+
+File to: [build/img/Lamb Chop.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lamb chops.jpg]
+
+File to: [build/img/Lamb chops.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lamb knuckle.jpg]
+
+File to: [build/img/Lamb knuckle.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lamb liver.jpg]
+
+File to: [build/img/Lamb liver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lamb Leg.jpg]
+
+File to: [build/img/Lamb Leg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lamb ribs.jpg]
+
+File to: [build/img/Lamb ribs.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lamb shoulder.jpg]
+
+File to: [build/img/Lamb shoulder.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lamb trimming.jpg]
+
+File to: [build/img/Lamb trimming.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lamb stewing.jpg]
+
+File to: [build/img/Lamb stewing.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lamb Weston Pommes Frites 2500g.jpg]
+
+File to: [build/img/Lamb Weston Pommes Frites 2500g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lamb whole leg.jpg]
+
+File to: [build/img/Lamb whole leg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LAMIS FACIAL TISSUE 120 SHEET.jpg]
+
+File to: [build/img/LAMIS FACIAL TISSUE 120 SHEET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LAMBWESTON POUNDO POTATO 1KG .JPG]
+
+File to: [build/img/LAMBWESTON POUNDO POTATO 1KG .JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LAMIS SUGAR REFILL (1KG).jpg]
+
+File to: [build/img/LAMIS SUGAR REFILL (1KG).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LAMISIL AT AQUA SPRAY X 15ML.jpg]
+
+File to: [build/img/LAMISIL AT AQUA SPRAY X 15ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LANSOPRAZOLE 30MG CAPS X 28.jpg]
+
+File to: [build/img/LANSOPRAZOLE 30MG CAPS X 28.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LANTUS SOLOSTAR 300IU X 3ML.jpg]
+
+File to: [build/img/LANTUS SOLOSTAR 300IU X 3ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/lappy.jpeg]
+
+File to: [build/img/lappy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LARGE DEHUMIDIFIER & REFIL.jpg]
+
+File to: [build/img/LARGE DEHUMIDIFIER & REFIL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LASENA ARTESIAN NATURAL MINERAL WATER 50CL.png]
+
+File to: [build/img/LASENA ARTESIAN NATURAL MINERAL WATER 50CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/LASENA ARTESIAN NATURAL MINERAL WATER 75CL.png]
+
+File to: [build/img/LASENA ARTESIAN NATURAL MINERAL WATER 75CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/LASER BAKED BEANS 420G.jpg]
+
+File to: [build/img/LASER BAKED BEANS 420G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

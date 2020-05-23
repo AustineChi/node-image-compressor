@@ -1,0 +1,625 @@
+File from: [src/img/Hisense7.2kg Washing Machine Twin Tub (WM WSJA751)White.jpg]
+
+File to: [build/img/Hisense7.2kg Washing Machine Twin Tub (WM WSJA751)White.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hisense8kg Top Loader Washing Machine WTS802White.jpg]
+
+File to: [build/img/Hisense8kg Top Loader Washing Machine WTS802White.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HisenseBottom Mounted Double Door Refrigerator -REF 29 DCASilver.jpg]
+
+File to: [build/img/HisenseBottom Mounted Double Door Refrigerator -REF 29 DCASilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HisenseChest Freezer 205L - FRZFC260SH - SilverSILVER.jpg]
+
+File to: [build/img/HisenseChest Freezer 205L - FRZFC260SH - SilverSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hisense8kg Top Loader Automatic Washing Machine WM WTCT 802white.jpg]
+
+File to: [build/img/Hisense8kg Top Loader Automatic Washing Machine WM WTCT 802white.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hisense75'' 4K ULED SMART TV WiFi LAN  +FREE WALL BRACKET-75M6020Black.jpg]
+
+File to: [build/img/Hisense75'' 4K ULED SMART TV WiFi LAN  +FREE WALL BRACKET-75M6020Black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HisenseChest Freezer FRZ FC 130SH - 100 Liters-SilverSilver.jpg]
+
+File to: [build/img/HisenseChest Freezer FRZ FC 130SH - 100 Liters-SilverSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HisenseChest Freezer FRZ FC 340SH - 250 Liters-SilverSilver.jpg]
+
+File to: [build/img/HisenseChest Freezer FRZ FC 340SH - 250 Liters-SilverSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hisense8KG Automatic Front Load Washing Machine-WM8012SSilver.jpg]
+
+File to: [build/img/Hisense8KG Automatic Front Load Washing Machine-WM8012SSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HisenseChest Freezer FRZ FC 190SH - 145 Liters-SilverSilver.jpg]
+
+File to: [build/img/HisenseChest Freezer FRZ FC 190SH - 145 Liters-SilverSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HisenseDouble Door Chest Freezer FRZ FC 94DD - 725Liters-SilverSILVER.jpg]
+
+File to: [build/img/HisenseDouble Door Chest Freezer FRZ FC 94DD - 725Liters-SilverSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HisenseHISENSE 91L Refrigerator REF 092white.jpg]
+
+File to: [build/img/HisenseHISENSE 91L Refrigerator REF 092white.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HisenseHISENSE UHD Smart TV 50 50b7100Black.jpg]
+
+File to: [build/img/HisenseHISENSE UHD Smart TV 50 50b7100Black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HisenseREF 65 WR 490 Liters Double Door Refrigerator.jpg]
+
+File to: [build/img/HisenseREF 65 WR 490 Liters Double Door Refrigerator.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HisenseREF 046 DR Refrigerator - 46Lsilver.jpg]
+
+File to: [build/img/HisenseREF 046 DR Refrigerator - 46Lsilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HisenseREF 046 DR Refrigerator -Silver- 46L.jpg]
+
+File to: [build/img/HisenseREF 046 DR Refrigerator -Silver- 46L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HisenseREF RS20S 150L RefrigeratorSilver.png]
+
+File to: [build/img/HisenseREF RS20S 150L RefrigeratorSilver.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HisenseREF RS20S 150L RefrigeratorSilver.jpg]
+
+File to: [build/img/HisenseREF RS20S 150L RefrigeratorSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HisenseRefrigerator Ref 302 Dr - 302L.jpg]
+
+File to: [build/img/HisenseRefrigerator Ref 302 Dr - 302L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HisenseSide By Side Refrigerator With Water Dispenser -REF67WSBMSilver.jpg]
+
+File to: [build/img/HisenseSide By Side Refrigerator With Water Dispenser -REF67WSBMSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HIT THE SPOT (NUAGE BLACKHEAD CLEANSER) 200ML.jpg]
+
+File to: [build/img/HIT THE SPOT (NUAGE BLACKHEAD CLEANSER) 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOB-NOB SHIRAYX 75CL.png]
+
+File to: [build/img/HOB-NOB SHIRAYX 75CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HOB-NOB MERLOT 75CL.png]
+
+File to: [build/img/HOB-NOB MERLOT 75CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Hollandia Choco Drink 100ml.jpg]
+
+File to: [build/img/Hollandia Choco Drink 100ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hollandia Choco Malt 180ml.png]
+
+File to: [build/img/Hollandia Choco Malt 180ml.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HOLLANDIA CHOCO MALT DRINK 100ML.png]
+
+File to: [build/img/HOLLANDIA CHOCO MALT DRINK 100ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HOLLANDIA CHOCOMALT CHOCOLATE 100ML.jpg]
+
+File to: [build/img/HOLLANDIA CHOCOMALT CHOCOLATE 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA CHOCOMALT CHOCOLATE 180ML.jpg]
+
+File to: [build/img/HOLLANDIA CHOCOMALT CHOCOLATE 180ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA CHOCOMALT CHOCOLATE 315ML.jpg]
+
+File to: [build/img/HOLLANDIA CHOCOMALT CHOCOLATE 315ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hollandia Evap. Full Cream Milk 120g.jpg]
+
+File to: [build/img/Hollandia Evap. Full Cream Milk 120g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hollandia Evap. Full Cream Milk 190g.png]
+
+File to: [build/img/Hollandia Evap. Full Cream Milk 190g.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Hollandia Evap. Full Cream Milk 65g.jpg]
+
+File to: [build/img/Hollandia Evap. Full Cream Milk 65g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA EVAPORATED MILK 190G.jpg]
+
+File to: [build/img/HOLLANDIA EVAPORATED MILK 190G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA EVAPORATED MILK 120G.jpg]
+
+File to: [build/img/HOLLANDIA EVAPORATED MILK 120G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA EVAPORATED MILK 215G.jpg]
+
+File to: [build/img/HOLLANDIA EVAPORATED MILK 215G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hollandia Lactose Free Milk 1ltr.png]
+
+File to: [build/img/Hollandia Lactose Free Milk 1ltr.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HOLLANDIA EVAPORATED MILK 60G.jpg]
+
+File to: [build/img/HOLLANDIA EVAPORATED MILK 60G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hollandia Long Life Milk UHT 1Ltr.jpg]
+
+File to: [build/img/Hollandia Long Life Milk UHT 1Ltr.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA PLAIN SWEETENED500ML.jpg]
+
+File to: [build/img/HOLLANDIA PLAIN SWEETENED500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA POWDERED GOLD MILK.jpg]
+
+File to: [build/img/HOLLANDIA POWDERED GOLD MILK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hollandia Ready To Eat Custard 100ml.jpg]
+
+File to: [build/img/Hollandia Ready To Eat Custard 100ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hollandia Soya Choco Milk 315.jpg]
+
+File to: [build/img/Hollandia Soya Choco Milk 315.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hollandia Soya Milk 100ml.jpg]
+
+File to: [build/img/Hollandia Soya Milk 100ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA SOYA MILK 315ML.jpg]
+
+File to: [build/img/HOLLANDIA SOYA MILK 315ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA SOYA MILK PLAIN 100ML.jpg]
+
+File to: [build/img/HOLLANDIA SOYA MILK PLAIN 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hollandia Soya Milk Drink 1ltr.jpg]
+
+File to: [build/img/Hollandia Soya Milk Drink 1ltr.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA SOYA MILK PLAIN 1LTR.jpg]
+
+File to: [build/img/HOLLANDIA SOYA MILK PLAIN 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA UHT MILK LOW FAT 1LTR.jpg]
+
+File to: [build/img/HOLLANDIA UHT MILK LOW FAT 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA SOYA MILK PLAIN 315ML.jpg]
+
+File to: [build/img/HOLLANDIA SOYA MILK PLAIN 315ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hisense8kg Top Loader Automatic Washing Machine WM WTCT 802.jpg]
+
+File to: [build/img/Hisense8kg Top Loader Automatic Washing Machine WM WTCT 802.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA UHT MILK FULL CREAM 1LTR.jpg]
+
+File to: [build/img/HOLLANDIA UHT MILK FULL CREAM 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hollandia Yoghurt Drink 100ml.jpg]
+
+File to: [build/img/Hollandia Yoghurt Drink 100ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hollandia Yoghurt Drink 315ml.png]
+
+File to: [build/img/Hollandia Yoghurt Drink 315ml.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HOLLANDIA YOGHURT DRINK PLAIN SWEETENED 100ML.jpg]
+
+File to: [build/img/HOLLANDIA YOGHURT DRINK PLAIN SWEETENED 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA YOGHURT DRINK PURE n PLAIN 100ML.jpg]
+
+File to: [build/img/HOLLANDIA YOGHURT DRINK PURE n PLAIN 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA YOGHURT DRINK STRAWBERRY SWEETENED 100ML.jpg]
+
+File to: [build/img/HOLLANDIA YOGHURT DRINK STRAWBERRY SWEETENED 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hollandia Yoghurt Drinks 200ml.jpg]
+
+File to: [build/img/Hollandia Yoghurt Drinks 200ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hollandia Yoghurt Drinks 500ml.jpg]
+
+File to: [build/img/Hollandia Yoghurt Drinks 500ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA YOGHURT PINAPPLE COCONUT 180ML.jpg]
+
+File to: [build/img/HOLLANDIA YOGHURT PINAPPLE COCONUT 180ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA YOGHURT PINAPPLE COCONUT 500ML.jpg]
+
+File to: [build/img/HOLLANDIA YOGHURT PINAPPLE COCONUT 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA YOGHURT PLAIN SWEETENED 100ML.jpg]
+
+File to: [build/img/HOLLANDIA YOGHURT PLAIN SWEETENED 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA YOGHURT PINEAPPLE COCONUT 1LTR.jpg]
+
+File to: [build/img/HOLLANDIA YOGHURT PINEAPPLE COCONUT 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA YOGHURT PLAIN SWEETENED 180ML.png]
+
+File to: [build/img/HOLLANDIA YOGHURT PLAIN SWEETENED 180ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HOLLANDIA YOGHURT PLAIN SWEETENED 1LTR.jpg]
+
+File to: [build/img/HOLLANDIA YOGHURT PLAIN SWEETENED 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA YOGHURT PLAIN SWEETENED 315ML.jpg]
+
+File to: [build/img/HOLLANDIA YOGHURT PLAIN SWEETENED 315ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA YOGHURT PLAIN SWEETENED 500ML.jpg]
+
+File to: [build/img/HOLLANDIA YOGHURT PLAIN SWEETENED 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA YOGHURT PURE N PLAIN500ML.jpg]
+
+File to: [build/img/HOLLANDIA YOGHURT PURE N PLAIN500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA YOGHURT PURE N PLAIN 315ML.jpg]
+
+File to: [build/img/HOLLANDIA YOGHURT PURE N PLAIN 315ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA YOGHURT STRAWBERRY 100ML.jpg]
+
+File to: [build/img/HOLLANDIA YOGHURT STRAWBERRY 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA YOGHURT STRAWBERRY 1LTR.jpg]
+
+File to: [build/img/HOLLANDIA YOGHURT STRAWBERRY 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA YOGHURT STRAWBERRY 180ML.jpg]
+
+File to: [build/img/HOLLANDIA YOGHURT STRAWBERRY 180ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA YOGHURT STRAWBERRY 315ML.jpg]
+
+File to: [build/img/HOLLANDIA YOGHURT STRAWBERRY 315ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA YOGHURT STRAWBERRY 500ML.jpg]
+
+File to: [build/img/HOLLANDIA YOGHURT STRAWBERRY 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA YOGURT P-COCO 180ML.jpg]
+
+File to: [build/img/HOLLANDIA YOGURT P-COCO 180ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLYWOOD BODY SPRAY 236ML.jpg]
+
+File to: [build/img/HOLLYWOOD BODY SPRAY 236ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLOKLERIA POTAVITA 1KG.jpg]
+
+File to: [build/img/HOLOKLERIA POTAVITA 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOME SHINY MULTIPURPOSE CLOTH.jpg]
+
+File to: [build/img/HOME SHINY MULTIPURPOSE CLOTH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOME SMART 100 WRAPPED STRAWS.jpg]
+
+File to: [build/img/HOME SMART 100 WRAPPED STRAWS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Homeflower20Litres Microwave Oven HF-2078-LMXWhite.jpg]
+
+File to: [build/img/Homeflower20Litres Microwave Oven HF-2078-LMXWhite.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HomeflowerPowerful Bluetooth High Power Sound System (African Drum)black.jpg]
+
+File to: [build/img/HomeflowerPowerful Bluetooth High Power Sound System (African Drum)black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HomeflowerSteam Iron STM-20multicolour.jpg]
+
+File to: [build/img/HomeflowerSteam Iron STM-20multicolour.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Homi Mixed Vegetable 1000g.jpg]
+
+File to: [build/img/Homi Mixed Vegetable 1000g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Honey Tree Pure Honey 440g.jpg]
+
+File to: [build/img/Honey Tree Pure Honey 440g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HONEST SHAMPOO + BODY WAH 500ML.jpg]
+
+File to: [build/img/HONEST SHAMPOO + BODY WAH 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Honey Tree Pure Honey 500g.jpg]
+
+File to: [build/img/Honey Tree Pure Honey 500g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HONEY WELL MACARONI.jpg]
+
+File to: [build/img/HONEY WELL MACARONI.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HONEY WELL SEMOLINA 1KG.jpg]
+
+File to: [build/img/HONEY WELL SEMOLINA 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HONEY WELL NOODLES 70G -1.jpg]
+
+File to: [build/img/HONEY WELL NOODLES 70G -1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HONEY WELL NOODLES 70G-2.jpg]
+
+File to: [build/img/HONEY WELL NOODLES 70G-2.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HONEY WELL SEMOLINA 2KG.jpg]
+
+File to: [build/img/HONEY WELL SEMOLINA 2KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HONEY WELL WHEAT MEAL 2KG.jpg]
+
+File to: [build/img/HONEY WELL WHEAT MEAL 2KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HONEY WELL WHEAT MEAL 1KG.jpg]
+
+File to: [build/img/HONEY WELL WHEAT MEAL 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HONEYWELL CHICKEN FLAVOUR 70G.jpg]
+
+File to: [build/img/HONEYWELL CHICKEN FLAVOUR 70G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HONEYWELL MACARONI 500G.jpg]
+
+File to: [build/img/HONEYWELL MACARONI 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HONEYWELL NOODLE 120G.jpg]
+
+File to: [build/img/HONEYWELL NOODLE 120G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HONEYWELL NOODLES 70G.jpg]
+
+File to: [build/img/HONEYWELL NOODLES 70G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Honeywell Ramadan Greetings Pack.jpg]
+
+File to: [build/img/Honeywell Ramadan Greetings Pack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HONEYWELL SEMOLINA 1KG.jpg]
+
+File to: [build/img/HONEYWELL SEMOLINA 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HONEYWELL SEMOLINA 2KG.jpg]
+
+File to: [build/img/HONEYWELL SEMOLINA 2KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Honeywell Semolina Flour 10Kg.jpg]
+
+File to: [build/img/Honeywell Semolina Flour 10Kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Honeywell Semolina Flour 1kg.jpg]
+
+File to: [build/img/Honeywell Semolina Flour 1kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Honeywell Semolina Flour 5Kg.jpg]
+
+File to: [build/img/Honeywell Semolina Flour 5Kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Honeywell Semolina Flour 2Kg x 5.jpg]
+
+File to: [build/img/Honeywell Semolina Flour 2Kg x 5.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HONEYWELL SPAGHETTI 500G.jpg]
+
+File to: [build/img/HONEYWELL SPAGHETTI 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

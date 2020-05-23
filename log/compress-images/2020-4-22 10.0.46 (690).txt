@@ -1,0 +1,187 @@
+File from: [src/img/NESTLE MILO ACTIVE TIN 500G.jpg]
+
+File to: [build/img/NESTLE MILO ACTIVE TIN 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle Milo Energy Drink 1Kg.jpg]
+
+File to: [build/img/Nestle Milo Energy Drink 1Kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NESTLE MILO CHOC. AND MALT FLAV. WHEAT BALLS 320G.jpg]
+
+File to: [build/img/NESTLE MILO CHOC. AND MALT FLAV. WHEAT BALLS 320G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle Milo Energy Cereal 320g.jpg]
+
+File to: [build/img/Nestle Milo Energy Cereal 320g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle Milo Energy Drink 500g.jpg]
+
+File to: [build/img/Nestle Milo Energy Drink 500g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle Milo Energy Food  1Kg.jpg]
+
+File to: [build/img/Nestle Milo Energy Food  1Kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle Milo Energy Food 1Kg.jpg]
+
+File to: [build/img/Nestle Milo Energy Food 1Kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle Milo Energy Food Drink 200g.jpg]
+
+File to: [build/img/Nestle Milo Energy Food Drink 200g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle Milo Food Drink 500g.jpg]
+
+File to: [build/img/Nestle Milo Food Drink 500g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NESTLE MILO ENERGY FOOD DRINK 180ML.jpg]
+
+File to: [build/img/NESTLE MILO ENERGY FOOD DRINK 180ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle Milo Ready To Drink 180ml.jpg]
+
+File to: [build/img/Nestle Milo Ready To Drink 180ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NESTLE MILO SACHET 550GR.jpg]
+
+File to: [build/img/NESTLE MILO SACHET 550GR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle Nan 2 Easy Scoop 400g.jpg]
+
+File to: [build/img/Nestle Nan 2 Easy Scoop 400g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle Nan1 Infant Form 400g.jpg]
+
+File to: [build/img/Nestle Nan1 Infant Form 400g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle Milo Economic Pack 20g.jpg]
+
+File to: [build/img/Nestle Milo Economic Pack 20g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle Nan3 Easy Scoop Formula 400g.jpg]
+
+File to: [build/img/Nestle Nan3 Easy Scoop Formula 400g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NESTLE NESQUIK 225GMX16.jpg]
+
+File to: [build/img/NESTLE NESQUIK 225GMX16.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle PreNAN Milk 400g.jpg]
+
+File to: [build/img/Nestle PreNAN Milk 400g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle Nestum wheat & honey.jpg]
+
+File to: [build/img/Nestle Nestum wheat & honey.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle Pure Life Water (Zinc) 60cl.jpg]
+
+File to: [build/img/Nestle Pure Life Water (Zinc) 60cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NESTLE PURE LIFE WATER 60CL.jpg]
+
+File to: [build/img/NESTLE PURE LIFE WATER 60CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle PureLife Drinking Water 60cl.jpg]
+
+File to: [build/img/Nestle PureLife Drinking Water 60cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle Quality Street Chocolate 257g.jpg]
+
+File to: [build/img/Nestle Quality Street Chocolate 257g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NESTLE WATER 1.5L.png]
+
+File to: [build/img/NESTLE WATER 1.5L.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/NESTLE WATER 150CL.jpg]
+
+File to: [build/img/NESTLE WATER 150CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NESTLE WATER 60CL.jpg]
+
+File to: [build/img/NESTLE WATER 60CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NESTLE WATER BOTTLE 1.5L.jpg]
+
+File to: [build/img/NESTLE WATER BOTTLE 1.5L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NESTLE WATER PROTECT 60CL.jpg]
+
+File to: [build/img/NESTLE WATER PROTECT 60CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NESTLE WATER PURELIFE PACK 60CL_20.jpg]
+
+File to: [build/img/NESTLE WATER PURELIFE PACK 60CL_20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NESTLE WATER ZINC PACK 60CL_20.jpg]
+
+File to: [build/img/NESTLE WATER ZINC PACK 60CL_20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nestle PureLife Drinking Water 150cl.jpg]
+
+File to: [build/img/Nestle PureLife Drinking Water 150cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

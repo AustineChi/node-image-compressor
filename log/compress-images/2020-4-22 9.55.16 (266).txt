@@ -1,0 +1,97 @@
+File from: [src/img/GENERAL FRESH GEL FRESH OCEAN 150G.jpg]
+
+File to: [build/img/GENERAL FRESH GEL FRESH OCEAN 150G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENERAL FRESH GEL FRESH ROSES 150G.jpg]
+
+File to: [build/img/GENERAL FRESH GEL FRESH ROSES 150G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENERAL FRESH KITCHEN SPONGE CLEANER.jpg]
+
+File to: [build/img/GENERAL FRESH KITCHEN SPONGE CLEANER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENERAL FRESH LIQUID RIM BLOCK FLOWER ESSENCE 55ML.jpg]
+
+File to: [build/img/GENERAL FRESH LIQUID RIM BLOCK FLOWER ESSENCE 55ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENERAL FRESH LIQUID RIM BLOCK LEMON ESSESNCE 55ML.jpg]
+
+File to: [build/img/GENERAL FRESH LIQUID RIM BLOCK LEMON ESSESNCE 55ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENERAL FRESH LIQUID RIM BLOCK SEA 55ML.jpg]
+
+File to: [build/img/GENERAL FRESH LIQUID RIM BLOCK SEA 55ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENERAL FRESH MAGIC LILY OF THE VALLEY.jpg]
+
+File to: [build/img/GENERAL FRESH MAGIC LILY OF THE VALLEY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENERAL FRESH ODOUR ABSORBER FOR FRIDGE.jpg]
+
+File to: [build/img/GENERAL FRESH ODOUR ABSORBER FOR FRIDGE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/General Fresh Perfume Pearls 250ml.jpg]
+
+File to: [build/img/General Fresh Perfume Pearls 250ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENERAL FRESH POT SPONGE CLEANER.jpg]
+
+File to: [build/img/GENERAL FRESH POT SPONGE CLEANER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENERAL FRESH RUBBISH BAG 35L.jpg]
+
+File to: [build/img/GENERAL FRESH RUBBISH BAG 35L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENERAL FRESH RUBBISH BAG 60L.jpg]
+
+File to: [build/img/GENERAL FRESH RUBBISH BAG 60L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENERAL FRESH SPONGE KITCHEN CLOTHS (3PCS) SMOOTH.jpg]
+
+File to: [build/img/GENERAL FRESH SPONGE KITCHEN CLOTHS (3PCS) SMOOTH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENERAL FRESH TOILET BLOCK +BLUE BLOCK.jpg]
+
+File to: [build/img/GENERAL FRESH TOILET BLOCK +BLUE BLOCK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENERAL FRESH TOILET BLOCK BLEACH EFFECT 55ML.jpg]
+
+File to: [build/img/GENERAL FRESH TOILET BLOCK BLEACH EFFECT 55ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENERAL FRESH TOILET LIQUID CLEANER 12 FRESH OCEAN.jpg]
+
+File to: [build/img/GENERAL FRESH TOILET LIQUID CLEANER 12 FRESH OCEAN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

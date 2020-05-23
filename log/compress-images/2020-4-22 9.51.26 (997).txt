@@ -1,0 +1,109 @@
+File from: [src/img/COTTON GAUZE  4 INCHES.jpg]
+
+File to: [build/img/COTTON GAUZE  4 INCHES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COTTON TREE BABY ZINC & CASTOR OIL CREAM 300ML.jpg]
+
+File to: [build/img/COTTON TREE BABY ZINC & CASTOR OIL CREAM 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COTTON TREE CREAMY PETROLEUM JELLY.jpg]
+
+File to: [build/img/COTTON TREE CREAMY PETROLEUM JELLY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COTTON TREE WOOL PLEAT 125G.jpg]
+
+File to: [build/img/COTTON TREE WOOL PLEAT 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COTTON WOOL 100G.jpg]
+
+File to: [build/img/COTTON WOOL 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COTTON WOOL 50G.jpg]
+
+File to: [build/img/COTTON WOOL 50G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COUNTRY FRESH NEAPOLITAN 1.8L.jpg]
+
+File to: [build/img/COUNTRY FRESH NEAPOLITAN 1.8L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COUNTRY FRESH VANILLA 1.8L.jpg]
+
+File to: [build/img/COUNTRY FRESH VANILLA 1.8L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COURVOISIER VS 70CL.jpg]
+
+File to: [build/img/COURVOISIER VS 70CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COURVOISIER VSOP 70CL.jpg]
+
+File to: [build/img/COURVOISIER VSOP 70CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Coveram 5mg-10mg Tabs x 30.jpg]
+
+File to: [build/img/Coveram 5mg-10mg Tabs x 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COVERSYL 5MG X 15 TABS.jpg]
+
+File to: [build/img/COVERSYL 5MG X 15 TABS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COVONIA CATARRH RELIEF 100ML.jpg]
+
+File to: [build/img/COVONIA CATARRH RELIEF 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Covonia Chesty Cough S.F x 150ml T&R.jpg]
+
+File to: [build/img/Covonia Chesty Cough S.F x 150ml T&R.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Covonia Chesty Cough Syrup SF 150ml.jpg]
+
+File to: [build/img/Covonia Chesty Cough Syrup SF 150ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Covonia Chesty Cough x 150ml T&R.jpg]
+
+File to: [build/img/Covonia Chesty Cough x 150ml T&R.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COVONIA COUGH LOZ. 30G B.BLAST.jpg]
+
+File to: [build/img/COVONIA COUGH LOZ. 30G B.BLAST.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COTTON WOOL ROLL 125G.jpg]
+
+File to: [build/img/COTTON WOOL ROLL 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

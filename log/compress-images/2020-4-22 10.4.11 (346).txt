@@ -1,0 +1,61 @@
+File from: [src/img/Profectiv MG Deep Conditioner 250g.jpg]
+
+File to: [build/img/Profectiv MG Deep Conditioner 250g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Profective MG Deep Conditioner 500ml.jpg]
+
+File to: [build/img/Profective MG Deep Conditioner 500ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Profective Mega Growth Oil 236ml.jpg]
+
+File to: [build/img/Profective Mega Growth Oil 236ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Profective MG Leave-In Strengh. 500g.jpg]
+
+File to: [build/img/Profective MG Leave-In Strengh. 500g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PROMOS PEAS _ CARROTS 241g.jpg]
+
+File to: [build/img/PROMOS PEAS _ CARROTS 241g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Profective Mega Growth Smoother Polisher.jpg]
+
+File to: [build/img/Profective Mega Growth Smoother Polisher.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PROMOS ELBOW MACARONI PASTA BOX 454G copy.jpg]
+
+File to: [build/img/PROMOS ELBOW MACARONI PASTA BOX 454G copy.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PROMOS MIXED VEGETABLES 425G.jpg]
+
+File to: [build/img/PROMOS MIXED VEGETABLES 425G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Propanolol 40mg x28tabs (Fourrts).jpg]
+
+File to: [build/img/Propanolol 40mg x28tabs (Fourrts).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Propranolol 40mg Teva x 28.jpg]
+
+File to: [build/img/Propranolol 40mg Teva x 28.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

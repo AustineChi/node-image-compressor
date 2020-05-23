@@ -1,0 +1,85 @@
+File from: [src/img/MAXITROL OINTMENT.jpg]
+
+File to: [build/img/MAXITROL OINTMENT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Maxmoral  tablets x 30.jpg]
+
+File to: [build/img/Maxmoral  tablets x 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAYBELLINE BABY SKIN PRIMER.jpg]
+
+File to: [build/img/MAYBELLINE BABY SKIN PRIMER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mazuri Hair Texturizer Reg.jpg]
+
+File to: [build/img/Mazuri Hair Texturizer Reg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mazuri Kids Detangling Shampoo.jpg]
+
+File to: [build/img/Mazuri Kids Detangling Shampoo.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mazuri Kids Hair Texturizer Reg.jpg]
+
+File to: [build/img/Mazuri Kids Hair Texturizer Reg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mazuri Leave-in Conditioner 355ml x 12.png]
+
+File to: [build/img/Mazuri Leave-in Conditioner 355ml x 12.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Mazuri Olive Oil Det. Curl Spray 355ml.png]
+
+File to: [build/img/Mazuri Olive Oil Det. Curl Spray 355ml.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Mazuri Olive Oil Edge Wax 103g x 12.jpeg]
+
+File to: [build/img/Mazuri Olive Oil Edge Wax 103g x 12.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mazuri Olive Oil Firm Hold Spray 500ml.jpg]
+
+File to: [build/img/Mazuri Olive Oil Firm Hold Spray 500ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mazuri Olive Oil Sheen Spray 500ml x 12.jpg]
+
+File to: [build/img/Mazuri Olive Oil Sheen Spray 500ml x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/mazuri_kids-960x675.jpg]
+
+File to: [build/img/mazuri_kids-960x675.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MC COCONUT MILK 400ML.jpg]
+
+File to: [build/img/MC COCONUT MILK 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mc Vitie_s All Buter Shortbread 200gx24.jpg]
+
+File to: [build/img/Mc Vitie_s All Buter Shortbread 200gx24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

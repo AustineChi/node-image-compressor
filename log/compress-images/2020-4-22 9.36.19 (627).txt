@@ -1,0 +1,289 @@
+File from: [src/img/BBW Black Chamomile Body Lotion 6.5oz.jpg]
+
+File to: [build/img/BBW Black Chamomile Body Lotion 6.5oz.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BBW Hot Cocoa&Cream Scented Candle 198g.jpg]
+
+File to: [build/img/BBW Hot Cocoa&Cream Scented Candle 198g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BBW Japanese Cherry Blossom Body Lot 8oz.jpg]
+
+File to: [build/img/BBW Japanese Cherry Blossom Body Lot 8oz.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BBW Merry Cookie Handcream 1oz(29ml).jpg]
+
+File to: [build/img/BBW Merry Cookie Handcream 1oz(29ml).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BBW Pink Chiffon Body Lotion 8oz(236ml).jpg]
+
+File to: [build/img/BBW Pink Chiffon Body Lotion 8oz(236ml).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BBW Sweet Pea Body Lotion 8oz(236ml).jpg]
+
+File to: [build/img/BBW Sweet Pea Body Lotion 8oz(236ml).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BBW Stress Relief E+Spear.Lotion 6.5oz.jpg]
+
+File to: [build/img/BBW Stress Relief E+Spear.Lotion 6.5oz.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BBW Sweet Pea Spray 8oz.jpg]
+
+File to: [build/img/BBW Sweet Pea Spray 8oz.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BBW Twisted Peppermint Handcream 1oz(29m.jpg]
+
+File to: [build/img/BBW Twisted Peppermint Handcream 1oz(29m.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BBW Vanilla Bean Noel Body lotion 8oz(23.jpg]
+
+File to: [build/img/BBW Vanilla Bean Noel Body lotion 8oz(23.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BBW Black Raspberry Vanilla Lotion 236mL.jpg]
+
+File to: [build/img/BBW Black Raspberry Vanilla Lotion 236mL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BBW Vanilla Buttercream Handcream 1oz(29.jpg]
+
+File to: [build/img/BBW Vanilla Buttercream Handcream 1oz(29.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BBW Country Apple Lotion 8oz(236ml).jpg]
+
+File to: [build/img/BBW Country Apple Lotion 8oz(236ml).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BBW Warm Vanilla Sugar Body Lotion 8oz.jpg]
+
+File to: [build/img/BBW Warm Vanilla Sugar Body Lotion 8oz.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BBW Warm Vanilla Sugar Body Spray 8oz.jpg]
+
+File to: [build/img/BBW Warm Vanilla Sugar Body Spray 8oz.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BBW Winter Candy Apple Handcream 1oz.jpg]
+
+File to: [build/img/BBW Winter Candy Apple Handcream 1oz.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BBW Winter Wonderland Handcream 1oz(29ml.jpg]
+
+File to: [build/img/BBW Winter Wonderland Handcream 1oz(29ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BC Arthritis Pain Relief Powder Pack x6.jpg]
+
+File to: [build/img/BC Arthritis Pain Relief Powder Pack x6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BC Aspirin Powder Stick Pack x 2.jpg]
+
+File to: [build/img/BC Aspirin Powder Stick Pack x 2.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEANS - BROWN PER KG.jpg]
+
+File to: [build/img/BEANS - BROWN PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Beans pack.jpg]
+
+File to: [build/img/Beans pack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Beat pill plus.jpg]
+
+File to: [build/img/Beat pill plus.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEAUFOYS SANCTUARY COMM. WINE.jpg]
+
+File to: [build/img/BEAUFOYS SANCTUARY COMM. WINE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEAUTY 360 ERGO NAIL CUTTER.jpg]
+
+File to: [build/img/BEAUTY 360 ERGO NAIL CUTTER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEAUTY 360 NAIL CUTTER.jpg]
+
+File to: [build/img/BEAUTY 360 NAIL CUTTER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEAUTY BLENDER.jpg]
+
+File to: [build/img/BEAUTY BLENDER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEAUTY CLINIC HAND SANITIZER 250ML.jpg]
+
+File to: [build/img/BEAUTY CLINIC HAND SANITIZER 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEAUTY CLINIC HAND SANITIZER 500ML.jpg]
+
+File to: [build/img/BEAUTY CLINIC HAND SANITIZER 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEAUTY FORM. CLEASN ALOE250.jpg]
+
+File to: [build/img/BEAUTY FORM. CLEASN ALOE250.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEAUTY FORM. FEM. HYG. WIPES20.jpg]
+
+File to: [build/img/BEAUTY FORM. FEM. HYG. WIPES20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEAUTY FORM. NAIL POLISH 250M.jpg]
+
+File to: [build/img/BEAUTY FORM. NAIL POLISH 250M.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEAUTY FORM. TEA TREE WIPES.jpg]
+
+File to: [build/img/BEAUTY FORM. TEA TREE WIPES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEAUTY FORMULA FEMININE INTIMATE WIPES 20.jpg]
+
+File to: [build/img/BEAUTY FORMULA FEMININE INTIMATE WIPES 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEAUTY FORM. DEEP CLEANS WIPES.jpg]
+
+File to: [build/img/BEAUTY FORM. DEEP CLEANS WIPES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEAUTY FORMULA OIL CONTROLE.jpg]
+
+File to: [build/img/BEAUTY FORMULA OIL CONTROLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEAUTY FORMULAS AFTER DARK SLEEP MUSK.png]
+
+File to: [build/img/BEAUTY FORMULAS AFTER DARK SLEEP MUSK.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/BEAUTY FORMULAS APRICOT FACIAL SCRUB 150ML.jpg]
+
+File to: [build/img/BEAUTY FORMULAS APRICOT FACIAL SCRUB 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEAUTY FORMULAS APRICOT FACIAL WIPES 30S.jpg]
+
+File to: [build/img/BEAUTY FORMULAS APRICOT FACIAL WIPES 30S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEAUTY FORMULAS ARGAN OIL FACIAL WIPES 30.jpg]
+
+File to: [build/img/BEAUTY FORMULAS ARGAN OIL FACIAL WIPES 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEAUTY FORMULAS CUCUMBER FACIAL WIPES 30.jpg]
+
+File to: [build/img/BEAUTY FORMULAS CUCUMBER FACIAL WIPES 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEAUTY FORMULAS BLACKHEAD CONTROL FACIAL SCRUB 150ML.jpg]
+
+File to: [build/img/BEAUTY FORMULAS BLACKHEAD CONTROL FACIAL SCRUB 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEAUTY FORMULAS DEEP CLEANSING FACIAL WIPES 30.jpg]
+
+File to: [build/img/BEAUTY FORMULAS DEEP CLEANSING FACIAL WIPES 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEAUTY FORMULAS EYE MAKE UP REMOVER 200ML.jpg]
+
+File to: [build/img/BEAUTY FORMULAS EYE MAKE UP REMOVER 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEAUTY FORMULAS HAND & NAIL CREAM 100ML.jpg]
+
+File to: [build/img/BEAUTY FORMULAS HAND & NAIL CREAM 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEAUTY FORMULAS HONEY _ AL150M.jpg]
+
+File to: [build/img/BEAUTY FORMULAS HONEY _ AL150M.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEAUTY FORMULAS HONEY & ALMOND FACIAL SCRUB 150ML.jpg]
+
+File to: [build/img/BEAUTY FORMULAS HONEY & ALMOND FACIAL SCRUB 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEAUTY FORMULAS NAIL DRY100ML.jpg]
+
+File to: [build/img/BEAUTY FORMULAS NAIL DRY100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Beauty Formulas Oil Control Tissues x50.jpg]
+
+File to: [build/img/Beauty Formulas Oil Control Tissues x50.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

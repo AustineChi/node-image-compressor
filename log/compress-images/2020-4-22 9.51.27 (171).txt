@@ -1,0 +1,61 @@
+File from: [src/img/RED BELL PEPPER SMALL.jpg]
+
+File to: [build/img/RED BELL PEPPER SMALL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Read A Dream Insecticide 600ml x 24.jpg]
+
+File to: [build/img/Read A Dream Insecticide 600ml x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RED CAPSICUM 1KG.jpg]
+
+File to: [build/img/RED CAPSICUM 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RED CURRANT PER KG.jpg]
+
+File to: [build/img/RED CURRANT PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RED GRAPEFRUITS_SANDOS PER PIECE.jpg]
+
+File to: [build/img/RED GRAPEFRUITS_SANDOS PER PIECE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REALEMON 100% LEMON JUICE 73ML.jpeg]
+
+File to: [build/img/REALEMON 100% LEMON JUICE 73ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Red Square Ice Ranges 275mk x 24.jpg]
+
+File to: [build/img/Red Square Ice Ranges 275mk x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RedBull Energy Drink 250ml x 24.jpg]
+
+File to: [build/img/RedBull Energy Drink 250ml x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/READY STEW HOT POT 1KG.jpg]
+
+File to: [build/img/READY STEW HOT POT 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Red velvet smoothie.jpg]
+
+File to: [build/img/Red velvet smoothie.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

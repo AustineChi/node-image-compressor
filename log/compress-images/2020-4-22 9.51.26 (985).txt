@@ -1,0 +1,133 @@
+File from: [src/img/cobweb brush.jpeg]
+
+File to: [build/img/cobweb brush.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/coca cola 60cl.jpeg]
+
+File to: [build/img/coca cola 60cl.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COCA COLA CAN 33CL.jpg]
+
+File to: [build/img/COCA COLA CAN 33CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COCA COLA CAN 33CL.png]
+
+File to: [build/img/COCA COLA CAN 33CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/COCA COLA PET 60CL.jpg]
+
+File to: [build/img/COCA COLA PET 60CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/coca cola pet.jpeg]
+
+File to: [build/img/coca cola pet.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/coca cola range.jpeg]
+
+File to: [build/img/coca cola range.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COCA COLA ZERO PET 35 CL.png]
+
+File to: [build/img/COCA COLA ZERO PET 35 CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/COCA COLA ZERO PET 50CL.jpg]
+
+File to: [build/img/COCA COLA ZERO PET 50CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COCA- COLA PET 35CL.png]
+
+File to: [build/img/COCA- COLA PET 35CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Coca-Cola Can Drinks 33cl.jpg]
+
+File to: [build/img/Coca-Cola Can Drinks 33cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COCA-COLA ZERO 60CL.jpg]
+
+File to: [build/img/COCA-COLA ZERO 60CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/cocacola can.jpeg]
+
+File to: [build/img/cocacola can.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/coco carib.jpeg]
+
+File to: [build/img/coco carib.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COCO MAZAYA CHACOAL 24S.jpg]
+
+File to: [build/img/COCO MAZAYA CHACOAL 24S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COCO POPS 88 X 32G.jpg]
+
+File to: [build/img/COCO POPS 88 X 32G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COCOA BODY BUTTER 200ML.jpg]
+
+File to: [build/img/COCOA BODY BUTTER 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COCOA BUTTER CREAM 100ML.jpg]
+
+File to: [build/img/COCOA BUTTER CREAM 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COCOA PUFFS REAL COCOA FLAKES 334G.jpeg]
+
+File to: [build/img/COCOA PUFFS REAL COCOA FLAKES 334G.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Coconut Rice with shreaded assorted meat, smoked fish and Sausages 3 Litre.jpg]
+
+File to: [build/img/Coconut Rice with shreaded assorted meat, smoked fish and Sausages 3 Litre.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COCONUT WATER FACIAL WIPES.jpg]
+
+File to: [build/img/COCONUT WATER FACIAL WIPES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CODIOVAN 160_12.5MG TABS X 14.jpg]
+
+File to: [build/img/CODIOVAN 160_12.5MG TABS X 14.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

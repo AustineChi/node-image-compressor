@@ -1,0 +1,223 @@
+File from: [src/img/Mazuri Kids Detangling Shampoo.jpg]
+
+File to: [build/img/Mazuri Kids Detangling Shampoo.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mazuri Kids Hair Texturizer Reg.jpg]
+
+File to: [build/img/Mazuri Kids Hair Texturizer Reg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAYBELLINE BABY SKIN PRIMER.jpg]
+
+File to: [build/img/MAYBELLINE BABY SKIN PRIMER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mazuri Leave-in Conditioner 355ml x 12.png]
+
+File to: [build/img/Mazuri Leave-in Conditioner 355ml x 12.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Mazuri Olive Oil Det. Curl Spray 355ml.png]
+
+File to: [build/img/Mazuri Olive Oil Det. Curl Spray 355ml.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Mazuri Olive Oil Edge Wax 103g x 12.jpeg]
+
+File to: [build/img/Mazuri Olive Oil Edge Wax 103g x 12.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mazuri Olive Oil Firm Hold Spray 500ml.jpg]
+
+File to: [build/img/Mazuri Olive Oil Firm Hold Spray 500ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mazuri Olive Oil Sheen Spray 500ml x 12.jpg]
+
+File to: [build/img/Mazuri Olive Oil Sheen Spray 500ml x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/mazuri_kids-960x675.jpg]
+
+File to: [build/img/mazuri_kids-960x675.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MC COCONUT MILK 400ML.jpg]
+
+File to: [build/img/MC COCONUT MILK 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mc Vitie_s All Buter Shortbread 200gx24.jpg]
+
+File to: [build/img/Mc Vitie_s All Buter Shortbread 200gx24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mc Vitie_s Digestive Biscuits 25g x 96.jpg]
+
+File to: [build/img/Mc Vitie_s Digestive Biscuits 25g x 96.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mc Vitie_s All Butter Shortbread 100gx24.jpg]
+
+File to: [build/img/Mc Vitie_s All Butter Shortbread 100gx24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mc Vitie_s Digestive Biscuits 300g x 24.jpg]
+
+File to: [build/img/Mc Vitie_s Digestive Biscuits 300g x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mc Vitie_s Digestive Choc Chip 31g x 48.jpg]
+
+File to: [build/img/Mc Vitie_s Digestive Choc Chip 31g x 48.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mc Vitie_s Hobnobs Choc Chip 31g x 48.jpg]
+
+File to: [build/img/Mc Vitie_s Hobnobs Choc Chip 31g x 48.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mc Vitie_s HobNobs Oat Biscuit 100g x 36.JPG]
+
+File to: [build/img/Mc Vitie_s HobNobs Oat Biscuit 100g x 36.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mc Vitie_s HobNobs Oat Biscuits 302 x12.png]
+
+File to: [build/img/Mc Vitie_s HobNobs Oat Biscuits 302 x12.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Mc Vitie_s Oat HobNobs 250g x 24.jpg]
+
+File to: [build/img/Mc Vitie_s Oat HobNobs 250g x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mc Vitie_s Original Digestive 125g x 24.jpg]
+
+File to: [build/img/Mc Vitie_s Original Digestive 125g x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mc Vitie_s Original Digestive 250g x 24.jpg]
+
+File to: [build/img/Mc Vitie_s Original Digestive 250g x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mc Vitie_s Original Digestive 40g x 48.jpg]
+
+File to: [build/img/Mc Vitie_s Original Digestive 40g x 48.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mc Vitie_s Original HobNobs 125g x24.jpg]
+
+File to: [build/img/Mc Vitie_s Original HobNobs 125g x24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mc Vitie_s Original HobNobs 50g x 48 (1).jpg]
+
+File to: [build/img/Mc Vitie_s Original HobNobs 50g x 48 (1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mc Vitie_s Original HobNobs 50g x 48.jpg]
+
+File to: [build/img/Mc Vitie_s Original HobNobs 50g x 48.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mc Vitie's All Buter Shortbread 200g.jpg]
+
+File to: [build/img/Mc Vitie's All Buter Shortbread 200g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mc Vitie's Butter Short Bread 280g X 20.jpg]
+
+File to: [build/img/Mc Vitie's Butter Short Bread 280g X 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mc Vitie`s Classic Rich Tea 300g x 20.jpg]
+
+File to: [build/img/Mc Vitie`s Classic Rich Tea 300g x 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/McCAIN CORN KERNEL 500G.jpg]
+
+File to: [build/img/McCAIN CORN KERNEL 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCCAIN FRENCH FRIES 2.5KG.jpg]
+
+File to: [build/img/MCCAIN FRENCH FRIES 2.5KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mccain Mixed Vegetables 500g x 12.jpg]
+
+File to: [build/img/Mccain Mixed Vegetables 500g x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCLELLAND MILD WHITE CHEDDAR LOAF.jpg]
+
+File to: [build/img/MCLELLAND MILD WHITE CHEDDAR LOAF.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCV DIGESTIVE 125G.jpg]
+
+File to: [build/img/MCV DIGESTIVE 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCCAIN WINTER VEGETABLES 500G.jpg]
+
+File to: [build/img/MCCAIN WINTER VEGETABLES 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCV HOBNOBS 125G.jpg]
+
+File to: [build/img/MCV HOBNOBS 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCV HOBNOBS 300G.jpg]
+
+File to: [build/img/MCV HOBNOBS 300G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mc Vitie_s Original Digestive 104g x36.jpg]
+
+File to: [build/img/Mc Vitie_s Original Digestive 104g x36.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

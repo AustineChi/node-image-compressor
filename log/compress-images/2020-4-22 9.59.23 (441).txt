@@ -1,0 +1,13 @@
+File from: [src/img/KELLOGG'S RAISIN BRAN WITH CRANBERRIES 383G.jpg]
+
+File to: [build/img/KELLOGG'S RAISIN BRAN WITH CRANBERRIES 383G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KELLOGG'S SPECIAL K FRUIT & YOGURT 368G.jpg]
+
+File to: [build/img/KELLOGG'S SPECIAL K FRUIT & YOGURT 368G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

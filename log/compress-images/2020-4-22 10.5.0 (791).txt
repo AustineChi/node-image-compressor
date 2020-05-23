@@ -1,0 +1,79 @@
+File from: [src/img/ZOBO LEAF PER KG.jpg]
+
+File to: [build/img/ZOBO LEAF PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ZOLADEX 3.6MG X 1.jpg]
+
+File to: [build/img/ZOLADEX 3.6MG X 1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Zolat (Albendazole 200mg) Susp. 20ml.jpg]
+
+File to: [build/img/Zolat (Albendazole 200mg) Susp. 20ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ZOLAT SUSP 200MG 20ML.jpg]
+
+File to: [build/img/ZOLAT SUSP 200MG 20ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ZOLAT TABS 200MG X 2.jpg]
+
+File to: [build/img/ZOLAT TABS 200MG X 2.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Zoloft (Sertraline) 50mg caps x15.jpg]
+
+File to: [build/img/Zoloft (Sertraline) 50mg caps x15.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ZOPICLONE 7.5MG TABLETS.jpg]
+
+File to: [build/img/ZOPICLONE 7.5MG TABLETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ZOVIRAX C.S 2% PUMP CREAM 2G.jpg]
+
+File to: [build/img/ZOVIRAX C.S 2% PUMP CREAM 2G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ZOVIRAX COLD SORE CREAM 2G.jpg]
+
+File to: [build/img/ZOVIRAX COLD SORE CREAM 2G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ZOVIRAX. CREAM  10G.jpg]
+
+File to: [build/img/ZOVIRAX. CREAM  10G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ZYLORIC 100MG.jpg]
+
+File to: [build/img/ZYLORIC 100MG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ZYNCET SYR 5MG 60ML {CETIRIZINE}.jpg]
+
+File to: [build/img/ZYNCET SYR 5MG 60ML {CETIRIZINE}.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ZYNCET TABS X 10.jpg]
+
+File to: [build/img/ZYNCET TABS X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

@@ -1,0 +1,97 @@
+File from: [src/img/WAW MULTIPURPOSE SOAP 230G.jpg]
+
+File to: [build/img/WAW MULTIPURPOSE SOAP 230G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WEBER KC BBQ RUB 426G.jpg]
+
+File to: [build/img/WEBER KC BBQ RUB 426G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WEED KILLER.jpg]
+
+File to: [build/img/WEED KILLER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WEETABIX CRISPY MINIS BANANA 600G.jpg]
+
+File to: [build/img/WEETABIX CRISPY MINIS BANANA 600G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WEETABIX CRISPY MINIS CHOCOLATE 600G.jpg]
+
+File to: [build/img/WEETABIX CRISPY MINIS CHOCOLATE 600G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WEETABIX CRISPY MINIS FRUIT & NUTS 600G.jpg]
+
+File to: [build/img/WEETABIX CRISPY MINIS FRUIT & NUTS 600G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Weetabix Fruit _ Fibre Cereal 500g x 10.jpg]
+
+File to: [build/img/Weetabix Fruit _ Fibre Cereal 500g x 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Weetabix Fruit _ Fibre Cereal 500g x 10(1).jpg]
+
+File to: [build/img/Weetabix Fruit _ Fibre Cereal 500g x 10(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Weetabix Fruit _ Fibre Cereal 500g x 10(2).jpg]
+
+File to: [build/img/Weetabix Fruit _ Fibre Cereal 500g x 10(2).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Weetabix Orig Whole Wheat Cereal 430g.jpg]
+
+File to: [build/img/Weetabix Orig Whole Wheat Cereal 430g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WEETABIX.jpg]
+
+File to: [build/img/WEETABIX.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELCH'S FRUIT PUCH 295ML.jpg]
+
+File to: [build/img/WELCH'S FRUIT PUCH 295ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELCH'S FRUIT SNACKS 14G.jpg]
+
+File to: [build/img/WELCH'S FRUIT SNACKS 14G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELCH'S FRUIT SNACKS 25.5G.jpg]
+
+File to: [build/img/WELCH'S FRUIT SNACKS 25.5G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELCH'S GRAPE 295ML.jpg]
+
+File to: [build/img/WELCH'S GRAPE 295ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELCH'S ORANGE PINEAPPLE 295ML.jpg]
+
+File to: [build/img/WELCH'S ORANGE PINEAPPLE 295ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

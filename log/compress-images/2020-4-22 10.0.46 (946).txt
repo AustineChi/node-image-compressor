@@ -1,0 +1,259 @@
+File from: [src/img/SYRINGE 2ML.jpg]
+
+File to: [build/img/SYRINGE 2ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TABASCO PEPPER SAUCE 59ML.jpg]
+
+File to: [build/img/TABASCO PEPPER SAUCE 59ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TABASIL.jpg]
+
+File to: [build/img/TABASIL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SYRINGE 5ML.jpg]
+
+File to: [build/img/SYRINGE 5ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Tadalis (Tadalafil) 20Mg Tab -4.jpg]
+
+File to: [build/img/Tadalis (Tadalafil) 20Mg Tab -4.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TADALIS-20 X 4.jpg]
+
+File to: [build/img/TADALIS-20 X 4.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TAIL COMBS BRAZILIAN.jpg]
+
+File to: [build/img/TAIL COMBS BRAZILIAN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TAKE IT OFF NAIL POLISH REMOVER.jpg]
+
+File to: [build/img/TAKE IT OFF NAIL POLISH REMOVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TALEN 1.5MG TAB X 10.jpeg]
+
+File to: [build/img/TALEN 1.5MG TAB X 10.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Tampax Pantyliner 20 Tampons.jpg]
+
+File to: [build/img/Tampax Pantyliner 20 Tampons.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TAMPAX PEARL PLASTIC 96S REGULAR.jpg]
+
+File to: [build/img/TAMPAX PEARL PLASTIC 96S REGULAR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TAMPAX REGULAR.jpg]
+
+File to: [build/img/TAMPAX REGULAR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Tampax Super Tampons x 20.jpg]
+
+File to: [build/img/Tampax Super Tampons x 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TAMPAX SUPER.jpg]
+
+File to: [build/img/TAMPAX SUPER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TAMPAX SUPERPLUS X 20.jpg]
+
+File to: [build/img/TAMPAX SUPERPLUS X 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Tampax Tampons Regular x 20.jpg]
+
+File to: [build/img/Tampax Tampons Regular x 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TAMSULON XL CAPS 400MCG X 28.jpg]
+
+File to: [build/img/TAMSULON XL CAPS 400MCG X 28.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TANGERINE _ MANDARINE_ CLEMENTINE PER KG.jpg]
+
+File to: [build/img/TANGERINE _ MANDARINE_ CLEMENTINE PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TANGO ORANGE ORIGINAL CAN 330ML.jpg]
+
+File to: [build/img/TANGO ORANGE ORIGINAL CAN 330ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TANQUERAY DRY GINX6.jpg]
+
+File to: [build/img/TANQUERAY DRY GINX6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TANQUERAY TEN DRY GINX6.jpg]
+
+File to: [build/img/TANQUERAY TEN DRY GINX6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TARIVID TABS 200MG X10.jpg]
+
+File to: [build/img/TARIVID TABS 200MG X10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TARTAR CONTROL WHITENING MOUTHWASH 500ML.jpg]
+
+File to: [build/img/TARTAR CONTROL WHITENING MOUTHWASH 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TASTIC PASTA SCREWS FUSILLI 500G.jpg]
+
+File to: [build/img/TASTIC PASTA SCREWS FUSILLI 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TASTY POT PAP (OGI) WHITE MAIZE (500G).jpg]
+
+File to: [build/img/TASTY POT PAP (OGI) WHITE MAIZE (500G).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TASTY TOM ENRICHED 70G.jpg]
+
+File to: [build/img/TASTY TOM ENRICHED 70G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TASTY TOM JOLLOF MIX copy.jpg]
+
+File to: [build/img/TASTY TOM JOLLOF MIX copy.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TASTY TOM JOLLOF MIX PASTE 70G.jpg]
+
+File to: [build/img/TASTY TOM JOLLOF MIX PASTE 70G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TASTY TOM PEPPER & ONION 70G.jpg]
+
+File to: [build/img/TASTY TOM PEPPER & ONION 70G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TASTY TOM TOMATO MIX 400G.jpg]
+
+File to: [build/img/TASTY TOM TOMATO MIX 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TASTY TOM TOMATO MIX 210G.jpg]
+
+File to: [build/img/TASTY TOM TOMATO MIX 210G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Tasty-Tom Tomato Paste Satchet 70g x 50.jpg]
+
+File to: [build/img/Tasty-Tom Tomato Paste Satchet 70g x 50.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TAVANIC TABS 500MG X 5.jpg]
+
+File to: [build/img/TAVANIC TABS 500MG X 5.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TCL43Inch Full HD Smart Television TCL – LED43S4900Black.jpg]
+
+File to: [build/img/TCL43Inch Full HD Smart Television TCL – LED43S4900Black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Tasty-Tom Tomato Paste Satchet 70g.png]
+
+File to: [build/img/Tasty-Tom Tomato Paste Satchet 70g.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/TCP LIQUID ANTISEPTIC 100ML.jpg]
+
+File to: [build/img/TCP LIQUID ANTISEPTIC 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Tea Tree Antibacterial Hand Wash 500ml.jpg]
+
+File to: [build/img/Tea Tree Antibacterial Hand Wash 500ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TCP LIQUID ANTISEPTIC 200ML.jpg]
+
+File to: [build/img/TCP LIQUID ANTISEPTIC 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TEA TREE ANTIBACTERIAL HANDWASH 500ML.jpg]
+
+File to: [build/img/TEA TREE ANTIBACTERIAL HANDWASH 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TEA TREE CONDITIONER 200ML.jpg]
+
+File to: [build/img/TEA TREE CONDITIONER 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TEA TREE BLEMISH GEL 30ML.jpg]
+
+File to: [build/img/TEA TREE BLEMISH GEL 30ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TCL40-Inch Android Smart Ultra Thin Full HD TV With Bluetooth + 12 Months WarrantyDark Brown Metallic & Black.jpg]
+
+File to: [build/img/TCL40-Inch Android Smart Ultra Thin Full HD TV With Bluetooth + 12 Months WarrantyDark Brown Metallic & Black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TEA TREE DAILY USE FACIAL SCRUB.jpg]
+
+File to: [build/img/TEA TREE DAILY USE FACIAL SCRUB.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

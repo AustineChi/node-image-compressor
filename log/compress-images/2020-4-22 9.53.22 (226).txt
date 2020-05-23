@@ -1,0 +1,355 @@
+File from: [src/img/DANO FULL CREAM SACHET 2.5KG.jpg]
+
+File to: [build/img/DANO FULL CREAM SACHET 2.5KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO FULL CREAM Tin (900G).jpg]
+
+File to: [build/img/DANO FULL CREAM Tin (900G).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO FULL CREAM Tin (400G).jpg]
+
+File to: [build/img/DANO FULL CREAM Tin (400G).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO FULL CREAM Tin (2500G).png]
+
+File to: [build/img/DANO FULL CREAM Tin (2500G).png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DANO FULL CREAM TIN 2500G.jpg]
+
+File to: [build/img/DANO FULL CREAM TIN 2500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO GROW UP MILK SACHET 380G.png]
+
+File to: [build/img/DANO GROW UP MILK SACHET 380G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DANO GROWING UP MILK 380G.png]
+
+File to: [build/img/DANO GROWING UP MILK 380G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DANO GROWING UP MILK PACK POWDER 380G.png]
+
+File to: [build/img/DANO GROWING UP MILK PACK POWDER 380G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DANO MILK 400G TIN.jpg]
+
+File to: [build/img/DANO MILK 400G TIN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO MILK 900G SACHET.jpg]
+
+File to: [build/img/DANO MILK 900G SACHET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO MILK FULL CREAM 396G SACHET.jpg]
+
+File to: [build/img/DANO MILK FULL CREAM 396G SACHET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dano Milk Skimmed Powder Refill 400g.jpg]
+
+File to: [build/img/Dano Milk Skimmed Powder Refill 400g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dano Milk Skimmed Powder Tin 400g.jpg]
+
+File to: [build/img/Dano Milk Skimmed Powder Tin 400g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dano Milk UHT Skimmed Milk 1Ltr.jpg]
+
+File to: [build/img/Dano Milk UHT Skimmed Milk 1Ltr.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO POWDERED MILK TIN COOL COW 400G.jpg]
+
+File to: [build/img/DANO POWDERED MILK TIN COOL COW 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO POWDERED MILK TIN FULL CREAM 400G.jpg]
+
+File to: [build/img/DANO POWDERED MILK TIN FULL CREAM 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO SKIMMED MILK POWDER TIN 400G.jpg]
+
+File to: [build/img/DANO SKIMMED MILK POWDER TIN 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO SLIM  400G TIN x12.jfif.jpg]
+
+File to: [build/img/DANO SLIM  400G TIN x12.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO SLIM 12 X 900G SACHET.jpg]
+
+File to: [build/img/DANO SLIM 12 X 900G SACHET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO SLIM 400G SACHET x12.jfif.jpg]
+
+File to: [build/img/DANO SLIM 400G SACHET x12.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO SLIM 900G TIN x12.jfif.jpg]
+
+File to: [build/img/DANO SLIM 900G TIN x12.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO SLIM MILK 400G SACHET.jpg]
+
+File to: [build/img/DANO SLIM MILK 400G SACHET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO SLIM MILK 400G.jpg]
+
+File to: [build/img/DANO SLIM MILK 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO SLIM MILK 900G.jpg]
+
+File to: [build/img/DANO SLIM MILK 900G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO SLIM MILK TIN 400G.jpg]
+
+File to: [build/img/DANO SLIM MILK TIN 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO STRAWBERRY MILK 360 GM SACHET.jpg]
+
+File to: [build/img/DANO STRAWBERRY MILK 360 GM SACHET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO UHT 0.3_ SKIMMED.jpg]
+
+File to: [build/img/DANO UHT 0.3_ SKIMMED.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO UHT 0.3% SKIMMED 1L.jpg]
+
+File to: [build/img/DANO UHT 0.3% SKIMMED 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO UHT 1.5_ LOW FAT.jpg]
+
+File to: [build/img/DANO UHT 1.5_ LOW FAT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO UHT 1.5% LOW FAT MILK 1L.jpg]
+
+File to: [build/img/DANO UHT 1.5% LOW FAT MILK 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO UHT 3.5% FULL CREAM MILK 1L.jpg]
+
+File to: [build/img/DANO UHT 3.5% FULL CREAM MILK 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO UHT 3.5% FULL CREAM x12.jfif.jpg]
+
+File to: [build/img/DANO UHT 3.5% FULL CREAM x12.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO UHT MILK FULL CREAM 1L.jpg]
+
+File to: [build/img/DANO UHT MILK FULL CREAM 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO UHT MILK SEMI SKIMMED 1L.jpg]
+
+File to: [build/img/DANO UHT MILK SEMI SKIMMED 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO UHT MILK SKIMMED 1L.jpg]
+
+File to: [build/img/DANO UHT MILK SKIMMED 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO UHT SEMI SKIMMED 1L.jpg]
+
+File to: [build/img/DANO UHT SEMI SKIMMED 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO UHT SKIMMED 1L.jpg]
+
+File to: [build/img/DANO UHT SKIMMED 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dano Vita Kids Nutritious Milk 380g.jpg]
+
+File to: [build/img/Dano Vita Kids Nutritious Milk 380g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DARAVIT CAPS X 30.jpeg]
+
+File to: [build/img/DARAVIT CAPS X 30.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DARAVIT FORTE CAPS X 10.jpg]
+
+File to: [build/img/DARAVIT FORTE CAPS X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DARAVIT FORTE CAPS X 30.png]
+
+File to: [build/img/DARAVIT FORTE CAPS X 30.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DARINA INST. DRINK MANGO 750G.jpg]
+
+File to: [build/img/DARINA INST. DRINK MANGO 750G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DARK _ LOVELY OIL MOIST 500ML.jpg]
+
+File to: [build/img/DARK _ LOVELY OIL MOIST 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DARK AND LOVELY SUPERIOR MOISTURE PLUS KIT.jpg]
+
+File to: [build/img/DARK AND LOVELY SUPERIOR MOISTURE PLUS KIT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DARK&LOVELY RELAXER KIT SUPER.jpg]
+
+File to: [build/img/DARK&LOVELY RELAXER KIT SUPER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DART 251ML PLASTIC CUPS 51S.jpg]
+
+File to: [build/img/DART 251ML PLASTIC CUPS 51S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DATES FRUIT 1KG.png]
+
+File to: [build/img/DATES FRUIT 1KG.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DAUCY PETITS POIS IN WATER 400G.jpg]
+
+File to: [build/img/DAUCY PETITS POIS IN WATER 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAVIDOFF COFFEE (Expresso Intense).jpg]
+
+File to: [build/img/DAVIDOFF COFFEE (Expresso Intense).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAVIDOFF COFFEE (rich Aroma).jpg]
+
+File to: [build/img/DAVIDOFF COFFEE (rich Aroma).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAVIDOFF COFFEE FINE 100ml.jpg]
+
+File to: [build/img/DAVIDOFF COFFEE FINE 100ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAVIDOFF COOL WATER 125ML.jpg]
+
+File to: [build/img/DAVIDOFF COOL WATER 125ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Davidoff CoolWater Sea Perfume Woman50ml.jpg]
+
+File to: [build/img/Davidoff CoolWater Sea Perfume Woman50ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAVIDOFF CREMA INTENSE MASTERPIECE COFFEE 90G.jpg]
+
+File to: [build/img/DAVIDOFF CREMA INTENSE MASTERPIECE COFFEE 90G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAVIDOFF ESPRESSO 57 INTENSE COFFEE 100G.jpg]
+
+File to: [build/img/DAVIDOFF ESPRESSO 57 INTENSE COFFEE 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Davidoff-Cool Water Cologne x75ml.jpg]
+
+File to: [build/img/Davidoff-Cool Water Cologne x75ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAX 100_ LANOLIN 397G.jpg]
+
+File to: [build/img/DAX 100_ LANOLIN 397G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAX BEES WAX 397G.jpg]
+
+File to: [build/img/DAX BEES WAX 397G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO MILK SKIMMED MILK 400G.jpg]
+
+File to: [build/img/DANO MILK SKIMMED MILK 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

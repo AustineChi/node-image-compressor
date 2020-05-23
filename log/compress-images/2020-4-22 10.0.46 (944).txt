@@ -1,0 +1,175 @@
+File from: [src/img/SWISS FLOWER AIRFRESHNER 250ML FRESH AIR.jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER 250ML FRESH AIR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER 250ML SPRING FLOWER (2).jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER 250ML SPRING FLOWER (2).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER 250ML SUMMERSCENT.png]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER 250ML SUMMERSCENT.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER 250ML SWEET PINE.jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER 250ML SWEET PINE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER 250ML IRISH LILY.jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER 250ML IRISH LILY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER 500ML FRESH AIR.jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER 500ML FRESH AIR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER 500ML GARDEN FLOWER (2).jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER 500ML GARDEN FLOWER (2).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER 500ML SPRING FLOWER.jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER 500ML SPRING FLOWER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER 500ML IRISH LILY.png]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER 500ML IRISH LILY.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER 500ML SUMMERSCENT.jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER 500ML SUMMERSCENT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER 500ML SWEET PINE.jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER 500ML SWEET PINE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER 500ML TANGERINE.jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER 500ML TANGERINE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER GEL 60G FLOWER.jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER GEL 60G FLOWER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER GEL 60G LAVENDAR.jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER GEL 60G LAVENDAR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER GEL 60G LEMON.jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER GEL 60G LEMON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER GEL 60G MULTIFRUITY.jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER GEL 60G MULTIFRUITY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER GEL 60G SWEET FLORAL.jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER GEL 60G SWEET FLORAL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER GEL 60G TROPICANA.jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER GEL 60G TROPICANA.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER GEL 60G VANILLA.jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER GEL 60G VANILLA.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISS JARDIN AIR FRESHER MIX 500ML.jpg]
+
+File to: [build/img/SWISS JARDIN AIR FRESHER MIX 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISSPERS PREMIUM COTTON ROUNDS 100S.jpeg]
+
+File to: [build/img/SWISSPERS PREMIUM COTTON ROUNDS 100S.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SYMPLI RIPE PLANTAIN SLICE 500G.jpg]
+
+File to: [build/img/SYMPLI RIPE PLANTAIN SLICE 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SYMPLI YAM FRIES 500G.jpg]
+
+File to: [build/img/SYMPLI YAM FRIES 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SYMPLI YAM FRIES 2.5KG.jpg]
+
+File to: [build/img/SYMPLI YAM FRIES 2.5KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SYNRIAM TABS 150+750MG X 3.jpg]
+
+File to: [build/img/SYNRIAM TABS 150+750MG X 3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SYRINGE 10ML.jpg]
+
+File to: [build/img/SYRINGE 10ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER 250ML GARDEN FLOWER.jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER 250ML GARDEN FLOWER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER 250ML COOLFRESH.jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER 250ML COOLFRESH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SYNDOL TABS X 30.jpg]
+
+File to: [build/img/SYNDOL TABS X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

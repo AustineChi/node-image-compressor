@@ -1,0 +1,145 @@
+File from: [src/img/Similac sensitive (0-12mths).jpg]
+
+File to: [build/img/Similac sensitive (0-12mths).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Similac sensitive.jpg]
+
+File to: [build/img/Similac sensitive.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SIMPLE MICELLAR CLEANSING WATER 400ML.jpg]
+
+File to: [build/img/SIMPLE MICELLAR CLEANSING WATER 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SIMPLE OIL BE GONE MICELLAR CLEANSING WATER 400ML.jpg]
+
+File to: [build/img/SIMPLE OIL BE GONE MICELLAR CLEANSING WATER 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SIMPLE PURE SOAP 2S.jpg]
+
+File to: [build/img/SIMPLE PURE SOAP 2S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SIMPLE SENSITIVE CLEANSING WIPES 25 WIPES.jpg]
+
+File to: [build/img/SIMPLE SENSITIVE CLEANSING WIPES 25 WIPES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SIMPLIFY CORRECTION SET HS-100903.jpg]
+
+File to: [build/img/SIMPLIFY CORRECTION SET HS-100903.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SIMPLY NATURE COCONUT OIL 414ML.jpg]
+
+File to: [build/img/SIMPLY NATURE COCONUT OIL 414ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SIMPLY NATURE LINGUINE 454G.jpg]
+
+File to: [build/img/SIMPLY NATURE LINGUINE 454G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SIMPLY NATURE ORG COCONUT 414ML.jpg]
+
+File to: [build/img/SIMPLY NATURE ORG COCONUT 414ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SIMPLY NATURE SPAGHETTI 454G.jpg]
+
+File to: [build/img/SIMPLY NATURE SPAGHETTI 454G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SIMPLY PENNE MACARONI 500G.jpg]
+
+File to: [build/img/SIMPLY PENNE MACARONI 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SIMVASTATIN 10MG(CRESCENT )X 28.jpg]
+
+File to: [build/img/SIMVASTATIN 10MG(CRESCENT )X 28.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SIMVASTATIN 20MG ( TEVA).jpg]
+
+File to: [build/img/SIMVASTATIN 20MG ( TEVA).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SIMVASTATIN 20MG X 28.jpg]
+
+File to: [build/img/SIMVASTATIN 20MG X 28.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SINEMET 25_250MG.jpg]
+
+File to: [build/img/SINEMET 25_250MG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SINGLE ROSE FLOWER.jpg]
+
+File to: [build/img/SINGLE ROSE FLOWER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SINUTABS X 15.jpg]
+
+File to: [build/img/SINUTABS X 15.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SIR EDWARS SMOKY WHISKY 70CL.jpg]
+
+File to: [build/img/SIR EDWARS SMOKY WHISKY 70CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SIRDALUD TABS 2MG X 10.jpg]
+
+File to: [build/img/SIRDALUD TABS 2MG X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SIRDALUD TABS 4MG X 10.jpg]
+
+File to: [build/img/SIRDALUD TABS 4MG X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SIRELLA 10 FISH FINGERS 250G.png]
+
+File to: [build/img/SIRELLA 10 FISH FINGERS 250G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SIRELLA 18 FISH FINGERS 450G.jpg]
+
+File to: [build/img/SIRELLA 18 FISH FINGERS 450G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SIRELLA 4 FISH BURGER 400G.png]
+
+File to: [build/img/SIRELLA 4 FISH BURGER 400G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAIN

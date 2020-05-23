@@ -1,0 +1,139 @@
+File from: [src/img/PREMIER LIME FRESH ANTISEPTIC LIQUID 500ML.jpg]
+
+File to: [build/img/PREMIER LIME FRESH ANTISEPTIC LIQUID 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Premier Toilet Bar Soap 175g.jpg]
+
+File to: [build/img/Premier Toilet Bar Soap 175g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Premier Toilet Bar Soap 120g x 48.jpg]
+
+File to: [build/img/Premier Toilet Bar Soap 120g x 48.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Premier Toilet Bar Soap 60g x 100.jpg]
+
+File to: [build/img/Premier Toilet Bar Soap 60g x 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER TOILET SOAP MILK 70G.jpg]
+
+File to: [build/img/PREMIER TOILET SOAP MILK 70G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER TOILET SOAP PEACH 175.jpg]
+
+File to: [build/img/PREMIER TOILET SOAP PEACH 175.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER TOLET SOAP PEACH 70G.jpg]
+
+File to: [build/img/PREMIER TOLET SOAP PEACH 70G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER-COOL-ANTISEPTIC-BAR-SOAP-110G-6151100310033-510x510.jpg]
+
+File to: [build/img/PREMIER-COOL-ANTISEPTIC-BAR-SOAP-110G-6151100310033-510x510.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/premierlime-1000x1000.jpg]
+
+File to: [build/img/premierlime-1000x1000.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREPARATION MEDICATED WIPES WITH ALOE.jpg]
+
+File to: [build/img/PREPARATION MEDICATED WIPES WITH ALOE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRESIDENT AMBA. UNSALTED 200G.jpg]
+
+File to: [build/img/PRESIDENT AMBA. UNSALTED 200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRESIDENT CHEESE CUBES.jpg]
+
+File to: [build/img/PRESIDENT CHEESE CUBES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRESIDENT EMMENTAL BLOCK CHEESE.jpg]
+
+File to: [build/img/PRESIDENT EMMENTAL BLOCK CHEESE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRESIDENT SALTED BUTTER 200GR.jpg]
+
+File to: [build/img/PRESIDENT SALTED BUTTER 200GR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRESIDENT SEMI-SKIMMED MILK 1L.jpg]
+
+File to: [build/img/PRESIDENT SEMI-SKIMMED MILK 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRESIDENT SANDWICH GOUDA CHEESE 200G.jpg]
+
+File to: [build/img/PRESIDENT SANDWICH GOUDA CHEESE 200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER COOL ANTI-BACTERIAL ULTIMATE 65G.jpg]
+
+File to: [build/img/PREMIER COOL ANTI-BACTERIAL ULTIMATE 65G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRESIDENT SLICED BURGER CHEDDER CHEESE 200GR.jpg]
+
+File to: [build/img/PRESIDENT SLICED BURGER CHEDDER CHEESE 200GR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRESIDENT SLICED CHEDDAR CHEESE 200GR.jpg]
+
+File to: [build/img/PRESIDENT SLICED CHEDDAR CHEESE 200GR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRESIDENT SLICED EMMENTAL CHEESE 200GR.png]
+
+File to: [build/img/PRESIDENT SLICED EMMENTAL CHEESE 200GR.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/PRESIDENT SLICED LIGHT CHEESE 200GR.png]
+
+File to: [build/img/PRESIDENT SLICED LIGHT CHEESE 200GR.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/PRESIDENT SLICED MOZZARELLA CHEESE 200GR.jpg]
+
+File to: [build/img/PRESIDENT SLICED MOZZARELLA CHEESE 200GR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRESIDENT SPRAY CREAM 250GR.png]
+
+File to: [build/img/PRESIDENT SPRAY CREAM 250GR.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAIN

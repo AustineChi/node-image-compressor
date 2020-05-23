@@ -1,0 +1,55 @@
+File from: [src/img/FRESH N CLEAN OAT MEAL SHAMPOO 533ML.jpg]
+
+File to: [build/img/FRESH N CLEAN OAT MEAL SHAMPOO 533ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FRESH ROOM FURNITURE POLISH 400ML.jpg]
+
+File to: [build/img/FRESH ROOM FURNITURE POLISH 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FRESH N CLEAN WATERLESS SHAMPOO 355ML.jpg]
+
+File to: [build/img/FRESH N CLEAN WATERLESS SHAMPOO 355ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/fresh seas cod liver oill x30.jpg]
+
+File to: [build/img/fresh seas cod liver oill x30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FRESH YO 400ML PLAIN.jpg]
+
+File to: [build/img/FRESH YO 400ML PLAIN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Fresh Yo Drinking Yoghurt 750ml.jpg]
+
+File to: [build/img/Fresh Yo Drinking Yoghurt 750ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Fresh Yo Drinking Yoghurt 750ml(1).jpg]
+
+File to: [build/img/Fresh Yo Drinking Yoghurt 750ml(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FRESH YO PLAIN 750ML.jpg]
+
+File to: [build/img/FRESH YO PLAIN 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FRESH YO PLAIN SWEET 115ML.jpg]
+
+File to: [build/img/FRESH YO PLAIN SWEET 115ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

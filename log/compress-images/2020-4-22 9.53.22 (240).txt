@@ -1,0 +1,151 @@
+File from: [src/img/DUMCHI EGGS X 30.jpg]
+
+File to: [build/img/DUMCHI EGGS X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUMCHI IJEBU GARRI 1KG.jpg]
+
+File to: [build/img/DUMCHI IJEBU GARRI 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUMCHI IJEBU GARRI 3KG.png]
+
+File to: [build/img/DUMCHI IJEBU GARRI 3KG.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DUMCHI PALM OIL 1L.jpg]
+
+File to: [build/img/DUMCHI PALM OIL 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUMCHI PALM OIL 5 LITRE.jpg]
+
+File to: [build/img/DUMCHI PALM OIL 5 LITRE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUMCHI PALM OIL 500ML.jpg]
+
+File to: [build/img/DUMCHI PALM OIL 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dumchi Premium White Garri 1kg.png]
+
+File to: [build/img/Dumchi Premium White Garri 1kg.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Dumchi Stock Fish Powder.jpg]
+
+File to: [build/img/Dumchi Stock Fish Powder.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUMCHI YELLOW GARRI 2.5KG.JPG]
+
+File to: [build/img/DUMCHI YELLOW GARRI 2.5KG.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dunhill Desire Blue For A Man 100ml x 10.jpg]
+
+File to: [build/img/Dunhill Desire Blue For A Man 100ml x 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dunhill Light Cigratte x 10.jpg]
+
+File to: [build/img/Dunhill Light Cigratte x 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUNHILL LIGHTS.jpg]
+
+File to: [build/img/DUNHILL LIGHTS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUMCHI EGGS X 15.jpg]
+
+File to: [build/img/DUMCHI EGGS X 15.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dunhill Switch Cigratte x 10.jpg]
+
+File to: [build/img/Dunhill Switch Cigratte x 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUODART CAPS 0.5MG 0.4MG X 30.jpg]
+
+File to: [build/img/DUODART CAPS 0.5MG 0.4MG X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUMCHI EGGS X 6.jpg]
+
+File to: [build/img/DUMCHI EGGS X 6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Duotrav Eye drops 40mcg-ml+5mg-ml 2.5ml.jpg]
+
+File to: [build/img/Duotrav Eye drops 40mcg-ml+5mg-ml 2.5ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Duracel Battery D Cell x 10.png]
+
+File to: [build/img/Duracel Battery D Cell x 10.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Duracel Battery D Cell.jpg]
+
+File to: [build/img/Duracel Battery D Cell.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DURACELL AA 2`S.jpg]
+
+File to: [build/img/DURACELL AA 2`S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUMCHI EGGS X 12.jpg]
+
+File to: [build/img/DUMCHI EGGS X 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DURACELL AA 4`S.jpg]
+
+File to: [build/img/DURACELL AA 4`S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DURACELL AA 8`S.jpg]
+
+File to: [build/img/DURACELL AA 8`S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Duracell AA Batteries x2.jpg]
+
+File to: [build/img/Duracell AA Batteries x2.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Duracell AA Batteries x4.jpg]
+
+File to: [build/img/Duracell AA Batteries x4.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

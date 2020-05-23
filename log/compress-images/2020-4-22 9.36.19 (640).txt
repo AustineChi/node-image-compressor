@@ -1,0 +1,289 @@
+File from: [src/img/CH-GEOMETRIC STACKER AGE 2+.jpg]
+
+File to: [build/img/CH-GEOMETRIC STACKER AGE 2+.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-GIANT FIRE TRUCK FLOOR...jpg]
+
+File to: [build/img/CH-GIANT FIRE TRUCK FLOOR...jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-GIDDY BUGGY BOWELING SET.jpg]
+
+File to: [build/img/CH-GIDDY BUGGY BOWELING SET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-HANGMAN FLIP TO WIN AGE 6+.jpg]
+
+File to: [build/img/CH-HANGMAN FLIP TO WIN AGE 6+.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-HAPPY HANDLE STAMPS.jpg]
+
+File to: [build/img/CH-HAPPY HANDLE STAMPS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-HELP YOUR KIDS ENGLISHByCAROL VORDERMAN.jpg]
+
+File to: [build/img/CH-HELP YOUR KIDS ENGLISHByCAROL VORDERMAN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-HELP YOUR KIDS MATHSByCAROL VORDERMAN.jpg]
+
+File to: [build/img/CH-HELP YOUR KIDS MATHSByCAROL VORDERMAN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-GINGERSNAPS P CByCATHY CASSIDY.jpg]
+
+File to: [build/img/CH-GINGERSNAPS P CByCATHY CASSIDY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-HELP YOUR KIDS WITH MUSICByCAROL VORDERMAN.jpg]
+
+File to: [build/img/CH-HELP YOUR KIDS WITH MUSICByCAROL VORDERMAN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-HOUSE OF ROBOTS(..GO WILD)ByJAMES PATTERSON.jpg]
+
+File to: [build/img/CH-HOUSE OF ROBOTS(..GO WILD)ByJAMES PATTERSON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-HOUSE OF ROBOTS(REVOLUTION)ByJAMES PATTERSON.jpg]
+
+File to: [build/img/CH-HOUSE OF ROBOTS(REVOLUTION)ByJAMES PATTERSON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-HOW I SURVIVED BULLIES..ByJAMES PATTERSON.jpg]
+
+File to: [build/img/CH-HOW I SURVIVED BULLIES..ByJAMES PATTERSON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-HUMAN ANATOMY FLOOR PUZZLE .jpg]
+
+File to: [build/img/CH-HUMAN ANATOMY FLOOR PUZZLE .jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-JACKY HA-HA PCByJAMES PATTERSON.jpg]
+
+File to: [build/img/CH-JACKY HA-HA PCByJAMES PATTERSON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-INDIGO BLUE P CByCATHY CASSIDY.jpg]
+
+File to: [build/img/CH-INDIGO BLUE P CByCATHY CASSIDY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-HELP YOUR KIDS TIMES TABLESByCAROL VORDERMAN.jpg]
+
+File to: [build/img/CH-HELP YOUR KIDS TIMES TABLESByCAROL VORDERMAN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-HELP YOUR KIDS SCIENCEByCAROL VORDERMAN.jpg]
+
+File to: [build/img/CH-HELP YOUR KIDS SCIENCEByCAROL VORDERMAN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-JACKY HA-HA(MY LIFE JOKE)ByJAMES PATTERSON.jpg]
+
+File to: [build/img/CH-JACKY HA-HA(MY LIFE JOKE)ByJAMES PATTERSON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-JUMBO KNOB_GEOMETRIC SHAPES.jpg]
+
+File to: [build/img/CH-JUMBO KNOB_GEOMETRIC SHAPES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-JUMBO KNOB-FARM FRIENDS.jpg]
+
+File to: [build/img/CH-JUMBO KNOB-FARM FRIENDS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-JUMBO KNOB-HOUSE PETS.jpg]
+
+File to: [build/img/CH-JUMBO KNOB-HOUSE PETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-KEY WORDS-HOLIDAY CAMPByPETER AND JANE.jpg]
+
+File to: [build/img/CH-KEY WORDS-HOLIDAY CAMPByPETER AND JANE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-KEY WORDS-MORE SOUNDS TO 5CByPETER AND JANE.jpg]
+
+File to: [build/img/CH-KEY WORDS-MORE SOUNDS TO 5CByPETER AND JANE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-KEY WORDS-OUR FRIENDSByPETER AND JANE.jpg]
+
+File to: [build/img/CH-KEY WORDS-OUR FRIENDSByPETER AND JANE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-KEY WORDS-THE CARNIVAL 11BByPETER AND JANE.jpg]
+
+File to: [build/img/CH-KEY WORDS-THE CARNIVAL 11BByPETER AND JANE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-KEYWORD-ADVENTURE CASTLE10BByPETER AND JANE.jpg]
+
+File to: [build/img/CH-KEYWORD-ADVENTURE CASTLE10BByPETER AND JANE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-KEYWORD-MOUNTAIN ADVTUR 12BByPETER AND JANE.jpg]
+
+File to: [build/img/CH-KEYWORD-MOUNTAIN ADVTUR 12BByPETER AND JANE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-LACING BEADS.jpg]
+
+File to: [build/img/CH-LACING BEADS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-LEARN-TO-PLAY PIANO.jpg]
+
+File to: [build/img/CH-LEARN-TO-PLAY PIANO.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-LIFE IS SWEET A CHOCOLATEByCATHY CASSIDY.jpg]
+
+File to: [build/img/CH-LIFE IS SWEET A CHOCOLATEByCATHY CASSIDY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-LUCKY STAR P CByCATHY CASSIDY.jpg]
+
+File to: [build/img/CH-LUCKY STAR P CByCATHY CASSIDY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-MAGNETIC CHALK & DRY-ERASE..jpg]
+
+File to: [build/img/CH-MAGNETIC CHALK & DRY-ERASE..jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-MAGNETIC MONTHLY CALENDAR.jpg]
+
+File to: [build/img/CH-MAGNETIC MONTHLY CALENDAR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-MAGNETIC PATTERN BLOCK KIT.jpg]
+
+File to: [build/img/CH-MAGNETIC PATTERN BLOCK KIT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-MAGNETIC RESPONSIBILITY...jpg]
+
+File to: [build/img/CH-MAGNETIC RESPONSIBILITY...jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-MAGNETIC WOODEN ALPHABET   .jpg]
+
+File to: [build/img/CH-MAGNETIC WOODEN ALPHABET   .jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-MAGNETIC WOODEN NUMBERS    .jpg]
+
+File to: [build/img/CH-MAGNETIC WOODEN NUMBERS    .jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-MEGA RACE CAR CARRIER.jpg]
+
+File to: [build/img/CH-MEGA RACE CAR CARRIER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-MS HOLLYWOOD 101ByJAMES PATTERSON.jpg]
+
+File to: [build/img/CH-MS HOLLYWOOD 101ByJAMES PATTERSON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-MS I EVEN FUNNIER STORYByJAMES PATTERSON.jpg]
+
+File to: [build/img/CH-MS I EVEN FUNNIER STORYByJAMES PATTERSON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-MS I TOTALLY FUNNIEST STORYByJAMES PATTERSON.jpg]
+
+File to: [build/img/CH-MS I TOTALLY FUNNIEST STORYByJAMES PATTERSON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-MS JUST MY ROTTEN LUCKByJAMES PATTERSON.jpg]
+
+File to: [build/img/CH-MS JUST MY ROTTEN LUCKByJAMES PATTERSON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-MS MY BROTHER BIG LIARByJAMES PATTERSON.jpg]
+
+File to: [build/img/CH-MS MY BROTHER BIG LIARByJAMES PATTERSON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-MSS DOG'S BEST FRIENDByJAMES PATTERSON AND CHRIS TEBBETTS.jpg]
+
+File to: [build/img/CH-MSS DOG'S BEST FRIENDByJAMES PATTERSON AND CHRIS TEBBETTS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-MSS HOUSE OF ROBOTSByJAMES PATTERSON.jpg]
+
+File to: [build/img/CH-MSS HOUSE OF ROBOTSByJAMES PATTERSON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-MSS ESCAPE TO AUSTRALIAByJAMES PATTERSON.jpg]
+
+File to: [build/img/CH-MSS ESCAPE TO AUSTRALIAByJAMES PATTERSON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-MSS I FUNNYByJAMES PATTERSON.jpg]
+
+File to: [build/img/CH-MSS I FUNNYByJAMES PATTERSON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-MSS ULTIMATE SHOWDOWNByJAMES PATTERSON.jpg]
+
+File to: [build/img/CH-MSS ULTIMATE SHOWDOWNByJAMES PATTERSON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

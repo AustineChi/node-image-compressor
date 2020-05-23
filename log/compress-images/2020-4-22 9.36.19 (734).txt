@@ -1,0 +1,49 @@
+File from: [src/img/PURITAN`S PRIDE BIOTIN 500MCG X 60 CAPSULES.jpg]
+
+File to: [build/img/PURITAN`S PRIDE BIOTIN 500MCG X 60 CAPSULES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE E 450MG(1000IU) X 50.jpg]
+
+File to: [build/img/PURITAN`S PRIDE E 450MG(1000IU) X 50.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE COQ10 100MG X 60.jpg]
+
+File to: [build/img/PURITAN`S PRIDE COQ10 100MG X 60.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE FERROUS SULPHATE 28MG X 100.jpg]
+
+File to: [build/img/PURITAN`S PRIDE FERROUS SULPHATE 28MG X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE FOLATE 666MCG DFE X 250MG.jpg]
+
+File to: [build/img/PURITAN`S PRIDE FOLATE 666MCG DFE X 250MG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE HAWTHORN BERRIES 565MG.jpg]
+
+File to: [build/img/PURITAN`S PRIDE HAWTHORN BERRIES 565MG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE MELATONIN 1MG X 90.jpg]
+
+File to: [build/img/PURITAN`S PRIDE MELATONIN 1MG X 90.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE MACA 1000MG X 60.jpg]
+
+File to: [build/img/PURITAN`S PRIDE MACA 1000MG X 60.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

@@ -1,0 +1,49 @@
+File from: [src/img/GENERAL FRESH TOILET LIQUID CLEANER PINE NEW.jpg]
+
+File to: [build/img/GENERAL FRESH TOILET LIQUID CLEANER PINE NEW.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENERAL FRESH TOILET LIQUID LEMON NEW 1LTR.jpg]
+
+File to: [build/img/GENERAL FRESH TOILET LIQUID LEMON NEW 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENERAL FRESH TOILET LIQUID ORANGE FRESH NEW.jpg]
+
+File to: [build/img/GENERAL FRESH TOILET LIQUID ORANGE FRESH NEW.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/General Fresh Tri-Force WC Block 45g.png]
+
+File to: [build/img/General Fresh Tri-Force WC Block 45g.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GENERAL LUCKY CHARMS FROSTED FLASK 391G.jpg]
+
+File to: [build/img/GENERAL LUCKY CHARMS FROSTED FLASK 391G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENERAL MIILS BUGLES ORIGINAL 104G.jpeg]
+
+File to: [build/img/GENERAL MIILS BUGLES ORIGINAL 104G.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENERAL MIILS CHOCOLATE LUCKY CHARM 340G.jpg]
+
+File to: [build/img/GENERAL MIILS CHOCOLATE LUCKY CHARM 340G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENERAL MIILS LUCKY CHARM 422G.JPG]
+
+File to: [build/img/GENERAL MIILS LUCKY CHARM 422G.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

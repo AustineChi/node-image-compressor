@@ -1,0 +1,115 @@
+File from: [src/img/GRAND PURE SOYA OIL 18 LITRES.jpg]
+
+File to: [build/img/GRAND PURE SOYA OIL 18 LITRES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grand Pure Soya Oil 3.75Ltrs.jpg]
+
+File to: [build/img/Grand Pure Soya Oil 3.75Ltrs.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grand Pure Soya Oil 3.75Ltrs(1).jpg]
+
+File to: [build/img/Grand Pure Soya Oil 3.75Ltrs(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAND PURE SOYA OIL 2.75L.jpg]
+
+File to: [build/img/GRAND PURE SOYA OIL 2.75L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAND RED PEPPER PER KG.jpeg]
+
+File to: [build/img/GRAND RED PEPPER PER KG.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grand Soya Veg Oil 4Liters.jpg]
+
+File to: [build/img/Grand Soya Veg Oil 4Liters.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grand Soya Veg Oil 4Liters(1).jpg]
+
+File to: [build/img/Grand Soya Veg Oil 4Liters(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAND SPRING ROLLS.jpg]
+
+File to: [build/img/GRAND SPRING ROLLS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAND SWEET CORN.png]
+
+File to: [build/img/GRAND SWEET CORN.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GRAND SWEET POTATOS.jpg]
+
+File to: [build/img/GRAND SWEET POTATOS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAND TATASHE.jpg]
+
+File to: [build/img/GRAND TATASHE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAND TITUS FISH.jpg]
+
+File to: [build/img/GRAND TITUS FISH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAND TOMATOES PER PACK.jpg]
+
+File to: [build/img/GRAND TOMATOES PER PACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAND TUNA CLUB SANDWICH.jpg]
+
+File to: [build/img/GRAND TUNA CLUB SANDWICH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAND UAC CORN FLAKES 350G.jpg]
+
+File to: [build/img/GRAND UAC CORN FLAKES 350G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAND YAM PER PC.jpg]
+
+File to: [build/img/GRAND YAM PER PC.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/grand_square.png]
+
+File to: [build/img/grand_square.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GRAND YELLOW PEPPER PER KG.jpg]
+
+File to: [build/img/GRAND YELLOW PEPPER PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/grand_square2.png]
+
+File to: [build/img/grand_square2.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAIN

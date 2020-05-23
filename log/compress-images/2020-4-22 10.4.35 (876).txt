@@ -1,0 +1,91 @@
+File from: [src/img/Toblerone Dark Chocolate 100g x 20.jpg]
+
+File to: [build/img/Toblerone Dark Chocolate 100g x 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Toblerone Swiss Milk Chocolate 100g.jpg]
+
+File to: [build/img/Toblerone Swiss Milk Chocolate 100g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Toblerone Swiss Milk Chocolate 200g.jpg]
+
+File to: [build/img/Toblerone Swiss Milk Chocolate 200g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TOBLERONE SWISS MILK CHOCOLATE 200G.png]
+
+File to: [build/img/TOBLERONE SWISS MILK CHOCOLATE 200G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/TOBREX EYE DROP 5ML.jpg]
+
+File to: [build/img/TOBREX EYE DROP 5ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TOILET BLOCKS ACE GREEN 50G.png]
+
+File to: [build/img/TOILET BLOCKS ACE GREEN 50G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/TOILET PLUNGER.jpg]
+
+File to: [build/img/TOILET PLUNGER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TOILET ROLL PACK OF 6 2PLY VIDA FAMILY.jpg]
+
+File to: [build/img/TOILET ROLL PACK OF 6 2PLY VIDA FAMILY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TOBLERONE SWISS MILK CHOCOLATE 100G.png]
+
+File to: [build/img/TOBLERONE SWISS MILK CHOCOLATE 100G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Tokyo Airfresher gel 8g x 72.jpg]
+
+File to: [build/img/Tokyo Airfresher gel 8g x 72.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Tokyo Airfresher gel 8g.jpg]
+
+File to: [build/img/Tokyo Airfresher gel 8g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TOILET ROLL PREMIUM 2PLY VIDA.jpg]
+
+File to: [build/img/TOILET ROLL PREMIUM 2PLY VIDA.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/tolaram.jpeg]
+
+File to: [build/img/tolaram.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TOM TOM FRESHLIME NEW 40S.jpg]
+
+File to: [build/img/TOM TOM FRESHLIME NEW 40S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TOM TOM 4.2G.jpg]
+
+File to: [build/img/TOM TOM 4.2G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

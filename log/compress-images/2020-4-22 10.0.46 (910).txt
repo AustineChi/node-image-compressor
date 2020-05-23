@@ -1,0 +1,91 @@
+File from: [src/img/PEPSODENT 3 PROTECTION NATURAL 50X140G.jpg]
+
+File to: [build/img/PEPSODENT 3 PROTECTION NATURAL 50X140G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEPSODENT 3 PROTECTION ORGN 50X140G - CARTON.jpg]
+
+File to: [build/img/PEPSODENT 3 PROTECTION ORGN 50X140G - CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pepsodent Cavity Fi Toothpaste 140g x 50.jpg]
+
+File to: [build/img/Pepsodent Cavity Fi Toothpaste 140g x 50.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEPSODENT 3 PROTECTION NATURAL 50X140G - CARTON.jpg]
+
+File to: [build/img/PEPSODENT 3 PROTECTION NATURAL 50X140G - CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEPSODENT 123.jpg]
+
+File to: [build/img/PEPSODENT 123.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEPSODENT CAVITY FIGHTER 10g - CARTON.jpg]
+
+File to: [build/img/PEPSODENT CAVITY FIGHTER 10g - CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEPSODENT 3 PROTECTION ORIGINAL 50X140G.jpg]
+
+File to: [build/img/PEPSODENT 3 PROTECTION ORIGINAL 50X140G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEPSODENT CAVITY FIGHTER 50X140G - CARTON.jpg]
+
+File to: [build/img/PEPSODENT CAVITY FIGHTER 50X140G - CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEPSODENT JUNIOR TOOTHBRUSH.jpg]
+
+File to: [build/img/PEPSODENT JUNIOR TOOTHBRUSH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEPSODENT KIDS TOOTHBRUSH.jpg]
+
+File to: [build/img/PEPSODENT KIDS TOOTHBRUSH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pepsodent Sen Expert Original TP 100gx54.jpg]
+
+File to: [build/img/Pepsodent Sen Expert Original TP 100gx54.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEPSODENT CAVITY FIGHTER 140G.jpg]
+
+File to: [build/img/PEPSODENT CAVITY FIGHTER 140G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pepsodent Sen Expert Whitening 100g x 54.jpg]
+
+File to: [build/img/Pepsodent Sen Expert Whitening 100g x 54.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pepsodent 123 Protection Toothpaste 140g.jpg]
+
+File to: [build/img/Pepsodent 123 Protection Toothpaste 140g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pepsodent Sen Expert Gum Care 100g x 54.jpg]
+
+File to: [build/img/Pepsodent Sen Expert Gum Care 100g x 54.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

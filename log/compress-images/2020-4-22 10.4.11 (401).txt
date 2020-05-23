@@ -1,0 +1,163 @@
+File from: [src/img/V- Kang Instant Ginger drink 20 X 24.jpg]
+
+File to: [build/img/V- Kang Instant Ginger drink 20 X 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/UZIZA LEAF.jpg]
+
+File to: [build/img/UZIZA LEAF.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VAGISIL CREAM 30GM.jpg]
+
+File to: [build/img/VAGISIL CREAM 30GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Vaccine Tetanus X1.jpg]
+
+File to: [build/img/Vaccine Tetanus X1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VALENTINE CARDS BIG.jpg]
+
+File to: [build/img/VALENTINE CARDS BIG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Valentino Sparkling Grape Juice 75cl x12.jpg]
+
+File to: [build/img/Valentino Sparkling Grape Juice 75cl x12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VALENTINE CARDS SMALL.jpg]
+
+File to: [build/img/VALENTINE CARDS SMALL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Valentino Sparkling Red Wine 33cl x 24.jpg]
+
+File to: [build/img/Valentino Sparkling Red Wine 33cl x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VALIO LACTOSE FREE SEMI SKIMMED MILK POWDER.jpg]
+
+File to: [build/img/VALIO LACTOSE FREE SEMI SKIMMED MILK POWDER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Valupak Evening Primrose 500MG X 30.jpg]
+
+File to: [build/img/Valupak Evening Primrose 500MG X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Valupak glucosamine& chondrotin .jpg]
+
+File to: [build/img/Valupak glucosamine& chondrotin .jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Valupak multivitamins + iron x30 .jpg]
+
+File to: [build/img/Valupak multivitamins + iron x30 .jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Valupak omega 3 fish oil x30.jpg]
+
+File to: [build/img/Valupak omega 3 fish oil x30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Vanilla Banana shakes.jpg]
+
+File to: [build/img/Vanilla Banana shakes.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Valupak vit b complex x30.jpg]
+
+File to: [build/img/Valupak vit b complex x30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VANILLA SUGAR BODY BUTTER CREAM 200ML.jpg]
+
+File to: [build/img/VANILLA SUGAR BODY BUTTER CREAM 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Vanzon Xpro.jpg]
+
+File to: [build/img/Vanzon Xpro.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VANISH OXI ACTION 450G.jpg]
+
+File to: [build/img/VANISH OXI ACTION 450G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VARTA LITHIUM CR1225.jpg]
+
+File to: [build/img/VARTA LITHIUM CR1225.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Varta High Energy Battery C cell.jpg]
+
+File to: [build/img/Varta High Energy Battery C cell.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VARTA POWER BANK 2600MAH BLACK.jpg]
+
+File to: [build/img/VARTA POWER BANK 2600MAH BLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VARTA POWER BANK 5200MAH SILVER.jpg]
+
+File to: [build/img/VARTA POWER BANK 5200MAH SILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VARTA PROFESSIONAL ELECTRONIC BATTERY CR2016.jpg]
+
+File to: [build/img/VARTA PROFESSIONAL ELECTRONIC BATTERY CR2016.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VARTA PROFESSIONAL ELECTRONICS V23GA.jpg]
+
+File to: [build/img/VARTA PROFESSIONAL ELECTRONICS V23GA.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VARTA SUPERLIFE AA BLISTER 4.jpg]
+
+File to: [build/img/VARTA SUPERLIFE AA BLISTER 4.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VARTA SUPERLIFE AAA 4 copy.jpg]
+
+File to: [build/img/VARTA SUPERLIFE AAA 4 copy.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VARTA V364SR60 SILVER.jpg]
+
+File to: [build/img/VARTA V364SR60 SILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

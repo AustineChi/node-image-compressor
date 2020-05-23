@@ -1,0 +1,217 @@
+File from: [src/img/FIESTA MOZZARELLA BLOCKS (± 2.3 KG).jpg]
+
+File to: [build/img/FIESTA MOZZARELLA BLOCKS (± 2.3 KG).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FIESTA THIN CUT 7 7 MM (2.5KG).jpg]
+
+File to: [build/img/FIESTA THIN CUT 7 7 MM (2.5KG).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FILIPPO BERIO EXTRA VIRGIN OLIVE OIL 250ML.jpg]
+
+File to: [build/img/FILIPPO BERIO EXTRA VIRGIN OLIVE OIL 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Fijk Flusher Caps x30.jpg]
+
+File to: [build/img/Fijk Flusher Caps x30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FINETEX SERVIETTES.jpg]
+
+File to: [build/img/FINETEX SERVIETTES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FINTEX JUMBO TOILET PAPER.png]
+
+File to: [build/img/FINTEX JUMBO TOILET PAPER.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/FIRST AID BOX EMPTY BIG SIZE.jpg]
+
+File to: [build/img/FIRST AID BOX EMPTY BIG SIZE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FIESTA FRENCH FRIES 10 10 MM 2.5KG.jpg]
+
+File to: [build/img/FIESTA FRENCH FRIES 10 10 MM 2.5KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FIRST AID EMPTY BOX MEDIUM.png]
+
+File to: [build/img/FIRST AID EMPTY BOX MEDIUM.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/FISH FILLET.jpg]
+
+File to: [build/img/FISH FILLET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Fisher-Price Baby_s First Blocks with Storage Bucket.jpg]
+
+File to: [build/img/Fisher-Price Baby_s First Blocks with Storage Bucket.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Fisherman soup 2LTRS.jpg]
+
+File to: [build/img/Fisherman soup 2LTRS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Fisher-Price Thomas _ Friends™ Wood Tidmouth Sheds Playset.jpeg]
+
+File to: [build/img/Fisher-Price Thomas _ Friends™ Wood Tidmouth Sheds Playset.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FISHERMANS FRIEND ANISEED X 25G.jpg]
+
+File to: [build/img/FISHERMANS FRIEND ANISEED X 25G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FISHERMANS FRIEND BLACKCURRANT X 25G.jpg]
+
+File to: [build/img/FISHERMANS FRIEND BLACKCURRANT X 25G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FISHERMANS FRIEND CHERRY X 25G.jpg]
+
+File to: [build/img/FISHERMANS FRIEND CHERRY X 25G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FISHERMANS FRIEND EXTRA STRONG X 25G.jpg]
+
+File to: [build/img/FISHERMANS FRIEND EXTRA STRONG X 25G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FISHERMANS FRIEND HONEY AND LEMON X 25G.jpg]
+
+File to: [build/img/FISHERMANS FRIEND HONEY AND LEMON X 25G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FISHERMANS FRIEND LEMON SF X 25G.jpg]
+
+File to: [build/img/FISHERMANS FRIEND LEMON SF X 25G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FISHERMANS FRIEND ORIGINAL X 25G.jpg]
+
+File to: [build/img/FISHERMANS FRIEND ORIGINAL X 25G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FIT ME CONCEALER DEEP 35.jpg]
+
+File to: [build/img/FIT ME CONCEALER DEEP 35.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FIT ME CONCEALER HAZELNUT 55.jpg]
+
+File to: [build/img/FIT ME CONCEALER HAZELNUT 55.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FIT ME CONCEALER TAN 50.jpg]
+
+File to: [build/img/FIT ME CONCEALER TAN 50.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FIT-ME CONCEALER CARAMEL 40.jpg]
+
+File to: [build/img/FIT-ME CONCEALER CARAMEL 40.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FIT-ME CONCEALER COCOA 60.jpg]
+
+File to: [build/img/FIT-ME CONCEALER COCOA 60.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FIT-ME CONCEALER TOFFEE 45.jpg]
+
+File to: [build/img/FIT-ME CONCEALER TOFFEE 45.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FITME MATTE + PORELESS FOUNDATION CARAMEL 350.jpg]
+
+File to: [build/img/FITME MATTE + PORELESS FOUNDATION CARAMEL 350.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FITME MATTE + PORELESS FOUNDATION GOLDEN 332.jpg]
+
+File to: [build/img/FITME MATTE + PORELESS FOUNDATION GOLDEN 332.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FITME MATTE + PORELESS FOUNDATION ESPRESSO 365.jpg]
+
+File to: [build/img/FITME MATTE + PORELESS FOUNDATION ESPRESSO 365.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FITME MATTE + PORELESS FOUNDATION TOFFEE 330.jpg]
+
+File to: [build/img/FITME MATTE + PORELESS FOUNDATION TOFFEE 330.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FITME MATTE + PORELESS FOUNDATION MOCHA 360.jpg]
+
+File to: [build/img/FITME MATTE + PORELESS FOUNDATION MOCHA 360.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FITME MATTE + PORELESS FOUNDATION PECAN 355.jpg]
+
+File to: [build/img/FITME MATTE + PORELESS FOUNDATION PECAN 355.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Fitness Bar CEREAL CHOCO HAZELNUT 23.5Gm.jpg]
+
+File to: [build/img/Fitness Bar CEREAL CHOCO HAZELNUT 23.5Gm.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FITME MATTE + PORELESS FOUNDATION TRUFFLE 352.jpg]
+
+File to: [build/img/FITME MATTE + PORELESS FOUNDATION TRUFFLE 352.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Fitness Bar Delice Milk Chocolate 22.5Gm.jpeg]
+
+File to: [build/img/Fitness Bar Delice Milk Chocolate 22.5Gm.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Fitness Bar Delice Choco Banana 23.5G.jpg]
+
+File to: [build/img/Fitness Bar Delice Choco Banana 23.5G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

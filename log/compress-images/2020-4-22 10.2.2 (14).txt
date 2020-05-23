@@ -1,0 +1,241 @@
+File from: [src/img/Morgan`s Hair Darkening Cream 125mlX6.jpg]
+
+File to: [build/img/Morgan`s Hair Darkening Cream 125mlX6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MORNING FRESH LIQ 450ML.jpg]
+
+File to: [build/img/MORNING FRESH LIQ 450ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MORNING FRESH LIQ ANTIBACTERIA 1000ML.jpg]
+
+File to: [build/img/MORNING FRESH LIQ ANTIBACTERIA 1000ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MORNING FRESH LIQ ZESTY LEMON 1L.jpg]
+
+File to: [build/img/MORNING FRESH LIQ ZESTY LEMON 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Morning Fresh Liquid Wash 250mlx24.jpg]
+
+File to: [build/img/Morning Fresh Liquid Wash 250mlx24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Morning Fresh Liquid Wash 450ml x 18.jpg]
+
+File to: [build/img/Morning Fresh Liquid Wash 450ml x 18.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Morning Fresh Liquid Wash 900ml x 12.jpg]
+
+File to: [build/img/Morning Fresh Liquid Wash 900ml x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Morning Fresh Scouring Powder 450g x 20.jpg]
+
+File to: [build/img/Morning Fresh Scouring Powder 450g x 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MORNING FRESH SCOURING POWDER 450G.jpg]
+
+File to: [build/img/MORNING FRESH SCOURING POWDER 450G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MORTEIN 500ML.jpg]
+
+File to: [build/img/MORTEIN 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MORTEIN A_PURPOSE KILLER 300ML SPRAY CAP.png]
+
+File to: [build/img/MORTEIN A_PURPOSE KILLER 300ML SPRAY CAP.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/MORTEIN A_PURPOSE KILLER 600ML.jpg]
+
+File to: [build/img/MORTEIN A_PURPOSE KILLER 600ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MORTEIN INS.POWER C&A KILLER 300ML.jpg]
+
+File to: [build/img/MORTEIN INS.POWER C&A KILLER 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mortein PG Cockroach Killer 300ml x 12.jpg]
+
+File to: [build/img/Mortein PG Cockroach Killer 300ml x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mortein PGard AIK Lemon 300ml x 12.jpg]
+
+File to: [build/img/Mortein PGard AIK Lemon 300ml x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mortein PGard AIK Lemon 600ml x 12.jpg]
+
+File to: [build/img/Mortein PGard AIK Lemon 600ml x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mortein PGard AIK Odoourless 300ml x 12.jpg]
+
+File to: [build/img/Mortein PGard AIK Odoourless 300ml x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MOSEGOR.jpg]
+
+File to: [build/img/MOSEGOR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Motrin (Ibuprofen) 200mg LiqCap. x20.jpg]
+
+File to: [build/img/Motrin (Ibuprofen) 200mg LiqCap. x20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Motrin PM (Ibu+Diphen) 200-38mg Cap. x20.jpg]
+
+File to: [build/img/Motrin PM (Ibu+Diphen) 200-38mg Cap. x20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MOUTON CADET GRAVES BLANC REV 75CL.jpg]
+
+File to: [build/img/MOUTON CADET GRAVES BLANC REV 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MOUTON CADET RES MEDOC 75CL.jpg]
+
+File to: [build/img/MOUTON CADET RES MEDOC 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MOUTON CADET RESERVE GRAVE ROUGE 75CL.jpg]
+
+File to: [build/img/MOUTON CADET RESERVE GRAVE ROUGE 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MOUTON CADET RESERVE ST EMILION 75CL.jpg]
+
+File to: [build/img/MOUTON CADET RESERVE ST EMILION 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mouton Cadet Sauvignon blanc 75CL.jpg]
+
+File to: [build/img/Mouton Cadet Sauvignon blanc 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MOVE FREE ADVANCED PLUS MSM TABS  X 80.jpg]
+
+File to: [build/img/MOVE FREE ADVANCED PLUS MSM TABS  X 80.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MOVE FREE ADVANCED PLUS MSM X 120.jpg]
+
+File to: [build/img/MOVE FREE ADVANCED PLUS MSM X 120.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Movers size 3.jpg]
+
+File to: [build/img/Movers size 3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MOXIE PARACETAMOL SYRUP 100ML.jpg]
+
+File to: [build/img/MOXIE PARACETAMOL SYRUP 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MOXIE VITAMIN C SYRUP 100ML.jpg]
+
+File to: [build/img/MOXIE VITAMIN C SYRUP 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MOXIEGIRLZ 60ML.jpg]
+
+File to: [build/img/MOXIEGIRLZ 60ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MOZZARELLA CHEESE.jpg]
+
+File to: [build/img/MOZZARELLA CHEESE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MQ Tablets x 10.jpg]
+
+File to: [build/img/MQ Tablets x 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mr Chef Refined Salt 1kg x 20.jpg]
+
+File to: [build/img/Mr Chef Refined Salt 1kg x 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mr Chef Refined Salt 500g x 40...jpg]
+
+File to: [build/img/Mr Chef Refined Salt 500g x 40...jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MR CHEF SALT 1KG.jpg]
+
+File to: [build/img/MR CHEF SALT 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MR CHEF SALT 250G.jpg]
+
+File to: [build/img/MR CHEF SALT 250G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MR CHEF SALT 500G.jpg]
+
+File to: [build/img/MR CHEF SALT 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mr Dowell_s Reserve Whisky 750ml x 12.jpg]
+
+File to: [build/img/Mr Dowell_s Reserve Whisky 750ml x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MORTEIN NG OIK 300ML SPRAY CAP.png]
+
+File to: [build/img/MORTEIN NG OIK 300ML SPRAY CAP.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAIN

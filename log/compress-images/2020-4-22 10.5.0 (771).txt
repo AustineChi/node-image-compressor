@@ -1,0 +1,109 @@
+File from: [src/img/Toshiba Alkaline Battery AA4.jpg]
+
+File to: [build/img/Toshiba Alkaline Battery AA4.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TOTAL CARE SENSITIVE MOUTHWASH 500ML.jpg]
+
+File to: [build/img/TOTAL CARE SENSITIVE MOUTHWASH 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TOTAL TEMPTATION BROW 130 DEEP BROWN.jpg]
+
+File to: [build/img/TOTAL TEMPTATION BROW 130 DEEP BROWN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TOTAL TEMPTATION MASCARA VERY BLACK.jpg]
+
+File to: [build/img/TOTAL TEMPTATION MASCARA VERY BLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TOWER GATE GINGER NUTS 300G.jpg]
+
+File to: [build/img/TOWER GATE GINGER NUTS 300G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TOTAL TEMPTATION EYE SHADOW PALETTE.jpg]
+
+File to: [build/img/TOTAL TEMPTATION EYE SHADOW PALETTE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TOUCH APPLYING BRUSH.jpg]
+
+File to: [build/img/TOUCH APPLYING BRUSH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TOUGHEES BY BATA SHOE.jpg]
+
+File to: [build/img/TOUGHEES BY BATA SHOE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TOWER GATE MILK CHOCO DIGESTIVES 300G.png]
+
+File to: [build/img/TOWER GATE MILK CHOCO DIGESTIVES 300G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/TOWER GATE OATIES 300G.png]
+
+File to: [build/img/TOWER GATE OATIES 300G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/TRIBOTAN BABY CREAM 20G.jpg]
+
+File to: [build/img/TRIBOTAN BABY CREAM 20G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TRICUTEN CREAM.jpg]
+
+File to: [build/img/TRICUTEN CREAM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TRIDENT CINNAMON GUM 14s.jpg]
+
+File to: [build/img/TRIDENT CINNAMON GUM 14s.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TRIDENT BUBBLEGUM 14s.jpg]
+
+File to: [build/img/TRIDENT BUBBLEGUM 14s.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TRIDENT ORIGINAL FLAVOR 14s.jpg]
+
+File to: [build/img/TRIDENT ORIGINAL FLAVOR 14s.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TOWER GATE MILK CHOCO OATIES 300G.jpg]
+
+File to: [build/img/TOWER GATE MILK CHOCO OATIES 300G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Tray of 50pcs each of samosa, spring rolls and puff puff.jpeg]
+
+File to: [build/img/Tray of 50pcs each of samosa, spring rolls and puff puff.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Tribit xsound go.jpg]
+
+File to: [build/img/Tribit xsound go.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

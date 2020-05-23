@@ -1,0 +1,475 @@
+File from: [src/img/PURITAN`S PRIDE B-12 1000MCG X 100.jpg]
+
+File to: [build/img/PURITAN`S PRIDE B-12 1000MCG X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE BEE PROPOLIS EXTRACT 500MG X 100.jpg]
+
+File to: [build/img/PURITAN`S PRIDE BEE PROPOLIS EXTRACT 500MG X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE BETA CAROTENE 10000IU X 100.jpg]
+
+File to: [build/img/PURITAN`S PRIDE BETA CAROTENE 10000IU X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE BIOTIN 500MCG X 60 CAPSULES.jpg]
+
+File to: [build/img/PURITAN`S PRIDE BIOTIN 500MCG X 60 CAPSULES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE COQ10 100MG X 60.jpg]
+
+File to: [build/img/PURITAN`S PRIDE COQ10 100MG X 60.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE E 450MG(1000IU) X 50.jpg]
+
+File to: [build/img/PURITAN`S PRIDE E 450MG(1000IU) X 50.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE FERROUS SULPHATE 28MG X 100.jpg]
+
+File to: [build/img/PURITAN`S PRIDE FERROUS SULPHATE 28MG X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE FOLATE 666MCG DFE X 250MG.jpg]
+
+File to: [build/img/PURITAN`S PRIDE FOLATE 666MCG DFE X 250MG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE HAWTHORN BERRIES 565MG.jpg]
+
+File to: [build/img/PURITAN`S PRIDE HAWTHORN BERRIES 565MG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE ACETYL L-CARNITINE 500MG X 30.jpg]
+
+File to: [build/img/PURITAN`S PRIDE ACETYL L-CARNITINE 500MG X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE MACA 1000MG X 60.jpg]
+
+File to: [build/img/PURITAN`S PRIDE MACA 1000MG X 60.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE MELATONIN 1MG X 90.jpg]
+
+File to: [build/img/PURITAN`S PRIDE MELATONIN 1MG X 90.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE ODORLESS GARLIC 500MG X 100.jpg]
+
+File to: [build/img/PURITAN`S PRIDE ODORLESS GARLIC 500MG X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE SOY LECITHIN 520MG X 100.jpg]
+
+File to: [build/img/PURITAN`S PRIDE SOY LECITHIN 520MG X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE VITAMIN D3 1000IU X 100.jpg]
+
+File to: [build/img/PURITAN`S PRIDE VITAMIN D3 1000IU X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITANS PRIDE CHEWABLE VIT C 500 X 100.jpg]
+
+File to: [build/img/PURITANS PRIDE CHEWABLE VIT C 500 X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE VITAMIN B6 50MG X 100.jpg]
+
+File to: [build/img/PURITAN`S PRIDE VITAMIN B6 50MG X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITANS PRIDE FLAXSEED AND CLO X 100.jpg]
+
+File to: [build/img/PURITANS PRIDE FLAXSEED AND CLO X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITANS PRIDE MAGNESIUM TABLETS 250MG.jpg]
+
+File to: [build/img/PURITANS PRIDE MAGNESIUM TABLETS 250MG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITANS PRIDE VITAMIN B-1 100MG X 100 TABLETS.jpg]
+
+File to: [build/img/PURITANS PRIDE VITAMIN B-1 100MG X 100 TABLETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITY BABY CEREAL MAIZE 6-36.jpg]
+
+File to: [build/img/PURITY BABY CEREAL MAIZE 6-36.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITY BABY CEREAL PEACH AND APPLE 6-36.jpg]
+
+File to: [build/img/PURITY BABY CEREAL PEACH AND APPLE 6-36.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITANS PRIDE CHROMIUM PICOLATE 200MCGX 100.jpg]
+
+File to: [build/img/PURITANS PRIDE CHROMIUM PICOLATE 200MCGX 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITY PLUS CHARCOAL FACIAL SCRUB 150ML.jpg]
+
+File to: [build/img/PURITY PLUS CHARCOAL FACIAL SCRUB 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITY PLUS ACTIVATED CHARCOAL DETOXIFYING FACIAL WASH 150ML.jpg]
+
+File to: [build/img/PURITY PLUS ACTIVATED CHARCOAL DETOXIFYING FACIAL WASH 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PUSH UP ANGEL 006 VERY BLACK MASCARA.png]
+
+File to: [build/img/PUSH UP ANGEL 006 VERY BLACK MASCARA.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/PUSH UP DRAMA MASCARA VERY BLACK 001.jpg]
+
+File to: [build/img/PUSH UP DRAMA MASCARA VERY BLACK 001.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURPLE CARBAGE PER KG.jpg]
+
+File to: [build/img/PURPLE CARBAGE PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PYRANTRIN SUSP  15ML.jpg]
+
+File to: [build/img/PYRANTRIN SUSP  15ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PYRANTRIN TABS  X 6.jpg]
+
+File to: [build/img/PYRANTRIN TABS  X 6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/pvt.jpeg]
+
+File to: [build/img/pvt.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Q-TIPS 750 COTTON SWABS.jpg]
+
+File to: [build/img/Q-TIPS 750 COTTON SWABS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Q7  PURE GLYCERINE 250ML.jpg]
+
+File to: [build/img/Q7  PURE GLYCERINE 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Q7 ALMOND OIL 250ML.png]
+
+File to: [build/img/Q7 ALMOND OIL 250ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Q7 GLYCERINE&ROSEWATER.jpg]
+
+File to: [build/img/Q7 GLYCERINE&ROSEWATER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Q7 PURE GLYCERINE MOISTURIZER 250ML.jpg]
+
+File to: [build/img/Q7 PURE GLYCERINE MOISTURIZER 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Q7 PURE SWEET ALMOND OIL  250ML.jpg]
+
+File to: [build/img/Q7 PURE SWEET ALMOND OIL  250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/QUAKER OAT QUICK COOKING W_OATS AFRI TIN 500G.jpg]
+
+File to: [build/img/QUAKER OAT QUICK COOKING W_OATS AFRI TIN 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/QUAKER OATS QUICK 1- MINUTE OATS 1.19KG.jpg]
+
+File to: [build/img/QUAKER OATS QUICK 1- MINUTE OATS 1.19KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/QUAKER OATS QUICK COOKING WHITE OATS 500G.jpg]
+
+File to: [build/img/QUAKER OATS QUICK COOKING WHITE OATS 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/QUAKER SIMPLY GRANOLA CEREAL 793G.jpg]
+
+File to: [build/img/QUAKER SIMPLY GRANOLA CEREAL 793G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/QUEEN HELENE APRICOT SCRUB 170G.png]
+
+File to: [build/img/QUEEN HELENE APRICOT SCRUB 170G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/QUEEN HELENE MINT JULEP 170G.jpg]
+
+File to: [build/img/QUEEN HELENE MINT JULEP 170G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RADIANT DETERGENT POWDER 48X90G+10G CARTON.jpg]
+
+File to: [build/img/RADIANT DETERGENT POWDER 48X90G+10G CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RADIANT DETERGENT POWDER 24X200G+20G CARTON.jpg]
+
+File to: [build/img/RADIANT DETERGENT POWDER 24X200G+20G CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RADIANT DETERGENT POWDER NG 24X200G CARTON.jpg]
+
+File to: [build/img/RADIANT DETERGENT POWDER NG 24X200G CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RADIANT DETERGENT POWDER NG 48X90G CARTON.jpg]
+
+File to: [build/img/RADIANT DETERGENT POWDER NG 48X90G CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RADIANT DETERGENT POWDER NG 6X800G CARTON.jpg]
+
+File to: [build/img/RADIANT DETERGENT POWDER NG 6X800G CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RADOX BATH STRESS RELIEF 1L.jpg]
+
+File to: [build/img/RADOX BATH STRESS RELIEF 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RADOX BATH MUSCLE SOAK ORIGINAL 400G.jpg]
+
+File to: [build/img/RADOX BATH MUSCLE SOAK ORIGINAL 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RADOX BATH MUSCLE SOAK 1L.jpg]
+
+File to: [build/img/RADOX BATH MUSCLE SOAK 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Radox Body Wash Ranges 250ml x 12.jpg]
+
+File to: [build/img/Radox Body Wash Ranges 250ml x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RADOX BATH VAPOUR SOAK ORIGINAL 400G.jpg]
+
+File to: [build/img/RADOX BATH VAPOUR SOAK ORIGINAL 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RADOX ORIGINAL BATH SOAK 500ML.jpg]
+
+File to: [build/img/RADOX ORIGINAL BATH SOAK 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Radox Shower Gel 1Litre x 3.jpg]
+
+File to: [build/img/Radox Shower Gel 1Litre x 3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Radox Shawer Bath 500ml.jpg]
+
+File to: [build/img/Radox Shawer Bath 500ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAID 300ML.jpg]
+
+File to: [build/img/RAID 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAID 500ML.jpg]
+
+File to: [build/img/RAID 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAID BANG 300 ML.jpg]
+
+File to: [build/img/RAID BANG 300 ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAID 700ML.jpg]
+
+File to: [build/img/RAID 700ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Raid Cockroach _ Ant Killer 300ml x 24.jpg]
+
+File to: [build/img/Raid Cockroach _ Ant Killer 300ml x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Raid Flying Insect Killer 300ml x 24.jpg]
+
+File to: [build/img/Raid Flying Insect Killer 300ml x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAID LIQUID 1 LITRE.jpg]
+
+File to: [build/img/RAID LIQUID 1 LITRE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Raid Multipurpose Insect Killer 300mlx24.jpg]
+
+File to: [build/img/Raid Multipurpose Insect Killer 300mlx24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAID NON IRRITANT 300 ML.jpg]
+
+File to: [build/img/RAID NON IRRITANT 300 ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Raid Multipurpose Insect Killer 500mlx12.jpg]
+
+File to: [build/img/Raid Multipurpose Insect Killer 500mlx12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAID TKP 300 ML.jpg]
+
+File to: [build/img/RAID TKP 300 ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAKE COMB.jpg]
+
+File to: [build/img/RAKE COMB.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAJAH GROUND GINGER 85G.jpg]
+
+File to: [build/img/RAJAH GROUND GINGER 85G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Ram Meat 10Kg.jpg]
+
+File to: [build/img/Ram Meat 10Kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Ram Meat 1Kg.jpg]
+
+File to: [build/img/Ram Meat 1Kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Ram Meat 5Kg.jpg]
+
+File to: [build/img/Ram Meat 5Kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Ram Meat 2.5Kg.jpg]
+
+File to: [build/img/Ram Meat 2.5Kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Rambo Aerosol NIS Liquid Spray 500ml x12.jpg]
+
+File to: [build/img/Rambo Aerosol NIS Liquid Spray 500ml x12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Rambo Insecticide Aerosol 500ml x 12.jpg]
+
+File to: [build/img/Rambo Insecticide Aerosol 500ml x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE OMEGA 3 -6-9 X 60.jpg]
+
+File to: [build/img/PURITAN`S PRIDE OMEGA 3 -6-9 X 60.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE VITAMIN E 400IUX 50.jpg]
+
+File to: [build/img/PURITAN`S PRIDE VITAMIN E 400IUX 50.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE VITEX CHASTE TREE 400MG X 100.jpg]
+
+File to: [build/img/PURITAN`S PRIDE VITEX CHASTE TREE 400MG X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN`S PRIDE ZINC 25MG X 100MG.jpeg]
+
+File to: [build/img/PURITAN`S PRIDE ZINC 25MG X 100MG.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

@@ -1,0 +1,247 @@
+File from: [src/img/Iphone 7 32gb Black.jpg]
+
+File to: [build/img/Iphone 7 32gb Black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/iPhone 7 battery replacement.jpg]
+
+File to: [build/img/iPhone 7 battery replacement.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone 7 plus 128gb  Black.jpg]
+
+File to: [build/img/Iphone 7 plus 128gb  Black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone 7 plus 32gb Black.jpg]
+
+File to: [build/img/Iphone 7 plus 32gb Black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/iPhone 7 screen repair.jpg]
+
+File to: [build/img/iPhone 7 screen repair.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/iPhone 7s battery replacement.jpeg]
+
+File to: [build/img/iPhone 7s battery replacement.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/iPhone 7s screen repair.jpg]
+
+File to: [build/img/iPhone 7s screen repair.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone 8 64gb - Black.jpg]
+
+File to: [build/img/Iphone 8 64gb - Black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone 8 64gb - Red.jpg]
+
+File to: [build/img/Iphone 8 64gb - Red.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IPhone 8 battery replacement.jpg]
+
+File to: [build/img/IPhone 8 battery replacement.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone 8 plus 256gb - Black.png]
+
+File to: [build/img/Iphone 8 plus 256gb - Black.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Iphone 8 plus 64gb - Black.png]
+
+File to: [build/img/Iphone 8 plus 64gb - Black.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/IPhone 8 screen repair.jpg]
+
+File to: [build/img/IPhone 8 screen repair.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/iPhone 8+ battery replacement.jpg]
+
+File to: [build/img/iPhone 8+ battery replacement.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/iPhone 8+ screen repair.jpg]
+
+File to: [build/img/iPhone 8+ screen repair.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IPHONE EARPODS LIGHTNING CONNECTOR.png]
+
+File to: [build/img/IPHONE EARPODS LIGHTNING CONNECTOR.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/IPhone X 256gb - Silver.jpg]
+
+File to: [build/img/IPhone X 256gb - Silver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IPhone X 256gb - Space Gray.jpeg]
+
+File to: [build/img/IPhone X 256gb - Space Gray.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IPhone X 64gb - Silver.jpeg]
+
+File to: [build/img/IPhone X 64gb - Silver.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IPhone X 64gb - Space Gray.jpg]
+
+File to: [build/img/IPhone X 64gb - Space Gray.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/iPhone X battery replacement.png]
+
+File to: [build/img/iPhone X battery replacement.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/iPhone X screen repair.jpg]
+
+File to: [build/img/iPhone X screen repair.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IPhone XR 64gb single - Black.jpg]
+
+File to: [build/img/IPhone XR 64gb single - Black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/iPhone Xr battery replacement.png]
+
+File to: [build/img/iPhone Xr battery replacement.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/iPhone Xr screen repair.jpg]
+
+File to: [build/img/iPhone Xr screen repair.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone XS 256gb - Black.png]
+
+File to: [build/img/Iphone XS 256gb - Black.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Iphone XS 64gb - Black.jpg]
+
+File to: [build/img/Iphone XS 64gb - Black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/iPhone Xs battery replacement.jpg]
+
+File to: [build/img/iPhone Xs battery replacement.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IPhone XS Max 256gb - Black.jpg]
+
+File to: [build/img/IPhone XS Max 256gb - Black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone XS MAX 64gb - Gold.jpg]
+
+File to: [build/img/Iphone XS MAX 64gb - Gold.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone XS MAX 64gb - Gray.jpg]
+
+File to: [build/img/Iphone XS MAX 64gb - Gray.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IPHONE XS MAX USB CABLE.png]
+
+File to: [build/img/IPHONE XS MAX USB CABLE.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/iPhone Xs screen repair.jpg]
+
+File to: [build/img/iPhone Xs screen repair.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IPhone Xsmax battery replacement.jpg]
+
+File to: [build/img/IPhone Xsmax battery replacement.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IPhone Xsmax screen repair.jpg]
+
+File to: [build/img/IPhone Xsmax screen repair.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone11 pro 256gb dual gold.jpg]
+
+File to: [build/img/Iphone11 pro 256gb dual gold.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone11 pro 256gb dual space grey.jpg]
+
+File to: [build/img/Iphone11 pro 256gb dual space grey.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone11 pro 256gb single gold.jpg]
+
+File to: [build/img/Iphone11 pro 256gb single gold.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone11 pro 256gb single mint green.jpg]
+
+File to: [build/img/Iphone11 pro 256gb single mint green.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone11 pro 256gb single space grey.jpg]
+
+File to: [build/img/Iphone11 pro 256gb single space grey.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone11 pro 256gb single white.jpg]
+
+File to: [build/img/Iphone11 pro 256gb single white.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

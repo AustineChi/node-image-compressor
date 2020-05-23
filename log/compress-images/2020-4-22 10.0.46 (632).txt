@@ -1,0 +1,61 @@
+File from: [src/img/L.O.L. Surprise! Bling Series with 7 Surprises, Multicolor.jpg]
+
+File to: [build/img/L.O.L. Surprise! Bling Series with 7 Surprises, Multicolor.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/L'OREAL ELVIVE SMOOTH & POLISH SHAMPOO 250ML.jpg]
+
+File to: [build/img/L'OREAL ELVIVE SMOOTH & POLISH SHAMPOO 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/L'OREAL MEN EXPERT CLEAN POWER SHAMPOO 300ML.jpg]
+
+File to: [build/img/L'OREAL MEN EXPERT CLEAN POWER SHAMPOO 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/L&Z 1 LITRE YOGHURT BANANA.jpg]
+
+File to: [build/img/L&Z 1 LITRE YOGHURT BANANA.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/L&Z 1 LITRE YOGHURT STRAWBERRY.png]
+
+File to: [build/img/L&Z 1 LITRE YOGHURT STRAWBERRY.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/L&Z 1 LITRE YOGHURT SWEETENED.jpg]
+
+File to: [build/img/L&Z 1 LITRE YOGHURT SWEETENED.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/L&Z 1 LITRE YOGHURT UN-SWEETENED.jpeg]
+
+File to: [build/img/L&Z 1 LITRE YOGHURT UN-SWEETENED.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/L.O.L. Surprise! Glitter Globe Doll Winter Disco Series.jpg]
+
+File to: [build/img/L.O.L. Surprise! Glitter Globe Doll Winter Disco Series.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/L.O.L. Surprise! Sparkle Series with Glitter Finish.jpg]
+
+File to: [build/img/L.O.L. Surprise! Sparkle Series with Glitter Finish.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/L.O.L. Surprise! Makeover Series 2 #Hairgoals Real Hair with 15 Surprises.jpg]
+
+File to: [build/img/L.O.L. Surprise! Makeover Series 2 #Hairgoals Real Hair with 15 Surprises.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

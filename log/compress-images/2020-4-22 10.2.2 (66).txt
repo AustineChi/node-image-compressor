@@ -1,0 +1,517 @@
+File from: [src/img/VOOM SCOURING POWDER 500G.png]
+
+File to: [build/img/VOOM SCOURING POWDER 500G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/WAGG TASTY BONE 150G CHIK&LIVER.jpg]
+
+File to: [build/img/WAGG TASTY BONE 150G CHIK&LIVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WAGG TRAINING TREATS 125G CHIC&CHEESE.jpg]
+
+File to: [build/img/WAGG TRAINING TREATS 125G CHIC&CHEESE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VTech Drill _ Learn Toolbox.jpg]
+
+File to: [build/img/VTech Drill _ Learn Toolbox.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WAGG PUPPY FOOD 2KG CHICKEN.jpg]
+
+File to: [build/img/WAGG PUPPY FOOD 2KG CHICKEN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WAHL LITHIUM ION TRIMMER 1481-0410.jpg]
+
+File to: [build/img/WAHL LITHIUM ION TRIMMER 1481-0410.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WAHL MICRO GROOMSMAN 5640-326.jpg]
+
+File to: [build/img/WAHL MICRO GROOMSMAN 5640-326.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WASHABLE FLOOR CLOTH 3`S.jpg]
+
+File to: [build/img/WASHABLE FLOOR CLOTH 3`S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WATE ON EMULSION   450ML.jpg]
+
+File to: [build/img/WATE ON EMULSION   450ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WATER LEAF.jpg]
+
+File to: [build/img/WATER LEAF.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WATER MELON SLICED.jpg]
+
+File to: [build/img/WATER MELON SLICED.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WATERMELON PER PIECE.jpg]
+
+File to: [build/img/WATERMELON PER PIECE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WAW Bar Soap 130g x 50.jpg]
+
+File to: [build/img/WAW Bar Soap 130g x 50.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WAW Detergent 1.8kg x 3.jpg]
+
+File to: [build/img/WAW Detergent 1.8kg x 3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WAW Bar Soap 230g x 20.jpg]
+
+File to: [build/img/WAW Bar Soap 230g x 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WAW DETERGENT 1800G.jpg]
+
+File to: [build/img/WAW DETERGENT 1800G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Waw Detergent 900g x 7.jpg]
+
+File to: [build/img/Waw Detergent 900g x 7.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WAW DETERGENT 900GR.jpg]
+
+File to: [build/img/WAW DETERGENT 900GR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WEBER KC BBQ RUB 426G.jpg]
+
+File to: [build/img/WEBER KC BBQ RUB 426G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WAW MULTIPURPOSE SOAP 230G.jpg]
+
+File to: [build/img/WAW MULTIPURPOSE SOAP 230G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WEED KILLER.jpg]
+
+File to: [build/img/WEED KILLER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WEETABIX CRISPY MINIS BANANA 600G.jpg]
+
+File to: [build/img/WEETABIX CRISPY MINIS BANANA 600G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WEETABIX CRISPY MINIS CHOCOLATE 600G.jpg]
+
+File to: [build/img/WEETABIX CRISPY MINIS CHOCOLATE 600G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WEETABIX CRISPY MINIS FRUIT & NUTS 600G.jpg]
+
+File to: [build/img/WEETABIX CRISPY MINIS FRUIT & NUTS 600G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Weetabix Fruit _ Fibre Cereal 500g x 10.jpg]
+
+File to: [build/img/Weetabix Fruit _ Fibre Cereal 500g x 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Weetabix Fruit _ Fibre Cereal 500g x 10(1).jpg]
+
+File to: [build/img/Weetabix Fruit _ Fibre Cereal 500g x 10(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Weetabix Fruit _ Fibre Cereal 500g x 10(2).jpg]
+
+File to: [build/img/Weetabix Fruit _ Fibre Cereal 500g x 10(2).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WEETABIX.jpg]
+
+File to: [build/img/WEETABIX.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Weetabix Orig Whole Wheat Cereal 430g.jpg]
+
+File to: [build/img/Weetabix Orig Whole Wheat Cereal 430g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELCH'S FRUIT SNACKS 14G.jpg]
+
+File to: [build/img/WELCH'S FRUIT SNACKS 14G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELCH'S FRUIT PUCH 295ML.jpg]
+
+File to: [build/img/WELCH'S FRUIT PUCH 295ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELCH'S FRUIT SNACKS 25.5G.jpg]
+
+File to: [build/img/WELCH'S FRUIT SNACKS 25.5G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELCH'S ORANGE PINEAPPLE 295ML.jpg]
+
+File to: [build/img/WELCH'S ORANGE PINEAPPLE 295ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELCH'S GRAPE 295ML.jpg]
+
+File to: [build/img/WELCH'S GRAPE 295ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELCHS CONCORD GRAPE JELLY 269G.jpg]
+
+File to: [build/img/WELCHS CONCORD GRAPE JELLY 269G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELL WOMAN. INNER CLEANSE CAPS  X 30.jpg]
+
+File to: [build/img/WELL WOMAN. INNER CLEANSE CAPS  X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Welchs Sparkling Drinks Ranges x 12.jpg]
+
+File to: [build/img/Welchs Sparkling Drinks Ranges x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELLBABY DROPS  30ML.jpg]
+
+File to: [build/img/WELLBABY DROPS  30ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Wellkid 4-12yrs Immune Chew+ Vit. D x30.jpg]
+
+File to: [build/img/Wellkid 4-12yrs Immune Chew+ Vit. D x30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELLBABY MULTIVITAMIN SYRUP 150ML.jpg]
+
+File to: [build/img/WELLBABY MULTIVITAMIN SYRUP 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Wellkid 4-12yrs Multivit +VitD Liq 150ml.jpg]
+
+File to: [build/img/Wellkid 4-12yrs Multivit +VitD Liq 150ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELLKID BABY AND INFANT SYRUP 150ML.jpg]
+
+File to: [build/img/WELLKID BABY AND INFANT SYRUP 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELLKID SOFT JELLY PASTILLES ORANGE X 30.jpg]
+
+File to: [build/img/WELLKID SOFT JELLY PASTILLES ORANGE X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELLKID SYR  150ML.jpg]
+
+File to: [build/img/WELLKID SYR  150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELLKID SOFT JELLY 4-12 YERS PASTILLES.jpg]
+
+File to: [build/img/WELLKID SOFT JELLY 4-12 YERS PASTILLES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELLKID TABS X 30.jpg]
+
+File to: [build/img/WELLKID TABS X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELLMAN 50+ CAPS X 30.jpg]
+
+File to: [build/img/WELLMAN 50+ CAPS X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELLKID.IMMUNE (CHEW) 4-12YRS X 30.jpg]
+
+File to: [build/img/WELLKID.IMMUNE (CHEW) 4-12YRS X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELLMAN 70+ TABS X 30.jpg]
+
+File to: [build/img/WELLMAN 70+ TABS X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELLMAN CAPS X 30.jpg]
+
+File to: [build/img/WELLMAN CAPS X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELLMAN ENERGY X 10 EFF (ORANGE).jpg]
+
+File to: [build/img/WELLMAN ENERGY X 10 EFF (ORANGE).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Wellman Prostate capsules x60.jpg]
+
+File to: [build/img/Wellman Prostate capsules x60.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELLMAN SPORTS CAPS  X 30.png]
+
+File to: [build/img/WELLMAN SPORTS CAPS  X 30.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/WELLMAN. MAX X 84.jpg]
+
+File to: [build/img/WELLMAN. MAX X 84.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELLMAN. PROSTATE TABS X 60.jpg]
+
+File to: [build/img/WELLMAN. PROSTATE TABS X 60.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELLMAN. PLUS OMEGA 3.6.9 X 56.jpg]
+
+File to: [build/img/WELLMAN. PLUS OMEGA 3.6.9 X 56.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELLTEEN HER PLUS X 56.jpg]
+
+File to: [build/img/WELLTEEN HER PLUS X 56.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WellTeen Her Tabs x30.jpg]
+
+File to: [build/img/WellTeen Her Tabs x30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELLTEEN HER TABS {13-19YRS} X 30.jpg]
+
+File to: [build/img/WELLTEEN HER TABS {13-19YRS} X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELLTEEN HIM PLUS CAPS X 56.png]
+
+File to: [build/img/WELLTEEN HIM PLUS CAPS X 56.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/WELLTEEN HIM PLUS X 56.jpg]
+
+File to: [build/img/WELLTEEN HIM PLUS X 56.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELLTEEN HIM TABS {13-19YRS} X 30.jpg]
+
+File to: [build/img/WELLTEEN HIM TABS {13-19YRS} X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELLWOMAN 50+ CAPS  X 30.png]
+
+File to: [build/img/WELLWOMAN 50+ CAPS  X 30.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/WELLTEEN TABS  X 30.png]
+
+File to: [build/img/WELLTEEN TABS  X 30.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/WELLWOMAN 70+ CAPS X 30.jpg]
+
+File to: [build/img/WELLWOMAN 70+ CAPS X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELLWOMAN CAPS X 30.png]
+
+File to: [build/img/WELLWOMAN CAPS X 30.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Wellwoman 70+ Caps X30.jpg]
+
+File to: [build/img/Wellwoman 70+ Caps X30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELLWOMAN ENERGY X 10 EFF LIME.jpg]
+
+File to: [build/img/WELLWOMAN ENERGY X 10 EFF LIME.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Wellwoman Max Tabs-Caps x84.jpg]
+
+File to: [build/img/Wellwoman Max Tabs-Caps x84.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELLWOMAN. SPORTS & FITNESS CAPS X 30.jpg]
+
+File to: [build/img/WELLWOMAN. SPORTS & FITNESS CAPS X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Werther_s Original Soft Caramel 137g x24.jpg]
+
+File to: [build/img/Werther_s Original Soft Caramel 137g x24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELLWOMAN. PLUS OMEGA 3.6.9 X 56.jpg]
+
+File to: [build/img/WELLWOMAN. PLUS OMEGA 3.6.9 X 56.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WERTHERS ORIGINAL CREAMY TOFFEES 48G.jpg]
+
+File to: [build/img/WERTHERS ORIGINAL CREAMY TOFFEES 48G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WESSON CANOLA OIL 4.75 L.jpeg]
+
+File to: [build/img/WESSON CANOLA OIL 4.75 L.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WESSON VEGERTABLE OIL 4.75 L.jpg]
+
+File to: [build/img/WESSON VEGERTABLE OIL 4.75 L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WET ONES HAND WIPES 20 WIPES.jpg]
+
+File to: [build/img/WET ONES HAND WIPES 20 WIPES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WESSON VEGETABLE OIL 1.42L.jpg]
+
+File to: [build/img/WESSON VEGETABLE OIL 1.42L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WETONES ANTIBACTERIAL HAND WIPES.png]
+
+File to: [build/img/WETONES ANTIBACTERIAL HAND WIPES.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/WHATSAPP BODY SPRAY 200ML.jpg]
+
+File to: [build/img/WHATSAPP BODY SPRAY 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WERTHER'S ORIGINAL CARAMEL HARD CANDIES 75G.jpg]
+
+File to: [build/img/WERTHER'S ORIGINAL CARAMEL HARD CANDIES 75G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WhatsApp Image 2020-04-29 at 11.02.44 AM.jpeg]
+
+File to: [build/img/WhatsApp Image 2020-04-29 at 11.02.44 AM.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WHEEL CLEANER 300ML.jpg]
+
+File to: [build/img/WHEEL CLEANER 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WHISKAS SALMON IN JELLY 400G.jpg]
+
+File to: [build/img/WHISKAS SALMON IN JELLY 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELLWOMAN. MAX X 84 PACK.png]
+
+File to: [build/img/WELLWOMAN. MAX X 84 PACK.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/WHAM HANDY POT 4 PIECE SET.jpg]
+
+File to: [build/img/WHAM HANDY POT 4 PIECE SET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WHISKAS CHICKEN JELLY 400G.jpg]
+
+File to: [build/img/WHISKAS CHICKEN JELLY 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

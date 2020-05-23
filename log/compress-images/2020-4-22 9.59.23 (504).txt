@@ -1,0 +1,415 @@
+File from: [src/img/RANFERON-12. SYR  100ML.jpg]
+
+File to: [build/img/RANFERON-12. SYR  100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RANITIDINE 150MG X 60(RELONCHEM).png]
+
+File to: [build/img/RANITIDINE 150MG X 60(RELONCHEM).png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RANITIDINE 300MG X 30(ACCORD).jpg]
+
+File to: [build/img/RANITIDINE 300MG X 30(ACCORD).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Rapid White Trasnp. Soap 150g.jpg]
+
+File to: [build/img/Rapid White Trasnp. Soap 150g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RASPBERRY PER KG.jpg]
+
+File to: [build/img/RASPBERRY PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAW ESSENCE ACTIVATED CHARCOAL SCRUB 250ML.png]
+
+File to: [build/img/RAW ESSENCE ACTIVATED CHARCOAL SCRUB 250ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RAW ESSENCE AFRICAN BLACK LIQUID SOAP ORGANIC 250ML.jpg]
+
+File to: [build/img/RAW ESSENCE AFRICAN BLACK LIQUID SOAP ORGANIC 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAW ESSENCE AFRICAN BLACK LIQUID SOAP VANILLA 250ML.png]
+
+File to: [build/img/RAW ESSENCE AFRICAN BLACK LIQUID SOAP VANILLA 250ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RAW ESSENCE AFRICAN BLACK PASTE SOAP SKIN GLOW 400G.png]
+
+File to: [build/img/RAW ESSENCE AFRICAN BLACK PASTE SOAP SKIN GLOW 400G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RAW ESSENCE AFRICAN BLACK PASTE SOAP VANILLA  400G.png]
+
+File to: [build/img/RAW ESSENCE AFRICAN BLACK PASTE SOAP VANILLA  400G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RAW ESSENCE AROMA BODY BAR SOAPS KOJIC_GLUTATHIONE  185G.jpg]
+
+File to: [build/img/RAW ESSENCE AROMA BODY BAR SOAPS KOJIC_GLUTATHIONE  185G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAW ESSENCE AROMA BODY BAR SOAPS LEMONGRASS 185G.png]
+
+File to: [build/img/RAW ESSENCE AROMA BODY BAR SOAPS LEMONGRASS 185G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RAW ESSENCE AROMA BODY BAR SOAPS PAPAYA 185G.jpg]
+
+File to: [build/img/RAW ESSENCE AROMA BODY BAR SOAPS PAPAYA 185G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAW ESSENCE BODY SCRUB LEMON_SUGAR REPLINISHER SCRUB 250ML.png]
+
+File to: [build/img/RAW ESSENCE BODY SCRUB LEMON_SUGAR REPLINISHER SCRUB 250ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RAW ESSENCE COCO-SHEA BODY LOTION LAVENDER 250ML.png]
+
+File to: [build/img/RAW ESSENCE COCO-SHEA BODY LOTION LAVENDER 250ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RAW ESSENCE COCO-SHEA BODY LOTION LEMONGRASS 250ML.png]
+
+File to: [build/img/RAW ESSENCE COCO-SHEA BODY LOTION LEMONGRASS 250ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RAW ESSENCE COCO-SHEA BODY LOTION VANILLA 250ML.png]
+
+File to: [build/img/RAW ESSENCE COCO-SHEA BODY LOTION VANILLA 250ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RAW ESSENCE MASSAGE OIL SENSUAL 250ML.png]
+
+File to: [build/img/RAW ESSENCE MASSAGE OIL SENSUAL 250ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RAW ESSENCE MASSAGE OIL STRESS BUTTER 250ML.png]
+
+File to: [build/img/RAW ESSENCE MASSAGE OIL STRESS BUTTER 250ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RAW ESSENCE ORGANIC CARROT OIL 115ML.png]
+
+File to: [build/img/RAW ESSENCE ORGANIC CARROT OIL 115ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RAW ESSENCE ORGANIC PAPAYA OIL 115ML.png]
+
+File to: [build/img/RAW ESSENCE ORGANIC PAPAYA OIL 115ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RAW ESSENCE PURE COCONUT OIL ORGANIC  250ML.png]
+
+File to: [build/img/RAW ESSENCE PURE COCONUT OIL ORGANIC  250ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RAW ESSENCE PURE COCONUT OIL VANILLA 250ML.png]
+
+File to: [build/img/RAW ESSENCE PURE COCONUT OIL VANILLA 250ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RAW ESSENCE SHEA BODY BUTTER CRANBERRY 250ML.jpg]
+
+File to: [build/img/RAW ESSENCE SHEA BODY BUTTER CRANBERRY 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAW ESSENCE SHEA BODY BUTTER LEMONGRASS 250ML.jpeg]
+
+File to: [build/img/RAW ESSENCE SHEA BODY BUTTER LEMONGRASS 250ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAW ESSENCE SHEA BODY BUTTER SWEET ALMOND 250ML.jpg]
+
+File to: [build/img/RAW ESSENCE SHEA BODY BUTTER SWEET ALMOND 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAW ESSENSE AFRICAN BLACK LIQUID SOAPS 250ML LEMONGRASS.png]
+
+File to: [build/img/RAW ESSENSE AFRICAN BLACK LIQUID SOAPS 250ML LEMONGRASS.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RAW SHEA BABY CHAM _ ARGAN LOTION 384ML.jpg]
+
+File to: [build/img/RAW SHEA BABY CHAM _ ARGAN LOTION 384ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAW SHEA BUT BABY ECZEMA SOAP 141G.jpg]
+
+File to: [build/img/RAW SHEA BUT BABY ECZEMA SOAP 141G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAYNER`S ALMOND FLAVOUR ESSENCE 28ML GLASS BOTTLES.jpg]
+
+File to: [build/img/RAYNER`S ALMOND FLAVOUR ESSENCE 28ML GLASS BOTTLES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAYNER`S BANANA FLAVOUR ESSENCE 28ML GLASS BOTTLES.jpg]
+
+File to: [build/img/RAYNER`S BANANA FLAVOUR ESSENCE 28ML GLASS BOTTLES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAYNER`S BRANDY FLAVOUR ESSENCE 28ML GLASS BOTTLES.jpg]
+
+File to: [build/img/RAYNER`S BRANDY FLAVOUR ESSENCE 28ML GLASS BOTTLES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAYNER`S CHOCOLATE FLAVOUR ESSENCE 28ML GLASS BOTTLES.jpg]
+
+File to: [build/img/RAYNER`S CHOCOLATE FLAVOUR ESSENCE 28ML GLASS BOTTLES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAYNER`S LEMON FLAVOUR ESSENCE 28ML GLASS BOTTLE.jpg]
+
+File to: [build/img/RAYNER`S LEMON FLAVOUR ESSENCE 28ML GLASS BOTTLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAYNER`S ORANGE FLAVOUR ESSENCE 28ML GLASS BOTTLES.jpg]
+
+File to: [build/img/RAYNER`S ORANGE FLAVOUR ESSENCE 28ML GLASS BOTTLES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAYNER`S STRAWBERRY FLAVOUR 28ML GLASS BOTTLES.jpg]
+
+File to: [build/img/RAYNER`S STRAWBERRY FLAVOUR 28ML GLASS BOTTLES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAYNER`S VANILLA FLAVOUR 28ML GLASS BOTTLES.jpg]
+
+File to: [build/img/RAYNER`S VANILLA FLAVOUR 28ML GLASS BOTTLES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAZOR TWIN LADY P5 (100).jpg]
+
+File to: [build/img/RAZOR TWIN LADY P5 (100).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RC COLA 60CL PET.jpg]
+
+File to: [build/img/RC COLA 60CL PET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RC ORANGE 33CL.jpg]
+
+File to: [build/img/RC ORANGE 33CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RDL Papaya_Carrot Whitening Soap.jpg]
+
+File to: [build/img/RDL Papaya_Carrot Whitening Soap.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RE-VIVE CAPS  X 10.jpg]
+
+File to: [build/img/RE-VIVE CAPS  X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RE-VIVE CAPS  X 4.jpg]
+
+File to: [build/img/RE-VIVE CAPS  X 4.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RED BELL PEPPER SMALL.jpg]
+
+File to: [build/img/RED BELL PEPPER SMALL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RED BULL ENERGY DRINK 250ML.jpg]
+
+File to: [build/img/RED BULL ENERGY DRINK 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Read A Dream Insecticide 600ml x 24.jpg]
+
+File to: [build/img/Read A Dream Insecticide 600ml x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RED CAPSICUM 1KG.jpg]
+
+File to: [build/img/RED CAPSICUM 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/READY STEW HOT POT 1KG.jpg]
+
+File to: [build/img/READY STEW HOT POT 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REALEMON 100% LEMON JUICE 73ML.jpeg]
+
+File to: [build/img/REALEMON 100% LEMON JUICE 73ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RED CURRANT PER KG.jpg]
+
+File to: [build/img/RED CURRANT PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RED GRAPEFRUITS_SANDOS PER PIECE.jpg]
+
+File to: [build/img/RED GRAPEFRUITS_SANDOS PER PIECE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Red Square Ice Ranges 275mk x 24.jpg]
+
+File to: [build/img/Red Square Ice Ranges 275mk x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Red velvet smoothie.jpg]
+
+File to: [build/img/Red velvet smoothie.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RedBull Energy Drink 250ml x 24.jpg]
+
+File to: [build/img/RedBull Energy Drink 250ml x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REDOXON EFFERV VIT C D.A X 30.jpg]
+
+File to: [build/img/REDOXON EFFERV VIT C D.A X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REDOXXON IMMUNE SUPP EFF TAB X 15.jpg]
+
+File to: [build/img/REDOXXON IMMUNE SUPP EFF TAB X 15.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REDOXXON IMMUNE SUPP EFF X 30.png]
+
+File to: [build/img/REDOXXON IMMUNE SUPP EFF X 30.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Reel Fruit Coconut Flakes 200g.jpg]
+
+File to: [build/img/Reel Fruit Coconut Flakes 200g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REEL FRUIT DRIED PINEAPPLE 100G.jpg]
+
+File to: [build/img/REEL FRUIT DRIED PINEAPPLE 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REEL FRUIT DRIED PINEAPPLE 50G.jpg]
+
+File to: [build/img/REEL FRUIT DRIED PINEAPPLE 50G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REEL FRUIT FRUIT AND NUT MIX 250G.jpg]
+
+File to: [build/img/REEL FRUIT FRUIT AND NUT MIX 250G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REEL FRUIT FRUIT AND NUT MIX 40G.jpg]
+
+File to: [build/img/REEL FRUIT FRUIT AND NUT MIX 40G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REEL FRUIT ROASTED CASHEWS 250G.jpg]
+
+File to: [build/img/REEL FRUIT ROASTED CASHEWS 250G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REEL FRUIT ROASTED CASHEWS NUTS 40G.jpg]
+
+File to: [build/img/REEL FRUIT ROASTED CASHEWS NUTS 40G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REFLECTIONS CUTLERY SET 160S.jpg]
+
+File to: [build/img/REFLECTIONS CUTLERY SET 160S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Refresh multipurpose solutin 60ml.jpg]
+
+File to: [build/img/Refresh multipurpose solutin 60ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REFUCIL SUSP 125MG 100ML.jpg]
+
+File to: [build/img/REFUCIL SUSP 125MG 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REFUCIL TABS 500MG X 20.jpg]
+
+File to: [build/img/REFUCIL TABS 500MG X 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/REGAINE SOLUTION FOR MULTIVITAMINS WOMEN.jpg]
+
+File to: [build/img/REGAINE SOLUTION FOR MULTIVITAMINS WOMEN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

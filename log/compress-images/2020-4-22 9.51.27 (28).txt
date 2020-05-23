@@ -1,0 +1,205 @@
+File from: [src/img/EASY IRON 300ML.jpg]
+
+File to: [build/img/EASY IRON 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Easy On Spray Double (Purple)Starch 567g.jpg]
+
+File to: [build/img/Easy On Spray Double (Purple)Starch 567g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EASY ON SPRAY STARCH.jpg]
+
+File to: [build/img/EASY ON SPRAY STARCH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Easy On Spray Starch Speed (Blue) 567g.jpg]
+
+File to: [build/img/Easy On Spray Starch Speed (Blue) 567g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EBONY SUPER RICE 2.5KG.jpg]
+
+File to: [build/img/EBONY SUPER RICE 2.5KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ECHO FALLS WHITE WINE 75CL.jpg]
+
+File to: [build/img/ECHO FALLS WHITE WINE 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ECO STYLE 236ML.jpg]
+
+File to: [build/img/ECO STYLE 236ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ECO STYLE ARGAN OIL 236ML.png]
+
+File to: [build/img/ECO STYLE ARGAN OIL 236ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/ECO STYLE ARGAN OIL 473ML.jpg]
+
+File to: [build/img/ECO STYLE ARGAN OIL 473ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ECO STYLE BLACK CASTOL & FLAXSEED OIL 236ML.jpg]
+
+File to: [build/img/ECO STYLE BLACK CASTOL & FLAXSEED OIL 236ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ECO STYLE BLACK CASTOR 473ML.jpg]
+
+File to: [build/img/ECO STYLE BLACK CASTOR 473ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ECO STYLE COLORED HAIR 473ML.jpg]
+
+File to: [build/img/ECO STYLE COLORED HAIR 473ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ECO STYLE COCONUT 473ML.jpg]
+
+File to: [build/img/ECO STYLE COCONUT 473ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ECO STYLE CURL & WAVE 236ML.jpg]
+
+File to: [build/img/ECO STYLE CURL & WAVE 236ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ECO STYLE OLIVE OIL 473ML.jpg]
+
+File to: [build/img/ECO STYLE OLIVE OIL 473ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ECO STYLE PROTEIN 236ML.jpg]
+
+File to: [build/img/ECO STYLE PROTEIN 236ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ECO STYLE PROTEIN 946ML.jpg]
+
+File to: [build/img/ECO STYLE PROTEIN 946ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ECO STYLE SPORT 946ML.jpeg]
+
+File to: [build/img/ECO STYLE SPORT 946ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ECO STYLING GEL COCONUT 250ML.jpg]
+
+File to: [build/img/ECO STYLING GEL COCONUT 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ECO STYLE SUPER PROTEIN 946ML.jpg]
+
+File to: [build/img/ECO STYLE SUPER PROTEIN 946ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EDGE SENSITIVE SKIN SHAVE GEL 269G.jpg]
+
+File to: [build/img/EDGE SENSITIVE SKIN SHAVE GEL 269G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EDEN EXTRA WHITENING APRICOT FACE & BODY SCRUB 500ML.jpg]
+
+File to: [build/img/EDEN EXTRA WHITENING APRICOT FACE & BODY SCRUB 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Edikaikong 2 LTRS.jpg]
+
+File to: [build/img/Edikaikong 2 LTRS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EFALEX BRAIN CAPSULE X60.jpg]
+
+File to: [build/img/EFALEX BRAIN CAPSULE X60.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EFAMOL BRAIN LIQUID.png]
+
+File to: [build/img/EFAMOL BRAIN LIQUID.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/EFAMOL BRAIN ACTIVE MEMORY.jpg]
+
+File to: [build/img/EFAMOL BRAIN ACTIVE MEMORY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EFAMOL EVENING PRIMROSE 1000MG X 30.png]
+
+File to: [build/img/EFAMOL EVENING PRIMROSE 1000MG X 30.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/EFAMOL EVENING PRIMROSE 500MG X 90.png]
+
+File to: [build/img/EFAMOL EVENING PRIMROSE 500MG X 90.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Efo Elegusi Assorted Meat Goat or Meat Stock Fish Smoked Fish 1.4L Bowl.jpg]
+
+File to: [build/img/Efo Elegusi Assorted Meat Goat or Meat Stock Fish Smoked Fish 1.4L Bowl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Eforiro 2 LTRS.jpg]
+
+File to: [build/img/Eforiro 2 LTRS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Efo Elegusi Assorted Meat Goat or Meat Stock Fish Smoked Fish 2.4L Bowl.jpg]
+
+File to: [build/img/Efo Elegusi Assorted Meat Goat or Meat Stock Fish Smoked Fish 2.4L Bowl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ECHO FALLS CAB SAUV WINE 75CL.jpg]
+
+File to: [build/img/ECHO FALLS CAB SAUV WINE 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ECO STYLE SPORT 236ML.jpg]
+
+File to: [build/img/ECO STYLE SPORT 236ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ECO STYLE KRYSTAL 946ML.jpg]
+
+File to: [build/img/ECO STYLE KRYSTAL 946ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

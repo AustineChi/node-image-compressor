@@ -1,0 +1,91 @@
+File from: [src/img/NUROFEN 200MG CAPLETS X12.jpg]
+
+File to: [build/img/NUROFEN 200MG CAPLETS X12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUROFEN 400MG TABLETS X 12.jpg]
+
+File to: [build/img/NUROFEN 400MG TABLETS X 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUROFEN EXPRESS 200MG X10.jpg]
+
+File to: [build/img/NUROFEN EXPRESS 200MG X10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUROFEN EXPRESS 400MG X10.jpg]
+
+File to: [build/img/NUROFEN EXPRESS 400MG X10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUROFEN FOR CHILDREN ORANGE 100ML.jpg]
+
+File to: [build/img/NUROFEN FOR CHILDREN ORANGE 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUROFEN FOR CHILDREN STRAW-B 100ML.jpg]
+
+File to: [build/img/NUROFEN FOR CHILDREN STRAW-B 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nussa Choco Hazelnut Spread 400g .jpg]
+
+File to: [build/img/Nussa Choco Hazelnut Spread 400g .jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTELLA 350G.jpg]
+
+File to: [build/img/NUTELLA 350G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTELLA 371G.jpg]
+
+File to: [build/img/NUTELLA 371G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTELLA PORTION HAZELNUT SPREAD WITH COCOA15G.jpg]
+
+File to: [build/img/NUTELLA PORTION HAZELNUT SPREAD WITH COCOA15G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTELLA.jpg]
+
+File to: [build/img/NUTELLA.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTRAVIT SYR 100ML.jpg]
+
+File to: [build/img/NUTRAVIT SYR 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTRAVIT SYR 60ML.jpg]
+
+File to: [build/img/NUTRAVIT SYR 60ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTRI SOYA MALT SOYA 400ML.jpg]
+
+File to: [build/img/NUTRI SOYA MALT SOYA 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTRI SOYA MILK 400ML.jpg]
+
+File to: [build/img/NUTRI SOYA MILK 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

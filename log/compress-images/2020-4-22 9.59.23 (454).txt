@@ -1,0 +1,217 @@
+File from: [src/img/M_M_s PeanuChoco Milk Candy 100g.jpg]
+
+File to: [build/img/M_M_s PeanuChoco Milk Candy 100g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/M_M_s PeanutChoco Milk Candy 200g.jpg]
+
+File to: [build/img/M_M_s PeanutChoco Milk Candy 200g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/M&B Paracetamol 500mg tabs x96 Pack.jpg]
+
+File to: [build/img/M&B Paracetamol 500mg tabs x96 Pack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/M&M CHOCOLATE 200G.jpg]
+
+File to: [build/img/M&M CHOCOLATE 200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/M&M`S PEANUT 200G.jpg]
+
+File to: [build/img/M&M`S PEANUT 200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/M&M`S PEANUTS 45G.png]
+
+File to: [build/img/M&M`S PEANUTS 45G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/MAALOX PLUS SUSPENSION.jpg]
+
+File to: [build/img/MAALOX PLUS SUSPENSION.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MACCAW COCKTAIL FRUIT DRINK 1LTR.png]
+
+File to: [build/img/MACCAW COCKTAIL FRUIT DRINK 1LTR.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/MACCAW STRAWBERRY FRUIT DRINK 1LTR.png]
+
+File to: [build/img/MACCAW STRAWBERRY FRUIT DRINK 1LTR.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Mackerel fish (Titus) 1kg.jpg]
+
+File to: [build/img/Mackerel fish (Titus) 1kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MACLEAN COMPLETE CARE.jpg]
+
+File to: [build/img/MACLEAN COMPLETE CARE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MACLEAN MILK TEETH 1 TO 6YEARS.jpg]
+
+File to: [build/img/MACLEAN MILK TEETH 1 TO 6YEARS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MACLEANS COMPLETE CARE 140ML.jpg]
+
+File to: [build/img/MACLEANS COMPLETE CARE 140ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Macleans Complete Care Toothpaste 125ml.jpg]
+
+File to: [build/img/Macleans Complete Care Toothpaste 125ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MACLEANS HERBAL 125ML.png]
+
+File to: [build/img/MACLEANS HERBAL 125ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Macleans Herbal Toothpaste 125ml.jpg]
+
+File to: [build/img/Macleans Herbal Toothpaste 125ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MACLEANS HERBAL.jpg]
+
+File to: [build/img/MACLEANS HERBAL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Macleans Ice Whitening ToothPaste 100ml.jpg]
+
+File to: [build/img/Macleans Ice Whitening ToothPaste 100ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MACLEANS MILK TEETH 50ML.jpg]
+
+File to: [build/img/MACLEANS MILK TEETH 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MADIBA Beef cubes.jpg]
+
+File to: [build/img/MADIBA Beef cubes.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MADIBA Beef rumsteak.jpg]
+
+File to: [build/img/MADIBA Beef rumsteak.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MADIBA Beef soft shin.jpg]
+
+File to: [build/img/MADIBA Beef soft shin.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MADIBA Beef T-bone steak.jpg]
+
+File to: [build/img/MADIBA Beef T-bone steak.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MADIBA Beef topside.jpg]
+
+File to: [build/img/MADIBA Beef topside.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MADIBA BLACK POMO.jpg]
+
+File to: [build/img/MADIBA BLACK POMO.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MADIBA CHICKEN BREAST 1KG.jpg]
+
+File to: [build/img/MADIBA CHICKEN BREAST 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MADIBA CHICKEN GIZZARD 1KG.jpg]
+
+File to: [build/img/MADIBA CHICKEN GIZZARD 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MADIBA CHICKEN LIVER 1KG.jpg]
+
+File to: [build/img/MADIBA CHICKEN LIVER 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MADIBA COW FEET.jpg]
+
+File to: [build/img/MADIBA COW FEET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MADIBA COW PONMO.png]
+
+File to: [build/img/MADIBA COW PONMO.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/MADIBA FULL CHICKEN.jpg]
+
+File to: [build/img/MADIBA FULL CHICKEN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MADIBA COW TAIL.jpg]
+
+File to: [build/img/MADIBA COW TAIL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MADIBA GOAT MEAT 1KG.jpeg]
+
+File to: [build/img/MADIBA GOAT MEAT 1KG.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MADIBA HAMPER BASKET.jpg]
+
+File to: [build/img/MADIBA HAMPER BASKET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MADIBA MINCED MEAT.jpeg]
+
+File to: [build/img/MADIBA MINCED MEAT.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MADIBA PORK MEAT.jpg]
+
+File to: [build/img/MADIBA PORK MEAT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

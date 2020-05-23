@@ -1,0 +1,7 @@
+File from: [src/img/GRAND AVOCADO PEAR.png]
+
+File to: [build/img/GRAND AVOCADO PEAR.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant --quality=20-50 -o build/img/GRAND AVOCADO PEAR.png src/img/GRAND AVOCADO PEAR.png

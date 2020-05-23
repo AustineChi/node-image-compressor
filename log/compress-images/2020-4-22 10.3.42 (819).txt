@@ -1,0 +1,367 @@
+File from: [src/img/SUNOLA SOYA OIL 1.9 LITRE.jpg]
+
+File to: [build/img/SUNOLA SOYA OIL 1.9 LITRE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUNOLA SOYA OIL 1L.jpg]
+
+File to: [build/img/SUNOLA SOYA OIL 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUNOLA SOYA OIL 2.7L.jpg]
+
+File to: [build/img/SUNOLA SOYA OIL 2.7L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUNOLA SOYA OIL 1.9L.jpg]
+
+File to: [build/img/SUNOLA SOYA OIL 1.9L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUNOLA SOYA OIL 5LT.jpg]
+
+File to: [build/img/SUNOLA SOYA OIL 5LT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Sunshine Air Freshener 63g.png]
+
+File to: [build/img/Sunshine Air Freshener 63g.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SUNSHINE AIR FRESHENER GEL ( 6X12) BLACK CURRENT 80GM.jpg]
+
+File to: [build/img/SUNSHINE AIR FRESHENER GEL ( 6X12) BLACK CURRENT 80GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUNSHINE AIR FRESHENER GEL ( 6X12) BLUE BERRY 80GM.jpg]
+
+File to: [build/img/SUNSHINE AIR FRESHENER GEL ( 6X12) BLUE BERRY 80GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUNSHINE AIR FRESHENER GEL ( 6X12) LIME 80GM.jpg]
+
+File to: [build/img/SUNSHINE AIR FRESHENER GEL ( 6X12) LIME 80GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUNSHINE AIR FRESHENER GEL ( 6X12) STRAWBERRY 80GM.jpg]
+
+File to: [build/img/SUNSHINE AIR FRESHENER GEL ( 6X12) STRAWBERRY 80GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUNSHINE AIR FRESHENER PLASTIC (6X12) MIXED FLOWER 63GM.jpg]
+
+File to: [build/img/SUNSHINE AIR FRESHENER PLASTIC (6X12) MIXED FLOWER 63GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUNSHINE AIR FRESHENER PLASTIC MORNING FRESH 63GM.jpg]
+
+File to: [build/img/SUNSHINE AIR FRESHENER PLASTIC MORNING FRESH 63GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUNSHINE MOONZLIN AIR FRESHENER.jpg]
+
+File to: [build/img/SUNSHINE MOONZLIN AIR FRESHENER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUNSHINE AIR FRESHENER GEL ( 6X12) ORANGE 80GM.jpg]
+
+File to: [build/img/SUNSHINE AIR FRESHENER GEL ( 6X12) ORANGE 80GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUNSHINE PERFUMED BLEACH 1 LTR.jpg]
+
+File to: [build/img/SUNSHINE PERFUMED BLEACH 1 LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUNSHINE POWER BLEACH 1LTR.jpg]
+
+File to: [build/img/SUNSHINE POWER BLEACH 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Sunvita Cereal 40g S x 50 Regular - Carton.png]
+
+File to: [build/img/Sunvita Cereal 40g S x 50 Regular - Carton.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Sunvita Cereal 500g P X 12 Choco - Carton.jpg]
+
+File to: [build/img/Sunvita Cereal 500g P X 12 Choco - Carton.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Sunvita Cereal 500g P X 12 Regular - Carton.png]
+
+File to: [build/img/Sunvita Cereal 500g P X 12 Regular - Carton.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SUPER 2 BISCUIT LEMON 600G.png]
+
+File to: [build/img/SUPER 2 BISCUIT LEMON 600G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Super 2 Cookies 600g x 24.jpg]
+
+File to: [build/img/Super 2 Cookies 600g x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUPER APETI TABS X 20.jpg]
+
+File to: [build/img/SUPER APETI TABS X 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUPER APETI SYRUP 200ML.jpeg]
+
+File to: [build/img/SUPER APETI SYRUP 200ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUPER BLEND GREEN TEA.png]
+
+File to: [build/img/SUPER BLEND GREEN TEA.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Super County PeanutButter 500g x 12.jpg]
+
+File to: [build/img/Super County PeanutButter 500g x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUPER STAY 24H FULL COVERAGE FOUNDATION 48 SUN BEIGE.jpg]
+
+File to: [build/img/SUPER STAY 24H FULL COVERAGE FOUNDATION 48 SUN BEIGE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUPER STAY 24H FULL COVERAGE FOUNDATION 51 CARAMEL BRONZE.jpg]
+
+File to: [build/img/SUPER STAY 24H FULL COVERAGE FOUNDATION 51 CARAMEL BRONZE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUPER STAY 24H FULL COVERAGE FOUNDATION 58 TRU CARAMEL.jpg]
+
+File to: [build/img/SUPER STAY 24H FULL COVERAGE FOUNDATION 58 TRU CARAMEL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUPER STAY 24H FULL COVERAGE FOUNDATION 60 CARAMEL.jpg]
+
+File to: [build/img/SUPER STAY 24H FULL COVERAGE FOUNDATION 60 CARAMEL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUPER STAY 24H LONG WEAR FOUNDATION COCOA 70.jpg]
+
+File to: [build/img/SUPER STAY 24H LONG WEAR FOUNDATION COCOA 70.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUPER STAY 24H PRIMER.jpg]
+
+File to: [build/img/SUPER STAY 24H PRIMER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUPER STAY 24H SETTING SPRAY.jpg]
+
+File to: [build/img/SUPER STAY 24H SETTING SPRAY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUPER STAY 24HR FULL COVERAGE FOUNDATION COCOA.jpg]
+
+File to: [build/img/SUPER STAY 24HR FULL COVERAGE FOUNDATION COCOA.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUPER STAY 24HR LIPSTICK 725 CARAMEL KISS.jpg]
+
+File to: [build/img/SUPER STAY 24HR LIPSTICK 725 CARAMEL KISS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUPER STAY 24HR RENO FOUNDATION 64 CHESTNUT.jpg]
+
+File to: [build/img/SUPER STAY 24HR RENO FOUNDATION 64 CHESTNUT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUPER STAY MATTE INK LIQUID LIPSTICK BELIEVER 40.jpeg]
+
+File to: [build/img/SUPER STAY MATTE INK LIQUID LIPSTICK BELIEVER 40.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUPER STAY MATTE INK LIQUID LIPSTICK LOYALIST 5.jpg]
+
+File to: [build/img/SUPER STAY MATTE INK LIQUID LIPSTICK LOYALIST 5.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Sunshine Naphthalene Balls 225g.jpeg]
+
+File to: [build/img/Sunshine Naphthalene Balls 225g.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUPER STAY MATTE INK LIQUID LIPSTICK ROMANTIC 30.jpg]
+
+File to: [build/img/SUPER STAY MATTE INK LIQUID LIPSTICK ROMANTIC 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUPER2 STRAWBERRY 600G.png]
+
+File to: [build/img/SUPER2 STRAWBERRY 600G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SUPER2 VANILLA COOKIE 600G.png]
+
+File to: [build/img/SUPER2 VANILLA COOKIE 600G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SUPERSTAR CHEWING GUM COFFEE FLAVOUR.jpg]
+
+File to: [build/img/SUPERSTAR CHEWING GUM COFFEE FLAVOUR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUPERSTAY 24HR LIPSTICK 125 NATURAL FLUSH.jpg]
+
+File to: [build/img/SUPERSTAY 24HR LIPSTICK 125 NATURAL FLUSH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUPERSATY 24HR LIPSTICK 135 PERPETUAL ROSE.jpg]
+
+File to: [build/img/SUPERSATY 24HR LIPSTICK 135 PERPETUAL ROSE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUPERSTAY 24HR LIPSTICK 265 ALWAYS ORCHID.jpg]
+
+File to: [build/img/SUPERSTAY 24HR LIPSTICK 265 ALWAYS ORCHID.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUPERSTAY 24HR LIPSTICK 515 BLAZING RED.jpg]
+
+File to: [build/img/SUPERSTAY 24HR LIPSTICK 515 BLAZING RED.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUPERSTAY 24HR LIPSTICK 620 I NUDE.jpg]
+
+File to: [build/img/SUPERSTAY 24HR LIPSTICK 620 I NUDE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUPERSTAY MATTE INK LIQUID LIPSTICK CREATOR 35.jpg]
+
+File to: [build/img/SUPERSTAY MATTE INK LIQUID LIPSTICK CREATOR 35.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUPERSTAY MATTE INK LIQUID LIPSTICK HEROINE 25.jpg]
+
+File to: [build/img/SUPERSTAY MATTE INK LIQUID LIPSTICK HEROINE 25.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUPRADYN X 30.jpg]
+
+File to: [build/img/SUPRADYN X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUPRAMULT PLUS CAPS X 30.png]
+
+File to: [build/img/SUPRAMULT PLUS CAPS X 30.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SUPRAMULT X 30 CAPSULES.jpg]
+
+File to: [build/img/SUPRAMULT X 30 CAPSULES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUPREME HERB _ GARLIC MARINADE 362ML.png]
+
+File to: [build/img/SUPREME HERB _ GARLIC MARINADE 362ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Supreme Ice Cream 0.5Ltr x 12.jpg]
+
+File to: [build/img/Supreme Ice Cream 0.5Ltr x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Supreme Ice Cream 120ml x 50.jpg]
+
+File to: [build/img/Supreme Ice Cream 120ml x 50.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Supreme Ice Cream 220ml x 24.jpg]
+
+File to: [build/img/Supreme Ice Cream 220ml x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Supreme Ice Cream 4Ltrs x 2.jpg]
+
+File to: [build/img/Supreme Ice Cream 4Ltrs x 2.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUPREME ICE CREAM VANILLA & CHOCOLATE 500ML.jpg]
+
+File to: [build/img/SUPREME ICE CREAM VANILLA & CHOCOLATE 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUPREME ICE CREAM VANILLA 220ML.jpg]
+
+File to: [build/img/SUPREME ICE CREAM VANILLA 220ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SUPREME ICE CREAM VANILLA 500ML.jpg]
+
+File to: [build/img/SUPREME ICE CREAM VANILLA 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Sunripe Baked Beans 420g x 24.jpg]
+
+File to: [build/img/Sunripe Baked Beans 420g x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

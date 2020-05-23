@@ -1,0 +1,193 @@
+File from: [src/img/FARM PRIDE TROPICAL 1L.png]
+
+File to: [build/img/FARM PRIDE TROPICAL 1L.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/FARM PRIDE YOGHURT SUGAR FREE 1L.jpg]
+
+File to: [build/img/FARM PRIDE YOGHURT SUGAR FREE 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FARM PRIDE TROPICAL 500ML.jpg]
+
+File to: [build/img/FARM PRIDE TROPICAL 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FARM PRIDE YOGHURT SUGAR FREE 500ML.jpg]
+
+File to: [build/img/FARM PRIDE YOGHURT SUGAR FREE 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Farmcraft Eggs 15pcs X 16.jpg]
+
+File to: [build/img/Farmcraft Eggs 15pcs X 16.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Farmcraft Eggs 30PCS X 8.jpg]
+
+File to: [build/img/Farmcraft Eggs 30PCS X 8.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Farmfresh Pure Yoghurt 500ml.jpg]
+
+File to: [build/img/Farmfresh Pure Yoghurt 500ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Farmfresh Pure Yoghurt 500ml.png]
+
+File to: [build/img/Farmfresh Pure Yoghurt 500ml.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Farmfresh Pure Yoghurt 500ml(1).png]
+
+File to: [build/img/Farmfresh Pure Yoghurt 500ml(1).png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Farrow`s Processed Peas 300g.jpg]
+
+File to: [build/img/Farrow`s Processed Peas 300g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FARROWS GIANT MARROWFAT PEAS 300G.jpg]
+
+File to: [build/img/FARROWS GIANT MARROWFAT PEAS 300G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FARROWS GIANT MARROWFAT PEAS 538G.jpg]
+
+File to: [build/img/FARROWS GIANT MARROWFAT PEAS 538G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FASHION TOYS BRACELET KIT.jpg]
+
+File to: [build/img/FASHION TOYS BRACELET KIT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Farrow`s Processed Peas 538g.jpg]
+
+File to: [build/img/Farrow`s Processed Peas 538g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Fast gas.jpg]
+
+File to: [build/img/Fast gas.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FASTUM GEL 2.5% {MS} 50G.jpg]
+
+File to: [build/img/FASTUM GEL 2.5% {MS} 50G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FASTUM GEL 2.5% {S S} 10G.jpg]
+
+File to: [build/img/FASTUM GEL 2.5% {S S} 10G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Father of chops logo.jpg]
+
+File to: [build/img/Father of chops logo.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Faultless Lavender Heavy Spr Starch 567g.jpg]
+
+File to: [build/img/Faultless Lavender Heavy Spr Starch 567g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Faultless Magic Heavy Starch 567g.jpg]
+
+File to: [build/img/Faultless Magic Heavy Starch 567g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAULTLESS SPRAY STARCH (ORIGINAL FRESH SCENT) 585ML.jpg]
+
+File to: [build/img/FAULTLESS SPRAY STARCH (ORIGINAL FRESH SCENT) 585ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Fayrouz Can Drink 33cl.jpg]
+
+File to: [build/img/Fayrouz Can Drink 33cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAYROUZ CITRUS 5 PREMIUM SPARKLING SOFT DRINK 33CL.jpg]
+
+File to: [build/img/FAYROUZ CITRUS 5 PREMIUM SPARKLING SOFT DRINK 33CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAYROUZ CITRUS SLEEK CAN 33CL.jpg]
+
+File to: [build/img/FAYROUZ CITRUS SLEEK CAN 33CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAYROUZ PINEAPPLE SLEEK CAN 33CL.jpg]
+
+File to: [build/img/FAYROUZ PINEAPPLE SLEEK CAN 33CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAYROUZ-APPLE-33CL.png]
+
+File to: [build/img/FAYROUZ-APPLE-33CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/FAYROUZ-APPLE-33CL(1).png]
+
+File to: [build/img/FAYROUZ-APPLE-33CL(1).png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/FCC_MCV_RICH_-00_McVities-Classic-Rich-Tea-200g.jpg]
+
+File to: [build/img/FCC_MCV_RICH_-00_McVities-Classic-Rich-Tea-200g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FDVIE AVOCOMBO 50CL.jpg]
+
+File to: [build/img/FDVIE AVOCOMBO 50CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FDVIE MIXED FRUIT 50CL.jpg]
+
+File to: [build/img/FDVIE MIXED FRUIT 50CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FDVIE ORANGE JUICE 50CL.jpg]
+
+File to: [build/img/FDVIE ORANGE JUICE 50CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FDVIE ORANGE PINEAPPLE GINGER 50CL.jpg]
+
+File to: [build/img/FDVIE ORANGE PINEAPPLE GINGER 50CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

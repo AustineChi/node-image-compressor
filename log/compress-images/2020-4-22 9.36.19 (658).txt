@@ -1,0 +1,355 @@
+File from: [src/img/DAMATOL MEDICATED HAIR CREAM 55G.jpg]
+
+File to: [build/img/DAMATOL MEDICATED HAIR CREAM 55G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Damatol Mentholated Dusting Pwd.200g x12.jpg]
+
+File to: [build/img/Damatol Mentholated Dusting Pwd.200g x12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dami Ofada Rice 500g x 5.jpg]
+
+File to: [build/img/Dami Ofada Rice 500g x 5.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Damatol Mentholated Dusting Pwd 125g x24.jpg]
+
+File to: [build/img/Damatol Mentholated Dusting Pwd 125g x24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAMPRID MOISTURE ABSORBER LAVENDER 290G.jpg]
+
+File to: [build/img/DAMPRID MOISTURE ABSORBER LAVENDER 290G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Danacid (Magnesium Trisili)tabs x8 SATCH.jpg]
+
+File to: [build/img/Danacid (Magnesium Trisili)tabs x8 SATCH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANCER MEN ORIGINAL100ML.jpg]
+
+File to: [build/img/DANCER MEN ORIGINAL100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dangote Bread Flour 1.5kg x10.jpg]
+
+File to: [build/img/Dangote Bread Flour 1.5kg x10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANGOTE MACARONI 500G.jpg]
+
+File to: [build/img/DANGOTE MACARONI 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dangote Macaroni Elbow 500g x 20.jpg]
+
+File to: [build/img/Dangote Macaroni Elbow 500g x 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dangote Pasta Twist Cavatto 500g x 20.jpg]
+
+File to: [build/img/Dangote Pasta Twist Cavatto 500g x 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dangote Pasta Twist Cavatto 500g.png]
+
+File to: [build/img/Dangote Pasta Twist Cavatto 500g.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DANGOTE REFINED SALT 1KG.jpg]
+
+File to: [build/img/DANGOTE REFINED SALT 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dangote Refined Sugar 1kg x 10.jpg]
+
+File to: [build/img/Dangote Refined Sugar 1kg x 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dangote Refined Sugar 250g x 40.jpg]
+
+File to: [build/img/Dangote Refined Sugar 250g x 40.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANGOTE PASTA SPAGHETTI+STEW MIX.jpg]
+
+File to: [build/img/DANGOTE PASTA SPAGHETTI+STEW MIX.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dangote Refined Sugar 500g x 20.jpg]
+
+File to: [build/img/Dangote Refined Sugar 500g x 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANGOTE REFINED WHI SUGAR 250G.png]
+
+File to: [build/img/DANGOTE REFINED WHI SUGAR 250G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DANGOTE SALT 1KG.jpg]
+
+File to: [build/img/DANGOTE SALT 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANGOTE SEASONING BEEF FLAVOUR 400G.jpg]
+
+File to: [build/img/DANGOTE SEASONING BEEF FLAVOUR 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANGOTE SALT 500G.jpg]
+
+File to: [build/img/DANGOTE SALT 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANGOTE SEMOLINA 10KG.jpg]
+
+File to: [build/img/DANGOTE SEMOLINA 10KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANGOTE SEMOLINA 5 KG.jpg]
+
+File to: [build/img/DANGOTE SEMOLINA 5 KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANGOTE SLIM SPAGHETTI 500G.jpg]
+
+File to: [build/img/DANGOTE SLIM SPAGHETTI 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANGOTE SPAGHETTI STANDARD 500G.jpg]
+
+File to: [build/img/DANGOTE SPAGHETTI STANDARD 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANGOTE SPAGHETTI 500G.jpeg]
+
+File to: [build/img/DANGOTE SPAGHETTI 500G.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dangote Spaghetti Standard Slim 500gx20.jpg]
+
+File to: [build/img/Dangote Spaghetti Standard Slim 500gx20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANGOTE SUGAR 1KG.jpg]
+
+File to: [build/img/DANGOTE SUGAR 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANGOTE SUGAR 250G.png]
+
+File to: [build/img/DANGOTE SUGAR 250G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DANGOTE SUGAR 500G.png]
+
+File to: [build/img/DANGOTE SUGAR 500G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DANGOTE TWIST CAVATTO 500G.jpg]
+
+File to: [build/img/DANGOTE TWIST CAVATTO 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANICA 1L WHIPPING CREAM.jpg]
+
+File to: [build/img/DANICA 1L WHIPPING CREAM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANICA NON DAIRY COOKING CREAM 1L.jpg]
+
+File to: [build/img/DANICA NON DAIRY COOKING CREAM 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Danish Butter Cookies 150g x 24.jpg]
+
+File to: [build/img/Danish Butter Cookies 150g x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Danish Butter Cookies 454g x 12.jpg]
+
+File to: [build/img/Danish Butter Cookies 454g x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANISH BUTTER COOKIES 454G.jpg]
+
+File to: [build/img/DANISH BUTTER COOKIES 454G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Danish Dreams Butter Cookies 125g x 24.jpg]
+
+File to: [build/img/Danish Dreams Butter Cookies 125g x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Danish Dreams Butter Cookies 454g x 12.jpg]
+
+File to: [build/img/Danish Dreams Butter Cookies 454g x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANISH STYLE BUTTER COOKIES 114G.jpg]
+
+File to: [build/img/DANISH STYLE BUTTER COOKIES 114G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO 12 X 900G TIN.jpg]
+
+File to: [build/img/DANO 12 X 900G TIN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO 12_360G SACHET.jpg]
+
+File to: [build/img/DANO 12_360G SACHET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO 123 GROWING UP MILK 380 POUCH.png]
+
+File to: [build/img/DANO 123 GROWING UP MILK 380 POUCH.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DAMILOLA SPARKLES HAND SANITIZER 250ML.jpg]
+
+File to: [build/img/DAMILOLA SPARKLES HAND SANITIZER 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO 2300G SACHET x6.jfif.jpg]
+
+File to: [build/img/DANO 2300G SACHET x6.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO 36 X 100 GM SACHET.jpg]
+
+File to: [build/img/DANO 36 X 100 GM SACHET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO 850G SACHET x12.jfif.jpg]
+
+File to: [build/img/DANO 850G SACHET x12.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO 123 GROWING UP MILK 400 TIN.JPG]
+
+File to: [build/img/DANO 123 GROWING UP MILK 400 TIN.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO CHOCO MILK 360 GM SACHET.jpg]
+
+File to: [build/img/DANO CHOCO MILK 360 GM SACHET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO CHOCOLATE FLAVOUR POWDER MILK 360G.jpg]
+
+File to: [build/img/DANO CHOCOLATE FLAVOUR POWDER MILK 360G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO COOL COW 25KG.jpg]
+
+File to: [build/img/DANO COOL COW 25KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dano Cool Cow Milk Powde Eco Pack 14gx13.jpg]
+
+File to: [build/img/Dano Cool Cow Milk Powde Eco Pack 14gx13.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO COOL COW MILK 12G.jpg]
+
+File to: [build/img/DANO COOL COW MILK 12G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO CHOCO 360 GM SACHET x12.jfif.jpg]
+
+File to: [build/img/DANO CHOCO 360 GM SACHET x12.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANGOTE SUGAR REFILL (1KG).jpg]
+
+File to: [build/img/DANGOTE SUGAR REFILL (1KG).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dano Cool Cow Milk Powde Eco Pack 14gx13.png]
+
+File to: [build/img/Dano Cool Cow Milk Powde Eco Pack 14gx13.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Dano Cool Cow Milk Refill 900g x 12.jpg]
+
+File to: [build/img/Dano Cool Cow Milk Refill 900g x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dano Cool Cow Milk Refill 2500g x 6.jpg]
+
+File to: [build/img/Dano Cool Cow Milk Refill 2500g x 6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO CHOCO 250 GM SACHET x250.jfif.jpg]
+
+File to: [build/img/DANO CHOCO 250 GM SACHET x250.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dano Cool Cow Milk Refill 360g x 12.jpg]
+
+File to: [build/img/Dano Cool Cow Milk Refill 360g x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

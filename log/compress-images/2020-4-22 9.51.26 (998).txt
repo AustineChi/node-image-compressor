@@ -1,0 +1,103 @@
+File from: [src/img/COVONIA COUGH LOZ. 51G B-BLAST.jpg]
+
+File to: [build/img/COVONIA COUGH LOZ. 51G B-BLAST.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COVONIA COUGH LOZENGES EXTRA STRONG ORIG X 51.jpg]
+
+File to: [build/img/COVONIA COUGH LOZENGES EXTRA STRONG ORIG X 51.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COVONIA COUGH LOZENGES ORIGINAL 30GM.jpg]
+
+File to: [build/img/COVONIA COUGH LOZENGES ORIGINAL 30GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COVONIA COUGH LOZENGES SUGERFREE 30GM.jpg]
+
+File to: [build/img/COVONIA COUGH LOZENGES SUGERFREE 30GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COVONIA DRY COUGH S F X 150ML.jpg]
+
+File to: [build/img/COVONIA DRY COUGH S F X 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COVONIA DUAL ACTION LOZENGES ORIG X 51.jpg]
+
+File to: [build/img/COVONIA DUAL ACTION LOZENGES ORIG X 51.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COVONIA HERBAL MUCUS COUGH.jpg]
+
+File to: [build/img/COVONIA HERBAL MUCUS COUGH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Covonia Throat Spray 30ml.jpg]
+
+File to: [build/img/Covonia Throat Spray 30ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COW _ GATE 1 INFANT MILK 0-6 MONTHS 900G.jpg]
+
+File to: [build/img/COW _ GATE 1 INFANT MILK 0-6 MONTHS 900G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cow _ Gate NutriStart Formula 400g x 12.jpg]
+
+File to: [build/img/Cow _ Gate NutriStart Formula 400g x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COW & GATE CREAMED CARROT & POTATO 125G.jpg]
+
+File to: [build/img/COW & GATE CREAMED CARROT & POTATO 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COW & GATE CREAMED COTTAGE PIE 125G.jpg]
+
+File to: [build/img/COW & GATE CREAMED COTTAGE PIE 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COW & GATE JAR ORCHARD & APRICOT & APPLE 125G.jpg]
+
+File to: [build/img/COW & GATE JAR ORCHARD & APRICOT & APPLE 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COW & GATE JAR PUMPKIN AND CHICKEN 125G.jpg]
+
+File to: [build/img/COW & GATE JAR PUMPKIN AND CHICKEN 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COW & GATE JARS STAGE 1 B-B APPLE & MANGO 125G.jpeg]
+
+File to: [build/img/COW & GATE JARS STAGE 1 B-B APPLE & MANGO 125G.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COW & GATE JARS STAGE 1 B-B BANANA YOGHURT 125G.jpg]
+
+File to: [build/img/COW & GATE JARS STAGE 1 B-B BANANA YOGHURT 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COW & GATE JARS STAGE 1 B-B EGG CUSTARD 125G.jpg]
+
+File to: [build/img/COW & GATE JARS STAGE 1 B-B EGG CUSTARD 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

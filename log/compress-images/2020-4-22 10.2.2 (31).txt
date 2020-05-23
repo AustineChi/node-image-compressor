@@ -1,0 +1,91 @@
+File from: [src/img/Palmolive Naturals Bath Soaps 90g.png]
+
+File to: [build/img/Palmolive Naturals Bath Soaps 90g.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Palmolive Naturals Bath Foam 500mlX12.jpg]
+
+File to: [build/img/Palmolive Naturals Bath Foam 500mlX12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PALOMA CLASSIC TISSUE.jpg]
+
+File to: [build/img/PALOMA CLASSIC TISSUE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PALMOLIVE ORCHIDEA ESOTICA 750ML.png]
+
+File to: [build/img/PALMOLIVE ORCHIDEA ESOTICA 750ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/PALUDRINE TAB.jpg]
+
+File to: [build/img/PALUDRINE TAB.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pampered Coco+Almond+VanilHandwash 500ml.jpg]
+
+File to: [build/img/Pampered Coco+Almond+VanilHandwash 500ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pampered Mango+Passion+OraHandwash 500ml.jpg]
+
+File to: [build/img/Pampered Mango+Passion+OraHandwash 500ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PAMPERS BABY DRY SIZE 3 30S.jpg]
+
+File to: [build/img/PAMPERS BABY DRY SIZE 3 30S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PAMPERS BABY DRY SIZE 4 25S.jpg]
+
+File to: [build/img/PAMPERS BABY DRY SIZE 4 25S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PAMPERS BABY WIPES SENSITIVE 56S.jpg]
+
+File to: [build/img/PAMPERS BABY WIPES SENSITIVE 56S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pampers Economy Pack VP X4.jpg]
+
+File to: [build/img/Pampers Economy Pack VP X4.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PAMPERS PANT JUNIOR SIZE 5 26S.jpg]
+
+File to: [build/img/PAMPERS PANT JUNIOR SIZE 5 26S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pampers Pants Midi S3 9s.jpeg]
+
+File to: [build/img/Pampers Pants Midi S3 9s.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pampers Pants Midi S3 9s.jpg]
+
+File to: [build/img/Pampers Pants Midi S3 9s.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PALMOLIVE NATURALS SHOWER CREAM MIX 500G.jpg]
+
+File to: [build/img/PALMOLIVE NATURALS SHOWER CREAM MIX 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

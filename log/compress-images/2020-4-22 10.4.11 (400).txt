@@ -1,0 +1,187 @@
+File from: [src/img/UGWU 1KG.jpg]
+
+File to: [build/img/UGWU 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/UGWU PER BUNCH.jpeg]
+
+File to: [build/img/UGWU PER BUNCH.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Ukodo (Yam and Unripe plantain 2LTRS.jpg]
+
+File to: [build/img/Ukodo (Yam and Unripe plantain 2LTRS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Ulker Biscuits with Cocoa170gx18.jpg]
+
+File to: [build/img/Ulker Biscuits with Cocoa170gx18.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ULGICID SUSP  200ML.jpg]
+
+File to: [build/img/ULGICID SUSP  200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Ulker Biskrem 100g x 18.jpg]
+
+File to: [build/img/Ulker Biskrem 100g x 18.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ULSAKIT SOFT GEL  X 42.jpg]
+
+File to: [build/img/ULSAKIT SOFT GEL  X 42.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ULTREX ULTRA SANITARY PADS.jpg]
+
+File to: [build/img/ULTREX ULTRA SANITARY PADS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Ultra White Lotion 16 0z 475ml.jpg]
+
+File to: [build/img/Ultra White Lotion 16 0z 475ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/UMBRELLA BIG.jpeg]
+
+File to: [build/img/UMBRELLA BIG.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/UMBRELLA FOLDABLE.jpg]
+
+File to: [build/img/UMBRELLA FOLDABLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/UNCLE BEN`S LONG GRAIN RICE 5.44G.jpg]
+
+File to: [build/img/UNCLE BEN`S LONG GRAIN RICE 5.44G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/UMBRELLA SMALL.jpg]
+
+File to: [build/img/UMBRELLA SMALL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/UNCLE BEN`S LONG GRAIN RICE 500G.jpg]
+
+File to: [build/img/UNCLE BEN`S LONG GRAIN RICE 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/UNCLE RAY'S BBQ FLAVORED 127.5G.jpg]
+
+File to: [build/img/UNCLE RAY'S BBQ FLAVORED 127.5G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/UNCLE RAY'S HOT FLAVORED 127.5G.jpg]
+
+File to: [build/img/UNCLE RAY'S HOT FLAVORED 127.5G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/UNCLE RAY'S SALT & PEPPER FLAVORED 120G.png]
+
+File to: [build/img/UNCLE RAY'S SALT & PEPPER FLAVORED 120G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/UNCLE RAY'S JALAPENO 120G.jpg]
+
+File to: [build/img/UNCLE RAY'S JALAPENO 120G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/UNCLE RAY'S SOUR CREAM & CHEDDAR 120G.png]
+
+File to: [build/img/UNCLE RAY'S SOUR CREAM & CHEDDAR 120G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Unibis Chocolate Short Cake 225g x 30.jpg]
+
+File to: [build/img/Unibis Chocolate Short Cake 225g x 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Unidexal 5% Dextrose 0.9%Saline 500ml x1.jpg]
+
+File to: [build/img/Unidexal 5% Dextrose 0.9%Saline 500ml x1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/UNICAFE GOLD NESCAFE 50G.jpg]
+
+File to: [build/img/UNICAFE GOLD NESCAFE 50G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Unigloves Latex Gloves x100 Medium.jpg]
+
+File to: [build/img/Unigloves Latex Gloves x100 Medium.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/UNISAL NORMAL SALINE 0.9% 500ML.jpg]
+
+File to: [build/img/UNISAL NORMAL SALINE 0.9% 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/UNIVAL(DIAZEPAM) 5MG X 6.png]
+
+File to: [build/img/UNIVAL(DIAZEPAM) 5MG X 6.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Universal Basic Relaxer (U.B) 950ml x12.jpg]
+
+File to: [build/img/Universal Basic Relaxer (U.B) 950ml x12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/URAH CREAM.jpg]
+
+File to: [build/img/URAH CREAM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Urban ManWoman EDT 100ml X 6.jpg]
+
+File to: [build/img/Urban ManWoman EDT 100ml X 6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/USB 12W POWER ADAPTER.jpg]
+
+File to: [build/img/USB 12W POWER ADAPTER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/UTTERLY PINEAPPLE & GINGER JUICE 500ML.jpg]
+
+File to: [build/img/UTTERLY PINEAPPLE & GINGER JUICE 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/UTTERLY YUM CARROT, PINEAPPLE & GINGER JUICE 500ML.jpg]
+
+File to: [build/img/UTTERLY YUM CARROT, PINEAPPLE & GINGER JUICE 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

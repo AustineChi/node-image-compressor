@@ -1,0 +1,379 @@
+File from: [src/img/BEAUTY FORMULAS SENSITIVE CLEANSING WIPES 30.jpg]
+
+File to: [build/img/BEAUTY FORMULAS SENSITIVE CLEANSING WIPES 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEAUTY FORMULAS SOFT APRICOT WIPES 30.jpg]
+
+File to: [build/img/BEAUTY FORMULAS SOFT APRICOT WIPES 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEAUTY FORMULAS STYLING GEL MEGA HARD 500ML.jpg]
+
+File to: [build/img/BEAUTY FORMULAS STYLING GEL MEGA HARD 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEAUTY LAND BATH GLOVES.JPG]
+
+File to: [build/img/BEAUTY LAND BATH GLOVES.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEAUTY MOIST TISSUES GREEN TEA.jpg]
+
+File to: [build/img/BEAUTY MOIST TISSUES GREEN TEA.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEBETO BERRY 30G.jpg]
+
+File to: [build/img/BEBETO BERRY 30G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEAUTYSURE X 60.jpg]
+
+File to: [build/img/BEAUTYSURE X 60.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEBETO FUNNY BEAR 20GM.jpg]
+
+File to: [build/img/BEBETO FUNNY BEAR 20GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEBETO ICE CREAM 80G.jpg]
+
+File to: [build/img/BEBETO ICE CREAM 80G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEAUTY MOIST TISSUES CITRUS.jpg]
+
+File to: [build/img/BEAUTY MOIST TISSUES CITRUS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEBETO SOUR BLAST STRAWBERRY FIZZY STRIP 15GM.jpg]
+
+File to: [build/img/BEBETO SOUR BLAST STRAWBERRY FIZZY STRIP 15GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEBETO SOUR BLAST TUTTI FRUTTI STRIP 15G.jpeg]
+
+File to: [build/img/BEBETO SOUR BLAST TUTTI FRUTTI STRIP 15G.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEBETO STRAWBERRY 20G.jpg]
+
+File to: [build/img/BEBETO STRAWBERRY 20G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BECOMBION SYR  300ML.jpg]
+
+File to: [build/img/BECOMBION SYR  300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEAUTY MODEL PERFUME 100ML.jpg]
+
+File to: [build/img/BEAUTY MODEL PERFUME 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BECOMBION. SYR  150ML.jpg]
+
+File to: [build/img/BECOMBION. SYR  150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Beechams All in One Tabs x 16.jpeg]
+
+File to: [build/img/Beechams All in One Tabs x 16.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEBETO SOUR BLAST COLA FIZZY GUMMIES STRIP 15GM.jpeg]
+
+File to: [build/img/BEBETO SOUR BLAST COLA FIZZY GUMMIES STRIP 15GM.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Beechams Max Strength AIO CAPs x 16 GSK.jpg]
+
+File to: [build/img/Beechams Max Strength AIO CAPs x 16 GSK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEDROOM SLIPPERS.jpg]
+
+File to: [build/img/BEDROOM SLIPPERS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Beechams Powder x 10 GSK.jpg]
+
+File to: [build/img/Beechams Powder x 10 GSK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Beef brisket.jpg]
+
+File to: [build/img/Beef brisket.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Beef Burger.jpg]
+
+File to: [build/img/Beef Burger.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Beef butterfly.jpg]
+
+File to: [build/img/Beef butterfly.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Beef goulash.jpg]
+
+File to: [build/img/Beef goulash.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEEF CARCASS 1KG.jpg]
+
+File to: [build/img/BEEF CARCASS 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Beef kebab.jpg]
+
+File to: [build/img/Beef kebab.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Beef loin.jpg]
+
+File to: [build/img/Beef loin.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Beef Pepper soup 2LTRS.jpg]
+
+File to: [build/img/Beef Pepper soup 2LTRS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Beef ribs.jpg]
+
+File to: [build/img/Beef ribs.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Beef shin with bone.jpg]
+
+File to: [build/img/Beef shin with bone.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Beef rib eye.jpg]
+
+File to: [build/img/Beef rib eye.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Beef steak.jpg]
+
+File to: [build/img/Beef steak.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Beef tenderize.jpg]
+
+File to: [build/img/Beef tenderize.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Beefeater75cl x12.jpg]
+
+File to: [build/img/Beefeater75cl x12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Beef thick flank.jpg]
+
+File to: [build/img/Beef thick flank.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEEHIVE BALSAM SYR 200ML.jpg]
+
+File to: [build/img/BEEHIVE BALSAM SYR 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEET ROOT.jpg]
+
+File to: [build/img/BEET ROOT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BELLS ALMOND OIL 70ML.jpg]
+
+File to: [build/img/BELLS ALMOND OIL 70ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BELLS BABY TEETHING MIXTURE 100ML.jpg]
+
+File to: [build/img/BELLS BABY TEETHING MIXTURE 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BELLS CLOVE OIL 10ML.jpg]
+
+File to: [build/img/BELLS CLOVE OIL 10ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BELLS NORMAL SALINE NASAL DROPS X 10ML.jpg]
+
+File to: [build/img/BELLS NORMAL SALINE NASAL DROPS X 10ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BELLS PURE TEA TREE OIL 10ML.jpg]
+
+File to: [build/img/BELLS PURE TEA TREE OIL 10ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BELMA CHIN CHIN JAR 350G.png]
+
+File to: [build/img/BELMA CHIN CHIN JAR 350G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/BELMA CHIN CHIN JAR.png]
+
+File to: [build/img/BELMA CHIN CHIN JAR.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/BELOXXI CREAM CRACKERS 100GR.jpg]
+
+File to: [build/img/BELOXXI CREAM CRACKERS 100GR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BELOXXI CREAM CRACKERS 200GR.jpg]
+
+File to: [build/img/BELOXXI CREAM CRACKERS 200GR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BELOXXI CREAM CRACKERS 21GR.jpg]
+
+File to: [build/img/BELOXXI CREAM CRACKERS 21GR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Beloxxi Cream Crackers Biscuit 21g x 72.jpg]
+
+File to: [build/img/Beloxxi Cream Crackers Biscuit 21g x 72.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BELOXXI MINI CRACKERS BISCUITS 15G.jpg]
+
+File to: [build/img/BELOXXI MINI CRACKERS BISCUITS 15G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BELOXXI MINI CRACKERS 15G.jpg]
+
+File to: [build/img/BELOXXI MINI CRACKERS 15G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BELVEDERE ORIGINAL 1L.jpg]
+
+File to: [build/img/BELVEDERE ORIGINAL 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BELVITA CINNAMON BROWN BISCUIT 50G.jpg]
+
+File to: [build/img/BELVITA CINNAMON BROWN BISCUIT 50G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Benadryl (Diphenhydramine)25mg x 1.png]
+
+File to: [build/img/Benadryl (Diphenhydramine)25mg x 1.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/BENADRYL ALLERGY CHILDREN SYRUP.png]
+
+File to: [build/img/BENADRYL ALLERGY CHILDREN SYRUP.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/BENADRYL CAPS X 12.jpg]
+
+File to: [build/img/BENADRYL CAPS X 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BENADRYL ONE A DAY TABS X 7.jpg]
+
+File to: [build/img/BENADRYL ONE A DAY TABS X 7.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BELMA CHIN CHIN JAR 700G.jpg]
+
+File to: [build/img/BELMA CHIN CHIN JAR 700G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BENCHIE MENTHOLATED BALM.jpg]
+
+File to: [build/img/BENCHIE MENTHOLATED BALM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BENDROFLUMETHIAZIDE 2.5MG X 28(CRESCENT).jpg]
+
+File to: [build/img/BENDROFLUMETHIAZIDE 2.5MG X 28(CRESCENT).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BENCE CHOCOLATE 40G.jpg]
+
+File to: [build/img/BENCE CHOCOLATE 40G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BENDROFLUMETHIAZIDE 5MG X28(AVTAVIS).jpg]
+
+File to: [build/img/BENDROFLUMETHIAZIDE 5MG X28(AVTAVIS).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BENDROFLUOMETHIAZIDE TABS 2.5MG X 28 TEVA UK.jpg]
+
+File to: [build/img/BENDROFLUOMETHIAZIDE TABS 2.5MG X 28 TEVA UK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

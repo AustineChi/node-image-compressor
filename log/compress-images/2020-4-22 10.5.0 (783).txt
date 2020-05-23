@@ -1,0 +1,73 @@
+File from: [src/img/WELCHS CONCORD GRAPE JELLY 269G.jpg]
+
+File to: [build/img/WELCHS CONCORD GRAPE JELLY 269G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Welchs Sparkling Drinks Ranges x 12.jpg]
+
+File to: [build/img/Welchs Sparkling Drinks Ranges x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELL WOMAN. INNER CLEANSE CAPS  X 30.jpg]
+
+File to: [build/img/WELL WOMAN. INNER CLEANSE CAPS  X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELLBABY DROPS  30ML.jpg]
+
+File to: [build/img/WELLBABY DROPS  30ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELLBABY MULTIVITAMIN SYRUP 150ML.jpg]
+
+File to: [build/img/WELLBABY MULTIVITAMIN SYRUP 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Wellkid 4-12yrs Immune Chew+ Vit. D x30.jpg]
+
+File to: [build/img/Wellkid 4-12yrs Immune Chew+ Vit. D x30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Wellkid 4-12yrs Multivit +VitD Liq 150ml.jpg]
+
+File to: [build/img/Wellkid 4-12yrs Multivit +VitD Liq 150ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELLKID BABY AND INFANT SYRUP 150ML.jpg]
+
+File to: [build/img/WELLKID BABY AND INFANT SYRUP 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELLKID SOFT JELLY 4-12 YERS PASTILLES.jpg]
+
+File to: [build/img/WELLKID SOFT JELLY 4-12 YERS PASTILLES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELLKID SOFT JELLY PASTILLES ORANGE X 30.jpg]
+
+File to: [build/img/WELLKID SOFT JELLY PASTILLES ORANGE X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELLKID SYR  150ML.jpg]
+
+File to: [build/img/WELLKID SYR  150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WELLKID TABS X 30.jpg]
+
+File to: [build/img/WELLKID TABS X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

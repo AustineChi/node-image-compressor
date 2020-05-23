@@ -1,0 +1,523 @@
+File from: [src/img/SNIPER AEROSOL FLYING 300ML.jpg]
+
+File to: [build/img/SNIPER AEROSOL FLYING 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SNUFFLE BABE VAPOUR RUB.jpg]
+
+File to: [build/img/SNUFFLE BABE VAPOUR RUB.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SnowseaDouble 3.5ft Door Standing Refrigerator BCD-158silver.jpg]
+
+File to: [build/img/SnowseaDouble 3.5ft Door Standing Refrigerator BCD-158silver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SNUFFLE BABY SALINE NASAL SALINE DROPS.jpg]
+
+File to: [build/img/SNUFFLE BABY SALINE NASAL SALINE DROPS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SO FINE ANTIDANDRUF HAIR DARKENING CREAM 100G.png]
+
+File to: [build/img/SO FINE ANTIDANDRUF HAIR DARKENING CREAM 100G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SO KLIN CONCENTRATED DETERGENT 900G.jpg]
+
+File to: [build/img/SO KLIN CONCENTRATED DETERGENT 900G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SO KLIN MATIC DETERGENT 1KG.jpg]
+
+File to: [build/img/SO KLIN MATIC DETERGENT 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SO YUMMY POPCORN 55G.jpg]
+
+File to: [build/img/SO YUMMY POPCORN 55G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOAP DISH.jpg]
+
+File to: [build/img/SOAP DISH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/So-Klin Detergent Powder 500g x 12.jpg]
+
+File to: [build/img/So-Klin Detergent Powder 500g x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOAP IRISH SPRING ALOE 100G.jpg]
+
+File to: [build/img/SOAP IRISH SPRING ALOE 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOAP IRISH SPRING ICY100G.jfif.jpg]
+
+File to: [build/img/SOAP IRISH SPRING ICY100G.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOAP IRISH SPRING ORIGINAL 100G.jpg]
+
+File to: [build/img/SOAP IRISH SPRING ORIGINAL 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOFT _ GENTLE 48H PROTECTION LAVENDER _ PATCHOULI 50ML.jpg]
+
+File to: [build/img/SOFT _ GENTLE 48H PROTECTION LAVENDER _ PATCHOULI 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Soft _ Gentle Deodorant Body Spray 250ml.jpg]
+
+File to: [build/img/Soft _ Gentle Deodorant Body Spray 250ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOFT _ GENTLE JASMINE _ COCO MILK 50ML.jpg]
+
+File to: [build/img/SOFT _ GENTLE JASMINE _ COCO MILK 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOFT _ GENTLE ORANGE 50ML.jpg]
+
+File to: [build/img/SOFT _ GENTLE ORANGE 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOFT _ GENTLE WILD ROSE _ VANILLA 50ML.jpg]
+
+File to: [build/img/SOFT _ GENTLE WILD ROSE _ VANILLA 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOFT _ GENTLEVERBENA _ WATERLILY 50ML.jpg]
+
+File to: [build/img/SOFT _ GENTLEVERBENA _ WATERLILY 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOFT & GENTLE SPRAY REALLY PURE 75ML.jpg]
+
+File to: [build/img/SOFT & GENTLE SPRAY REALLY PURE 75ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOFT & GENTLE SPRAY ULTRA PROTECTION 75ML.jpg]
+
+File to: [build/img/SOFT & GENTLE SPRAY ULTRA PROTECTION 75ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Soft Chicken.png]
+
+File to: [build/img/Soft Chicken.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SOFT KIDS TOOTHBRUSHES PURE ENFANT.jpg]
+
+File to: [build/img/SOFT KIDS TOOTHBRUSHES PURE ENFANT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOFT PROTECTION SALON PET BRUSH.jpg]
+
+File to: [build/img/SOFT PROTECTION SALON PET BRUSH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOFTWAVE JUMBO TOILET PAPER.jpg]
+
+File to: [build/img/SOFTWAVE JUMBO TOILET PAPER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOFTWAVE SERVIETTE 36S.jpg]
+
+File to: [build/img/SOFTWAVE SERVIETTE 36S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOFTWAVE SMALL TOILET PAPER.jpeg]
+
+File to: [build/img/SOFTWAVE SMALL TOILET PAPER.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOFTWAVE TOILET PAPER.jpg]
+
+File to: [build/img/SOFTWAVE TOILET PAPER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOLINGEN CUTICLE NIPPERS.jpg]
+
+File to: [build/img/SOLINGEN CUTICLE NIPPERS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOLO SQUARED PLASTIC PLATES 40S.jpg]
+
+File to: [build/img/SOLO SQUARED PLASTIC PLATES 40S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOLPADIENE PLUS SOLUBLE SOLUBLE TABS X 32.jpg]
+
+File to: [build/img/SOLPADIENE PLUS SOLUBLE SOLUBLE TABS X 32.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Sominex US (Diphenhydram 25mg) Tabs x16.jpg]
+
+File to: [build/img/Sominex US (Diphenhydram 25mg) Tabs x16.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SONIA TOMATO PASTE.jpg]
+
+File to: [build/img/SONIA TOMATO PASTE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Sony50 Class Full HD Smart LED TVblack.jpg]
+
+File to: [build/img/Sony50 Class Full HD Smart LED TVblack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SonyBlu-Ray Home Theatre Tall Boy Speakerswhitee.jpg]
+
+File to: [build/img/SonyBlu-Ray Home Theatre Tall Boy Speakerswhitee.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SonyBlu-Ray Home Theatre Tall Boy Speakerswhite.jpg]
+
+File to: [build/img/SonyBlu-Ray Home Theatre Tall Boy Speakerswhite.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SonyDVD Player DVP-SR370BLACK.jpg]
+
+File to: [build/img/SonyDVD Player DVP-SR370BLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SonyHigh Power Portable Party Music System With 360-Degree LightBLACK`.jpg]
+
+File to: [build/img/SonyHigh Power Portable Party Music System With 360-Degree LightBLACK`.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SonyMHC-V82D High Power Portable Party Music SystemBLACK.jpg]
+
+File to: [build/img/SonyMHC-V82D High Power Portable Party Music SystemBLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SonyMHC-V90DW Home Audio SystemBLACK.jpg]
+
+File to: [build/img/SonyMHC-V90DW Home Audio SystemBLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SonySHAKE-X10D Three Box High Power Audio System With Lighting Effects AndBlack.jpg]
+
+File to: [build/img/SonySHAKE-X10D Three Box High Power Audio System With Lighting Effects AndBlack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SonySHAKE-X30D Three Box High Power Audio System With Lighting Effects And Party FeaturesBLACK.jpg]
+
+File to: [build/img/SonySHAKE-X30D Three Box High Power Audio System With Lighting Effects And Party FeaturesBLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SonySHAKE-X7D Three Box High Power Audio SystemBlack.jpg]
+
+File to: [build/img/SonySHAKE-X7D Three Box High Power Audio SystemBlack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SonySOUND BAR- HT-CT390 WITH WIRELESS SUB WOOFERBlack.jpg]
+
+File to: [build/img/SonySOUND BAR- HT-CT390 WITH WIRELESS SUB WOOFERBlack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOULMATE HAIR CONDITIONER PLUS 100G.jpg]
+
+File to: [build/img/SOULMATE HAIR CONDITIONER PLUS 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOULMATE HAIR CONDITIONER PLUS 180G.jpg]
+
+File to: [build/img/SOULMATE HAIR CONDITIONER PLUS 180G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Sound PrinceSP1280 Public Address System  Rechargeable With Two WirelessBlack.jpg]
+
+File to: [build/img/Sound PrinceSP1280 Public Address System  Rechargeable With Two WirelessBlack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOYA BEANS PER KG.jpg]
+
+File to: [build/img/SOYA BEANS PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOYFRESH SOYA MILK 250ML CHOCOLATE.png]
+
+File to: [build/img/SOYFRESH SOYA MILK 250ML CHOCOLATE.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SOYFRESH SOYA MILK 250ML MALT.png]
+
+File to: [build/img/SOYFRESH SOYA MILK 250ML MALT.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Spa Exfoliating Bath Gloves x 1pair.jpg]
+
+File to: [build/img/Spa Exfoliating Bath Gloves x 1pair.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SPAGHETTI - DANGOTE.jpg]
+
+File to: [build/img/SPAGHETTI - DANGOTE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SPAGHETTI - GOLDEN PENNY.jpg]
+
+File to: [build/img/SPAGHETTI - GOLDEN PENNY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SPAGHETTI - HONEYWELL.jpg]
+
+File to: [build/img/SPAGHETTI - HONEYWELL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SPARKLE DISH WASH 500ML.jpg]
+
+File to: [build/img/SPARKLE DISH WASH 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SPARKLE SPRING HANDWASH.jpg]
+
+File to: [build/img/SPARKLE SPRING HANDWASH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SPARKLE SUMMERFRUITS HANDWASH 500ML.jpg]
+
+File to: [build/img/SPARKLE SUMMERFRUITS HANDWASH 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Spectra Cocoa Powder Refill 250g x12.jpg]
+
+File to: [build/img/Spectra Cocoa Powder Refill 250g x12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SPARKLE WINDOW CLEANER 750ML.jpg]
+
+File to: [build/img/SPARKLE WINDOW CLEANER 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Spectra Cocoa Powder Tin 250g x12.jpg]
+
+File to: [build/img/Spectra Cocoa Powder Tin 250g x12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SPEED STICK DEODORANT REGULAR 85G.jpg]
+
+File to: [build/img/SPEED STICK DEODORANT REGULAR 85G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SPICE IT CAJUN SEASONING 135G.png]
+
+File to: [build/img/SPICE IT CAJUN SEASONING 135G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SPICE SUPREME ADOBO 198G.jpg]
+
+File to: [build/img/SPICE SUPREME ADOBO 198G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SPICE SUPREME BARBECUE SPICE 227G.jpg]
+
+File to: [build/img/SPICE SUPREME BARBECUE SPICE 227G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SPICE SUPREME BASIL LEAVES 28G.jpg]
+
+File to: [build/img/SPICE SUPREME BASIL LEAVES 28G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SPICE SUPREME BAY LEAVES 6G.jpg]
+
+File to: [build/img/SPICE SUPREME BAY LEAVES 6G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SPICE SUPREME CHICKEN SEASONING 184G.jpeg]
+
+File to: [build/img/SPICE SUPREME CHICKEN SEASONING 184G.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SPICE SUPREME CURRY POWDER 85G.jpg]
+
+File to: [build/img/SPICE SUPREME CURRY POWDER 85G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SPICE SUPREME FISH SEASONING 198G.jpg]
+
+File to: [build/img/SPICE SUPREME FISH SEASONING 198G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SPICE SUPREME FISH SEASONING 92G.jpg]
+
+File to: [build/img/SPICE SUPREME FISH SEASONING 92G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SPICE SUPREME FRIED RICE SPICE 121G.jpg]
+
+File to: [build/img/SPICE SUPREME FRIED RICE SPICE 121G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SPICE SUPREME GARLIC POWDER 50G.jpg]
+
+File to: [build/img/SPICE SUPREME GARLIC POWDER 50G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SPICE SUPREME GRAND CORIANDER 85.jpg]
+
+File to: [build/img/SPICE SUPREME GRAND CORIANDER 85.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SPICE SUPREME GRAND SAGE 57G.jpg]
+
+File to: [build/img/SPICE SUPREME GRAND SAGE 57G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SPICE SUPREME GROUND TURMERIC 56G.jpg]
+
+File to: [build/img/SPICE SUPREME GROUND TURMERIC 56G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SPICE SUPREME JOLLOF RICE SPICE 156G.jpg]
+
+File to: [build/img/SPICE SUPREME JOLLOF RICE SPICE 156G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SPICE SUPREME JOLLOF RICE SPICE.jpg]
+
+File to: [build/img/SPICE SUPREME JOLLOF RICE SPICE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SPICE SUPREME PEPPER SOUP SPICE 198G.png]
+
+File to: [build/img/SPICE SUPREME PEPPER SOUP SPICE 198G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SPICE SUPREME PURE GROUND BLACK PEPPER 57G.jpg]
+
+File to: [build/img/SPICE SUPREME PURE GROUND BLACK PEPPER 57G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SPICE SUPREME PURE GROUND CINNAMON 92G.jpg]
+
+File to: [build/img/SPICE SUPREME PURE GROUND CINNAMON 92G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SPICE SUPREME PURE GROUND GINGER 78G.jpg]
+
+File to: [build/img/SPICE SUPREME PURE GROUND GINGER 78G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SPICE SUPREME PURE GROUND NUTMEG 49G.jpg]
+
+File to: [build/img/SPICE SUPREME PURE GROUND NUTMEG 49G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SPICE SUPREME PURE GROUND WHITE PEPPER 56G.jpg]
+
+File to: [build/img/SPICE SUPREME PURE GROUND WHITE PEPPER 56G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SPICE SUPREME SAZON COMPLETE MIX 99G.jpg]
+
+File to: [build/img/SPICE SUPREME SAZON COMPLETE MIX 99G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SPICE SUPREME THYME LEAVES 42G.jpg]
+
+File to: [build/img/SPICE SUPREME THYME LEAVES 42G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SPICE SUPREME JOLLOF RICE SPICE 92G.jpg]
+
+File to: [build/img/SPICE SUPREME JOLLOF RICE SPICE 92G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SPICE SUPREME PURE GROUND ALL SPICE 85G.jpg]
+
+File to: [build/img/SPICE SUPREME PURE GROUND ALL SPICE 85G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

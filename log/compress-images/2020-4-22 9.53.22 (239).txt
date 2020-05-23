@@ -1,0 +1,109 @@
+File from: [src/img/DUBIC MALT BOTTLE.png]
+
+File to: [build/img/DUBIC MALT BOTTLE.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DUBIC MALT CAN.jpg]
+
+File to: [build/img/DUBIC MALT CAN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUBIC MALT PET 330ML.png]
+
+File to: [build/img/DUBIC MALT PET 330ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DUBIC MALT PET.png]
+
+File to: [build/img/DUBIC MALT PET.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DUCROS CURRY POWDER 25G.jpg]
+
+File to: [build/img/DUCROS CURRY POWDER 25G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Ducros Curry Powder Dried Thym 10g.jpg]
+
+File to: [build/img/Ducros Curry Powder Dried Thym 10g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUCROS DRIED THYME 10G.jpg]
+
+File to: [build/img/DUCROS DRIED THYME 10G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Ducros Curry Powder Dried Thym.jpg]
+
+File to: [build/img/Ducros Curry Powder Dried Thym.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dudu - Osun Black Soap 150g x 48.jpg]
+
+File to: [build/img/Dudu - Osun Black Soap 150g x 48.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUDU OSUN 150G.jpg]
+
+File to: [build/img/DUDU OSUN 150G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DULCOLAX  5MG TABLET X 20 PACK.jpg]
+
+File to: [build/img/DULCOLAX  5MG TABLET X 20 PACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUDU-OSUN MOISTURIZING LOTION 400ML.jpg]
+
+File to: [build/img/DUDU-OSUN MOISTURIZING LOTION 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DULCOLAX SUPP 10MG X 12.jpg]
+
+File to: [build/img/DULCOLAX SUPP 10MG X 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DULCOLAX SUPP. 5MG X 5.jpg]
+
+File to: [build/img/DULCOLAX SUPP. 5MG X 5.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DULCOLAX TABS X 10.jpg]
+
+File to: [build/img/DULCOLAX TABS X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DULCOLAX. PICO LIQUID  5MG 100ML.jpg]
+
+File to: [build/img/DULCOLAX. PICO LIQUID  5MG 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUMCHI CHILLI PEPPER 80G.JPG]
+
+File to: [build/img/DUMCHI CHILLI PEPPER 80G.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUMCHI COCONUT GARRI 1KG.jpg]
+
+File to: [build/img/DUMCHI COCONUT GARRI 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

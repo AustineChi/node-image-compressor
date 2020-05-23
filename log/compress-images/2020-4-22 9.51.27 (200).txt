@@ -1,0 +1,139 @@
+File from: [src/img/YALE CABIN BUSCUIT 450G.jpg]
+
+File to: [build/img/YALE CABIN BUSCUIT 450G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Yale Cabin Sweetened Biscuit 500g.jpg]
+
+File to: [build/img/Yale Cabin Sweetened Biscuit 500g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/YAM PER TUBER.jpg]
+
+File to: [build/img/YAM PER TUBER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Yam porridge 2LTRS.jpeg]
+
+File to: [build/img/Yam porridge 2LTRS.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/YAMAZAKI DISTILLERS RESERVE 70CL.jpg]
+
+File to: [build/img/YAMAZAKI DISTILLERS RESERVE 70CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/YC Whitening Facial Scrub 175ml.jpg]
+
+File to: [build/img/YC Whitening Facial Scrub 175ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/YELLOW GARRI PER KG.jpeg]
+
+File to: [build/img/YELLOW GARRI PER KG.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/YES SWEET CHILLI SAUCE 250ML.jpg]
+
+File to: [build/img/YES SWEET CHILLI SAUCE 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/YES SWEET HOT SAUCE 250ML.jpg]
+
+File to: [build/img/YES SWEET HOT SAUCE 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/YG SATIN BONNET.jpg]
+
+File to: [build/img/YG SATIN BONNET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/YLH STEEL WOOL.jpg]
+
+File to: [build/img/YLH STEEL WOOL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Yogolino yoghurts.png]
+
+File to: [build/img/Yogolino yoghurts.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/youtube-logo-gray.png]
+
+File to: [build/img/youtube-logo-gray.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/YOYO BITTERS LIQUID 200ML.jpg]
+
+File to: [build/img/YOYO BITTERS LIQUID 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/YOYO BITTERS. CAPS  X 30.png]
+
+File to: [build/img/YOYO BITTERS. CAPS  X 30.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/YTACAN PLUS CREAM 30G.png]
+
+File to: [build/img/YTACAN PLUS CREAM 30G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/YUCCA FLOWER.jpg]
+
+File to: [build/img/YUCCA FLOWER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ZACAPACENT 23 75CLX6.jpg]
+
+File to: [build/img/ZACAPACENT 23 75CLX6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ZADITEN TABS 1MG X 30.jpg]
+
+File to: [build/img/ZADITEN TABS 1MG X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ZADITEN. EYE DROPS 5ML.png]
+
+File to: [build/img/ZADITEN. EYE DROPS 5ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/ZADITEN. SYR 1MG 100ML.jpg]
+
+File to: [build/img/ZADITEN. SYR 1MG 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ZANGA SWAGGA CONDOMS.jpg]
+
+File to: [build/img/ZANGA SWAGGA CONDOMS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/YES SWEET CHILLI SAUCE 750ML.jpg]
+
+File to: [build/img/YES SWEET CHILLI SAUCE 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

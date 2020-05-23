@@ -1,0 +1,25 @@
+File from: [src/img/DOWK-WIMPY KID DOG DAYS.jpg]
+
+File to: [build/img/DOWK-WIMPY KID DOG DAYS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOWK-WIMPY KID HARD LUCK.jpg]
+
+File to: [build/img/DOWK-WIMPY KID HARD LUCK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DOXAZOSIN TABS 4MG X 28.jpg]
+
+File to: [build/img/DOXAZOSIN TABS 4MG X 28.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Doxycap (Doxycycline) 100Mg Tabx10 Satch.jpg]
+
+File to: [build/img/Doxycap (Doxycycline) 100Mg Tabx10 Satch.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

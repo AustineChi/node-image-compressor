@@ -1,0 +1,13 @@
+File from: [src/img/NATURE`S FIELD VITAMIN B12 50MCG X 100.JPG]
+
+File to: [build/img/NATURE`S FIELD VITAMIN B12 50MCG X 100.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE`S FIELD VITAMIN B6 50MG X 100.jpg]
+
+File to: [build/img/NATURE`S FIELD VITAMIN B6 50MG X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

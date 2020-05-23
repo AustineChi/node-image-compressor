@@ -1,0 +1,121 @@
+File from: [src/img/CLEAN & CLEAR BLACKHEAD CLEANING CLEANSER 200ML.jpg]
+
+File to: [build/img/CLEAN & CLEAR BLACKHEAD CLEANING CLEANSER 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLEAN & CLEAR DEEP ASTRIGENT 240ML.jpg]
+
+File to: [build/img/CLEAN & CLEAR DEEP ASTRIGENT 240ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLEAN & CLEAR DEEP CLEANSING 200ML.jpg]
+
+File to: [build/img/CLEAN & CLEAR DEEP CLEANSING 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLEAN & CLEAR MORNING BURST 240ML.jpg]
+
+File to: [build/img/CLEAN & CLEAR MORNING BURST 240ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLEAN & CLEAR MORNING SKIN BRIGHTER ENERGY 150ML.jpg]
+
+File to: [build/img/CLEAN & CLEAR MORNING SKIN BRIGHTER ENERGY 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLEAN HOME MULTI-SURFACE ALL PURPOSE CLEANER 828ML.jpg]
+
+File to: [build/img/CLEAN HOME MULTI-SURFACE ALL PURPOSE CLEANER 828ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLEAN COMBINATION DISH SPONGE SET.jpg]
+
+File to: [build/img/CLEAN COMBINATION DISH SPONGE SET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLEAN ONES HAIR NETS 100S.png]
+
+File to: [build/img/CLEAN ONES HAIR NETS 100S.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Cleanic Antibact. Wipes-Travel Pack x40.jpg]
+
+File to: [build/img/Cleanic Antibact. Wipes-Travel Pack x40.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cleanic Cotton Buds x200.jpg]
+
+File to: [build/img/Cleanic Cotton Buds x200.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cleanic Professional Cotton Buds x200.jpg]
+
+File to: [build/img/Cleanic Professional Cotton Buds x200.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLEANIC PURE EFFECT COSMETIC PAD SQUARE 50S.jpg]
+
+File to: [build/img/CLEANIC PURE EFFECT COSMETIC PAD SQUARE 50S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cleanic Pure Effect Cotton Pads x50.jpg]
+
+File to: [build/img/Cleanic Pure Effect Cotton Pads x50.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLEANIC SOFT & COMFORT GRATIS COTTON BUD 100S.jpg]
+
+File to: [build/img/CLEANIC SOFT & COMFORT GRATIS COTTON BUD 100S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cleanic Soft-Comfort Cotton Pads x80+.jpg]
+
+File to: [build/img/Cleanic Soft-Comfort Cotton Pads x80+.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLEAR EYES DROP 15ML.jpg]
+
+File to: [build/img/CLEAR EYES DROP 15ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLEAR EYES DROPS 6ML.jpg]
+
+File to: [build/img/CLEAR EYES DROPS 6ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLEAR NATURE CARROT BODY LOTION 500ML.JPG]
+
+File to: [build/img/CLEAR NATURE CARROT BODY LOTION 500ML.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLEAR NATURE CARROT BODY MILK 500ML.jpg]
+
+File to: [build/img/CLEAR NATURE CARROT BODY MILK 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLEAR NATURE EXTRA MAXI PLUS 500ML ORIGINAL.jpg]
+
+File to: [build/img/CLEAR NATURE EXTRA MAXI PLUS 500ML ORIGINAL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

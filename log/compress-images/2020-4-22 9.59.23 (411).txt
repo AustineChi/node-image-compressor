@@ -1,0 +1,187 @@
+File from: [src/img/GRAND UAC CORN FLAKES 350G.jpg]
+
+File to: [build/img/GRAND UAC CORN FLAKES 350G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAND TUNA CLUB SANDWICH.jpg]
+
+File to: [build/img/GRAND TUNA CLUB SANDWICH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAND YELLOW PEPPER PER KG.jpg]
+
+File to: [build/img/GRAND YELLOW PEPPER PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/grand_square.png]
+
+File to: [build/img/grand_square.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GRAND YAM PER PC.jpg]
+
+File to: [build/img/GRAND YAM PER PC.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/grand_square2.png]
+
+File to: [build/img/grand_square2.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GRANDEUR ENDEAVOUR SPRAY 200ML.jpg]
+
+File to: [build/img/GRANDEUR ENDEAVOUR SPRAY 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRANDY AIR FRESHENER MIX 138ML.jpg]
+
+File to: [build/img/GRANDY AIR FRESHENER MIX 138ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GrandSquareBread.jpeg]
+
+File to: [build/img/GrandSquareBread.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRANDINO CHOCOLATE COOKIES 225G.jpg]
+
+File to: [build/img/GRANDINO CHOCOLATE COOKIES 225G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRANT'S TRIPPLE WOOD WHISKY 70CL.jpg]
+
+File to: [build/img/GRANT'S TRIPPLE WOOD WHISKY 70CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRANNY.C. YELLOW GARRI 2KG.jpg]
+
+File to: [build/img/GRANNY.C. YELLOW GARRI 2KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAPE FRUIT 1KG.jpg]
+
+File to: [build/img/GRAPE FRUIT 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAPE NUTS FLAKES CEREAL 510G.jpg]
+
+File to: [build/img/GRAPE NUTS FLAKES CEREAL 510G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAPES FRUIT IMPORTED 1KG.jpg]
+
+File to: [build/img/GRAPES FRUIT IMPORTED 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAPES LOCAL RED 1KG.jpg]
+
+File to: [build/img/GRAPES LOCAL RED 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAPES LOCAL WHITE 1KG.jpg]
+
+File to: [build/img/GRAPES LOCAL WHITE 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gravy Sauce with diced beef and smoked fish 2LTRS.jpg]
+
+File to: [build/img/Gravy Sauce with diced beef and smoked fish 2LTRS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRAVY TRAIN WITH BEEF STRIPS IN GRAVY 374G.jpeg]
+
+File to: [build/img/GRAVY TRAIN WITH BEEF STRIPS IN GRAVY 374G.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GREACE COLE BOUNTIQUE TOASTED PRALINE & SNOWBERRIES 2S 500ML.jpg]
+
+File to: [build/img/GREACE COLE BOUNTIQUE TOASTED PRALINE & SNOWBERRIES 2S 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GREAT GRAIN BANANA NUT CRUNCH CEREAL 439G.jpg]
+
+File to: [build/img/GREAT GRAIN BANANA NUT CRUNCH CEREAL 439G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GREEN BEANS.jpg]
+
+File to: [build/img/GREEN BEANS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GREEN GARDEN EGGS PER KG.jpg]
+
+File to: [build/img/GREEN GARDEN EGGS PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GREEN GIANT CORN SALT FREE 340G.jpg]
+
+File to: [build/img/GREEN GIANT CORN SALT FREE 340G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GREEN GIANT CUT GREN BEANS411G.jpg]
+
+File to: [build/img/GREEN GIANT CUT GREN BEANS411G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GREEN GIANT SALT FREE SWEET CORN 340G.jpg]
+
+File to: [build/img/GREEN GIANT SALT FREE SWEET CORN 340G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GREEN GIANT SWEET CORN 340G.jpg]
+
+File to: [build/img/GREEN GIANT SWEET CORN 340G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GREEN GIANT SWEET CORN.jpg]
+
+File to: [build/img/GREEN GIANT SWEET CORN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GREAT VALUE COFFEE CREAMER ORIGINAL1.7KG.jpeg]
+
+File to: [build/img/GREAT VALUE COFFEE CREAMER ORIGINAL1.7KG.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GREEN GIANT SWEET PEAS 425G.jpg]
+
+File to: [build/img/GREEN GIANT SWEET PEAS 425G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GREEN LEAF (TETE) PER BUNCH.jpg]
+
+File to: [build/img/GREEN LEAF (TETE) PER BUNCH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

@@ -1,0 +1,61 @@
+File from: [src/img/NATURE`S FIELD VITAMIN E1000IU 10 X 10.jpg]
+
+File to: [build/img/NATURE`S FIELD VITAMIN E1000IU 10 X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE`S FIELD VITAMIN E1000IU X 50.jpg]
+
+File to: [build/img/NATURE`S FIELD VITAMIN E1000IU X 50.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUREMADE B12 1000MCG X 160 TABS.jpg]
+
+File to: [build/img/NATUREMADE B12 1000MCG X 160 TABS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUREMADE B12 1000MG X 75.jpg]
+
+File to: [build/img/NATUREMADE B12 1000MG X 75.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUREMADE B12 500MCG X 100 TABLETS.jpg]
+
+File to: [build/img/NATUREMADE B12 500MCG X 100 TABLETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUREMADE CHEWABLE VITAMIN C 500MG X150.jpg]
+
+File to: [build/img/NATUREMADE CHEWABLE VITAMIN C 500MG X150.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUREMADE D3 25MCG (1000IU) X 100 SOFTGEL.jpg]
+
+File to: [build/img/NATUREMADE D3 25MCG (1000IU) X 100 SOFTGEL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUREMADE D3 25MCG X 100 TABLETS.jpg]
+
+File to: [build/img/NATUREMADE D3 25MCG X 100 TABLETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUREMADE D3 50MCG (2000IU) X 90 SOFTGEL.jpg]
+
+File to: [build/img/NATUREMADE D3 50MCG (2000IU) X 90 SOFTGEL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUREMADE ACIDOPHILUS X 60TABLETS.jpg]
+
+File to: [build/img/NATUREMADE ACIDOPHILUS X 60TABLETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

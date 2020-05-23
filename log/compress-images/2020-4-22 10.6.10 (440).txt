@@ -1,0 +1,8 @@
+File from: [src/img/REXONA MEN QUANTUM ROLL ON 50ML.png]
+
+File to: [build/img/REXONA MEN QUANTUM ROLL ON 50ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant --quality=20-50 -o build/img/REXONA MEN QUANTUM ROLL ON 50ML.png src/img/REXONA MEN QUANTUM ROLL ON 50ML.png
+  error: cannot decode image REXONA MEN QUANTUM ROLL ON 50ML.png

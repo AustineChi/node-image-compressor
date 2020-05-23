@@ -1,0 +1,8 @@
+File from: [src/img/FROSTY BITE FANTASY PEANUT CRUNCH ICE CREAM 70G.png]
+
+File to: [build/img/FROSTY BITE FANTASY PEANUT CRUNCH ICE CREAM 70G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant --quality=20-50 -o build/img/FROSTY BITE FANTASY PEANUT CRUNCH ICE CREAM 70G.png src/img/FROSTY BITE FANTASY PEANUT CRUNCH ICE CREAM 70G.png
+  error: cannot decode image FROSTY BITE FANTASY PEANUT CRUNCH ICE CREAM 70G.png

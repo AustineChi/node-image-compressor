@@ -1,0 +1,19 @@
+File from: [src/img/Perrier Jouet Blason Rose75cl x6.png]
+
+File to: [build/img/Perrier Jouet Blason Rose75cl x6.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Perrier Jouet Grand Brut75cl x6.jpg]
+
+File to: [build/img/Perrier Jouet Grand Brut75cl x6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PERRIER WATER 333CL.jpg]
+
+File to: [build/img/PERRIER WATER 333CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

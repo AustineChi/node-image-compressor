@@ -1,0 +1,199 @@
+File from: [src/img/ONE FAMILY TOOTHPASTE APPLE MINT 130G.jpg]
+
+File to: [build/img/ONE FAMILY TOOTHPASTE APPLE MINT 130G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ONE FAMILY TOOTHPASTE BANANA 130G.jpg]
+
+File to: [build/img/ONE FAMILY TOOTHPASTE BANANA 130G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ONE FAMILY TOOTHPASTE BLACKBERRY MINT 130G.jpg]
+
+File to: [build/img/ONE FAMILY TOOTHPASTE BLACKBERRY MINT 130G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ONE FAMILY TOOTHPASTE ORANGE MINT 130G.jpg]
+
+File to: [build/img/ONE FAMILY TOOTHPASTE ORANGE MINT 130G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ONE FAMILY TOOTHPASTE PEPPERMINT 130G.jpg]
+
+File to: [build/img/ONE FAMILY TOOTHPASTE PEPPERMINT 130G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ONE FAMILY TOOTHPASTE STRAWBERRY MINT 130G.jpg]
+
+File to: [build/img/ONE FAMILY TOOTHPASTE STRAWBERRY MINT 130G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ONE STEP HAND SANITIZER 60ML.jpg]
+
+File to: [build/img/ONE STEP HAND SANITIZER 60ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Onga Bucket 3kg Classic - Carton.png]
+
+File to: [build/img/Onga Bucket 3kg Classic - Carton.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Onga Bucket 3kg Stew - Carton.png]
+
+File to: [build/img/Onga Bucket 3kg Stew - Carton.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Onga Bucket3kg Chicken Carton.jpg]
+
+File to: [build/img/Onga Bucket3kg Chicken Carton.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Onga Cube 4g Chicken Cube (100x20 ) - Carton.png]
+
+File to: [build/img/Onga Cube 4g Chicken Cube (100x20 ) - Carton.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/ONGA CLASSIC 60G copy.jpg]
+
+File to: [build/img/ONGA CLASSIC 60G copy.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Onga Cube 4g Chicken Cube (50x24) - Carton.png]
+
+File to: [build/img/Onga Cube 4g Chicken Cube (50x24) - Carton.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Onga Cube 4g Chicken Cube (25x40) - Carton.png]
+
+File to: [build/img/Onga Cube 4g Chicken Cube (25x40) - Carton.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Onga Cube Beef 4g Cube (50x24) - Carton.png]
+
+File to: [build/img/Onga Cube Beef 4g Cube (50x24) - Carton.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Onga Cube Beef 4g Cube X 2500 +100Cubes - Carton.png]
+
+File to: [build/img/Onga Cube Beef 4g Cube X 2500 +100Cubes - Carton.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/ONGA GINGER,ONION AND GARLIC SEASONING 50G.jpg]
+
+File to: [build/img/ONGA GINGER,ONION AND GARLIC SEASONING 50G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Onga Powder 14g Classic x 200 - Carton.jpg]
+
+File to: [build/img/Onga Powder 14g Classic x 200 - Carton.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Onga Powder 50gs GOG - Carton.jpg]
+
+File to: [build/img/Onga Powder 50gs GOG - Carton.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Onga Powder 14g Stew x 200 - Carton.JPG]
+
+File to: [build/img/Onga Powder 14g Stew x 200 - Carton.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Onga Powder 60gs Classic - Carton.jpg]
+
+File to: [build/img/Onga Powder 60gs Classic - Carton.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Onga Powder 60gs Stew - Carton.jpg]
+
+File to: [build/img/Onga Powder 60gs Stew - Carton.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Onga Powder 6g Classic x 350 - Carton.jpg]
+
+File to: [build/img/Onga Powder 6g Classic x 350 - Carton.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Onga Powder 6g Stew x 350 - Carton.jpg]
+
+File to: [build/img/Onga Powder 6g Stew x 350 - Carton.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Onga Powder14g Chicken x 200 Carton.jpg]
+
+File to: [build/img/Onga Powder14g Chicken x 200 Carton.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Onga Powder6g Chicken x 350 Carton.jpg]
+
+File to: [build/img/Onga Powder6g Chicken x 350 Carton.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ONGA SEASONING POWDER 60G BIG.jpg]
+
+File to: [build/img/ONGA SEASONING POWDER 60G BIG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ONGA SEASONING POWDER SMALL.jpg]
+
+File to: [build/img/ONGA SEASONING POWDER SMALL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/onion Beef Burger.jpg]
+
+File to: [build/img/onion Beef Burger.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ONLY BABY FINGER BRUSH.jpg]
+
+File to: [build/img/ONLY BABY FINGER BRUSH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ONO Ondansetron IM-IV 8mg-4ml Injection.jpg]
+
+File to: [build/img/ONO Ondansetron IM-IV 8mg-4ml Injection.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/OPTICROM ALLERGY EYE DROP X10ML.jpg]
+
+File to: [build/img/OPTICROM ALLERGY EYE DROP X10ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/OPTREX BACTERIAL CON. EYE OINTMENT 1%.png]
+
+File to: [build/img/OPTREX BACTERIAL CON. EYE OINTMENT 1%.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAIN

@@ -1,0 +1,151 @@
+File from: [src/img/RADIANT DETERGENT POWDER NG 6X800G CARTON.jpg]
+
+File to: [build/img/RADIANT DETERGENT POWDER NG 6X800G CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RADOX BATH MUSCLE SOAK 1L.jpg]
+
+File to: [build/img/RADOX BATH MUSCLE SOAK 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RADOX BATH MUSCLE SOAK ORIGINAL 400G.jpg]
+
+File to: [build/img/RADOX BATH MUSCLE SOAK ORIGINAL 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RADOX BATH STRESS RELIEF 1L.jpg]
+
+File to: [build/img/RADOX BATH STRESS RELIEF 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Radox Body Wash Ranges 250ml x 12.jpg]
+
+File to: [build/img/Radox Body Wash Ranges 250ml x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RADOX BATH VAPOUR SOAK ORIGINAL 400G.jpg]
+
+File to: [build/img/RADOX BATH VAPOUR SOAK ORIGINAL 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Radox Shawer Bath 500ml.jpg]
+
+File to: [build/img/Radox Shawer Bath 500ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RADOX ORIGINAL BATH SOAK 500ML.jpg]
+
+File to: [build/img/RADOX ORIGINAL BATH SOAK 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAID 300ML.jpg]
+
+File to: [build/img/RAID 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Radox Shower Gel 1Litre x 3.jpg]
+
+File to: [build/img/Radox Shower Gel 1Litre x 3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAID 700ML.jpg]
+
+File to: [build/img/RAID 700ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAID 500ML.jpg]
+
+File to: [build/img/RAID 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAID BANG 300 ML.jpg]
+
+File to: [build/img/RAID BANG 300 ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Raid Cockroach _ Ant Killer 300ml x 24.jpg]
+
+File to: [build/img/Raid Cockroach _ Ant Killer 300ml x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Raid Flying Insect Killer 300ml x 24.jpg]
+
+File to: [build/img/Raid Flying Insect Killer 300ml x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAID LIQUID 1 LITRE.jpg]
+
+File to: [build/img/RAID LIQUID 1 LITRE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Raid Multipurpose Insect Killer 300mlx24.jpg]
+
+File to: [build/img/Raid Multipurpose Insect Killer 300mlx24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Raid Multipurpose Insect Killer 500mlx12.jpg]
+
+File to: [build/img/Raid Multipurpose Insect Killer 500mlx12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAID NON IRRITANT 300 ML.jpg]
+
+File to: [build/img/RAID NON IRRITANT 300 ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAID TKP 300 ML.jpg]
+
+File to: [build/img/RAID TKP 300 ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAJAH GROUND GINGER 85G.jpg]
+
+File to: [build/img/RAJAH GROUND GINGER 85G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAKE COMB.jpg]
+
+File to: [build/img/RAKE COMB.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Ram Meat 10Kg.jpg]
+
+File to: [build/img/Ram Meat 10Kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Ram Meat 1Kg.jpg]
+
+File to: [build/img/Ram Meat 1Kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Ram Meat 2.5Kg.jpg]
+
+File to: [build/img/Ram Meat 2.5Kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

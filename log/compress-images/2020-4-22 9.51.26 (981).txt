@@ -1,0 +1,121 @@
+File from: [src/img/close up deep action.jpeg]
+
+File to: [build/img/close up deep action.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/close up icy white.jpeg]
+
+File to: [build/img/close up icy white.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLOSE UP NAIJA HERBAL TOOTHPASTE 140G.jpg]
+
+File to: [build/img/CLOSE UP NAIJA HERBAL TOOTHPASTE 140G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLOSEUP DEEP ACTION 140G.jpg]
+
+File to: [build/img/CLOSEUP DEEP ACTION 140G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLOSEUP DEEP ACTION RED (GAGA) 60 X 140G.jpg]
+
+File to: [build/img/CLOSEUP DEEP ACTION RED (GAGA) 60 X 140G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Closeup Deep Action Toothpaste 140g.jpg]
+
+File to: [build/img/Closeup Deep Action Toothpaste 140g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLOSEUP DEEP CLEAN V Clean   4x 12 - CARTON.jpg]
+
+File to: [build/img/CLOSEUP DEEP CLEAN V Clean   4x 12 - CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLOSEUP EVERFRESH REDHOT 100 X 30G - CARTON.jpg]
+
+File to: [build/img/CLOSEUP EVERFRESH REDHOT 100 X 30G - CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLOSEUP HERBAL 5BENEFITS 140G.jpg]
+
+File to: [build/img/CLOSEUP HERBAL 5BENEFITS 140G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLOSEUP NAIJA HERBAL 160G.jpg]
+
+File to: [build/img/CLOSEUP NAIJA HERBAL 160G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLOSEUP NAIJA HERBAL 50 X 140G.jpg]
+
+File to: [build/img/CLOSEUP NAIJA HERBAL 50 X 140G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLOSEUP SHINY WHITE  V WHITE  4 x 12 - CARTON.png]
+
+File to: [build/img/CLOSEUP SHINY WHITE  V WHITE  4 x 12 - CARTON.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Clotrimazole 1% Cream x 20g  Care+.jpg]
+
+File to: [build/img/Clotrimazole 1% Cream x 20g  Care+.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Co-codamol 30-500mg tabs x10 SATCHET.jpg]
+
+File to: [build/img/Co-codamol 30-500mg tabs x10 SATCHET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CO-CODAMOL TABS 30 500TABS X 10.jpg]
+
+File to: [build/img/CO-CODAMOL TABS 30 500TABS X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CO-MICARDIS 40_12.5 X 28.jpg]
+
+File to: [build/img/CO-MICARDIS 40_12.5 X 28.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CO-MICARDIS 80_12.5MG X 28.jpg]
+
+File to: [build/img/CO-MICARDIS 80_12.5MG X 28.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLOSE UP HERBAL (GAGA) 140G.png]
+
+File to: [build/img/CLOSE UP HERBAL (GAGA) 140G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/close up ever fresh.jpeg]
+
+File to: [build/img/close up ever fresh.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/close up herbal.jpeg]
+
+File to: [build/img/close up herbal.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

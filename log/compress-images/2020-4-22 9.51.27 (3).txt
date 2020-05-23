@@ -1,0 +1,37 @@
+File from: [src/img/CWAY NUTRI MILK ORANGE 500ML.jpg]
+
+File to: [build/img/CWAY NUTRI MILK ORANGE 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CWAY NUTRI MILK PEACH 500ML.jpg]
+
+File to: [build/img/CWAY NUTRI MILK PEACH 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CWAY NUTRI MILK PEAR 500ML.jpg]
+
+File to: [build/img/CWAY NUTRI MILK PEAR 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CWAY NUTRI MILK PET 450ML.jpg]
+
+File to: [build/img/CWAY NUTRI MILK PET 450ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CWAY NUTRI MILK PINEAPPLE 210ML.png]
+
+File to: [build/img/CWAY NUTRI MILK PINEAPPLE 210ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CWAY NUTRI SOYA MALT 400ML.jpg]
+
+File to: [build/img/CWAY NUTRI SOYA MALT 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

@@ -1,0 +1,163 @@
+File from: [src/img/IPhone Xsmax battery replacement.jpg]
+
+File to: [build/img/IPhone Xsmax battery replacement.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IPhone Xsmax screen repair.jpg]
+
+File to: [build/img/IPhone Xsmax screen repair.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone11 pro 256gb dual gold.jpg]
+
+File to: [build/img/Iphone11 pro 256gb dual gold.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone11 pro 256gb dual space grey.jpg]
+
+File to: [build/img/Iphone11 pro 256gb dual space grey.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone11 pro 256gb single gold.jpg]
+
+File to: [build/img/Iphone11 pro 256gb single gold.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone11 pro 256gb single mint green.jpg]
+
+File to: [build/img/Iphone11 pro 256gb single mint green.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone11 pro 256gb single space grey.jpg]
+
+File to: [build/img/Iphone11 pro 256gb single space grey.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone11 pro 256gb single white.jpg]
+
+File to: [build/img/Iphone11 pro 256gb single white.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IRISH SPRING ALOE 100G.jpg]
+
+File to: [build/img/IRISH SPRING ALOE 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Irish Spring Body Wash 532ml.jpg]
+
+File to: [build/img/Irish Spring Body Wash 532ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IRISH SPRING BS SOAP ALOE 100G.jpg]
+
+File to: [build/img/IRISH SPRING BS SOAP ALOE 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IRISH SPRING BS SOAP ICY BLAST 100G.jpg]
+
+File to: [build/img/IRISH SPRING BS SOAP ICY BLAST 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IRISH SPRING BS SOAP ORIGINAL 100G.jpg]
+
+File to: [build/img/IRISH SPRING BS SOAP ORIGINAL 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IRISH SPRING DEEP ACTION SCRUB SOAP 104.8.jpg]
+
+File to: [build/img/IRISH SPRING DEEP ACTION SCRUB SOAP 104.8.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Irish Spring Deo Bar Soap 106.3g.jpg]
+
+File to: [build/img/Irish Spring Deo Bar Soap 106.3g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Irish Spring Deo Bar Soap x3 100g.jpg]
+
+File to: [build/img/Irish Spring Deo Bar Soap x3 100g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Irish Spring Icy Blast Bar Soap.jpg]
+
+File to: [build/img/Irish Spring Icy Blast Bar Soap.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Irish Spring with Aloe Bar Soap.jpg]
+
+File to: [build/img/Irish Spring with Aloe Bar Soap.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Issey Miyake Cologne x50ml.jpg]
+
+File to: [build/img/Issey Miyake Cologne x50ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ITS A BOY GIRL BALLOONS 15S.jpg]
+
+File to: [build/img/ITS A BOY GIRL BALLOONS 15S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IVORY BLUE 150G.jpg]
+
+File to: [build/img/IVORY BLUE 150G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IVORY PINK 150G.jpg]
+
+File to: [build/img/IVORY PINK 150G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IVORY WHITE 150G.jpg]
+
+File to: [build/img/IVORY WHITE 150G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IVORY YELLOW 150G.jpg]
+
+File to: [build/img/IVORY YELLOW 150G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IVYBETANEOCIN EYE EAR DROPS  10ML.jpeg]
+
+File to: [build/img/IVYBETANEOCIN EYE EAR DROPS  10ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IVYCROM EYE DROPS  10ML.jpg]
+
+File to: [build/img/IVYCROM EYE DROPS  10ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ITRANOX CAPS 100MG X 10.jpg]
+
+File to: [build/img/ITRANOX CAPS 100MG X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

@@ -1,0 +1,8 @@
+File from: [src/img/N95 Mask 3M (Yellow + White Round) x1.jpg]
+
+File to: [build/img/N95 Mask 3M (Yellow + White Round) x1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg -quality 60 -outfile build/img/N95 Mask 3M (Yellow + White Round) x1.jpg src/img/N95 Mask 3M (Yellow + White Round) x1.jpg
+Unrecognized input file format --- perhaps you need -targa

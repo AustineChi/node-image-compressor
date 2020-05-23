@@ -1,0 +1,127 @@
+File from: [src/img/SMIRNOFFF CHOCO 18CL.jpg]
+
+File to: [build/img/SMIRNOFFF CHOCO 18CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Smirnoff_Hennessy_Jack.jpeg]
+
+File to: [build/img/Smirnoff_Hennessy_Jack.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Smoked Chicken.jpg]
+
+File to: [build/img/Smoked Chicken.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMOKERS FRESH BREATH TOOTHPASTE 100ML.jpg]
+
+File to: [build/img/SMOKERS FRESH BREATH TOOTHPASTE 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMOOV CHAPMAN 50CL.jpg]
+
+File to: [build/img/SMOOV CHAPMAN 50CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMOOV CHAPMAN DRINK 50CL.jpg]
+
+File to: [build/img/SMOOV CHAPMAN DRINK 50CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Smoov Chapman Non-Alc Drink Pet 50cl.jpg]
+
+File to: [build/img/Smoov Chapman Non-Alc Drink Pet 50cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMUCKER_S  RED RASPBERRY PRESERVES 510G.jpeg]
+
+File to: [build/img/SMUCKER_S  RED RASPBERRY PRESERVES 510G.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMUCKER_S BLUEBERRY PRESERVES 510G.jpg]
+
+File to: [build/img/SMUCKER_S BLUEBERRY PRESERVES 510G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMUCKER_S SEEDLESS RED RASPBERRY JAM 510G.jpg]
+
+File to: [build/img/SMUCKER_S SEEDLESS RED RASPBERRY JAM 510G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMUCKERS RED PLUM JAM 510G.jpg]
+
+File to: [build/img/SMUCKERS RED PLUM JAM 510G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMUCKERS RED RASPBERRY PRESERVES 510G.png]
+
+File to: [build/img/SMUCKERS RED RASPBERRY PRESERVES 510G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SMUCKERS SEEDLESS BLACKBERRY JAM 510G.jpg]
+
+File to: [build/img/SMUCKERS SEEDLESS BLACKBERRY JAM 510G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMUCKERS SEEDLESS STRAWBERRY JAM 510G.jpg]
+
+File to: [build/img/SMUCKERS SEEDLESS STRAWBERRY JAM 510G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMUCKERS STRAWBERRY PRESERVES 510G.jpg]
+
+File to: [build/img/SMUCKERS STRAWBERRY PRESERVES 510G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMUCKERS SWEET ORANGE JAM 510G.jpg]
+
+File to: [build/img/SMUCKERS SWEET ORANGE JAM 510G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SNACK PACK MINIMIE CHIN CHIN 90G.jpg]
+
+File to: [build/img/SNACK PACK MINIMIE CHIN CHIN 90G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Snail.jpg]
+
+File to: [build/img/Snail.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SNAKE AND LADDERS.jpg]
+
+File to: [build/img/SNAKE AND LADDERS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SNAKE BRAND PRICKLY HEAT COOLING POWDER 50G.jpeg]
+
+File to: [build/img/SNAKE BRAND PRICKLY HEAT COOLING POWDER 50G.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SNAPP BOTTLE.jpg]
+
+File to: [build/img/SNAPP BOTTLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

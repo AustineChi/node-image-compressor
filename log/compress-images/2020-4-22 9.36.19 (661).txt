@@ -1,0 +1,199 @@
+File from: [src/img/DANO UHT MILK SKIMMED 1L.jpg]
+
+File to: [build/img/DANO UHT MILK SKIMMED 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO UHT SEMI SKIMMED 1L.jpg]
+
+File to: [build/img/DANO UHT SEMI SKIMMED 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dano Vita Kids Nutritious Milk 380g.jpg]
+
+File to: [build/img/Dano Vita Kids Nutritious Milk 380g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO UHT SKIMMED 1L.jpg]
+
+File to: [build/img/DANO UHT SKIMMED 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DARAVIT FORTE CAPS X 10.jpg]
+
+File to: [build/img/DARAVIT FORTE CAPS X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DARK _ LOVELY OIL MOIST 500ML.jpg]
+
+File to: [build/img/DARK _ LOVELY OIL MOIST 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DARAVIT CAPS X 30.jpeg]
+
+File to: [build/img/DARAVIT CAPS X 30.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DARK AND LOVELY SUPERIOR MOISTURE PLUS KIT.jpg]
+
+File to: [build/img/DARK AND LOVELY SUPERIOR MOISTURE PLUS KIT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DARK&LOVELY RELAXER KIT SUPER.jpg]
+
+File to: [build/img/DARK&LOVELY RELAXER KIT SUPER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DARAVIT FORTE CAPS X 30.png]
+
+File to: [build/img/DARAVIT FORTE CAPS X 30.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DART 251ML PLASTIC CUPS 51S.jpg]
+
+File to: [build/img/DART 251ML PLASTIC CUPS 51S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DATES FRUIT 1KG.png]
+
+File to: [build/img/DATES FRUIT 1KG.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DAUCY PETITS POIS IN WATER 400G.jpg]
+
+File to: [build/img/DAUCY PETITS POIS IN WATER 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAVIDOFF COFFEE (Expresso Intense).jpg]
+
+File to: [build/img/DAVIDOFF COFFEE (Expresso Intense).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAVIDOFF COFFEE (rich Aroma).jpg]
+
+File to: [build/img/DAVIDOFF COFFEE (rich Aroma).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAVIDOFF COFFEE FINE 100ml.jpg]
+
+File to: [build/img/DAVIDOFF COFFEE FINE 100ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAVIDOFF COOL WATER 125ML.jpg]
+
+File to: [build/img/DAVIDOFF COOL WATER 125ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Davidoff CoolWater Sea Perfume Woman50ml.jpg]
+
+File to: [build/img/Davidoff CoolWater Sea Perfume Woman50ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAVIDOFF CREMA INTENSE MASTERPIECE COFFEE 90G.jpg]
+
+File to: [build/img/DAVIDOFF CREMA INTENSE MASTERPIECE COFFEE 90G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAVIDOFF ESPRESSO 57 INTENSE COFFEE 100G.jpg]
+
+File to: [build/img/DAVIDOFF ESPRESSO 57 INTENSE COFFEE 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Davidoff-Cool Water Cologne x75ml.jpg]
+
+File to: [build/img/Davidoff-Cool Water Cologne x75ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAX 100_ LANOLIN 397G.jpg]
+
+File to: [build/img/DAX 100_ LANOLIN 397G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAX BEES WAX 397G.jpg]
+
+File to: [build/img/DAX BEES WAX 397G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAX BLACK BEES WAX 397G.jpg]
+
+File to: [build/img/DAX BLACK BEES WAX 397G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAX BEES WAX ROYAL JELLY 397G.jpg]
+
+File to: [build/img/DAX BEES WAX ROYAL JELLY 397G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAX COCONUT OIL 397G.jpg]
+
+File to: [build/img/DAX COCONUT OIL 397G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAX PETROLEUM JELLY 397G.jpg]
+
+File to: [build/img/DAX PETROLEUM JELLY 397G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAY AND NIGHT NURSE CAPSULES x 24.jpg]
+
+File to: [build/img/DAY AND NIGHT NURSE CAPSULES x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAY NURSE CAPS X 20.jpg]
+
+File to: [build/img/DAY NURSE CAPS X 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dazel Kit (Fluconazole) 150Mg-1G-1G Tab.jpg]
+
+File to: [build/img/Dazel Kit (Fluconazole) 150Mg-1G-1G Tab.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAZEL KIT X 3.jpeg]
+
+File to: [build/img/DAZEL KIT X 3.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DARINA INST. DRINK MANGO 750G.jpg]
+
+File to: [build/img/DARINA INST. DRINK MANGO 750G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/De Rica Tin Tomato Paste 400g.jpg]
+
+File to: [build/img/De Rica Tin Tomato Paste 400g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

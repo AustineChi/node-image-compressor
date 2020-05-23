@@ -1,0 +1,73 @@
+File from: [src/img/VENUS TONING CREAM 120G.jpg]
+
+File to: [build/img/VENUS TONING CREAM 120G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VENUS TONING LOTION 200G.jpg]
+
+File to: [build/img/VENUS TONING LOTION 200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VERMOX TABS 500MG X 1.jpg]
+
+File to: [build/img/VERMOX TABS 500MG X 1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VESELINE INTENSIVE CARE LOTION 295ML.jpg]
+
+File to: [build/img/VESELINE INTENSIVE CARE LOTION 295ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VETON PALM OIL 35CL (VM).jpg]
+
+File to: [build/img/VETON PALM OIL 35CL (VM).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VESELINE INTENSIVE CARE LOTION 600ML.jpg]
+
+File to: [build/img/VESELINE INTENSIVE CARE LOTION 600ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VERMOX. SUSP  30ML.jpg]
+
+File to: [build/img/VERMOX. SUSP  30ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VEUVE CLICQUOT BRUT CHAMPAGNES 75CL.png]
+
+File to: [build/img/VEUVE CLICQUOT BRUT CHAMPAGNES 75CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/VEUVE CLICQUOT ROSE 75CL.png]
+
+File to: [build/img/VEUVE CLICQUOT ROSE 75CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/VIAGRA TABS 100MG X 1.jpg]
+
+File to: [build/img/VIAGRA TABS 100MG X 1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VEUVE DE VERNAY ICE ROSE 75CL.jpg]
+
+File to: [build/img/VEUVE DE VERNAY ICE ROSE 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VIAGRA TABS 50MG X 4.jpg]
+
+File to: [build/img/VIAGRA TABS 50MG X 4.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

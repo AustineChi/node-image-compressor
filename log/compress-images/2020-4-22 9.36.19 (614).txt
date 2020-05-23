@@ -1,0 +1,193 @@
+File from: [src/img/Baby Alive So Many Styles Baby - Blonde Straight Hair.jpg]
+
+File to: [build/img/Baby Alive So Many Styles Baby - Blonde Straight Hair.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Baby Alive Super Snacks Snackin_ Luke - Black Hair.jpg]
+
+File to: [build/img/Baby Alive Super Snacks Snackin_ Luke - Black Hair.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Baby Alive Sweet Spoonfuls Baby - Black Curly Hair.jpg]
+
+File to: [build/img/Baby Alive Sweet Spoonfuls Baby - Black Curly Hair.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Baby Alive Sweet Spoonfuls Baby - Black Straight Hair.jpg]
+
+File to: [build/img/Baby Alive Sweet Spoonfuls Baby - Black Straight Hair.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Baby Alive Sweet Spoonfuls Baby - Brown Curly Hair.jpg]
+
+File to: [build/img/Baby Alive Sweet Spoonfuls Baby - Brown Curly Hair.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Baby Alive Sweet Tears Baby - Black Hair.jpg]
+
+File to: [build/img/Baby Alive Sweet Tears Baby - Black Hair.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Baby Alive Sweet Tears Baby - Blonde Hair.jpg]
+
+File to: [build/img/Baby Alive Sweet Tears Baby - Blonde Hair.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Baby Cherie Cotton Buds-Swabs x200.jpg]
+
+File to: [build/img/Baby Cherie Cotton Buds-Swabs x200.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Baby Cherie Cotton Buds-Swabs x100.jpg]
+
+File to: [build/img/Baby Cherie Cotton Buds-Swabs x100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BABY CHERIE PURE COTTON BUDS 100PCS.jpg]
+
+File to: [build/img/BABY CHERIE PURE COTTON BUDS 100PCS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BABY CHERIE PURE COTTON BUDS 200PCS.jpg]
+
+File to: [build/img/BABY CHERIE PURE COTTON BUDS 200PCS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BABY COTTON BUDS 150`S.jpg]
+
+File to: [build/img/BABY COTTON BUDS 150`S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BABY WIPES 80`S.png]
+
+File to: [build/img/BABY WIPES 80`S.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/BABY WIPES SOFT AND THICK DR BROWN`S 50`S.jpg]
+
+File to: [build/img/BABY WIPES SOFT AND THICK DR BROWN`S 50`S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/babyIcon.jpeg]
+
+File to: [build/img/babyIcon.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BABYREX SYR 60ML BOTTLE.jpg]
+
+File to: [build/img/BABYREX SYR 60ML BOTTLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BACARDI SUPERIOR GOLD 40% 75CL.jpg]
+
+File to: [build/img/BACARDI SUPERIOR GOLD 40% 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BACTROBAN 2 % OINTMENT  X15G.jpg]
+
+File to: [build/img/BACTROBAN 2 % OINTMENT  X15G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BADA CHOCO ECLAIRS 480G.jpg]
+
+File to: [build/img/BADA CHOCO ECLAIRS 480G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAILEYS DELIGHT 18.755CL.jpg]
+
+File to: [build/img/BAILEYS DELIGHT 18.755CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAILEY 37.5CL.jpg]
+
+File to: [build/img/BAILEY 37.5CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAILEYS IRISH CREAM 20CLX24.jpg]
+
+File to: [build/img/BAILEYS IRISH CREAM 20CLX24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAILEYS DELIGHT 75CL.jpg]
+
+File to: [build/img/BAILEYS DELIGHT 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAILEYS IRISH CREAM 70CLX12.jpg]
+
+File to: [build/img/BAILEYS IRISH CREAM 70CLX12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAILEYS IRISH CREAM 37.5CLX12.jpg]
+
+File to: [build/img/BAILEYS IRISH CREAM 37.5CLX12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAKEFIELD CHOCOLATE CAKE MIX 450G.jpg]
+
+File to: [build/img/BAKEFIELD CHOCOLATE CAKE MIX 450G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAILEYS IRISH CREAM 750ML.jpg]
+
+File to: [build/img/BAILEYS IRISH CREAM 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAKEFIELD CHOCOLATE MUFFIN MIX 450G.jpg]
+
+File to: [build/img/BAKEFIELD CHOCOLATE MUFFIN MIX 450G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAKEFIELD MUFFIN MIX 450G.jpg]
+
+File to: [build/img/BAKEFIELD MUFFIN MIX 450G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAKEFIELD PAN CAKE MIX 420G.jpg]
+
+File to: [build/img/BAKEFIELD PAN CAKE MIX 420G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAKEFIELD SPONGE CAKE MIX 450G.jpg]
+
+File to: [build/img/BAKEFIELD SPONGE CAKE MIX 450G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAKEHOUSE CARAMEL PECAN 160G.jpg]
+
+File to: [build/img/BAKEHOUSE CARAMEL PECAN 160G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

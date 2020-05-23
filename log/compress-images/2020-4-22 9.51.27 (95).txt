@@ -1,0 +1,49 @@
+File from: [src/img/JOHNNIE WALKER RED 70CL SLV 2016X12.jpg]
+
+File to: [build/img/JOHNNIE WALKER RED 70CL SLV 2016X12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNNIE WALKER RED LABEL PCKTS X 48.jpg]
+
+File to: [build/img/JOHNNIE WALKER RED LABEL PCKTS X 48.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNNIE WALKER RED LABEL 1L 12Y 12X01.jpg]
+
+File to: [build/img/JOHNNIE WALKER RED LABEL 1L 12Y 12X01.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNNIE WALKER RED 70CLX12.jpg]
+
+File to: [build/img/JOHNNIE WALKER RED 70CLX12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNNIE WALKER SON PRIVATE COLLECTION 2016 X 3.png]
+
+File to: [build/img/JOHNNIE WALKER SON PRIVATE COLLECTION 2016 X 3.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/JOHNNIE WALKER WHITE X 12.jpg]
+
+File to: [build/img/JOHNNIE WALKER WHITE X 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNNY WALKER RED LABEL 1 LITREX12.jpg]
+
+File to: [build/img/JOHNNY WALKER RED LABEL 1 LITREX12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNSON BABY BATH 500ML.png]
+
+File to: [build/img/JOHNSON BABY BATH 500ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAIN

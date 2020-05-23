@@ -1,0 +1,1027 @@
+File from: [src/img/MCVITIES DIGERSTIVE DOUBLE CHOCOLATE 267G.jpg]
+
+File to: [build/img/MCVITIES DIGERSTIVE DOUBLE CHOCOLATE 267G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCVITIES DIGESTIVE 250G.png]
+
+File to: [build/img/MCVITIES DIGESTIVE 250G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/McVities Digest Dark.Milk Chocolate 200g.jpg]
+
+File to: [build/img/McVities Digest Dark.Milk Chocolate 200g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCVITIES DIGESTIVE DARK CHOCOLATE PACK 200G.jpg]
+
+File to: [build/img/MCVITIES DIGESTIVE DARK CHOCOLATE PACK 200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCVITIES DIGESTIVE MILK CHOCOLATE 200G.jpg]
+
+File to: [build/img/MCVITIES DIGESTIVE MILK CHOCOLATE 200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCVITIES DIGESTIVE MILK CHOCOLATE 266G.jpg]
+
+File to: [build/img/MCVITIES DIGESTIVE MILK CHOCOLATE 266G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCVITIES DIGESTIVE MILK CHOCOLATE CARAMELS 300G.jpg]
+
+File to: [build/img/MCVITIES DIGESTIVE MILK CHOCOLATE CARAMELS 300G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mcvities Digestives Dark Choc Thins 170g.jpg]
+
+File to: [build/img/Mcvities Digestives Dark Choc Thins 170g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCVITIES DIGESTIVE MILK CHOCOLATE PACK 200G.jpg]
+
+File to: [build/img/MCVITIES DIGESTIVE MILK CHOCOLATE PACK 200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mcvities Digestives Milk Choc Thins 170g.jpg]
+
+File to: [build/img/Mcvities Digestives Milk Choc Thins 170g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mcvities Family Circle Biscuit 620g X 5.jpg]
+
+File to: [build/img/Mcvities Family Circle Biscuit 620g X 5.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCVITIES GINGER NUTS 250G.jpg]
+
+File to: [build/img/MCVITIES GINGER NUTS 250G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCVITIES HOBNOBS 40G.jpg]
+
+File to: [build/img/MCVITIES HOBNOBS 40G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCVITIES HOBNOBS MILK CHOC.jpg]
+
+File to: [build/img/MCVITIES HOBNOBS MILK CHOC.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mcvities Hobnobs Milk Choc Thins 170g.jpg]
+
+File to: [build/img/Mcvities Hobnobs Milk Choc Thins 170g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCVITIES JACOB`S CREAM CRACKER 300G.png]
+
+File to: [build/img/MCVITIES JACOB`S CREAM CRACKER 300G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/MCVITIES JACOB`S CREAM CRACKERS 200G.jpg]
+
+File to: [build/img/MCVITIES JACOB`S CREAM CRACKERS 200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCVITIES RICH TEA 200G.png]
+
+File to: [build/img/MCVITIES RICH TEA 200G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/MCVITIES`S DIGESTIVE 400G.jpg]
+
+File to: [build/img/MCVITIES`S DIGESTIVE 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEAD SECURITY ENVELOPE 40S.jpg]
+
+File to: [build/img/MEAD SECURITY ENVELOPE 40S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEAD SECURITY ENVELOPES 80 COUNT.jpg]
+
+File to: [build/img/MEAD SECURITY ENVELOPES 80 COUNT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/meal by peace logo.jpg]
+
+File to: [build/img/meal by peace logo.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MeatPie & Fish Pie.jpg]
+
+File to: [build/img/MeatPie & Fish Pie.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/meatshopNigeria.jpg]
+
+File to: [build/img/meatshopNigeria.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Medasaf logo.jpg]
+
+File to: [build/img/Medasaf logo.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Medi Soft Medicated Soap 70gx72.jpg]
+
+File to: [build/img/Medi Soft Medicated Soap 70gx72.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEDICA LOZENGES X 36 ALL.jpg]
+
+File to: [build/img/MEDICA LOZENGES X 36 ALL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Medicated Mentholated Dustin Powder 200g.jpg]
+
+File to: [build/img/Medicated Mentholated Dustin Powder 200g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Medisure Pill Cutter x1.jpg]
+
+File to: [build/img/Medisure Pill Cutter x1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEDITOL ANTIBACTERIAL & ANTIMOSUITO 75G.jpg]
+
+File to: [build/img/MEDITOL ANTIBACTERIAL & ANTIMOSUITO 75G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEDITOL CLASSIC 90G.jpg]
+
+File to: [build/img/MEDITOL CLASSIC 90G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEDITOL COOL 90G.jpg]
+
+File to: [build/img/MEDITOL COOL 90G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEDITOL HERBAL 90G.jpg]
+
+File to: [build/img/MEDITOL HERBAL 90G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/medSquarelogo.jpeg]
+
+File to: [build/img/medSquarelogo.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEDITOL VITAPLUS 90G.jpg]
+
+File to: [build/img/MEDITOL VITAPLUS 90G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mega Bloks 123 Building Kit - 20pcs.jpg]
+
+File to: [build/img/Mega Bloks 123 Building Kit - 20pcs.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mega Bloks Build _ Learn Emotions - 20pcs.jpg]
+
+File to: [build/img/Mega Bloks Build _ Learn Emotions - 20pcs.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEGA GROWTH 7 SALON PACK RELAXER.jpg]
+
+File to: [build/img/MEGA GROWTH 7 SALON PACK RELAXER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mega Special pack of Small chops.jpg]
+
+File to: [build/img/Mega Special pack of Small chops.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEIBAO PADLOCK.jpg]
+
+File to: [build/img/MEIBAO PADLOCK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEKOPHAR VIT C LOZENGES X 20.jpg]
+
+File to: [build/img/MEKOPHAR VIT C LOZENGES X 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MELATONIN 3MG X 120 TABLETS.png]
+
+File to: [build/img/MELATONIN 3MG X 120 TABLETS.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Melissa _ Doug First Play Pound _ Roll Stairs.jpg]
+
+File to: [build/img/Melissa _ Doug First Play Pound _ Roll Stairs.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Melissa _ Doug Hop _ Count Hopscotch Rug.jpg]
+
+File to: [build/img/Melissa _ Doug Hop _ Count Hopscotch Rug.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Melissa _ Doug Lock _ Latch Board.jpg]
+
+File to: [build/img/Melissa _ Doug Lock _ Latch Board.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Melissa _ Doug Wooden Latches Board.jpg]
+
+File to: [build/img/Melissa _ Doug Wooden Latches Board.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MELROSUM SYRUP.jpg]
+
+File to: [build/img/MELROSUM SYRUP.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MELTING MOMENT BABA DUDU 500ML.jpg]
+
+File to: [build/img/MELTING MOMENT BABA DUDU 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MELTING MOMENT BABA DUDU115ML.jpg]
+
+File to: [build/img/MELTING MOMENT BABA DUDU115ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MELTING MOMENT BLACK FOREST DARK CHOCOLATE 115ML.jpg]
+
+File to: [build/img/MELTING MOMENT BLACK FOREST DARK CHOCOLATE 115ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MELTING MOMENT KULI KULI 115ML.jpg]
+
+File to: [build/img/MELTING MOMENT KULI KULI 115ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MELTING MOMENT KULIKULI 500ML.jpg]
+
+File to: [build/img/MELTING MOMENT KULIKULI 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MELTING MOMENT RED VELVET 115ML.jpg]
+
+File to: [build/img/MELTING MOMENT RED VELVET 115ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MELTING MOMENT SILKY VANILLA 115ML.jpg]
+
+File to: [build/img/MELTING MOMENT SILKY VANILLA 115ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MELTING MOMENT SISIPELEBE 115ML.jpg]
+
+File to: [build/img/MELTING MOMENT SISIPELEBE 115ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MELTING MOMENT SISIPELEBE 500ML.jpg]
+
+File to: [build/img/MELTING MOMENT SISIPELEBE 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEMBER MARK CHUNK CHICKEN BREAST 354G.jpg]
+
+File to: [build/img/MEMBER MARK CHUNK CHICKEN BREAST 354G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEMBER MARK COMFORT CARE DIAPERS 144 16+ KG.jpg]
+
+File to: [build/img/MEMBER MARK COMFORT CARE DIAPERS 144 16+ KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEMBER MARK COMFORT CARE DIAPERS 280 SIZE 5 12+KG.jpg]
+
+File to: [build/img/MEMBER MARK COMFORT CARE DIAPERS 280 SIZE 5 12+KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEMBER MARK COMFORT CARE DIAPERS SIZE 5 160.jpeg]
+
+File to: [build/img/MEMBER MARK COMFORT CARE DIAPERS SIZE 5 160.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEMBER MARK COMFORT DIAPERS 196 5-8KG.jpg]
+
+File to: [build/img/MEMBER MARK COMFORT DIAPERS 196 5-8KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEMBER MARK NAPKINS 300 NAPKINS.jpg]
+
+File to: [build/img/MEMBER MARK NAPKINS 300 NAPKINS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEMBER MARK TOWEL 146PLY.jpg]
+
+File to: [build/img/MEMBER MARK TOWEL 146PLY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEMBER MARK ULTIMATE CLEAN 120COUNT.jpg]
+
+File to: [build/img/MEMBER MARK ULTIMATE CLEAN 120COUNT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEMBER MARK ULTRA PAPER PLATE.jpg]
+
+File to: [build/img/MEMBER MARK ULTRA PAPER PLATE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEMBER MARKS TRI COLOUR FUSILI PASTA 454G.jpg]
+
+File to: [build/img/MEMBER MARKS TRI COLOUR FUSILI PASTA 454G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEMBER'S MARK MANGO COCNUT BODY WASH 710ML.jpg]
+
+File to: [build/img/MEMBER'S MARK MANGO COCNUT BODY WASH 710ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEMBER'S MARK MOISTURIZING BODY WASH 710ML.jpeg]
+
+File to: [build/img/MEMBER'S MARK MOISTURIZING BODY WASH 710ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEMBER`S MARK CHILDREN`S MULTI-VITAMINS GUMMIES.jpg]
+
+File to: [build/img/MEMBER`S MARK CHILDREN`S MULTI-VITAMINS GUMMIES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEMBER`S MARKS BATHTISSUE 9S.jpg]
+
+File to: [build/img/MEMBER`S MARKS BATHTISSUE 9S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEN ONLY AMBER GLOW 150ML.jpg]
+
+File to: [build/img/MEN ONLY AMBER GLOW 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEN ONLY BLACK BELT 150ML.jpeg]
+
+File to: [build/img/MEN ONLY BLACK BELT 150ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEN ONLY DARK BODY HEAT 150ML.jpg]
+
+File to: [build/img/MEN ONLY DARK BODY HEAT 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEN ONLY COOL BLUE 150ML.jpg]
+
+File to: [build/img/MEN ONLY COOL BLUE 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEN ONLY DARK FOREST 150ML.jpg]
+
+File to: [build/img/MEN ONLY DARK FOREST 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Men Only Deo Body Spray 150mlx12.jpg]
+
+File to: [build/img/Men Only Deo Body Spray 150mlx12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEN ONLY INTENSE BODYSPRAY 150ML AFRICA.jpg]
+
+File to: [build/img/MEN ONLY INTENSE BODYSPRAY 150ML AFRICA.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEN ONLY INTENSE BODYSPRAY 150ML DYNAMIC.jpg]
+
+File to: [build/img/MEN ONLY INTENSE BODYSPRAY 150ML DYNAMIC.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEN ONLY INTENSE BODYSPRAY 150ML FORCE.jpg]
+
+File to: [build/img/MEN ONLY INTENSE BODYSPRAY 150ML FORCE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEN ONLY INTENSE BODYSPRAY 150ML VIGOR.jpg]
+
+File to: [build/img/MEN ONLY INTENSE BODYSPRAY 150ML VIGOR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEN'S TEXTURE MY WAY KIT.jpg]
+
+File to: [build/img/MEN'S TEXTURE MY WAY KIT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MENOPACE TABS  X 30.jpg]
+
+File to: [build/img/MENOPACE TABS  X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MENTHODEX LOZENGES MENTHOL.png]
+
+File to: [build/img/MENTHODEX LOZENGES MENTHOL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Menthodex Menthol+Eucalypt Lozenges 50g.jpg]
+
+File to: [build/img/Menthodex Menthol+Eucalypt Lozenges 50g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Menthodex Menthol+Eucalypt.jpg]
+
+File to: [build/img/Menthodex Menthol+Eucalypt.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MENTHODEX SYR 100ML.jpg]
+
+File to: [build/img/MENTHODEX SYR 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MENTHOLATUM BALM 27GM.jpg]
+
+File to: [build/img/MENTHOLATUM BALM 27GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MENTOS 2SHARE CANDY 55S.jpg]
+
+File to: [build/img/MENTOS 2SHARE CANDY 55S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mentos Candy 20 sticks 21.6gx240.jpg]
+
+File to: [build/img/Mentos Candy 20 sticks 21.6gx240.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mentos Candy 20 Sticks 37.8g x 160.jpg]
+
+File to: [build/img/Mentos Candy 20 Sticks 37.8g x 160.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MENTOS CHEWY DRAGEES EXTRA STRONG MINT 37.8G.jpg]
+
+File to: [build/img/MENTOS CHEWY DRAGEES EXTRA STRONG MINT 37.8G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mentos chewy dragees pouch 80g x 80.jpg]
+
+File to: [build/img/Mentos chewy dragees pouch 80g x 80.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MENTOS CHEWY DRAGEES STRAWBERRY & WATERMELON.jpg]
+
+File to: [build/img/MENTOS CHEWY DRAGEES STRAWBERRY & WATERMELON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MENTOS EXTRA STRONG MINT 280G.jpg]
+
+File to: [build/img/MENTOS EXTRA STRONG MINT 280G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mentos Fruit (OSL) 14S.jpg]
+
+File to: [build/img/Mentos Fruit (OSL) 14S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MENTOS FRUIT 21.6.jpg]
+
+File to: [build/img/MENTOS FRUIT 21.6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mentos Fruit 30S.jpg]
+
+File to: [build/img/Mentos Fruit 30S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MENTOS FRUIT CHEWY DRAGEES 37.8.jpg]
+
+File to: [build/img/MENTOS FRUIT CHEWY DRAGEES 37.8.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MENTOS MINT 280G.jpg]
+
+File to: [build/img/MENTOS MINT 280G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MENTOS MINT CHEWY DRAGEES 37.8G.jpg]
+
+File to: [build/img/MENTOS MINT CHEWY DRAGEES 37.8G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mentos Peppermint 14S.jpg]
+
+File to: [build/img/Mentos Peppermint 14S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mentos Peppermint 21.6 8S.jpg]
+
+File to: [build/img/Mentos Peppermint 21.6 8S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mentos Peppermint 30S.jpg]
+
+File to: [build/img/Mentos Peppermint 30S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEMBER'S MARK LARGE TRASH BAG 33 GALLON.jpg]
+
+File to: [build/img/MEMBER'S MARK LARGE TRASH BAG 33 GALLON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MENTOS SUGER FREE TRPICAL AND RED FRUIT 50S.jpg]
+
+File to: [build/img/MENTOS SUGER FREE TRPICAL AND RED FRUIT 50S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MENTOS WHITE SWEETMINT CHEWING GUM.jpg]
+
+File to: [build/img/MENTOS WHITE SWEETMINT CHEWING GUM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mentos-Center Fruit Candy Cup 280g x 18.jpg]
+
+File to: [build/img/Mentos-Center Fruit Candy Cup 280g x 18.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEPISAN CREAM 20G.jpg]
+
+File to: [build/img/MEPISAN CREAM 20G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEPRASIL CAPS 20MG X 20.jpg]
+
+File to: [build/img/MEPRASIL CAPS 20MG X 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Meray Roasted Almonds 340g x 12.jpg]
+
+File to: [build/img/Meray Roasted Almonds 340g x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Merba American-Brownie Cookies 200g.jpg]
+
+File to: [build/img/Merba American-Brownie Cookies 200g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MerchBanner.jpg]
+
+File to: [build/img/MerchBanner.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/METAL POLISH LIQUID.jpg]
+
+File to: [build/img/METAL POLISH LIQUID.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/METAPRIM X 10.jpg]
+
+File to: [build/img/METAPRIM X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/METHYLATED SPIRIT (MOKO.) 200ML.png]
+
+File to: [build/img/METHYLATED SPIRIT (MOKO.) 200ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/MG SPIRIT MOJITO 275ML.jpg]
+
+File to: [build/img/MG SPIRIT MOJITO 275ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MG SPIRIT VODKA ORANGE 275ML.jpg]
+
+File to: [build/img/MG SPIRIT VODKA ORANGE 275ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MICARDIS  40MG X 28.jpg]
+
+File to: [build/img/MICARDIS  40MG X 28.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Micardis (Telmisartan) 40mg tabs x28.jpg]
+
+File to: [build/img/Micardis (Telmisartan) 40mg tabs x28.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MICARDIS 80MG X 28.jpg]
+
+File to: [build/img/MICARDIS 80MG X 28.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MICELLAR CLEANSING WATER.jpg]
+
+File to: [build/img/MICELLAR CLEANSING WATER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MICELLAR FACIAL WIPES 25.jpg]
+
+File to: [build/img/MICELLAR FACIAL WIPES 25.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mickey _ Donald Roadster Racers.jpg]
+
+File to: [build/img/Mickey _ Donald Roadster Racers.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MICKS CENTER FILLED ECLAIRS 500G.png]
+
+File to: [build/img/MICKS CENTER FILLED ECLAIRS 500G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/MEGA GROWTH NON-LYN RELAXER REGULAR.png]
+
+File to: [build/img/MEGA GROWTH NON-LYN RELAXER REGULAR.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Microgynon ED Fe Tabs 3x28.jpg]
+
+File to: [build/img/Microgynon ED Fe Tabs 3x28.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Microgynon ED Fe tabs x28.jpg]
+
+File to: [build/img/Microgynon ED Fe tabs x28.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MICROGYNON ED X 84.jpg]
+
+File to: [build/img/MICROGYNON ED X 84.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MICROPIRIN TABS 75MG X 28.jpg]
+
+File to: [build/img/MICROPIRIN TABS 75MG X 28.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MICSTARS FRESH PEELED JUMBO PRAWNS 1KG.jpg]
+
+File to: [build/img/MICSTARS FRESH PEELED JUMBO PRAWNS 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MIDNIGHT FANTANSY BRITNEY SPEARS 100ML.png]
+
+File to: [build/img/MIDNIGHT FANTANSY BRITNEY SPEARS 100ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Miksi Choco17g x 250 Carton.jpg]
+
+File to: [build/img/Miksi Choco17g x 250 Carton.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MIKSI CREAMI MILK 400G.jpg]
+
+File to: [build/img/MIKSI CREAMI MILK 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Miksi Filled Milk Powder 380g x 12.jpg]
+
+File to: [build/img/Miksi Filled Milk Powder 380g x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Miksi Powdered Milk Pouch 900g x 6.jpg]
+
+File to: [build/img/Miksi Powdered Milk Pouch 900g x 6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Miksi12g x 250 Carton.jpg]
+
+File to: [build/img/Miksi12g x 250 Carton.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Miksi25kg bag Carton.jpg]
+
+File to: [build/img/Miksi25kg bag Carton.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Miksi360g S x 12 Carton.jpg]
+
+File to: [build/img/Miksi360g S x 12 Carton.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Miksi380g S x 12 Carton.jpg]
+
+File to: [build/img/Miksi380g S x 12 Carton.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Miksi900g P X6 Carton.jpg]
+
+File to: [build/img/Miksi900g P X6 Carton.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mild Green smoothie.jpg]
+
+File to: [build/img/Mild Green smoothie.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Milka Milk Chocolate Bars 100g.jpg]
+
+File to: [build/img/Milka Milk Chocolate Bars 100g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MILKOBLISS MILK COOKIES 75G.jpg]
+
+File to: [build/img/MILKOBLISS MILK COOKIES 75G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MILO 1KG Refill.jpg]
+
+File to: [build/img/MILO 1KG Refill.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MILO 1KG Tin.jpg]
+
+File to: [build/img/MILO 1KG Tin.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MILO 500G Tin.jpg]
+
+File to: [build/img/MILO 500G Tin.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MILO ACTIVE GO 60G.jpg]
+
+File to: [build/img/MILO ACTIVE GO 60G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEGA MEN X 90 CAPSULES.jpg]
+
+File to: [build/img/MEGA MEN X 90 CAPSULES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MILO ACTIVE GO SACHET 1KG.jpg]
+
+File to: [build/img/MILO ACTIVE GO SACHET 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MILO ACTIVE GO TIN 1KG.png]
+
+File to: [build/img/MILO ACTIVE GO TIN 1KG.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/MILO ACTIVE GO TIN 500G.jpg]
+
+File to: [build/img/MILO ACTIVE GO TIN 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MILO CEREAL 320G PR ST115 NG.png]
+
+File to: [build/img/MILO CEREAL 320G PR ST115 NG.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/MILO CEREAL 320G.jpg]
+
+File to: [build/img/MILO CEREAL 320G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MILO RTD 180ML.png]
+
+File to: [build/img/MILO RTD 180ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/MILO SARDINE IN VEGETABLE OIL 125G.jpg]
+
+File to: [build/img/MILO SARDINE IN VEGETABLE OIL 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MILO SARDINE.jpg]
+
+File to: [build/img/MILO SARDINE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MILTON STERILISING FLUID 500ML.png]
+
+File to: [build/img/MILTON STERILISING FLUID 500ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/MILTON STERILISING TABLETS 128G.jpg]
+
+File to: [build/img/MILTON STERILISING TABLETS 128G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MILTON STERILIZING FLUID 500ML.jpg]
+
+File to: [build/img/MILTON STERILIZING FLUID 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Milton tablets.jpg]
+
+File to: [build/img/Milton tablets.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MIM SYR   300ML.jpg]
+
+File to: [build/img/MIM SYR   300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mimee Instant Noodles Chicken 70g x 40.jpg]
+
+File to: [build/img/Mimee Instant Noodles Chicken 70g x 40.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Minced Meat.jpg]
+
+File to: [build/img/Minced Meat.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MINI COLD WAX STRIPS 36 - FACE-BIKINI.jpg]
+
+File to: [build/img/MINI COLD WAX STRIPS 36 - FACE-BIKINI.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/mini tray.jpeg]
+
+File to: [build/img/mini tray.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MILO ACTIVE GO SACHET 500G.jpg]
+
+File to: [build/img/MILO ACTIVE GO SACHET 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEGA GROWTH NON-LYN RELAXER SUPER.jpg]
+
+File to: [build/img/MEGA GROWTH NON-LYN RELAXER SUPER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MILO ACTIVE GO SACHET 200G.png]
+
+File to: [build/img/MILO ACTIVE GO SACHET 200G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Men Only Deo Rollon 50ml x 12.jpg]
+
+File to: [build/img/Men Only Deo Rollon 50ml x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCVITIES RICH TEA 300G.jpg]
+
+File to: [build/img/MCVITIES RICH TEA 300G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mentos Rainbow 14S.jpg]
+
+File to: [build/img/Mentos Rainbow 14S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

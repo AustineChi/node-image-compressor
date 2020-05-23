@@ -1,0 +1,223 @@
+File from: [src/img/Newcastle32 Inch FHD LED TelevisionBLACK.jpg]
+
+File to: [build/img/Newcastle32 Inch FHD LED TelevisionBLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NewcastleDouble Burner Table Top Gas Cooker With Glass SurfaceBLACK.jpg]
+
+File to: [build/img/NewcastleDouble Burner Table Top Gas Cooker With Glass SurfaceBLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NewcastleHeavy Duty Powerful Home Theater Systemblack.jpg]
+
+File to: [build/img/NewcastleHeavy Duty Powerful Home Theater Systemblack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nhp Ibuprofen 200mg Dispersable Tab x10.jpg]
+
+File to: [build/img/Nhp Ibuprofen 200mg Dispersable Tab x10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NIBIT MINI SNACKS CHOCOLATE 60G.jpg]
+
+File to: [build/img/NIBIT MINI SNACKS CHOCOLATE 60G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NIBIT MINI SNACKS MILKY 60G.jpg]
+
+File to: [build/img/NIBIT MINI SNACKS MILKY 60G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Newcastle43 Inch FHD LED TelevisionBLACK.jpg]
+
+File to: [build/img/Newcastle43 Inch FHD LED TelevisionBLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nickelodeon JoJo Siwa DIY Slime Kit.jpg]
+
+File to: [build/img/Nickelodeon JoJo Siwa DIY Slime Kit.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nido Kinder.JPG]
+
+File to: [build/img/Nido Kinder.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NIFECARD XL 30MG.jpg]
+
+File to: [build/img/NIFECARD XL 30MG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nifedin Dexcel Retard 20Mg Tab x30 PACK.jpg]
+
+File to: [build/img/Nifedin Dexcel Retard 20Mg Tab x30 PACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NIFEDIN DEXCEL TABS 20MG X 30.jpeg]
+
+File to: [build/img/NIFEDIN DEXCEL TABS 20MG X 30.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NIFEGEM RETARD. TABS 20MG X 10.jpg]
+
+File to: [build/img/NIFEGEM RETARD. TABS 20MG X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NIGERIAN PINEAPPLE PER KG.jpg]
+
+File to: [build/img/NIGERIAN PINEAPPLE PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NIGHT NURSE CAPS X 10.jpg]
+
+File to: [build/img/NIGHT NURSE CAPS X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NIRVANA BOLD BITTERLEMON 50CL.jpg]
+
+File to: [build/img/NIRVANA BOLD BITTERLEMON 50CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nickelodeon Slime Ultimate Scented Glitter Slime Studio.jpeg]
+
+File to: [build/img/Nickelodeon Slime Ultimate Scented Glitter Slime Studio.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NIRVANA TONIC WATER 50CL.jpg]
+
+File to: [build/img/NIRVANA TONIC WATER 50CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nivea Anti-Perspirant Stick 40ml .jpg]
+
+File to: [build/img/Nivea Anti-Perspirant Stick 40ml .jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nivea Body Cream Tin 150ml (blue).jpg]
+
+File to: [build/img/Nivea Body Cream Tin 150ml (blue).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nivea Body Roll On 50ml.jpg]
+
+File to: [build/img/Nivea Body Roll On 50ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nivea Body Spray 150ml.jpeg]
+
+File to: [build/img/Nivea Body Spray 150ml.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nivea Body Spray 150ml.jpg]
+
+File to: [build/img/Nivea Body Spray 150ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NIVEA COCOA LOTION 400ML.jpg]
+
+File to: [build/img/NIVEA COCOA LOTION 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nivea Creme Soft Soap.jpg]
+
+File to: [build/img/Nivea Creme Soft Soap.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NIVEA ESSENTIAL ENRICHED BODY LOTION 625ML.jpg]
+
+File to: [build/img/NIVEA ESSENTIAL ENRICHED BODY LOTION 625ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NIvea Even Radiant Lotion (SPF) 400ml.jpg]
+
+File to: [build/img/NIvea Even Radiant Lotion (SPF) 400ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nivea Fem Body Spray Black & White 150ml.jpg]
+
+File to: [build/img/Nivea Fem Body Spray Black & White 150ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NIRVANA SODA WATER 50CL.jpg]
+
+File to: [build/img/NIRVANA SODA WATER 50CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nivea Men After Shave Balm 100ml.jpg]
+
+File to: [build/img/Nivea Men After Shave Balm 100ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NIVEA MEN COOL BODY WASH 500ML.png]
+
+File to: [build/img/NIVEA MEN COOL BODY WASH 500ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Nivea Men Cool Kick 50ml.jpg]
+
+File to: [build/img/Nivea Men Cool Kick 50ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NIVEA MEN MAXIMUM HYDRATION 500ML.png]
+
+File to: [build/img/NIVEA MEN MAXIMUM HYDRATION 500ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Nivea Natural Fairnass Lotion 400ml.jpg]
+
+File to: [build/img/Nivea Natural Fairnass Lotion 400ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NIVEA MEN SILVER PROTECT ROLLON 50ML.png]
+
+File to: [build/img/NIVEA MEN SILVER PROTECT ROLLON 50ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Niceman Men's Underwear 2in1.jpg]
+
+File to: [build/img/Niceman Men's Underwear 2in1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NIVEA LIP CARE STRAWBERRY 5.5ML.jpg]
+
+File to: [build/img/NIVEA LIP CARE STRAWBERRY 5.5ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

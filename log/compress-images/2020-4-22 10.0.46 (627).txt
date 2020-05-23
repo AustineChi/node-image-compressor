@@ -1,0 +1,187 @@
+File from: [src/img/KELLOGG'S RAISIN BRAN WITH CRANBERRIES 383G.jpg]
+
+File to: [build/img/KELLOGG'S RAISIN BRAN WITH CRANBERRIES 383G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KELLOGG'S SPECIAL K PROTEIN 467G.jpeg]
+
+File to: [build/img/KELLOGG'S SPECIAL K PROTEIN 467G.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KELLOGG'S SPECIAL K VANILLA & ALMOND 368G.jpg]
+
+File to: [build/img/KELLOGG'S SPECIAL K VANILLA & ALMOND 368G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KELLOGG`S CORNFLAKES 550G.jpg]
+
+File to: [build/img/KELLOGG`S CORNFLAKES 550G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KELLOGG`S FRUIT `N FIBRE 12 X 375G.jpg]
+
+File to: [build/img/KELLOGG`S FRUIT `N FIBRE 12 X 375G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KELLOGGS COCO POPS 480G.jpg]
+
+File to: [build/img/KELLOGGS COCO POPS 480G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KELLOGGS COCO POPS 720G.jpg]
+
+File to: [build/img/KELLOGGS COCO POPS 720G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KELLOGGS CORN FLAKES 720G.jpeg]
+
+File to: [build/img/KELLOGGS CORN FLAKES 720G.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Kelloggs Corn Flakes Packet 500g x 10.jpg]
+
+File to: [build/img/Kelloggs Corn Flakes Packet 500g x 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KELLOGGS FROOT LOOPS 1.24KG.jpeg]
+
+File to: [build/img/KELLOGGS FROOT LOOPS 1.24KG.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KELLOGGS FROSTED FLAKES 382G.jpg]
+
+File to: [build/img/KELLOGGS FROSTED FLAKES 382G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KELLOGGS FROSTIES 500GM.jpg]
+
+File to: [build/img/KELLOGGS FROSTIES 500GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KELLOGGS FROSTIES 750G.jpg]
+
+File to: [build/img/KELLOGGS FROSTIES 750G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KELLOGGS RAISIN BRAN 470G.png]
+
+File to: [build/img/KELLOGGS RAISIN BRAN 470G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/KELLOGG'S SPECIAL K FRUIT & YOGURT 368G.jpg]
+
+File to: [build/img/KELLOGG'S SPECIAL K FRUIT & YOGURT 368G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KELLOGGS RAISIN BRAN CRUNCH ORIGINAL 450G.jpg]
+
+File to: [build/img/KELLOGGS RAISIN BRAN CRUNCH ORIGINAL 450G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KELLOGGS SPECIAL K HONEY OAT 374G.JPG]
+
+File to: [build/img/KELLOGGS SPECIAL K HONEY OAT 374G.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KELLOGGS SPECIAL K ORIGINAL 500G.jpg]
+
+File to: [build/img/KELLOGGS SPECIAL K ORIGINAL 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KELLOGG'S FROSTED FLAKES 1.56KG 2S.jpeg]
+
+File to: [build/img/KELLOGG'S FROSTED FLAKES 1.56KG 2S.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KELLOGS COCO POPS 450G(LOCAL).jpg]
+
+File to: [build/img/KELLOGS COCO POPS 450G(LOCAL).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Kellogs Corn Flakes Cereal 550g.jpg]
+
+File to: [build/img/Kellogs Corn Flakes Cereal 550g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Kendamil cereal 4-6.JPG]
+
+File to: [build/img/Kendamil cereal 4-6.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KENDAMIL FIRST INFANT MILK 900G.jpg]
+
+File to: [build/img/KENDAMIL FIRST INFANT MILK 900G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KENDAMIL FOLLOW ON MILK 900.jpg]
+
+File to: [build/img/KENDAMIL FOLLOW ON MILK 900.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Kendamil milk.jpg]
+
+File to: [build/img/Kendamil milk.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Kendamil organic.png]
+
+File to: [build/img/Kendamil organic.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/KENDAMIL SMOOTH BABY RICE 100G.jpg]
+
+File to: [build/img/KENDAMIL SMOOTH BABY RICE 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KENDAMIL TODDLER MILK 900G.jpg]
+
+File to: [build/img/KENDAMIL TODDLER MILK 900G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KENWOOD BLENDER 1L BL335.jpg]
+
+File to: [build/img/KENWOOD BLENDER 1L BL335.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KENWOOD DRY IRON DIP210BL.jpg]
+
+File to: [build/img/KENWOOD DRY IRON DIP210BL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KENWOOD KETTLE ZJP01.jpg]
+
+File to: [build/img/KENWOOD KETTLE ZJP01.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

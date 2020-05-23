@@ -1,0 +1,55 @@
+File from: [src/img/TIFFANY CRUNCH N CREAM CHOCOLATE 76G.jpg]
+
+File to: [build/img/TIFFANY CRUNCH N CREAM CHOCOLATE 76G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TIFFANY CRUNCH N CREAM ORANGE 76G.jpg]
+
+File to: [build/img/TIFFANY CRUNCH N CREAM ORANGE 76G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TIFFANY CRUNCH N CREAM HAZELNUT 153G.jpg]
+
+File to: [build/img/TIFFANY CRUNCH N CREAM HAZELNUT 153G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TIFFANY CRUNCH N CREAM VANILLLA 153G.jpg]
+
+File to: [build/img/TIFFANY CRUNCH N CREAM VANILLLA 153G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TIFFANY DELUXE TOFFEE DELIGHTFUL ASSORTED SACHET 300G.jpg]
+
+File to: [build/img/TIFFANY DELUXE TOFFEE DELIGHTFUL ASSORTED SACHET 300G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TIFFANY ECLAIRS DELICIOUS SACHET 300G.jpg]
+
+File to: [build/img/TIFFANY ECLAIRS DELICIOUS SACHET 300G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Tiffany Flavoured Cream Wafer 153g.jpg]
+
+File to: [build/img/Tiffany Flavoured Cream Wafer 153g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TIFFANY HAMPER.jpg]
+
+File to: [build/img/TIFFANY HAMPER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Tiffany Sugarfree Oatmeal Cookies 150g.jpg]
+
+File to: [build/img/Tiffany Sugarfree Oatmeal Cookies 150g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

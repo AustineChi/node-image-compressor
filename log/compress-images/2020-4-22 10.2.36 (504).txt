@@ -1,0 +1,325 @@
+File from: [src/img/Polystar5 Gas Burners Gas CookerSilver.jpg]
+
+File to: [build/img/Polystar5 Gas Burners Gas CookerSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Polystar5 Burners In-Built Gas Hub PV-HBG5801Black.jpg]
+
+File to: [build/img/Polystar5 Burners In-Built Gas Hub PV-HBG5801Black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Polystar5 Burner In-built Gas HubSILVER.jpg]
+
+File to: [build/img/Polystar5 Burner In-built Gas HubSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Polystar5 Burner In-built Gas Cooker Hub PV-NYGM5Silver,Black.jpg]
+
+File to: [build/img/Polystar5 Burner In-built Gas Cooker Hub PV-NYGM5Silver,Black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Polystar5.1 CHANNEL HOME THEATRE MUSIC SYSTEM (PV-821-5.1)Black.jpg]
+
+File to: [build/img/Polystar5.1 CHANNEL HOME THEATRE MUSIC SYSTEM (PV-821-5.1)Black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Polystar5.1CH Bluetooth Tallboy Home TheatreBlack.jpg]
+
+File to: [build/img/Polystar5.1CH Bluetooth Tallboy Home TheatreBlack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Polystar5.7kg Twin Tub Washing Machine PV-WD5.7KNA.jpg]
+
+File to: [build/img/Polystar5.7kg Twin Tub Washing Machine PV-WD5.7KNA.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Polystar50 Inch PV-JP50SDU2100BD Curved Smart 4K UHD TVBLACK.jpg]
+
+File to: [build/img/Polystar50 Inch PV-JP50SDU2100BD Curved Smart 4K UHD TVBLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Polystar520 Litre Chest Freezer PV-CF-520LWHITE.jpg]
+
+File to: [build/img/Polystar520 Litre Chest Freezer PV-CF-520LWHITE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Polystar520L Chest-Deep Freezer PV-CFDG535LGrey.jpg]
+
+File to: [build/img/Polystar520L Chest-Deep Freezer PV-CFDG535LGrey.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Polystar55'' Inches Smart 4k UHD Curved TV.jpg]
+
+File to: [build/img/Polystar55'' Inches Smart 4k UHD Curved TV.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Polystar55inches Smart Curved Led TVSILVER.jpg]
+
+File to: [build/img/Polystar55inches Smart Curved Led TVSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Polystar6.7KG AUTOMATIC WASHING MACHINEsilver.jpg]
+
+File to: [build/img/Polystar6.7KG AUTOMATIC WASHING MACHINEsilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Polystar6.7KG Fully Automatic Top Loader Washing Machine - PV-6.7KGWhite.jpg]
+
+File to: [build/img/Polystar6.7KG Fully Automatic Top Loader Washing Machine - PV-6.7KGWhite.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Polystar65 Inch Curved UHD 4K Smart TV- 2019 Model.Black.jpg]
+
+File to: [build/img/Polystar65 Inch Curved UHD 4K Smart TV- 2019 Model.Black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Polystar65'' Inches Smart 4k UHD Curved TV.jpg]
+
+File to: [build/img/Polystar65'' Inches Smart 4k UHD Curved TV.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Polystar65Inch Android UHD  4K SMART LED TV WITH  SOUNDBARGOLD.jpg]
+
+File to: [build/img/Polystar65Inch Android UHD  4K SMART LED TV WITH  SOUNDBARGOLD.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Polystar65Inch Android UHD  4K SMARTLED TV WITH WALL BRACKETGOLD.jpg]
+
+File to: [build/img/Polystar65Inch Android UHD  4K SMARTLED TV WITH WALL BRACKETGOLD.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Polystar75 Andriod Smart 4K HD TV PV-LED75S6600GOLD.jpg]
+
+File to: [build/img/Polystar75 Andriod Smart 4K HD TV PV-LED75S6600GOLD.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Polystar8.5KG WASHING MACHINE PV-W80-625PAwhite and Wine.jpg]
+
+File to: [build/img/Polystar8.5KG WASHING MACHINE PV-W80-625PAwhite and Wine.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Polystar90cm Digital Kitchen Hood Tempered Glass (PV-D9021HS)BLACK.jpg]
+
+File to: [build/img/Polystar90cm Digital Kitchen Hood Tempered Glass (PV-D9021HS)BLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Polystar90X54cm 5All Gas Built-in CookerSILVER.jpg]
+
+File to: [build/img/Polystar90X54cm 5All Gas Built-in CookerSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Polystar90x60cm, 5 Gas Burner With Auto IgnitionGREY_BROWN.jpg]
+
+File to: [build/img/Polystar90x60cm, 5 Gas Burner With Auto IgnitionGREY_BROWN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarAir Conditioner With Insulation Kits 1HP Split PV-BL09XA82BLACK.jpg]
+
+File to: [build/img/PolystarAir Conditioner With Insulation Kits 1HP Split PV-BL09XA82BLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarAir Conditioner With Insulation KitsBLACK.jpg]
+
+File to: [build/img/PolystarAir Conditioner With Insulation KitsBLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarAndroid Internet Smart 4K Resolution HD TV - 65 Inches.jpg]
+
+File to: [build/img/PolystarAndroid Internet Smart 4K Resolution HD TV - 65 Inches.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarAVS Voltage ProtectorWhite.jpg]
+
+File to: [build/img/PolystarAVS Voltage ProtectorWhite.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarAutomatic Electric Kettle PV-K500Silver.jpg]
+
+File to: [build/img/PolystarAutomatic Electric Kettle PV-K500Silver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Polystar5 Burners In-built Gas Hub PV-HBS5807SILVER.jpg]
+
+File to: [build/img/Polystar5 Burners In-built Gas Hub PV-HBS5807SILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarAVS Voltage ProtectorWhitee.jpg]
+
+File to: [build/img/PolystarAVS Voltage ProtectorWhitee.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Polystar50 Inch, Curved, Smart 4K UHD TV PV-JP50SDU2100BDSilver.jpg]
+
+File to: [build/img/Polystar50 Inch, Curved, Smart 4K UHD TV PV-JP50SDU2100BDSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Polystar5.1 CHANNEL HOME THEATER MUSIC SYSTEMBLACK`.jpg]
+
+File to: [build/img/Polystar5.1 CHANNEL HOME THEATER MUSIC SYSTEMBLACK`.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarBLUETOOTH HOME THEATRE PV-HF208black.jpg]
+
+File to: [build/img/PolystarBLUETOOTH HOME THEATRE PV-HF208black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarBluetooth Mini-Hifi With Built-In Amplifier Pv-Sub811BLACK`.jpg]
+
+File to: [build/img/PolystarBluetooth Mini-Hifi With Built-In Amplifier Pv-Sub811BLACK`.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarBluetooth Powerful Home Theater SystemBlack.jpg]
+
+File to: [build/img/PolystarBluetooth Powerful Home Theater SystemBlack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarBluetooth Powerful Home Theater SystemBlackK.jpg]
+
+File to: [build/img/PolystarBluetooth Powerful Home Theater SystemBlackK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarBluetooth Powerful Home Theater SystemBlackKK.jpg]
+
+File to: [build/img/PolystarBluetooth Powerful Home Theater SystemBlackKK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarBED SIDE REFRIGERATOR PV-TF79LSSILVER.jpg]
+
+File to: [build/img/PolystarBED SIDE REFRIGERATOR PV-TF79LSSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarBuilt-in 5Gas Burner Cookerstainless steel.jpg]
+
+File to: [build/img/PolystarBuilt-in 5Gas Burner Cookerstainless steel.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarBluetooth DVD Home Theatre With HDMI - PV-BK722Bblack.jpg]
+
+File to: [build/img/PolystarBluetooth DVD Home Theatre With HDMI - PV-BK722Bblack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarBUILT-IN OVEN GAS AUTOMATIC PVCM-265ABlack.jpg]
+
+File to: [build/img/PolystarBUILT-IN OVEN GAS AUTOMATIC PVCM-265ABlack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarChest Deep Freezer Pv-CFDG725LGrey.jpg]
+
+File to: [build/img/PolystarChest Deep Freezer Pv-CFDG725LGrey.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarCHEST FREEZER  PV-CF474LGR- LAGOS ONLYGREY.jpg]
+
+File to: [build/img/PolystarCHEST FREEZER  PV-CF474LGR- LAGOS ONLYGREY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarCHEST FREEZER  PV-CF474LGRGREY.jpg]
+
+File to: [build/img/PolystarCHEST FREEZER  PV-CF474LGRGREY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarChest Freezer - PV-CF-190LGRGREY.jpg]
+
+File to: [build/img/PolystarChest Freezer - PV-CF-190LGRGREY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarCHEST FREEZER (PV-CF-185L)GREY.jpg]
+
+File to: [build/img/PolystarCHEST FREEZER (PV-CF-185L)GREY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarCHEST FREEZER (PV-CF165LGR)GREY.jpg]
+
+File to: [build/img/PolystarCHEST FREEZER (PV-CF165LGR)GREY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarCHEST FREEZER DOUBLE  DOOR + ALUMINIUM COMPRESSORWhite.JPG]
+
+File to: [build/img/PolystarCHEST FREEZER DOUBLE  DOOR + ALUMINIUM COMPRESSORWhite.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarCHEST FREEZER DOUBLE - PV-CF-620L (LAGOS ONLY)WHITE.jpg]
+
+File to: [build/img/PolystarCHEST FREEZER DOUBLE - PV-CF-620L (LAGOS ONLY)WHITE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarCHEST FREEZER DOUBLE DOOR  {PV-CF619LGR}GREY.jpg]
+
+File to: [build/img/PolystarCHEST FREEZER DOUBLE DOOR  {PV-CF619LGR}GREY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarCHEST FREEZER DOUBLE DOOR (PV-CF-620L) LAGOS ONLYWHITE.jpg]
+
+File to: [build/img/PolystarCHEST FREEZER DOUBLE DOOR (PV-CF-620L) LAGOS ONLYWHITE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarChest Freezer PV-CF190LGR- 190Lsilver.jpg]
+
+File to: [build/img/PolystarChest Freezer PV-CF190LGR- 190Lsilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarChest Freezer PV-CF260LGRSilver.jpg]
+
+File to: [build/img/PolystarChest Freezer PV-CF260LGRSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PolystarChest Freezer PV-CF370LGRGREY.jpg]
+
+File to: [build/img/PolystarChest Freezer PV-CF370LGRGREY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

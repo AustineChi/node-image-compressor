@@ -1,0 +1,223 @@
+File from: [src/img/CHIVITA RED GRAPE 1L.png]
+
+File to: [build/img/CHIVITA RED GRAPE 1L.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CHLOE BIRTHDAY CAKE CHOCOLATE FUDGE ICE CREAM 400G.jpg]
+
+File to: [build/img/CHLOE BIRTHDAY CAKE CHOCOLATE FUDGE ICE CREAM 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHLOES BUTTER HONEY PECAN 430G.jpg]
+
+File to: [build/img/CHLOES BUTTER HONEY PECAN 430G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHLOE DULCE DE LECHE ICE CREAM 430G.jpg]
+
+File to: [build/img/CHLOE DULCE DE LECHE ICE CREAM 430G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHLOES CARAMEL POP CORN 85G.png]
+
+File to: [build/img/CHLOES CARAMEL POP CORN 85G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CHLOES MADAGASCAR VANILLA 430G.JPG]
+
+File to: [build/img/CHLOES MADAGASCAR VANILLA 430G.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHLOES RED VELVET CAKE ICE CREAM 430G.jpg]
+
+File to: [build/img/CHLOES RED VELVET CAKE ICE CREAM 430G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHLOES WHITE CHOCOLATE RED VELVET POP CORN 85G.jpg]
+
+File to: [build/img/CHLOES WHITE CHOCOLATE RED VELVET POP CORN 85G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHLORAMPHENICOL. EYE OINTMENT  5G.jpg]
+
+File to: [build/img/CHLORAMPHENICOL. EYE OINTMENT  5G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHLORPHENIRAMINE(EMZOR) X 10.jpg]
+
+File to: [build/img/CHLORPHENIRAMINE(EMZOR) X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/chocolate chip cookie.jpeg]
+
+File to: [build/img/chocolate chip cookie.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHOCOLATE CHIP TEDDY BEAR COOKIES 340G.jpg]
+
+File to: [build/img/CHOCOLATE CHIP TEDDY BEAR COOKIES 340G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHOKE & CARB CLEANER 300ML.jpg]
+
+File to: [build/img/CHOKE & CARB CLEANER 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRIS ADAMS LIFE TIME 80ML.jpg]
+
+File to: [build/img/CHRIS ADAMS LIFE TIME 80ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRISTINA AGUILERA BY NIGHT 50ML.jpg]
+
+File to: [build/img/CHRISTINA AGUILERA BY NIGHT 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRISTINA AGUILERA VIOLET NOIR 50ML.jpg]
+
+File to: [build/img/CHRISTINA AGUILERA VIOLET NOIR 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRISTINA VAN LOVEREN CABERNET SAUVIGNON 750ML.jpg]
+
+File to: [build/img/CHRISTINA VAN LOVEREN CABERNET SAUVIGNON 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRISTMAS ADULT BOWER HAT.jpg]
+
+File to: [build/img/CHRISTMAS ADULT BOWER HAT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRISTMAS BALLOONS.png]
+
+File to: [build/img/CHRISTMAS BALLOONS.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CHRISTMAS CARD FLEXI.jpg]
+
+File to: [build/img/CHRISTMAS CARD FLEXI.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRISTMAS CARD SMALL.jpg]
+
+File to: [build/img/CHRISTMAS CARD SMALL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRISTMAS CURVE HEAD BAND.jpg]
+
+File to: [build/img/CHRISTMAS CURVE HEAD BAND.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRISTMAS DECORATIVE BOW.jpg]
+
+File to: [build/img/CHRISTMAS DECORATIVE BOW.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRISTMAS DOLLS.jpg]
+
+File to: [build/img/CHRISTMAS DOLLS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRISTMAS DOOR HANGERS.jpg]
+
+File to: [build/img/CHRISTMAS DOOR HANGERS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRISTMAS GIFT-BOX.jpg]
+
+File to: [build/img/CHRISTMAS GIFT-BOX.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRISTMAS HAND TOWELS.jpg]
+
+File to: [build/img/CHRISTMAS HAND TOWELS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRISTMAS HATS.jpg]
+
+File to: [build/img/CHRISTMAS HATS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRISTMAS HEADBANDS.jpg]
+
+File to: [build/img/CHRISTMAS HEADBANDS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRISTMAS ICICLE LIGHTS.jpg]
+
+File to: [build/img/CHRISTMAS ICICLE LIGHTS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRISTMAS LIGHT UP KIDS GLASSES.jpg]
+
+File to: [build/img/CHRISTMAS LIGHT UP KIDS GLASSES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRISTMAS NET LIGHTS.jpg]
+
+File to: [build/img/CHRISTMAS NET LIGHTS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRISTMAS ORNAMENTS.jpg]
+
+File to: [build/img/CHRISTMAS ORNAMENTS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRISTMAS PEN.jpg]
+
+File to: [build/img/CHRISTMAS PEN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRISTMAS POCKERDOT HAT.jpg]
+
+File to: [build/img/CHRISTMAS POCKERDOT HAT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRISTMAS PRELIT TABLE TREE NO LIGHTS.jpg]
+
+File to: [build/img/CHRISTMAS PRELIT TABLE TREE NO LIGHTS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHRISTMAS SANTA HEAD BAND.jpg]
+
+File to: [build/img/CHRISTMAS SANTA HEAD BAND.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

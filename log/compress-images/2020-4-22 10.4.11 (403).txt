@@ -1,0 +1,193 @@
+File from: [src/img/VEETGOLD RICE $ MILK SOAP 200G copy.jpg]
+
+File to: [build/img/VEETGOLD RICE $ MILK SOAP 200G copy.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Veg.jpeg]
+
+File to: [build/img/Veg.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Vega 100mg tab copy.png]
+
+File to: [build/img/Vega 100mg tab copy.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/VEGA 100 TABS X 4.jpg]
+
+File to: [build/img/VEGA 100 TABS X 4.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VEGA. SPRAY 15G.jpg]
+
+File to: [build/img/VEGA. SPRAY 15G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VEGETA COCOYAM FLOUR 100G.jpg]
+
+File to: [build/img/VEGETA COCOYAM FLOUR 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/vegetable.jpeg]
+
+File to: [build/img/vegetable.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VEKTRO CHAPMAN ORIGINAL MIX 330ML.png]
+
+File to: [build/img/VEKTRO CHAPMAN ORIGINAL MIX 330ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Veleta Non-Alcoholic Red Wine 375ml x 12.jpg]
+
+File to: [build/img/Veleta Non-Alcoholic Red Wine 375ml x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Veleta Non-Alcoholic RedWhite Wine 75clL.png]
+
+File to: [build/img/Veleta Non-Alcoholic RedWhite Wine 75clL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/VENOS DRY COUGH SYRUP 100ML.jpg]
+
+File to: [build/img/VENOS DRY COUGH SYRUP 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VENOS CHESTY COUGH SYRUP 100ML.jpg]
+
+File to: [build/img/VENOS CHESTY COUGH SYRUP 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Ventolin (Salbutamol) 2mg tab x 10.jpg]
+
+File to: [build/img/Ventolin (Salbutamol) 2mg tab x 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Ventolin (Salbutamol) 2mg Tabs.x50 Sach..jpg]
+
+File to: [build/img/Ventolin (Salbutamol) 2mg Tabs.x50 Sach..jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VENTOLIN INHALER 200 DOSES.jpg]
+
+File to: [build/img/VENTOLIN INHALER 200 DOSES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VENTOLIN NEBULES 2.5MG X 20.jpg]
+
+File to: [build/img/VENTOLIN NEBULES 2.5MG X 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VENTOLIN NEBULES 5MG X 20.jpg]
+
+File to: [build/img/VENTOLIN NEBULES 5MG X 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VENTOLIN SYRUP NG X 100ML.jpg]
+
+File to: [build/img/VENTOLIN SYRUP NG X 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VENTOLIN SYRUP2MG 5ML SYRUP X 150ML.jpeg]
+
+File to: [build/img/VENTOLIN SYRUP2MG 5ML SYRUP X 150ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VENTOLIN TABLET X 10.jpg]
+
+File to: [build/img/VENTOLIN TABLET X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VENUS MST CRM 120G.jpg]
+
+File to: [build/img/VENUS MST CRM 120G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VENUS GOLD PERFUM 55G.jpg]
+
+File to: [build/img/VENUS GOLD PERFUM 55G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VENUS TONING CREAM 120G.jpg]
+
+File to: [build/img/VENUS TONING CREAM 120G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VENUS MST LOTION 200ML.jpg]
+
+File to: [build/img/VENUS MST LOTION 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VENUS TONING LOTION 200G.jpg]
+
+File to: [build/img/VENUS TONING LOTION 200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VERMOX TABS 500MG X 1.jpg]
+
+File to: [build/img/VERMOX TABS 500MG X 1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VERMOX. SUSP  30ML.jpg]
+
+File to: [build/img/VERMOX. SUSP  30ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VESELINE INTENSIVE CARE LOTION 295ML.jpg]
+
+File to: [build/img/VESELINE INTENSIVE CARE LOTION 295ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VESELINE INTENSIVE CARE LOTION 600ML.jpg]
+
+File to: [build/img/VESELINE INTENSIVE CARE LOTION 600ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VEUVE CLICQUOT BRUT CHAMPAGNES 75CL.png]
+
+File to: [build/img/VEUVE CLICQUOT BRUT CHAMPAGNES 75CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/VETON PALM OIL 35CL (VM).jpg]
+
+File to: [build/img/VETON PALM OIL 35CL (VM).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VEUVE CLICQUOT ROSE 75CL.png]
+
+File to: [build/img/VEUVE CLICQUOT ROSE 75CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAIN

@@ -1,0 +1,49 @@
+File from: [src/img/GENTAMYCIN INJECTION 80MG.jpg]
+
+File to: [build/img/GENTAMYCIN INJECTION 80MG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENTLE CLEANSING MILK 200ML.jpg]
+
+File to: [build/img/GENTLE CLEANSING MILK 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gerber  teethers strawberry apple spinach (7mths).jpg]
+
+File to: [build/img/Gerber  teethers strawberry apple spinach (7mths).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gerber Animal crackers cinnamon graham.jpg]
+
+File to: [build/img/Gerber Animal crackers cinnamon graham.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GERBER APPLE CINNAMON 160Z.jpeg]
+
+File to: [build/img/GERBER APPLE CINNAMON 160Z.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gerber Baby Cereals 227g.jpg]
+
+File to: [build/img/Gerber Baby Cereals 227g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gerber Baby Cereals 227g(1).jpg]
+
+File to: [build/img/Gerber Baby Cereals 227g(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GENTIAN VIOLET (MOKO).jpg]
+
+File to: [build/img/GENTIAN VIOLET (MOKO).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

@@ -1,0 +1,37 @@
+File from: [src/img/MEDITOL CLASSIC 90G.jpg]
+
+File to: [build/img/MEDITOL CLASSIC 90G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEDITOL COOL 90G.jpg]
+
+File to: [build/img/MEDITOL COOL 90G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEDITOL HERBAL 90G.jpg]
+
+File to: [build/img/MEDITOL HERBAL 90G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEDITOL VITAPLUS 90G.jpg]
+
+File to: [build/img/MEDITOL VITAPLUS 90G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/medSquarelogo.jpeg]
+
+File to: [build/img/medSquarelogo.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mega Bloks 123 Building Kit - 20pcs.jpg]
+
+File to: [build/img/Mega Bloks 123 Building Kit - 20pcs.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

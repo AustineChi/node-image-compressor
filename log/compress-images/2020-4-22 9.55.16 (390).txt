@@ -1,0 +1,403 @@
+File from: [src/img/VASELINE BLUE SEAL ALOE FRESH 100ML.jpg]
+
+File to: [build/img/VASELINE BLUE SEAL ALOE FRESH 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VASELINE BLUESEAL 200ml.png]
+
+File to: [build/img/VASELINE BLUESEAL 200ml.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/VASELINE BLUE SEAL VITSMIN E 100ML.jpg]
+
+File to: [build/img/VASELINE BLUE SEAL VITSMIN E 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Vaseline Blue Seal 450ml x 24.jpg]
+
+File to: [build/img/Vaseline Blue Seal 450ml x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VASELINE BLUESEAL ORIGINAL 250ML.jpeg]
+
+File to: [build/img/VASELINE BLUESEAL ORIGINAL 250ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VASELINE BS PJ COC. BUTTER 250ML.jpg]
+
+File to: [build/img/VASELINE BS PJ COC. BUTTER 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VASELINE BLUESEAL ORIGINAL 50MLCARTON.png]
+
+File to: [build/img/VASELINE BLUESEAL ORIGINAL 50MLCARTON.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/VASELINE BS PJ COCBTR NG (12X50ML) X 24.jpg]
+
+File to: [build/img/VASELINE BS PJ COCBTR NG (12X50ML) X 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VASELINE BS PJ ORIGINAL 250ML.jpg]
+
+File to: [build/img/VASELINE BS PJ ORIGINAL 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VASELINE COCOA BUTTER JELLY 100ML.jpg]
+
+File to: [build/img/VASELINE COCOA BUTTER JELLY 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VASELINE BLUESEAL ORIGNL PJ 4X(6X450ML) CARTON.png]
+
+File to: [build/img/VASELINE BLUESEAL ORIGNL PJ 4X(6X450ML) CARTON.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/VASELINE COCOA GLOW LOTION 400.jpg]
+
+File to: [build/img/VASELINE COCOA GLOW LOTION 400.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VASELINE DOUBLE INVISIBLE ROLL ON 50ML.jpg]
+
+File to: [build/img/VASELINE DOUBLE INVISIBLE ROLL ON 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VASELINE EVEN TONE LOTIONS 400ML.jpg]
+
+File to: [build/img/VASELINE EVEN TONE LOTIONS 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VASELINE INTENSIVE CARE ALOE SOOTHE 295ML.jpg]
+
+File to: [build/img/VASELINE INTENSIVE CARE ALOE SOOTHE 295ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VASELINE INTENSIVE CARE ALOE SOOTHE 600ML.jpg]
+
+File to: [build/img/VASELINE INTENSIVE CARE ALOE SOOTHE 600ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VASELINE INTENSIVE CARE COCOA RADIANT 295ML.jpg]
+
+File to: [build/img/VASELINE INTENSIVE CARE COCOA RADIANT 295ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VASELINE INTENSIVE CARE COCOA RADIANT 600ML.jpg]
+
+File to: [build/img/VASELINE INTENSIVE CARE COCOA RADIANT 600ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VASELINE INTENSIVE CARE DRY SKIN REPAIR 500ML.jpg]
+
+File to: [build/img/VASELINE INTENSIVE CARE DRY SKIN REPAIR 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VASELINE INTESIVE CARE LOTION 295ML.jpg]
+
+File to: [build/img/VASELINE INTESIVE CARE LOTION 295ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VASELINE INTESIVE CARE LOTION 600ML.jpg]
+
+File to: [build/img/VASELINE INTESIVE CARE LOTION 600ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VASELINE LIP BALM 20G.jpg]
+
+File to: [build/img/VASELINE LIP BALM 20G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VASELINE LIP BALM 7G CRÈME BRULEE.jpg]
+
+File to: [build/img/VASELINE LIP BALM 7G CRÈME BRULEE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VASELINE LIP BALM 7G COCOA BUTTER.png]
+
+File to: [build/img/VASELINE LIP BALM 7G COCOA BUTTER.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/VASELINE LIP BALM 7G ORIGINAL.jpg]
+
+File to: [build/img/VASELINE LIP BALM 7G ORIGINAL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VASELINE LIP THERAPY  COCOA 20G.jpg]
+
+File to: [build/img/VASELINE LIP THERAPY  COCOA 20G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VASELINE LIP BALM 7G ROSY LIPS.jpg]
+
+File to: [build/img/VASELINE LIP BALM 7G ROSY LIPS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VASELINE LIP THERAPY ALEO VERA.jpg]
+
+File to: [build/img/VASELINE LIP THERAPY ALEO VERA.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VASELINE LIP THERAPY ROSE 20G.jpg]
+
+File to: [build/img/VASELINE LIP THERAPY ROSE 20G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VASELINE LOT ALOE SOOTH 4 X 6X400ml CARTON.png]
+
+File to: [build/img/VASELINE LOT ALOE SOOTH 4 X 6X400ml CARTON.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/VASELINE DRY SKIN REPAIR LOTION 400ML.jpg]
+
+File to: [build/img/VASELINE DRY SKIN REPAIR LOTION 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VASELINE LOT COCOA GLOW 4 X 6 X400ml CARTON.png]
+
+File to: [build/img/VASELINE LOT COCOA GLOW 4 X 6 X400ml CARTON.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/VASELINE LOT COCOA GLOW CA 4X (6X400ML).jpg]
+
+File to: [build/img/VASELINE LOT COCOA GLOW CA 4X (6X400ML).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VASELINE LOT DRYSKINREP  4 X 6X 400ml CARTON.png]
+
+File to: [build/img/VASELINE LOT DRYSKINREP  4 X 6X 400ml CARTON.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/VASELINE LOT DRYSKIN REP 200ML.jpg]
+
+File to: [build/img/VASELINE LOT DRYSKIN REP 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VASELINE LOT FAST ABSORBING 4 X 6X 400ml CARTON.png]
+
+File to: [build/img/VASELINE LOT FAST ABSORBING 4 X 6X 400ml CARTON.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/VASELINE LOT MEN COOLING 4 X 6X 400ml CARTON.png]
+
+File to: [build/img/VASELINE LOT MEN COOLING 4 X 6X 400ml CARTON.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/VASELINE MEN COOLING LOTION 400ML.jpg]
+
+File to: [build/img/VASELINE MEN COOLING LOTION 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VASELINE ORIGINAL PURE JELLY 250ML.jpg]
+
+File to: [build/img/VASELINE ORIGINAL PURE JELLY 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VASELINE ORIGINAL PURE JELLY 50ML.jpg]
+
+File to: [build/img/VASELINE ORIGINAL PURE JELLY 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VASELINE PETJELLY VIT E 50ML.jpg]
+
+File to: [build/img/VASELINE PETJELLY VIT E 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VASELINE PJ ALL FRESH 50ML.jpg]
+
+File to: [build/img/VASELINE PJ ALL FRESH 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Vasoprin (Aspirin) 75mg 10x10 PACK.jpg]
+
+File to: [build/img/Vasoprin (Aspirin) 75mg 10x10 PACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VEET 100ML NORMAL.jpg]
+
+File to: [build/img/VEET 100ML NORMAL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VECUTEN CREAM 15G.jpg]
+
+File to: [build/img/VECUTEN CREAM 15G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VEET GOLD HAIR OIL 200ML.jpg]
+
+File to: [build/img/VEET GOLD HAIR OIL 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VEET GOLD ARGAN OIL SHAMPOO 500ML copy.jpg]
+
+File to: [build/img/VEET GOLD ARGAN OIL SHAMPOO 500ML copy.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VEET GOLD NEW NATURAL VEGETABLE SOAP.jpg]
+
+File to: [build/img/VEET GOLD NEW NATURAL VEGETABLE SOAP.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VEET HAIR REMOVAL CREAM SENSITIVE SKIN 100ML.jpg]
+
+File to: [build/img/VEET HAIR REMOVAL CREAM SENSITIVE SKIN 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VEET HAIR REMOVAL CREAM 100ML NORMAL SKIN.jpg]
+
+File to: [build/img/VEET HAIR REMOVAL CREAM 100ML NORMAL SKIN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Veg.jpeg]
+
+File to: [build/img/Veg.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VEGA 100 TABS X 4.jpg]
+
+File to: [build/img/VEGA 100 TABS X 4.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VASELINE BLUESEAL ORIGNL PJ 6X(6X250ML) CARTON.png]
+
+File to: [build/img/VASELINE BLUESEAL ORIGNL PJ 6X(6X250ML) CARTON.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Vega 100mg tab copy.png]
+
+File to: [build/img/Vega 100mg tab copy.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/VEGETA COCOYAM FLOUR 100G.jpg]
+
+File to: [build/img/VEGETA COCOYAM FLOUR 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VEGA. SPRAY 15G.jpg]
+
+File to: [build/img/VEGA. SPRAY 15G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/vegetable.jpeg]
+
+File to: [build/img/vegetable.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VEKTRO CHAPMAN ORIGINAL MIX 330ML.png]
+
+File to: [build/img/VEKTRO CHAPMAN ORIGINAL MIX 330ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/VEETGOLD RICE $ MILK SOAP 200G copy.jpg]
+
+File to: [build/img/VEETGOLD RICE $ MILK SOAP 200G copy.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Veleta Non-Alcoholic Red Wine 375ml x 12.jpg]
+
+File to: [build/img/Veleta Non-Alcoholic Red Wine 375ml x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Veleta Non-Alcoholic RedWhite Wine 75clL.png]
+
+File to: [build/img/Veleta Non-Alcoholic RedWhite Wine 75clL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/VENOS CHESTY COUGH SYRUP 100ML.jpg]
+
+File to: [build/img/VENOS CHESTY COUGH SYRUP 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VENOS DRY COUGH SYRUP 100ML.jpg]
+
+File to: [build/img/VENOS DRY COUGH SYRUP 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Ventolin (Salbutamol) 2mg Tabs.x50 Sach..jpg]
+
+File to: [build/img/Ventolin (Salbutamol) 2mg Tabs.x50 Sach..jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Ventolin (Salbutamol) 2mg tab x 10.jpg]
+
+File to: [build/img/Ventolin (Salbutamol) 2mg tab x 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VEET HAIR REMOVAL NORMAL SKIN 100ML.jpg]
+
+File to: [build/img/VEET HAIR REMOVAL NORMAL SKIN 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VEET 100ML SENSITIVE.jpg]
+
+File to: [build/img/VEET 100ML SENSITIVE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

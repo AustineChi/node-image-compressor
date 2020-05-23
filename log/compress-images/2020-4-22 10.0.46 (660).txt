@@ -1,0 +1,157 @@
+File from: [src/img/MEMBER MARK COMFORT DIAPERS 196 5-8KG.jpg]
+
+File to: [build/img/MEMBER MARK COMFORT DIAPERS 196 5-8KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEMBER MARK COMFORT CARE DIAPERS SIZE 5 160.jpeg]
+
+File to: [build/img/MEMBER MARK COMFORT CARE DIAPERS SIZE 5 160.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEMBER MARK NAPKINS 300 NAPKINS.jpg]
+
+File to: [build/img/MEMBER MARK NAPKINS 300 NAPKINS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEMBER MARK TOWEL 146PLY.jpg]
+
+File to: [build/img/MEMBER MARK TOWEL 146PLY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEMBER MARK ULTIMATE CLEAN 120COUNT.jpg]
+
+File to: [build/img/MEMBER MARK ULTIMATE CLEAN 120COUNT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEMBER MARK ULTRA PAPER PLATE.jpg]
+
+File to: [build/img/MEMBER MARK ULTRA PAPER PLATE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEMBER MARKS TRI COLOUR FUSILI PASTA 454G.jpg]
+
+File to: [build/img/MEMBER MARKS TRI COLOUR FUSILI PASTA 454G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEMBER'S MARK MANGO COCNUT BODY WASH 710ML.jpg]
+
+File to: [build/img/MEMBER'S MARK MANGO COCNUT BODY WASH 710ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEMBER'S MARK MOISTURIZING BODY WASH 710ML.jpeg]
+
+File to: [build/img/MEMBER'S MARK MOISTURIZING BODY WASH 710ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEMBER`S MARK CHILDREN`S MULTI-VITAMINS GUMMIES.jpg]
+
+File to: [build/img/MEMBER`S MARK CHILDREN`S MULTI-VITAMINS GUMMIES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEMBER`S MARKS BATHTISSUE 9S.jpg]
+
+File to: [build/img/MEMBER`S MARKS BATHTISSUE 9S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEN ONLY AMBER GLOW 150ML.jpg]
+
+File to: [build/img/MEN ONLY AMBER GLOW 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEN ONLY BLACK BELT 150ML.jpeg]
+
+File to: [build/img/MEN ONLY BLACK BELT 150ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEN ONLY COOL BLUE 150ML.jpg]
+
+File to: [build/img/MEN ONLY COOL BLUE 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEN ONLY DARK BODY HEAT 150ML.jpg]
+
+File to: [build/img/MEN ONLY DARK BODY HEAT 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEN ONLY DARK FOREST 150ML.jpg]
+
+File to: [build/img/MEN ONLY DARK FOREST 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Men Only Deo Body Spray 150mlx12.jpg]
+
+File to: [build/img/Men Only Deo Body Spray 150mlx12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Men Only Deo Rollon 50ml x 12.jpg]
+
+File to: [build/img/Men Only Deo Rollon 50ml x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEN ONLY INTENSE BODYSPRAY 150ML AFRICA.jpg]
+
+File to: [build/img/MEN ONLY INTENSE BODYSPRAY 150ML AFRICA.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEMBER'S MARK LARGE TRASH BAG 33 GALLON.jpg]
+
+File to: [build/img/MEMBER'S MARK LARGE TRASH BAG 33 GALLON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEN ONLY INTENSE BODYSPRAY 150ML FORCE.jpg]
+
+File to: [build/img/MEN ONLY INTENSE BODYSPRAY 150ML FORCE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEN ONLY INTENSE BODYSPRAY 150ML VIGOR.jpg]
+
+File to: [build/img/MEN ONLY INTENSE BODYSPRAY 150ML VIGOR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEN'S TEXTURE MY WAY KIT.jpg]
+
+File to: [build/img/MEN'S TEXTURE MY WAY KIT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MENTHODEX LOZENGES MENTHOL.png]
+
+File to: [build/img/MENTHODEX LOZENGES MENTHOL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/MENOPACE TABS  X 30.jpg]
+
+File to: [build/img/MENOPACE TABS  X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEN ONLY INTENSE BODYSPRAY 150ML DYNAMIC.jpg]
+
+File to: [build/img/MEN ONLY INTENSE BODYSPRAY 150ML DYNAMIC.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

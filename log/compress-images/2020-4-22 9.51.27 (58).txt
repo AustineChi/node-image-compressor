@@ -1,0 +1,157 @@
+File from: [src/img/Gillette gel conditioning(1).jpeg]
+
+File to: [build/img/Gillette gel conditioning(1).jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GILLETTE MACH 3 TURBO CART 40IP=1CS.jpg]
+
+File to: [build/img/GILLETTE MACH 3 TURBO CART 40IP=1CS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gillette Mach3 Razor Diamond Like Coate.jpg]
+
+File to: [build/img/Gillette Mach3 Razor Diamond Like Coate.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gillette Mach3 Razor Diamond Like Coate(1).jpg]
+
+File to: [build/img/Gillette Mach3 Razor Diamond Like Coate(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gillette Mach3 Turbo 4 Refill.jpg]
+
+File to: [build/img/Gillette Mach3 Turbo 4 Refill.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gillette March 3 turbo 4.jpeg]
+
+File to: [build/img/Gillette March 3 turbo 4.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GILLETTE NACET 5S.jpg]
+
+File to: [build/img/GILLETTE NACET 5S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gillette Nacet Razor.jpg]
+
+File to: [build/img/Gillette Nacet Razor.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GILLETTE SHAVING FORM RASIERSCHAUM 200ML.jpg]
+
+File to: [build/img/GILLETTE SHAVING FORM RASIERSCHAUM 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GILLETTE SHAVING FORM REGULAR 200ML.jpg]
+
+File to: [build/img/GILLETTE SHAVING FORM REGULAR 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GILLETTE SHAVING SERIES MOISTURIZING SHAVE GEL 200ML.jpg]
+
+File to: [build/img/GILLETTE SHAVING SERIES MOISTURIZING SHAVE GEL 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GILLETTE SHAVING SERIES SENSITIVE SHAVE GEL 200ML.jpg]
+
+File to: [build/img/GILLETTE SHAVING SERIES SENSITIVE SHAVE GEL 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GILLETTE SPORT STICK 70ML.jpg]
+
+File to: [build/img/GILLETTE SPORT STICK 70ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gino Baked Beans 425g.jpg]
+
+File to: [build/img/Gino Baked Beans 425g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gino Baked Beans 425g(1).jpg]
+
+File to: [build/img/Gino Baked Beans 425g(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GINO CURRY POWDER.jpg]
+
+File to: [build/img/GINO CURRY POWDER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GINO SPAGHETTI 500G.jpg]
+
+File to: [build/img/GINO SPAGHETTI 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GINO SACHET TOMATO 70G.jpg]
+
+File to: [build/img/GINO SACHET TOMATO 70G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GINO THYME SACHET.jpg]
+
+File to: [build/img/GINO THYME SACHET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gino Tin Tomato Paste 210g.jpg]
+
+File to: [build/img/Gino Tin Tomato Paste 210g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gino Tomato Mix Sachet 70g x 50.jpg]
+
+File to: [build/img/Gino Tomato Mix Sachet 70g x 50.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GINO TOMATOES 210G.jpg]
+
+File to: [build/img/GINO TOMATOES 210G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GINO TOMATOES 400G.jpeg]
+
+File to: [build/img/GINO TOMATOES 400G.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GINSOMIN CAPS X 30.png]
+
+File to: [build/img/GINSOMIN CAPS X 30.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Ginsomin Eve Caps x30 Pack.jpg]
+
+File to: [build/img/Ginsomin Eve Caps x30 Pack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GINO OIL 2 LITRES.jpg]
+
+File to: [build/img/GINO OIL 2 LITRES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

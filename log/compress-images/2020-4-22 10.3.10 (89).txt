@@ -1,0 +1,283 @@
+File from: [src/img/Pears Baby Deodorant Powder 300g x 12.jpg]
+
+File to: [build/img/Pears Baby Deodorant Powder 300g x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEARS BABY JELLY 10 X 225G CARTON.png]
+
+File to: [build/img/PEARS BABY JELLY 10 X 225G CARTON.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Pears Baby Lotion 200ml x 40.jpg]
+
+File to: [build/img/Pears Baby Lotion 200ml x 40.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEARS BABY LOTION 225ML.jpg]
+
+File to: [build/img/PEARS BABY LOTION 225ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pears Baby Lotion.jpg]
+
+File to: [build/img/Pears Baby Lotion.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pears Baby Moisturising Cream 125g x 60.jpg]
+
+File to: [build/img/Pears Baby Moisturising Cream 125g x 60.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pears Baby Moisturising Cream 325g x 24.jpg]
+
+File to: [build/img/Pears Baby Moisturising Cream 325g x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEARS BABY OIL 200ML.jpg]
+
+File to: [build/img/PEARS BABY OIL 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pears Baby Oil 225ml x 40.jpg]
+
+File to: [build/img/Pears Baby Oil 225ml x 40.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEARS BABY OIL RELAUNCH 4(10X200ml) CARTON.png]
+
+File to: [build/img/PEARS BABY OIL RELAUNCH 4(10X200ml) CARTON.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Pears Baby Perfumed Jelly 250g x 40.jpg]
+
+File to: [build/img/Pears Baby Perfumed Jelly 250g x 40.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEARS BABY POWDER PURE MILD AND GENTLE 300G.jpg]
+
+File to: [build/img/PEARS BABY POWDER PURE MILD AND GENTLE 300G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEARS BABY POWDER RELAUNCH 12X300g CARTON.png]
+
+File to: [build/img/PEARS BABY POWDER RELAUNCH 12X300g CARTON.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Pears Bar Soap Mixed 100g125g x 48.jpg]
+
+File to: [build/img/Pears Bar Soap Mixed 100g125g x 48.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEARS PEARS BABY CREAM 300G.jpg]
+
+File to: [build/img/PEARS PEARS BABY CREAM 300G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PECTOL TABS.jpeg]
+
+File to: [build/img/PECTOL TABS.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pediasure Grow & gain (24 pieces).jpg]
+
+File to: [build/img/Pediasure Grow & gain (24 pieces).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEDIASURE GROW&GAIN 237ML.jpg]
+
+File to: [build/img/PEDIASURE GROW&GAIN 237ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pediasure Grow&Gain S-berry Shake 237ml.jpg]
+
+File to: [build/img/Pediasure Grow&Gain S-berry Shake 237ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEDIASURE STRAWBERRY SHAKE 237ML.jpg]
+
+File to: [build/img/PEDIASURE STRAWBERRY SHAKE 237ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEDIGREE DOG FOOD 385G BEEF.jpg]
+
+File to: [build/img/PEDIGREE DOG FOOD 385G BEEF.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEDIGREE DOG FOOD 385G CHICKEN.jpg]
+
+File to: [build/img/PEDIGREE DOG FOOD 385G CHICKEN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEDIGREE DOG FOOD 385G LAMB.jpg]
+
+File to: [build/img/PEDIGREE DOG FOOD 385G LAMB.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEDIGREE JUMBONE MEDIUM MIX 200G.jpg]
+
+File to: [build/img/PEDIGREE JUMBONE MEDIUM MIX 200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/peeled shrimp.jpeg]
+
+File to: [build/img/peeled shrimp.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEFLOMED 400MG X 14 TABS.jpg]
+
+File to: [build/img/PEFLOMED 400MG X 14 TABS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PENICILLIN EYE OINTMENT 5G.jpg]
+
+File to: [build/img/PENICILLIN EYE OINTMENT 5G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PENICILLIN SKIN OINTMENT  20G.jpg]
+
+File to: [build/img/PENICILLIN SKIN OINTMENT  20G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEPPA PIG SET.jpg]
+
+File to: [build/img/PEPPA PIG SET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/pepperTash.jpeg]
+
+File to: [build/img/pepperTash.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEPSI 50 CL.jpg]
+
+File to: [build/img/PEPSI 50 CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEPSI CAN 33CL.jpg]
+
+File to: [build/img/PEPSI CAN 33CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEPSI COLA 60CL.jpg]
+
+File to: [build/img/PEPSI COLA 60CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEPSI LIGHT CAN 33CL.jpg]
+
+File to: [build/img/PEPSI LIGHT CAN 33CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEPSI LIGHT PET 50CL.jpg]
+
+File to: [build/img/PEPSI LIGHT PET 50CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEPSI MAX 60CL copy.jpg]
+
+File to: [build/img/PEPSI MAX 60CL copy.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEPSI MAX 60CL.png]
+
+File to: [build/img/PEPSI MAX 60CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/PEPSI PET 150CL.jpg]
+
+File to: [build/img/PEPSI PET 150CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEPSI PET 50CL.jpg]
+
+File to: [build/img/PEPSI PET 50CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pepsodent 123 Protection Toothpaste 140g.jpg]
+
+File to: [build/img/Pepsodent 123 Protection Toothpaste 140g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEPSODENT 123.jpg]
+
+File to: [build/img/PEPSODENT 123.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEPSODENT 3 PROTECTION NATURAL 50X140G - CARTON.jpg]
+
+File to: [build/img/PEPSODENT 3 PROTECTION NATURAL 50X140G - CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEPSODENT 3 PROTECTION NATURAL 50X140G.jpg]
+
+File to: [build/img/PEPSODENT 3 PROTECTION NATURAL 50X140G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEPSODENT 3 PROTECTION ORGN 50X140G - CARTON.jpg]
+
+File to: [build/img/PEPSODENT 3 PROTECTION ORGN 50X140G - CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEPSODENT 3 PROTECTION ORIGINAL 50X140G.jpg]
+
+File to: [build/img/PEPSODENT 3 PROTECTION ORIGINAL 50X140G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pepsodent Cavity Fi Toothpaste 140g x 50.jpg]
+
+File to: [build/img/Pepsodent Cavity Fi Toothpaste 140g x 50.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEPSODENT CAVITY FIGHTER 10g - CARTON.jpg]
+
+File to: [build/img/PEPSODENT CAVITY FIGHTER 10g - CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

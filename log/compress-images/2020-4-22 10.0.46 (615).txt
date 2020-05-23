@@ -1,0 +1,7 @@
+File from: [src/img/iPad 6 128gb.jpg]
+
+File to: [build/img/iPad 6 128gb.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

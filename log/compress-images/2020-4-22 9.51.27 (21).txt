@@ -1,0 +1,127 @@
+File from: [src/img/Dr Organic Argan Oil Face Wash150ml.jpg]
+
+File to: [build/img/Dr Organic Argan Oil Face Wash150ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Dead Sea Salts.jpg]
+
+File to: [build/img/Dr Organic Dead Sea Salts.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Deep Pore Charcoal Mask 100mls.jpg]
+
+File to: [build/img/Dr Organic Deep Pore Charcoal Mask 100mls.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Hands and Nail Treatment.jpg]
+
+File to: [build/img/Dr Organic Hands and Nail Treatment.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DR ORGANIC LIGHT & BRIGHT CREAM 125ML.jpg]
+
+File to: [build/img/DR ORGANIC LIGHT & BRIGHT CREAM 125ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Light & Bright Tone Correcting Cream.jpg]
+
+File to: [build/img/Dr Organic Light & Bright Tone Correcting Cream.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic moisture Melt Coconut Oil.jpg]
+
+File to: [build/img/Dr Organic moisture Melt Coconut Oil.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DR ORGANIC PRO COLLAGEN  WITH DRAGON BLOOD.jpg]
+
+File to: [build/img/DR ORGANIC PRO COLLAGEN  WITH DRAGON BLOOD.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Argan oil BreastFirming.jpg]
+
+File to: [build/img/Dr Organic Argan oil BreastFirming.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Pure Argan  Oil.jpg]
+
+File to: [build/img/Dr Organic Pure Argan  Oil.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Rose Otto Day Cream.jpg]
+
+File to: [build/img/Dr Organic Rose Otto Day Cream.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Rose Otto Face Wash.jpg]
+
+File to: [build/img/Dr Organic Rose Otto Face Wash.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Royal Jelly  Eye Serum 15ml.jpg]
+
+File to: [build/img/Dr Organic Royal Jelly  Eye Serum 15ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Rose Otto Lip Serum 10ml.jpg]
+
+File to: [build/img/Dr Organic Rose Otto Lip Serum 10ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Royal Jelly Cellulite Cream  200ml.jpg]
+
+File to: [build/img/Dr Organic Royal Jelly Cellulite Cream  200ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Royal Jelly  Soap.jpg]
+
+File to: [build/img/Dr Organic Royal Jelly  Soap.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Royal Jelly Day Cream 50mls.jpg]
+
+File to: [build/img/Dr Organic Royal Jelly Day Cream 50mls.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Royal Jelly Lip Serum 10ml.jpg]
+
+File to: [build/img/Dr Organic Royal Jelly Lip Serum 10ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DR ORGANIC DEAD SEA MINERAL EYE SERUM.jpg]
+
+File to: [build/img/DR ORGANIC DEAD SEA MINERAL EYE SERUM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Dead Facial Wash.jpeg]
+
+File to: [build/img/Dr Organic Dead Facial Wash.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Royal Jelly Night Cream 50mls.jpg]
+
+File to: [build/img/Dr Organic Royal Jelly Night Cream 50mls.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

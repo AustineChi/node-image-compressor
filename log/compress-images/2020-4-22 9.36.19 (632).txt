@@ -1,0 +1,151 @@
+File from: [src/img/BREE RED MERLOT 75CL.jpg]
+
+File to: [build/img/BREE RED MERLOT 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BREEDERS CHOICE BEEF & VEG IN GRAVY 400GM.png]
+
+File to: [build/img/BREEDERS CHOICE BEEF & VEG IN GRAVY 400GM.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Breeders Choice Beef & Veg Meat Loaf 400Gm.jpg]
+
+File to: [build/img/Breeders Choice Beef & Veg Meat Loaf 400Gm.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Breeders Choice Chicken & Veg In Gravy 400Gm.jpg]
+
+File to: [build/img/Breeders Choice Chicken & Veg In Gravy 400Gm.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BREEDERS CHOICE BEEF CHUNKS IN JELLY 400GM.jpg]
+
+File to: [build/img/BREEDERS CHOICE BEEF CHUNKS IN JELLY 400GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BREEDERS CHOICE CHICKEN CHUNKS IN JELLY 400GM.jpg]
+
+File to: [build/img/BREEDERS CHOICE CHICKEN CHUNKS IN JELLY 400GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BREEDERS CHOICE LAMB & VEG IN GRAVY 400GM.jpg]
+
+File to: [build/img/BREEDERS CHOICE LAMB & VEG IN GRAVY 400GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BRET MOUTHWASH 200ML GOLD.jpg]
+
+File to: [build/img/BRET MOUTHWASH 200ML GOLD.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BRET MOUTHWASH 200ML MINTY.jpg]
+
+File to: [build/img/BRET MOUTHWASH 200ML MINTY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BREEDERS CHOICE PUPPY CHICKEN & VEG IN GRAVY 400GM.jpg]
+
+File to: [build/img/BREEDERS CHOICE PUPPY CHICKEN & VEG IN GRAVY 400GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BRIMONIDINE EYE DROPS 2MG {UK} 5ML.jpg]
+
+File to: [build/img/BRIMONIDINE EYE DROPS 2MG {UK} 5ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Breeders Choice Puppy Chicken With Rice & Veg Meat Loaf 400Gm.png]
+
+File to: [build/img/Breeders Choice Puppy Chicken With Rice & Veg Meat Loaf 400Gm.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/BREEDERS CHOICE LAMB CHUNKS IN JELLY 400GM.jpg]
+
+File to: [build/img/BREEDERS CHOICE LAMB CHUNKS IN JELLY 400GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Brimopress 0.2% Sterile 5ml Drops.jpg]
+
+File to: [build/img/Brimopress 0.2% Sterile 5ml Drops.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BRIMOPRESS EYE DROPS 5ML.jpg]
+
+File to: [build/img/BRIMOPRESS EYE DROPS 5ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BROCOLLI PER KG.jpg]
+
+File to: [build/img/BROCOLLI PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BRONCHICUM ELIXIR 100ML.jpg]
+
+File to: [build/img/BRONCHICUM ELIXIR 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BROW PRECISE MICRO PENCIL DEEP BROWN.png]
+
+File to: [build/img/BROW PRECISE MICRO PENCIL DEEP BROWN.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/BROWN & BURK IRBESARTAN 150MG.jpg]
+
+File to: [build/img/BROWN & BURK IRBESARTAN 150MG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BROW PRECISE MICRO PENCIL SOFT BROWN.jpg]
+
+File to: [build/img/BROW PRECISE MICRO PENCIL SOFT BROWN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BRUSELLS PROUD PER KG.jpg]
+
+File to: [build/img/BRUSELLS PROUD PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Brustan-N (Ibuprofen) 400Mg x10pack .png]
+
+File to: [build/img/Brustan-N (Ibuprofen) 400Mg x10pack .png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/BRUSTAN-N CAPLET 400MG X 10.jpg]
+
+File to: [build/img/BRUSTAN-N CAPLET 400MG X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BRUSTAN-N SUSP  100ML.jpg]
+
+File to: [build/img/BRUSTAN-N SUSP  100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BRUSTAN-N SUSP  60ML.png]
+
+File to: [build/img/BRUSTAN-N SUSP  60ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAIN

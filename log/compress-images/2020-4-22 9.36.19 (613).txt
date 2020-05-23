@@ -1,0 +1,55 @@
+File from: [src/img/B&G Reserve Chardonnay 75cl.png]
+
+File to: [build/img/B&G Reserve Chardonnay 75cl.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/B&G ROSE WINE 75CL.jpg]
+
+File to: [build/img/B&G ROSE WINE 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/B&G WINE CURVEE WHITE 75.jpg]
+
+File to: [build/img/B&G WINE CURVEE WHITE 75.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/B&G WINE CUVEE RED 75CL.jpg]
+
+File to: [build/img/B&G WINE CUVEE RED 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/B29 Lundry Multipurpose Soap.jpeg]
+
+File to: [build/img/B29 Lundry Multipurpose Soap.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Baby Alive Diaper Refill - 4 pcs.jpg]
+
+File to: [build/img/Baby Alive Diaper Refill - 4 pcs.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Baby Alive Face Paint Fairy - Black Hair.jpg]
+
+File to: [build/img/Baby Alive Face Paint Fairy - Black Hair.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Baby Alive Face Paint Fairy - Blonde Hair.jpg]
+
+File to: [build/img/Baby Alive Face Paint Fairy - Blonde Hair.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Baby Alive Happy Hungry Baby - Blonde Curly Hair.jpg]
+
+File to: [build/img/Baby Alive Happy Hungry Baby - Blonde Curly Hair.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

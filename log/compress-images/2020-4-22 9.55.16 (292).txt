@@ -1,0 +1,253 @@
+File from: [src/img/Heineken Premium Beer Can 33cl x(1).jpg]
+
+File to: [build/img/Heineken Premium Beer Can 33cl x(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Heineken Premium Lager Beer Can 33cl.jpg]
+
+File to: [build/img/Heineken Premium Lager Beer Can 33cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEINS BAKE BEANS 200G.jpg]
+
+File to: [build/img/HEINS BAKE BEANS 200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEINZ APPLE CIDER VINEGAR BIG.jpg]
+
+File to: [build/img/HEINZ APPLE CIDER VINEGAR BIG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEINZ APPLE CIDER VINEGAR SMALL.jpg]
+
+File to: [build/img/HEINZ APPLE CIDER VINEGAR SMALL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Heinz Baby Rice Pudding 6by x 120g.jpg]
+
+File to: [build/img/Heinz Baby Rice Pudding 6by x 120g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Heinz Baby Rice Pudding 6by x 120g(1).jpg]
+
+File to: [build/img/Heinz Baby Rice Pudding 6by x 120g(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEINZ BAKED BEANS 200G.jpg]
+
+File to: [build/img/HEINZ BAKED BEANS 200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEINZ BAKED BEANS 415G.png]
+
+File to: [build/img/HEINZ BAKED BEANS 415G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Heinz Baked Beans in Tomato Sauce 200g.jpg]
+
+File to: [build/img/Heinz Baked Beans in Tomato Sauce 200g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Heinz Baked Beans in Tomato Sauce 200g(1).jpg]
+
+File to: [build/img/Heinz Baked Beans in Tomato Sauce 200g(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEINZ BY NATURE CHOCOLATE PUDDING 120G.jpg]
+
+File to: [build/img/HEINZ BY NATURE CHOCOLATE PUDDING 120G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEINZ BY NATURE CREAMED PORIDGE 120G.jpg]
+
+File to: [build/img/HEINZ BY NATURE CREAMED PORIDGE 120G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEINZ BY NATURE EGG CUSTARD 120G.jpg]
+
+File to: [build/img/HEINZ BY NATURE EGG CUSTARD 120G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEINZ BY NATURE RICE PUDDING 120G.jpg]
+
+File to: [build/img/HEINZ BY NATURE RICE PUDDING 120G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEINZ CLASSIC LENTIL 400G.jpg]
+
+File to: [build/img/HEINZ CLASSIC LENTIL 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Heinz Classic Mayonnaise 430g.jpg]
+
+File to: [build/img/Heinz Classic Mayonnaise 430g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Heinz Classic Mayonnaise 940g.jpg]
+
+File to: [build/img/Heinz Classic Mayonnaise 940g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEINZ CLASSIC MAYONNAISE PET 430G.jpg]
+
+File to: [build/img/HEINZ CLASSIC MAYONNAISE PET 430G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEINZ CORNED BEEF 340G.jpg]
+
+File to: [build/img/HEINZ CORNED BEEF 340G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEINZ CREAM OF CHICKEN SOUP 400G.jpg]
+
+File to: [build/img/HEINZ CREAM OF CHICKEN SOUP 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEINZ EGG CUSTARD & RICE JARS 4S 120G.jpg]
+
+File to: [build/img/HEINZ EGG CUSTARD & RICE JARS 4S 120G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEINZ EGG CUSTARD 120G.jpg]
+
+File to: [build/img/HEINZ EGG CUSTARD 120G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEINZ GOOD MAYONNAISE 220ML.jpg]
+
+File to: [build/img/HEINZ GOOD MAYONNAISE 220ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Heinz Ketchup Pet 342g.jpg]
+
+File to: [build/img/Heinz Ketchup Pet 342g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEINZ KETCHUP SMALL.jpg]
+
+File to: [build/img/HEINZ KETCHUP SMALL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Heinz porridge.JPG]
+
+File to: [build/img/Heinz porridge.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEINZ PUDDING CHOCOLATE 4S 120G.jpg]
+
+File to: [build/img/HEINZ PUDDING CHOCOLATE 4S 120G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Heinz pudding.JPG]
+
+File to: [build/img/Heinz pudding.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEINZ SWEET POTATO & TENDER CHICKEN 120G.jpg]
+
+File to: [build/img/HEINZ SWEET POTATO & TENDER CHICKEN 120G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEINZ TOMATO KETCHUP 1.25KG.jpg]
+
+File to: [build/img/HEINZ TOMATO KETCHUP 1.25KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEINZ TOMATO KETCHUP 1.35KG.png]
+
+File to: [build/img/HEINZ TOMATO KETCHUP 1.35KG.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HEINZ TOMATO KETCHUP 342O.jpg]
+
+File to: [build/img/HEINZ TOMATO KETCHUP 342O.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEINZ TOMATO KETCHUP 397ML.jpg]
+
+File to: [build/img/HEINZ TOMATO KETCHUP 397ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEINZ TOMATO KETCHUP 460G.jpg]
+
+File to: [build/img/HEINZ TOMATO KETCHUP 460G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEINZ TOMATO KETCHUP 567G.jpg]
+
+File to: [build/img/HEINZ TOMATO KETCHUP 567G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEINZ VINEGAR 568ML.jpg]
+
+File to: [build/img/HEINZ VINEGAR 568ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEINZ VINEGAR MALT.jpg]
+
+File to: [build/img/HEINZ VINEGAR MALT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEINZ WHITE VINEGAR 473 ML.jpg]
+
+File to: [build/img/HEINZ WHITE VINEGAR 473 ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEINZ WHITE VINEGAR 946 ML.jpg]
+
+File to: [build/img/HEINZ WHITE VINEGAR 946 ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Heinz yoghurt.jpg]
+
+File to: [build/img/Heinz yoghurt.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Heinz.jpeg]
+
+File to: [build/img/Heinz.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

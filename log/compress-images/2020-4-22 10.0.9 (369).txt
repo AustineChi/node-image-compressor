@@ -1,0 +1,115 @@
+File from: [src/img/SIRELLA SUREME SHRIMPS 400G.png]
+
+File to: [build/img/SIRELLA SUREME SHRIMPS 400G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SIRELLA TEMPURA SHRIMPS 250G.png]
+
+File to: [build/img/SIRELLA TEMPURA SHRIMPS 250G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SIRELLA WHITE FISH FILLETS 1KG.jpg]
+
+File to: [build/img/SIRELLA WHITE FISH FILLETS 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Sivo Ramipril 5mg tabs x30.jpg]
+
+File to: [build/img/Sivo Ramipril 5mg tabs x30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SKIN SUCCESS COMPLEXION BAR SOAP 140G.jpg]
+
+File to: [build/img/SKIN SUCCESS COMPLEXION BAR SOAP 140G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SKIN SUCCESS COMPLEXION TONER 250ML.jpg]
+
+File to: [build/img/SKIN SUCCESS COMPLEXION TONER 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SKIN SUCCESS DEEP CLEANSING FACIAL ASTRINGENT 250ML.jpg]
+
+File to: [build/img/SKIN SUCCESS DEEP CLEANSING FACIAL ASTRINGENT 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SKIN SUCCESS FADE MILK TONE CORRECTING BODY LOTIONS 250ML.jpg]
+
+File to: [build/img/SKIN SUCCESS FADE MILK TONE CORRECTING BODY LOTIONS 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SKIN SUCCESS MEDICATED ACNE TONER 236ML.jpg]
+
+File to: [build/img/SKIN SUCCESS MEDICATED ACNE TONER 236ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SKINTIMATE SHAVE GEL 269G.jpg]
+
+File to: [build/img/SKINTIMATE SHAVE GEL 269G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SKIPPY PEANUT BUTTER CREAMY 462G.jpg]
+
+File to: [build/img/SKIPPY PEANUT BUTTER CREAMY 462G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SKIPPY PEANUT BUTTER EXTRA CRUNCHY 462G.jpg]
+
+File to: [build/img/SKIPPY PEANUT BUTTER EXTRA CRUNCHY 462G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SKITTLES CRAZY SOURS 100G.jpg]
+
+File to: [build/img/SKITTLES CRAZY SOURS 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SKITTLES CRAZY SOURS 45G.jpg]
+
+File to: [build/img/SKITTLES CRAZY SOURS 45G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SKITTLES FRUIT 125G.jpg]
+
+File to: [build/img/SKITTLES FRUIT 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SKITTLES FRUITS 55 GM.jpg]
+
+File to: [build/img/SKITTLES FRUITS 55 GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SKITTLES FRUITS CHOCOLATE 196G.jpg]
+
+File to: [build/img/SKITTLES FRUITS CHOCOLATE 196G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SKITTLES TROPICAL FLAVOUR 125G.jpg]
+
+File to: [build/img/SKITTLES TROPICAL FLAVOUR 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SKITTLES WILD BERRY FLAVOUR 125G.jpg]
+
+File to: [build/img/SKITTLES WILD BERRY FLAVOUR 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

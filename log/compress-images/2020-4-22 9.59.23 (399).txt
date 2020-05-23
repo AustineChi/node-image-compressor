@@ -1,0 +1,7 @@
+File from: [src/img/GERBER APPLE CINNAMON 160Z.jpeg]
+
+File to: [build/img/GERBER APPLE CINNAMON 160Z.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

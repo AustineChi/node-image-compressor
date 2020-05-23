@@ -1,0 +1,61 @@
+File from: [src/img/CYPRIGOLD. PLUS TABS X 30.jpg]
+
+File to: [build/img/CYPRIGOLD. PLUS TABS X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cyprivit Syrup 200ml.jpg]
+
+File to: [build/img/Cyprivit Syrup 200ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CYPRIVIT SYR  200ML.jpg]
+
+File to: [build/img/CYPRIVIT SYR  200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CYPRIVIT SYR  100ML.jpg]
+
+File to: [build/img/CYPRIVIT SYR  100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/D MarcHeavy Bluetooth Home Theatre SystemBLACK.jpg]
+
+File to: [build/img/D MarcHeavy Bluetooth Home Theatre SystemBLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/D MarcMulti Dimension Wall Bracket 50-65''BLACK.jpg]
+
+File to: [build/img/D MarcMulti Dimension Wall Bracket 50-65''BLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/D-MarcBluetooth Woofer And Speakers DMI-A2 With DVD PLAYERBLACK.jpg]
+
+File to: [build/img/D-MarcBluetooth Woofer And Speakers DMI-A2 With DVD PLAYERBLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/D-MarcBluetooth Woofer And Speakers DMI-A2BLACK.jpg]
+
+File to: [build/img/D-MarcBluetooth Woofer And Speakers DMI-A2BLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/D-MarcBluetooth Woofer And SpeakersBLACK.jpg]
+
+File to: [build/img/D-MarcBluetooth Woofer And SpeakersBLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/D-MarcBluetooth Woofer And Speakers DMI-A2BLACKk.jpg]
+
+File to: [build/img/D-MarcBluetooth Woofer And Speakers DMI-A2BLACKk.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

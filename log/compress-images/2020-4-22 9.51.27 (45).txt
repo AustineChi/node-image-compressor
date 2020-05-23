@@ -1,0 +1,97 @@
+File from: [src/img/FRESHLOOK COLORBLENDS CONTACT LENSES.png]
+
+File to: [build/img/FRESHLOOK COLORBLENDS CONTACT LENSES.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Freshlook colorblends contact lens solution 120ml.jpg]
+
+File to: [build/img/Freshlook colorblends contact lens solution 120ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/freshPalmWine.jpeg]
+
+File to: [build/img/freshPalmWine.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/freshPalmWineLogo.jpeg]
+
+File to: [build/img/freshPalmWineLogo.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/fried plantain.jpg]
+
+File to: [build/img/fried plantain.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Fried Rice & Chicken 3 Litre.jpg]
+
+File to: [build/img/Fried Rice & Chicken 3 Litre.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Fried Rice with Shrimps and Croaker fish.jpg]
+
+File to: [build/img/Fried Rice with Shrimps and Croaker fish.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FRISCO GOLD WHEAT-BASED MILK CEREAL 300G.jpg]
+
+File to: [build/img/FRISCO GOLD WHEAT-BASED MILK CEREAL 300G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FRISO GOLD - WHEAT [TIN] 400G.jpg]
+
+File to: [build/img/FRISO GOLD - WHEAT [TIN] 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Frisogold.png]
+
+File to: [build/img/Frisogold.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/FROSTY BITE CHOCOLATE ICE CREAM 150ML.png]
+
+File to: [build/img/FROSTY BITE CHOCOLATE ICE CREAM 150ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/FROSTY BITE CHOCOLATE ICE CREAM 550ML.jpg]
+
+File to: [build/img/FROSTY BITE CHOCOLATE ICE CREAM 550ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FROSTY BITE FANTASY PEANUT CRUNCH ICE CREAM 70G.png]
+
+File to: [build/img/FROSTY BITE FANTASY PEANUT CRUNCH ICE CREAM 70G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/FROSTY BITE FANTASY VANILLA ICE CREAM 70G.jpg]
+
+File to: [build/img/FROSTY BITE FANTASY VANILLA ICE CREAM 70G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FROSTY BITE STRAWBERRY ICE CREAM 150ML.jpg]
+
+File to: [build/img/FROSTY BITE STRAWBERRY ICE CREAM 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FRONTERA CABERNET BLUSH 750ML.png]
+
+File to: [build/img/FRONTERA CABERNET BLUSH 750ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAIN

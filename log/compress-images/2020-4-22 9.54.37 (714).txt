@@ -1,0 +1,217 @@
+File from: [src/img/MALT N MILK 150ML.jpg]
+
+File to: [build/img/MALT N MILK 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Maling Coconut Milk 400ml.jpg]
+
+File to: [build/img/Maling Coconut Milk 400ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MALTA GUINNESS BOTTLE CLAS330M.png]
+
+File to: [build/img/MALTA GUINNESS BOTTLE CLAS330M.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/MALTA GUINNESS 330ML CAN.jpg]
+
+File to: [build/img/MALTA GUINNESS 330ML CAN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MALTA GUINNESS 330ML CAN 24X01.jpg]
+
+File to: [build/img/MALTA GUINNESS 330ML CAN 24X01.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MALTA GUINNESS BOTTLE LOW 33CL.png]
+
+File to: [build/img/MALTA GUINNESS BOTTLE LOW 33CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Malta Guinness Can Drink 330ml.jpg]
+
+File to: [build/img/Malta Guinness Can Drink 330ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Malta Guinness Drink Pet 330ml.png]
+
+File to: [build/img/Malta Guinness Drink Pet 330ml.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/MALTA GUINNESS CAN.jpg]
+
+File to: [build/img/MALTA GUINNESS CAN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MALTA GUINNESS HRB 330ML CAN 24.png]
+
+File to: [build/img/MALTA GUINNESS HRB 330ML CAN 24.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/MALTA GUINNESS HERB LITE 330ML RET.jpg]
+
+File to: [build/img/MALTA GUINNESS HERB LITE 330ML RET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Malta Guinness Non Alcoholic Drink 330ml.jpg]
+
+File to: [build/img/Malta Guinness Non Alcoholic Drink 330ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MALTA GUINNESS.png]
+
+File to: [build/img/MALTA GUINNESS.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/MALTA GUINNESS PET.jpg]
+
+File to: [build/img/MALTA GUINNESS PET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Maltesers Box 100g.jpg]
+
+File to: [build/img/Maltesers Box 100g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Maltesers Buttons Chokolate 68g.jpg]
+
+File to: [build/img/Maltesers Buttons Chokolate 68g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MALTESERS CHOCOLATE 37.jpg]
+
+File to: [build/img/MALTESERS CHOCOLATE 37.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MALTINA 33CL FULL CAN 6S.jpg]
+
+File to: [build/img/MALTINA 33CL FULL CAN 6S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MALTINA 33CL FULL CAN.jpg]
+
+File to: [build/img/MALTINA 33CL FULL CAN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MALTINA 33CL PET.jpg]
+
+File to: [build/img/MALTINA 33CL PET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MALTINA CLASSIC BOTTLE 33CL.jpg]
+
+File to: [build/img/MALTINA CLASSIC BOTTLE 33CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Maltina Classic Can Malt Drink 33cl.jpg]
+
+File to: [build/img/Maltina Classic Can Malt Drink 33cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Maltina Classic Drink Pet 33cl.jpg]
+
+File to: [build/img/Maltina Classic Drink Pet 33cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Maltina Classic Malt Drink 330ml.jpg]
+
+File to: [build/img/Maltina Classic Malt Drink 330ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mama Chev Spice Ranges.jpg]
+
+File to: [build/img/Mama Chev Spice Ranges.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mama Doc Pancake Mix 500g.jpg]
+
+File to: [build/img/Mama Doc Pancake Mix 500g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAMA GOLD SEMOLINA 1KG.jpg]
+
+File to: [build/img/MAMA GOLD SEMOLINA 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mama Lemon Dishwash 250ml.jpg]
+
+File to: [build/img/Mama Lemon Dishwash 250ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mama Lemon Dishwashing Liquid 1.1Ltr.jpg]
+
+File to: [build/img/Mama Lemon Dishwashing Liquid 1.1Ltr.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mama Lemon Dishwashing Liquid 1.1Ltrx12.jpg]
+
+File to: [build/img/Mama Lemon Dishwashing Liquid 1.1Ltrx12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mama Lemon Dishwashing Liquid 550ml.jpg]
+
+File to: [build/img/Mama Lemon Dishwashing Liquid 550ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mama Pride Parboiled Rice 25Kg.jpg]
+
+File to: [build/img/Mama Pride Parboiled Rice 25Kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAMA PRIDE RICE 10KG.jpg]
+
+File to: [build/img/MAMA PRIDE RICE 10KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mama Pride Parboileg Rice 5kg.jpg]
+
+File to: [build/img/Mama Pride Parboileg Rice 5kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mama_s Pride Parboiled Rice 50Kg.jpg]
+
+File to: [build/img/Mama_s Pride Parboiled Rice 50Kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAMA GOLD SEMOLINA 2KG.jpg]
+
+File to: [build/img/MAMA GOLD SEMOLINA 2KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

@@ -1,0 +1,55 @@
+File from: [src/img/SWISS FLOWER AIRFRESHNER 500ML SUMMERSCENT.jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER 500ML SUMMERSCENT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER 500ML SWEET PINE.jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER 500ML SWEET PINE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER 500ML TANGERINE.jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER 500ML TANGERINE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER GEL 60G FLOWER.jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER GEL 60G FLOWER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER GEL 60G LAVENDAR.jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER GEL 60G LAVENDAR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER GEL 60G LEMON.jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER GEL 60G LEMON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER GEL 60G MULTIFRUITY.jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER GEL 60G MULTIFRUITY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER GEL 60G SWEET FLORAL.jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER GEL 60G SWEET FLORAL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER GEL 60G TROPICANA.jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER GEL 60G TROPICANA.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

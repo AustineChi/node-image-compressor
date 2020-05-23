@@ -1,0 +1,295 @@
+File from: [src/img/LISTERINE ZERO MOUTHWASH 250ML.jpg]
+
+File to: [build/img/LISTERINE ZERO MOUTHWASH 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/listerine-antiseptic-mouthwash-coolmint.jpg]
+
+File to: [build/img/listerine-antiseptic-mouthwash-coolmint.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Little Angels Baby Lotion 500ml.jpg]
+
+File to: [build/img/Little Angels Baby Lotion 500ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Little Angel Baby Oil 300ml.jpg]
+
+File to: [build/img/Little Angel Baby Oil 300ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Little Angels Baby Powder 400g.jpg]
+
+File to: [build/img/Little Angels Baby Powder 400g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Little Angels Baby Shower Bath 500ml.jpg]
+
+File to: [build/img/Little Angels Baby Shower Bath 500ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Little snugglers 1-3.jpg]
+
+File to: [build/img/Little snugglers 1-3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Littles by Baby Alive Littles Squad - Little Astrid.jpeg]
+
+File to: [build/img/Littles by Baby Alive Littles Squad - Little Astrid.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Littles by Baby Alive Littles Squad - Little Gabby.jpeg]
+
+File to: [build/img/Littles by Baby Alive Littles Squad - Little Gabby.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/liveGfree.jpeg]
+
+File to: [build/img/liveGfree.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LIVING BITTERS CAPS X 30 FULL.jpg]
+
+File to: [build/img/LIVING BITTERS CAPS X 30 FULL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LIVING BITTERS SYR  500ML BOTTLE.jpg]
+
+File to: [build/img/LIVING BITTERS SYR  500ML BOTTLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LIVING BITTERS SYR 200ML BOTTLE.jpg]
+
+File to: [build/img/LIVING BITTERS SYR 200ML BOTTLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LIVOLIN FORTE CAPS X 30.png]
+
+File to: [build/img/LIVOLIN FORTE CAPS X 30.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/LOACKER MILK 175G.jpg]
+
+File to: [build/img/LOACKER MILK 175G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LOACKER NAPOLITANER 175G.jpg]
+
+File to: [build/img/LOACKER NAPOLITANER 175G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LOACKER QUADRATINI NAPOLITANER 125G.jpg]
+
+File to: [build/img/LOACKER QUADRATINI NAPOLITANER 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LOACKER VANILLE 175G.jpg]
+
+File to: [build/img/LOACKER VANILLE 175G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LOCAL BROOM.jpeg]
+
+File to: [build/img/LOCAL BROOM.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LOCAL LEMONS PER KG.jpg]
+
+File to: [build/img/LOCAL LEMONS PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LOCAL RICE PER KG.jpg]
+
+File to: [build/img/LOCAL RICE PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lodium Loperamide 2mg x10 Satchet.jpg]
+
+File to: [build/img/Lodium Loperamide 2mg x10 Satchet.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LODIUM TAB 10X 10.jpg]
+
+File to: [build/img/LODIUM TAB 10X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LOFNAC GEL.png]
+
+File to: [build/img/LOFNAC GEL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/LOFNAC 100 TABLETS.jpg]
+
+File to: [build/img/LOFNAC 100 TABLETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LOLOROSO PER KG.jpg]
+
+File to: [build/img/LOLOROSO PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LONART -DS TABLETS.jpg]
+
+File to: [build/img/LONART -DS TABLETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LONART SUSPENSION N60ML.jpg]
+
+File to: [build/img/LONART SUSPENSION N60ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lonart-Ds 80Mg-480Mg Tab -6.jpg]
+
+File to: [build/img/Lonart-Ds 80Mg-480Mg Tab -6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/London Best Energy Drink 250ml.jpg]
+
+File to: [build/img/London Best Energy Drink 250ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/London dry Gin 75cl.jpg]
+
+File to: [build/img/London dry Gin 75cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LONDON MENTHOL.jpg]
+
+File to: [build/img/LONDON MENTHOL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Longrich Anti-Mosquito Repellent 195ml.jpg]
+
+File to: [build/img/Longrich Anti-Mosquito Repellent 195ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Longrich Antiperspirant Roll-on 50ml.jpg]
+
+File to: [build/img/Longrich Antiperspirant Roll-on 50ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Longrich Bamboo Charcoal Soap 300g.jpg]
+
+File to: [build/img/Longrich Bamboo Charcoal Soap 300g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LONGRICH HERBAL MOISTURIZING BODY WASH 300ML.jpg]
+
+File to: [build/img/LONGRICH HERBAL MOISTURIZING BODY WASH 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Longrich Moisturizing Body Lotion 200ml.jpg]
+
+File to: [build/img/Longrich Moisturizing Body Lotion 200ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Longrich Panty Liner x (30pcs).jpg]
+
+File to: [build/img/Longrich Panty Liner x (30pcs).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Longrich Sanitary Pad x (8pcs).jpg]
+
+File to: [build/img/Longrich Sanitary Pad x (8pcs).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LONGRICH SOD MILK 200ML.jpg]
+
+File to: [build/img/LONGRICH SOD MILK 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Longrich Toothpaste 100g.jpg]
+
+File to: [build/img/Longrich Toothpaste 100g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LONGRICH WHITE TEA SHAMPOO 200ML.jpg]
+
+File to: [build/img/LONGRICH WHITE TEA SHAMPOO 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Longrich White Toothpaste 200g.jpg]
+
+File to: [build/img/Longrich White Toothpaste 200g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LORATADINE 10MG X 30 (TEVA).jpg]
+
+File to: [build/img/LORATADINE 10MG X 30 (TEVA).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LORATADINE 5ML. 5ML SYRUP X 100ML.jpg]
+
+File to: [build/img/LORATADINE 5ML. 5ML SYRUP X 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LORATADINE(RANBAXY 10MG X 30.jpg]
+
+File to: [build/img/LORATADINE(RANBAXY 10MG X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Loratyn (Loratadine) 10Mg Tab x10 Satch.jpg]
+
+File to: [build/img/Loratyn (Loratadine) 10Mg Tab x10 Satch.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LORATYNE TABS 10MG X 10.jpeg]
+
+File to: [build/img/LORATYNE TABS 10MG X 10.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LOFNAC-PLUS.jpg]
+
+File to: [build/img/LOFNAC-PLUS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

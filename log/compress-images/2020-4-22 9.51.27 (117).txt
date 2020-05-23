@@ -1,0 +1,7 @@
+File from: [src/img/Loya Hi-Cal18g X 200 Carton.jpg]
+
+File to: [build/img/Loya Hi-Cal18g X 200 Carton.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

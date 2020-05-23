@@ -1,0 +1,73 @@
+File from: [src/img/mslogo (1).png]
+
+File to: [build/img/mslogo (1).png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Mr. Cream Yoghurt 450ml x 12.jpg]
+
+File to: [build/img/Mr. Cream Yoghurt 450ml x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/mslogo.png]
+
+File to: [build/img/mslogo.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Mucus Relief 400mg Tablets x15.jpg]
+
+File to: [build/img/Mucus Relief 400mg Tablets x15.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MULTI- FUNCTION INFRARED THERMOMETER.jpg]
+
+File to: [build/img/MULTI- FUNCTION INFRARED THERMOMETER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/multiPro.jpeg]
+
+File to: [build/img/multiPro.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MR SHEEN MULTI SURFACE POLISH ORIGINAL 300ML.jpg]
+
+File to: [build/img/MR SHEEN MULTI SURFACE POLISH ORIGINAL 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MULTIVITE SYR  100ML.jpg]
+
+File to: [build/img/MULTIVITE SYR  100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MULTIVITE. FORTE CAPS  X 30.jpg]
+
+File to: [build/img/MULTIVITE. FORTE CAPS  X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Munch - It Cheese 50g x 60.jpg]
+
+File to: [build/img/Munch - It Cheese 50g x 60.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Munch Cheese 25g x 84.jpg]
+
+File to: [build/img/Munch Cheese 25g x 84.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MUNCH IT CHEESE FLAVOUR 25G X 91.jpg]
+
+File to: [build/img/MUNCH IT CHEESE FLAVOUR 25G X 91.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

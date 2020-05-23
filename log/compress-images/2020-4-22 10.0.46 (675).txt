@@ -1,0 +1,13 @@
+File from: [src/img/MONAYZ READY TO EAT PEPPER SAUCE 250G.jpg]
+
+File to: [build/img/MONAYZ READY TO EAT PEPPER SAUCE 250G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MONAYZ READY TO EAT PEPPER SAUCE 250G.png]
+
+File to: [build/img/MONAYZ READY TO EAT PEPPER SAUCE 250G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAIN

@@ -1,0 +1,265 @@
+File from: [src/img/HENNESSY VS 70CL.jpg]
+
+File to: [build/img/HENNESSY VS 70CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HENNESSY VS PANTON 75CL.jpg]
+
+File to: [build/img/HENNESSY VS PANTON 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HENNESSY VS COGNAC 35CL.png]
+
+File to: [build/img/HENNESSY VS COGNAC 35CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HENNESSY VSOP 75CL.jpg]
+
+File to: [build/img/HENNESSY VSOP 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HENNESSY XO 75CL.jpg]
+
+File to: [build/img/HENNESSY XO 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HERBAL 140G x72.jfif.jpg]
+
+File to: [build/img/HERBAL 140G x72.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Herbal Slimming Tea Peach Apricot x24.jpg]
+
+File to: [build/img/Herbal Slimming Tea Peach Apricot x24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HERBAL SLIMMING TEA X 24 TEA BAGS (ORANGE).jpg]
+
+File to: [build/img/HERBAL SLIMMING TEA X 24 TEA BAGS (ORANGE).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HERO 330ML CAN.jpg]
+
+File to: [build/img/HERO 330ML CAN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HERO 500ML CAN.png]
+
+File to: [build/img/HERO 500ML CAN.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HERO 600ML BOTTLE.jpg]
+
+File to: [build/img/HERO 600ML BOTTLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HERO STRAWBERRY PORTION JAM 20GM.jpg]
+
+File to: [build/img/HERO STRAWBERRY PORTION JAM 20GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HERSHEY'S SYRUP GENUINE CHOCOLATE FLAVOR 680G.jpg]
+
+File to: [build/img/HERSHEY'S SYRUP GENUINE CHOCOLATE FLAVOR 680G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HERSHEY`S SYRUP CARAMEL FLAVOUR.png]
+
+File to: [build/img/HERSHEY`S SYRUP CARAMEL FLAVOUR.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HERSHEY`S SYRUP STRAWBERRY FLAVOUR 62G.png]
+
+File to: [build/img/HERSHEY`S SYRUP STRAWBERRY FLAVOUR 62G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HERSHEYS COOKIES'N'CREME 15G.JPG]
+
+File to: [build/img/HERSHEYS COOKIES'N'CREME 15G.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HERSHEYS SYRUP - STRAWBERRY.jpg]
+
+File to: [build/img/HERSHEYS SYRUP - STRAWBERRY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hi-Malt Non-Alcoholic Drink Can 33cl x24.jpg]
+
+File to: [build/img/Hi-Malt Non-Alcoholic Drink Can 33cl x24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hi-Malt Non-Alcoholic Drink Pet 25cl.jpg]
+
+File to: [build/img/Hi-Malt Non-Alcoholic Drink Pet 25cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HIBIKI HARMONY JAPANESE WHISKY 70CL.jpg]
+
+File to: [build/img/HIBIKI HARMONY JAPANESE WHISKY 70CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/High Quality bathing sponge.jpg]
+
+File to: [build/img/High Quality bathing sponge.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HIGHLAND PARK SINGLE MALK SCOTCH WHISKY 12 YEARS.jpeg]
+
+File to: [build/img/HIGHLAND PARK SINGLE MALK SCOTCH WHISKY 12 YEARS.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HILL HONEY BIG.jpg]
+
+File to: [build/img/HILL HONEY BIG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HILL HONEY SMALL.jpg]
+
+File to: [build/img/HILL HONEY SMALL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hisense10Kg Wash 7Kg Dry Front Load Inverter Washing Machine 1014VTTitanium Grey.jpg]
+
+File to: [build/img/Hisense10Kg Wash 7Kg Dry Front Load Inverter Washing Machine 1014VTTitanium Grey.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hisense10kg Washing Machine Semi Automatic Twin Tub - WM WSKA 101White.jpg]
+
+File to: [build/img/Hisense10kg Washing Machine Semi Automatic Twin Tub - WM WSKA 101White.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hisense16kg Top Loader Washing Machine WM 162SSilver.jpg]
+
+File to: [build/img/Hisense16kg Top Loader Washing Machine WM 162SSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hisense222L Beverage Chiller Showcase Refrigerator With 1 Year Warranty (Lagos Only)White.jpg]
+
+File to: [build/img/Hisense222L Beverage Chiller Showcase Refrigerator With 1 Year Warranty (Lagos Only)White.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hisense302 LITRES Refrigerator (REF 302 DR) SilverSilver.png]
+
+File to: [build/img/Hisense302 LITRES Refrigerator (REF 302 DR) SilverSilver.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Hisense310 Liters Chest Freezer FRZ FC 440SHF - SilverSILVER.jpg]
+
+File to: [build/img/Hisense310 Liters Chest Freezer FRZ FC 440SHF - SilverSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hisense375 LITRES Refrigerator (REF 49 WR) SilverSilver.jpg]
+
+File to: [build/img/Hisense375 LITRES Refrigerator (REF 49 WR) SilverSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hisense420Liters Double Door Chest Freezer FRZ FC 55DD -SilverSILVER.png]
+
+File to: [build/img/Hisense420Liters Double Door Chest Freezer FRZ FC 55DD -SilverSILVER.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Hisense382L Beverage Chiller Showcase Refrigerator With 1 Year Warranty (Lagos Only)White.jpg]
+
+File to: [build/img/Hisense382L Beverage Chiller Showcase Refrigerator With 1 Year Warranty (Lagos Only)White.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hisense43 INCH SMART Full HD LED SCREEN TV + Free Wall BracketBLACK.jpg]
+
+File to: [build/img/Hisense43 INCH SMART Full HD LED SCREEN TV + Free Wall BracketBLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hisense432L Side By Side 4 Door Fridge With Water Dispenser 56WCBBlack.jpg]
+
+File to: [build/img/Hisense432L Side By Side 4 Door Fridge With Water Dispenser 56WCBBlack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hisense50-Inch Full HD LED TV HX50N2176F With Free Wall BracketBlack.jpg]
+
+File to: [build/img/Hisense50-Inch Full HD LED TV HX50N2176F With Free Wall BracketBlack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hisense520 Liters Double Door Chest Freezer FRZ FC 68DD --SilverSILVER.jpg]
+
+File to: [build/img/Hisense520 Liters Double Door Chest Freezer FRZ FC 68DD --SilverSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hisense545 Litres Refrigerator REF 72 WRSilver.jpg]
+
+File to: [build/img/Hisense545 Litres Refrigerator REF 72 WRSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hisense55 INCH SMART CURVED LED UHD TV - 4KBLACK.jpg]
+
+File to: [build/img/Hisense55 INCH SMART CURVED LED UHD TV - 4KBLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hisense5kg Washing Machine WM WSJA 551White.jpg]
+
+File to: [build/img/Hisense5kg Washing Machine WM WSJA 551White.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hisense6KG Automatic Front Load Washing Machine-WM6012SSilver.jpg]
+
+File to: [build/img/Hisense6KG Automatic Front Load Washing Machine-WM6012SSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hisense7.2kg Washing Machine Twin Tub (WM WSJA751)White.jpg]
+
+File to: [build/img/Hisense7.2kg Washing Machine Twin Tub (WM WSJA751)White.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hisense75'' 4K ULED SMART TV WiFi LAN  +FREE WALL BRACKET-75M6020Black.jpg]
+
+File to: [build/img/Hisense75'' 4K ULED SMART TV WiFi LAN  +FREE WALL BRACKET-75M6020Black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hisense8KG Automatic Front Load Washing Machine-WM8012SSilver.jpg]
+
+File to: [build/img/Hisense8KG Automatic Front Load Washing Machine-WM8012SSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

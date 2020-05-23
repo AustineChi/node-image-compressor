@@ -1,0 +1,187 @@
+File from: [src/img/HAPPY HOUR PEACH 315ML.jpg]
+
+File to: [build/img/HAPPY HOUR PEACH 315ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HAPPY HOUR ZOBO FRUIT DRINK 150ML.jpg]
+
+File to: [build/img/HAPPY HOUR ZOBO FRUIT DRINK 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HAPPYHAIR WIG STAND.jpg]
+
+File to: [build/img/HAPPYHAIR WIG STAND.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARD COVER NOTE BOOK SHORT.jpg]
+
+File to: [build/img/HARD COVER NOTE BOOK SHORT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARDCORE MAX 250ML CAN.jpg]
+
+File to: [build/img/HARDCORE MAX 250ML CAN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARIBO FANTASY MIX 140 GM.jpg]
+
+File to: [build/img/HARIBO FANTASY MIX 140 GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARIBO CHAMALLOWS PINK & WHITE 140 GM.jpg]
+
+File to: [build/img/HARIBO CHAMALLOWS PINK & WHITE 140 GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARIBO FUNNY MIX 140 GM.jpg]
+
+File to: [build/img/HARIBO FUNNY MIX 140 GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARIBO GIANT STRAWBS 140 GM.jpg]
+
+File to: [build/img/HARIBO GIANT STRAWBS 140 GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARIBO GOLDBEARS 140 GM.jpg]
+
+File to: [build/img/HARIBO GOLDBEARS 140 GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARIBO HAPPY CHERRIES ZING 140 GM.jpg]
+
+File to: [build/img/HARIBO HAPPY CHERRIES ZING 140 GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARIBO HAPPY COLA 140 GM.jpg]
+
+File to: [build/img/HARIBO HAPPY COLA 140 GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARIBO HAPPY COLA ZING 140 GM.jpg]
+
+File to: [build/img/HARIBO HAPPY COLA ZING 140 GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARIBO SMURFS 140 GM.jpg]
+
+File to: [build/img/HARIBO SMURFS 140 GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARIBO STARMIX 140 GM.jpg]
+
+File to: [build/img/HARIBO STARMIX 140 GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARIBO STARMIX FRUIT PUNCH 140 GM.jpg]
+
+File to: [build/img/HARIBO STARMIX FRUIT PUNCH 140 GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARIBO SUPER MIX 140 GM.jpg]
+
+File to: [build/img/HARIBO SUPER MIX 140 GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARIBO SUPER MIX 140G.jpg]
+
+File to: [build/img/HARIBO SUPER MIX 140G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARIBO TANGFASTICS 140 GM.jpg]
+
+File to: [build/img/HARIBO TANGFASTICS 140 GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARIBO WINE GUM 140 GM.jpg]
+
+File to: [build/img/HARIBO WINE GUM 140 GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARP LAGER 330ML CAN.png]
+
+File to: [build/img/HARP LAGER 330ML CAN.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HARIBO TANGFASTICS FRUIT SPRITZERS 140 GM.jpg]
+
+File to: [build/img/HARIBO TANGFASTICS FRUIT SPRITZERS 140 GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARP LAGER 500ML CAN.jpg]
+
+File to: [build/img/HARP LAGER 500ML CAN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARP LAGER BEER 600ML.png]
+
+File to: [build/img/HARP LAGER BEER 600ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HARPIC BLEACH 750ML.jpg]
+
+File to: [build/img/HARPIC BLEACH 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Harpic Cleaning Gel Power Plus 725ml.jpg]
+
+File to: [build/img/Harpic Cleaning Gel Power Plus 725ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Harpic Cleaning Gel Power Plus 725ml(1).jpg]
+
+File to: [build/img/Harpic Cleaning Gel Power Plus 725ml(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HARPIC FRESH PEACH JASMINE 450ML.png]
+
+File to: [build/img/HARPIC FRESH PEACH JASMINE 450ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HARPIC HYGIENE ITB LAVENDER 26G.png]
+
+File to: [build/img/HARPIC HYGIENE ITB LAVENDER 26G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HARPIC HYGIENE ITB PINE 26G.png]
+
+File to: [build/img/HARPIC HYGIENE ITB PINE 26G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HARPIC LAVENDER 450ML.png]
+
+File to: [build/img/HARPIC LAVENDER 450ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAIN

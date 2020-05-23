@@ -1,0 +1,127 @@
+File from: [src/img/JOLTAN 160 TABS X 30.jpg]
+
+File to: [build/img/JOLTAN 160 TABS X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOLTAN 80 TABS X 30.jpg]
+
+File to: [build/img/JOLTAN 80 TABS X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOOP! HOMME 75ML.jpg]
+
+File to: [build/img/JOOP! HOMME 75ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JORDAN CLASSIC TOOTHBRUSH.jpg]
+
+File to: [build/img/JORDAN CLASSIC TOOTHBRUSH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOY SOAP BAR TENDER 60G.jpg]
+
+File to: [build/img/JOY SOAP BAR TENDER 60G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOY TENDER CARE BAR 120G.jpg]
+
+File to: [build/img/JOY TENDER CARE BAR 120G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JUICY COUTURE 100ML.jpg]
+
+File to: [build/img/JUICY COUTURE 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JUICY FRUIT 10PELLET.jpg]
+
+File to: [build/img/JUICY FRUIT 10PELLET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JUNIOR TOOTHBRUSH 8 - 12 YEARS 3 PACK.jpg]
+
+File to: [build/img/JUNIOR TOOTHBRUSH 8 - 12 YEARS 3 PACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JUST FLAKE TUNA FISH 170G.jpg]
+
+File to: [build/img/JUST FLAKE TUNA FISH 170G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/junior toothbrush.jpeg]
+
+File to: [build/img/junior toothbrush.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JUST MARGARINE 500G.jpg]
+
+File to: [build/img/JUST MARGARINE 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JUST FOR ME KIDS RELAXER KIT.jpg]
+
+File to: [build/img/JUST FOR ME KIDS RELAXER KIT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KACHAM TABS  X 20.jpg]
+
+File to: [build/img/KACHAM TABS  X 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/K BROTHER CARROT SOAP 120G.jpg]
+
+File to: [build/img/K BROTHER CARROT SOAP 120G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Kahlua70cl x12.jpg]
+
+File to: [build/img/Kahlua70cl x12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Kalms Lavender caps x 14.jpg]
+
+File to: [build/img/Kalms Lavender caps x 14.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KALMS NIGHT X 50.jpg]
+
+File to: [build/img/KALMS NIGHT X 50.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KALMS ONE NIGHT X 21.jpg]
+
+File to: [build/img/KALMS ONE NIGHT X 21.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KAPTAIN READY STEW HOT POT 1KG.jpg]
+
+File to: [build/img/KAPTAIN READY STEW HOT POT 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KAPTAIN READY STEW HOT POT 250G.jpg]
+
+File to: [build/img/KAPTAIN READY STEW HOT POT 250G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

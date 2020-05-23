@@ -1,0 +1,97 @@
+File from: [src/img/KAPTAIN READY STEW MILD 250G.jpg]
+
+File to: [build/img/KAPTAIN READY STEW MILD 250G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KAYAT OFADA RICE 2KG.jpg]
+
+File to: [build/img/KAYAT OFADA RICE 2KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Kdk16 STANDING FAN WITH METAL BLADEMulti.jpg]
+
+File to: [build/img/Kdk16 STANDING FAN WITH METAL BLADEMulti.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KdkKDK 140CM CEILING FAN WITH REGULATOR M56XGOFF-WHITE.jpg]
+
+File to: [build/img/KdkKDK 140CM CEILING FAN WITH REGULATOR M56XGOFF-WHITE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KdkM40C 16inch Pull Switches Wall FanWHITE.jpg]
+
+File to: [build/img/KdkM40C 16inch Pull Switches Wall FanWHITE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KdkStanding Fan - P40WGold.jpg]
+
+File to: [build/img/KdkStanding Fan - P40WGold.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KEEBLER BITE SIZE M&M MINIS COOKIES 45G.jpg]
+
+File to: [build/img/KEEBLER BITE SIZE M&M MINIS COOKIES 45G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/keepWalk.jpeg]
+
+File to: [build/img/keepWalk.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Keepwork Logo.png]
+
+File to: [build/img/Keepwork Logo.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Keepwork power station.jpg]
+
+File to: [build/img/Keepwork power station.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KELI PEDICURE KIT.jpeg]
+
+File to: [build/img/KELI PEDICURE KIT.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KELL CRUNCHY NUT CORNFLAKE 500GM.jpg]
+
+File to: [build/img/KELL CRUNCHY NUT CORNFLAKE 500GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KELLOGG_S COCO POPS MONO CARTON 10 X 450G.jpg]
+
+File to: [build/img/KELLOGG_S COCO POPS MONO CARTON 10 X 450G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KELLOGG' S COCO POPS LOCAL 450G.jpg]
+
+File to: [build/img/KELLOGG' S COCO POPS LOCAL 450G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KELLOGG'S APPLE JACK 285G.jpeg]
+
+File to: [build/img/KELLOGG'S APPLE JACK 285G.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KELLOGG'S BRAN FLAKES 750G.jpg]
+
+File to: [build/img/KELLOGG'S BRAN FLAKES 750G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

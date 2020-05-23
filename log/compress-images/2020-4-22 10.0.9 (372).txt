@@ -1,0 +1,211 @@
+File from: [src/img/SMARTCARE HARD TOOTHBRUSH.jpg]
+
+File to: [build/img/SMARTCARE HARD TOOTHBRUSH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMARTCARE MOTHER TOOTH BRUSH.jpg]
+
+File to: [build/img/SMARTCARE MOTHER TOOTH BRUSH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMARTIES 38G.jpg]
+
+File to: [build/img/SMARTIES 38G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMARTCARE TOOTHBRUSH.jpg]
+
+File to: [build/img/SMARTCARE TOOTHBRUSH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMARTCARE KIDS 0-6 TOOTHBRUSH.jpg]
+
+File to: [build/img/SMARTCARE KIDS 0-6 TOOTHBRUSH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMARTIES CHOCOLATE 38G.jpg]
+
+File to: [build/img/SMARTIES CHOCOLATE 38G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMARTVALUE WORKSHOP 12PCS SV-01358.jpg]
+
+File to: [build/img/SMARTVALUE WORKSHOP 12PCS SV-01358.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMINOFF BLUE VODKA 1L.jpg]
+
+File to: [build/img/SMINOFF BLUE VODKA 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMIRNOFF APPLE FLAVOUR 1 LITREX12.jpg]
+
+File to: [build/img/SMIRNOFF APPLE FLAVOUR 1 LITREX12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMIRNOFF BLUE 1 LITREX12.jpg]
+
+File to: [build/img/SMIRNOFF BLUE 1 LITREX12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMIRNOFF CHOCO 75CL.png]
+
+File to: [build/img/SMIRNOFF CHOCO 75CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SMIRNOFF CHOCOLATE VODKA 750ML.jpg]
+
+File to: [build/img/SMIRNOFF CHOCOLATE VODKA 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMIRNOFF CITRUS FLAVOUR 1 LITREX12.jpg]
+
+File to: [build/img/SMIRNOFF CITRUS FLAVOUR 1 LITREX12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMIRNOFF CITRUS VODKA 1L.jpg]
+
+File to: [build/img/SMIRNOFF CITRUS VODKA 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMIRNOFF DOUBLE BLACK GUARANA.png]
+
+File to: [build/img/SMIRNOFF DOUBLE BLACK GUARANA.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SMIRNOFF EXTRA SMOOTH 75CL.png]
+
+File to: [build/img/SMIRNOFF EXTRA SMOOTH 75CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SMIRNOFF GREEN APPLE VODKA 1L.jpg]
+
+File to: [build/img/SMIRNOFF GREEN APPLE VODKA 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMIRNOFF ICE & GUARANA BLACK 330ML CAN.jpeg]
+
+File to: [build/img/SMIRNOFF ICE & GUARANA BLACK 330ML CAN.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMIRNOFF ICE 30CL BOTTLE.jpg]
+
+File to: [build/img/SMIRNOFF ICE 30CL BOTTLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMIRNOFF ICE 330ML CAN.jpg]
+
+File to: [build/img/SMIRNOFF ICE 330ML CAN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMIRNOFF ICE 330ML BOTTLE.jpg]
+
+File to: [build/img/SMIRNOFF ICE 330ML BOTTLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMIRNOFF ICE 60CL BOTTLE.jpeg]
+
+File to: [build/img/SMIRNOFF ICE 60CL BOTTLE.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMIRNOFF ICE CAN.jpg]
+
+File to: [build/img/SMIRNOFF ICE CAN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMIRNOFF ORANGE FLAVOUR 1 LITREX12.jpg]
+
+File to: [build/img/SMIRNOFF ORANGE FLAVOUR 1 LITREX12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMIRNOFF RASPBERRY FLAVOUR 1 LITREX12.jpg]
+
+File to: [build/img/SMIRNOFF RASPBERRY FLAVOUR 1 LITREX12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMIRNOFF ORANGE VODKA 1L.jpg]
+
+File to: [build/img/SMIRNOFF ORANGE VODKA 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMIRNOFF RED 1 LITREX12.jpg]
+
+File to: [build/img/SMIRNOFF RED 1 LITREX12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMIRNOFF RASPBERRY VODKA 1L.jpg]
+
+File to: [build/img/SMIRNOFF RASPBERRY VODKA 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMIRNOFF RED 1L.jpg]
+
+File to: [build/img/SMIRNOFF RED 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMIRNOFF RED 20CLX48.jpg]
+
+File to: [build/img/SMIRNOFF RED 20CLX48.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMIRNOFF RED VODKA 20CL.jpg]
+
+File to: [build/img/SMIRNOFF RED VODKA 20CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Smirnoff Vodka Range 75cl.jpg]
+
+File to: [build/img/Smirnoff Vodka Range 75cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Smirnoff_Hennessy_Jack.jpeg]
+
+File to: [build/img/Smirnoff_Hennessy_Jack.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SMIRNOFFF CHOCO 18CL.jpg]
+
+File to: [build/img/SMIRNOFFF CHOCO 18CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Smoked Chicken.jpg]
+
+File to: [build/img/Smoked Chicken.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

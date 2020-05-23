@@ -1,0 +1,97 @@
+File from: [src/img/SIRELLA CRISPY FISH FILLETS 1KG.jpg]
+
+File to: [build/img/SIRELLA CRISPY FISH FILLETS 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SIRELLA 4 FISH BURGER 400G.png]
+
+File to: [build/img/SIRELLA 4 FISH BURGER 400G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SIRELLA BREADED FISH FILLETS 400G.png]
+
+File to: [build/img/SIRELLA BREADED FISH FILLETS 400G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SIRELLA BREADED FISH FILLETS 400 G.png]
+
+File to: [build/img/SIRELLA BREADED FISH FILLETS 400 G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SIRELLA JUMBO SHRIMPS 400G.png]
+
+File to: [build/img/SIRELLA JUMBO SHRIMPS 400G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SIRELLA LARGE SHRIMPS 400g.jpg]
+
+File to: [build/img/SIRELLA LARGE SHRIMPS 400g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SIRELLA LARGE SHRIMPS 400G.png]
+
+File to: [build/img/SIRELLA LARGE SHRIMPS 400G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SIRELLA MEDIUM SHRIMPS 400G.jpg]
+
+File to: [build/img/SIRELLA MEDIUM SHRIMPS 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SIRELLA PEELED JUMBO SHRIMPS.jpg]
+
+File to: [build/img/SIRELLA PEELED JUMBO SHRIMPS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SIRELLA SEA FOOD COCKTAIL 400G.jpg]
+
+File to: [build/img/SIRELLA SEA FOOD COCKTAIL 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SIRELLA SHRIMPS DUMPLING 240G.png]
+
+File to: [build/img/SIRELLA SHRIMPS DUMPLING 240G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SIRELLA SUPER JUMBO SHRIMPS 400G.png]
+
+File to: [build/img/SIRELLA SUPER JUMBO SHRIMPS 400G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SIRELLA SUPER JUMBO SHRIMPS.jpg]
+
+File to: [build/img/SIRELLA SUPER JUMBO SHRIMPS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SIRELLA SUPREME SHRIMPS 400G.jpg]
+
+File to: [build/img/SIRELLA SUPREME SHRIMPS 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SIRELLA SUREME SHRIMPS 400G.png]
+
+File to: [build/img/SIRELLA SUREME SHRIMPS 400G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SIRELLA TEMPURA SHRIMPS 250G.png]
+
+File to: [build/img/SIRELLA TEMPURA SHRIMPS 250G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAIN

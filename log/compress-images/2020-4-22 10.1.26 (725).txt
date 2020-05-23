@@ -1,0 +1,175 @@
+File from: [src/img/NEDERBURG THE 56 HUNDRED SAUV BLANC 75CL.jpg]
+
+File to: [build/img/NEDERBURG THE 56 HUNDRED SAUV BLANC 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEEDLE 23G.jpg]
+
+File to: [build/img/NEEDLE 23G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEO HEALER SUPPOSITORY X 10.jpg]
+
+File to: [build/img/NEO HEALER SUPPOSITORY X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEO-MEDROL 25ML.jpg]
+
+File to: [build/img/NEO-MEDROL 25ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEO-PRESOL LOTION.jpg]
+
+File to: [build/img/NEO-PRESOL LOTION.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEOCELL SUPER COLLAGEN + C X 250 TABLETS.jpg]
+
+File to: [build/img/NEOCELL SUPER COLLAGEN + C X 250 TABLETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEDERBURG THE MANOR CABERNET SAUV.jpeg]
+
+File to: [build/img/NEDERBURG THE MANOR CABERNET SAUV.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEO HEALER OINTMENT 30G.jpg]
+
+File to: [build/img/NEO HEALER OINTMENT 30G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEOBACIN POWDER 5G.jpg]
+
+File to: [build/img/NEOBACIN POWDER 5G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEOCELL SUPER COLLAGEN POWDER 198G.jpg]
+
+File to: [build/img/NEOCELL SUPER COLLAGEN POWDER 198G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Neogloves Latex Gloves x100 Medium.jpg]
+
+File to: [build/img/Neogloves Latex Gloves x100 Medium.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nerf N-Strike Elite Jolt Blaster.jpg]
+
+File to: [build/img/Nerf N-Strike Elite Jolt Blaster.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NERVE AND BONE LINIMENT  180ML.jpg]
+
+File to: [build/img/NERVE AND BONE LINIMENT  180ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nescafe 3in1 Breakfast Coffee 32g x 300.jpg]
+
+File to: [build/img/Nescafe 3in1 Breakfast Coffee 32g x 300.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nescafe 3in1 Breakfast Coffee 32g.jpg]
+
+File to: [build/img/Nescafe 3in1 Breakfast Coffee 32g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NESCAFE BREAKFAST 3IN 1 352G PROMO.jpg]
+
+File to: [build/img/NESCAFE BREAKFAST 3IN 1 352G PROMO.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NESCAFE CAFE DE OLLA 85G.jpg]
+
+File to: [build/img/NESCAFE CAFE DE OLLA 85G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NESCAFE CAPPUCCINO GOLD 10S 140G.jpg]
+
+File to: [build/img/NESCAFE CAPPUCCINO GOLD 10S 140G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NESCAFE CARAMEL LATTE 136G.jpg]
+
+File to: [build/img/NESCAFE CARAMEL LATTE 136G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NESCAFE CLASICO DECAF 100G.jpg]
+
+File to: [build/img/NESCAFE CLASICO DECAF 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NESCAFE CLASSIC 120 X 2G.jpg]
+
+File to: [build/img/NESCAFE CLASSIC 120 X 2G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nescafe Classic Coffee 50g.jpg]
+
+File to: [build/img/Nescafe Classic Coffee 50g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nescafe Classic Sachet 2g.jpg]
+
+File to: [build/img/Nescafe Classic Sachet 2g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NESCAFE CLASSIC SACHET 6(8X25G).jpg]
+
+File to: [build/img/NESCAFE CLASSIC SACHET 6(8X25G).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NESCAFE CLASSIC TIN 50G.png]
+
+File to: [build/img/NESCAFE CLASSIC TIN 50G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/NESCAFE COFFEE FINE BLEND 100G.jpg]
+
+File to: [build/img/NESCAFE COFFEE FINE BLEND 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NESCAFE GOLD BLEND (100G) - Decaf, Rich &.jpg]
+
+File to: [build/img/NESCAFE GOLD BLEND (100G) - Decaf, Rich &.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEOCELL SUPER COLLAGEN + C X 120 TABLETS.jpg]
+
+File to: [build/img/NEOCELL SUPER COLLAGEN + C X 120 TABLETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nerf Soaker Piranha.jpg]
+
+File to: [build/img/Nerf Soaker Piranha.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

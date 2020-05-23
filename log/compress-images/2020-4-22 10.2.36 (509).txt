@@ -1,0 +1,535 @@
+File from: [src/img/PRIMPEX SUSP  60ML.jpg]
+
+File to: [build/img/PRIMPEX SUSP  60ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRIMATA SUMMER SUNSET HAIR COLOR 50ML.jpeg]
+
+File to: [build/img/PRIMATA SUMMER SUNSET HAIR COLOR 50ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRIMPEX TABS X 10.jpg]
+
+File to: [build/img/PRIMPEX TABS X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINCE TISSUE PAPER.jpg]
+
+File to: [build/img/PRINCE TISSUE PAPER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINCES 8 HOT DOG IN BRINE400g.jpg]
+
+File to: [build/img/PRINCES 8 HOT DOG IN BRINE400g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Princes 8Hot Dogs In Brine 400g x 24.jpg]
+
+File to: [build/img/Princes 8Hot Dogs In Brine 400g x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINCES CORNED BEEF 200G.jpg]
+
+File to: [build/img/PRINCES CORNED BEEF 200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINCES CORNED BEEF 340G.jpg]
+
+File to: [build/img/PRINCES CORNED BEEF 340G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINCES HOT DOGS 400G.jpg]
+
+File to: [build/img/PRINCES HOT DOGS 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINCESS BUILDING BLOCKS SMALL.jpg]
+
+File to: [build/img/PRINCESS BUILDING BLOCKS SMALL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINCESS CRUNCHY CHIN-CHIN 70G.png]
+
+File to: [build/img/PRINCESS CRUNCHY CHIN-CHIN 70G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/PRINCESS CRUNCHY CHIN-CHIN 500G.jpg]
+
+File to: [build/img/PRINCESS CRUNCHY CHIN-CHIN 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINCESSE SARDINE IN VEGETABLE OIL 125G.jpg]
+
+File to: [build/img/PRINCESSE SARDINE IN VEGETABLE OIL 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Princess Tuna Chunks 160g x 12.jpg]
+
+File to: [build/img/Princess Tuna Chunks 160g x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINCIPLE VITAMIN C 1000MG EFF.JPG]
+
+File to: [build/img/PRINCIPLE VITAMIN C 1000MG EFF.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Princesse Sardines 120g x 10.jpg]
+
+File to: [build/img/Princesse Sardines 120g x 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES BBQ 131G.jpg]
+
+File to: [build/img/PRINGLES BBQ 131G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES BBQ  19X165R.jpg]
+
+File to: [build/img/PRINGLES BBQ  19X165R.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES BBQ 165G.jpg]
+
+File to: [build/img/PRINGLES BBQ 165G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES BBQ 158G.jpg]
+
+File to: [build/img/PRINGLES BBQ 158G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES BBQ 40G.jpg]
+
+File to: [build/img/PRINGLES BBQ 40G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES BBQ 70G.jpg]
+
+File to: [build/img/PRINGLES BBQ 70G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES CHEDDAR CHEESE 21G.jpg]
+
+File to: [build/img/PRINGLES CHEDDAR CHEESE 21G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES BBQ 71G.jpg]
+
+File to: [build/img/PRINGLES BBQ 71G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES CHEDDAR CHEESE 40G.jpg]
+
+File to: [build/img/PRINGLES CHEDDAR CHEESE 40G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES CHEDDAR CHEESE131G.jpg]
+
+File to: [build/img/PRINGLES CHEDDAR CHEESE131G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES EXTRA HOT 131G.jpg]
+
+File to: [build/img/PRINGLES EXTRA HOT 131G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES CHEESE _ ONION 19X165R.jpg]
+
+File to: [build/img/PRINGLES CHEESE _ ONION 19X165R.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES EXTRA HOT CHILI&LIME 158G.jpg]
+
+File to: [build/img/PRINGLES EXTRA HOT CHILI&LIME 158G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES HONEY MUSTARD 158G.jpg]
+
+File to: [build/img/PRINGLES HONEY MUSTARD 158G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES HOT & SPICY 165R.jpg]
+
+File to: [build/img/PRINGLES HOT & SPICY 165R.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES HOT _ SPICY 19X165R.jpg]
+
+File to: [build/img/PRINGLES HOT _ SPICY 19X165R.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES HOT PAPRIKA 40G.jpg]
+
+File to: [build/img/PRINGLES HOT PAPRIKA 40G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES HOT PAPRIKA 19X165R.jpg]
+
+File to: [build/img/PRINGLES HOT PAPRIKA 19X165R.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES HOT&SPICY 40G.jpg]
+
+File to: [build/img/PRINGLES HOT&SPICY 40G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES JALAPENO 158G.jpg]
+
+File to: [build/img/PRINGLES JALAPENO 158G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES ORIGINAL 165G.jpg]
+
+File to: [build/img/PRINGLES ORIGINAL 165G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES ORIGINAL 19X165R.jpg]
+
+File to: [build/img/PRINGLES ORIGINAL 19X165R.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES ORIGINAL 67G.jpg]
+
+File to: [build/img/PRINGLES ORIGINAL 67G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES ORIGINAL 70G.jpg]
+
+File to: [build/img/PRINGLES ORIGINAL 70G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES PIZZA 158G.jpg]
+
+File to: [build/img/PRINGLES PIZZA 158G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES PIZZA 71G.jpg]
+
+File to: [build/img/PRINGLES PIZZA 71G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES RANCH 158G.jpg]
+
+File to: [build/img/PRINGLES RANCH 158G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES SALT _ VINEGAR 165G.jpg]
+
+File to: [build/img/PRINGLES SALT _ VINEGAR 165G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pringles Potato Original Crisp 165g x 19.jpg]
+
+File to: [build/img/Pringles Potato Original Crisp 165g x 19.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES SALT _ VINEGAR 19X165R.jpg]
+
+File to: [build/img/PRINGLES SALT _ VINEGAR 19X165R.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES SALT & VINEGAR 40GM.jpg]
+
+File to: [build/img/PRINGLES SALT & VINEGAR 40GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRIMATA GINGER BLONDE HAIR COLOR 50ML.jpg]
+
+File to: [build/img/PRIMATA GINGER BLONDE HAIR COLOR 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES SMALL HOT PAPRIKA 12X40G.jpg]
+
+File to: [build/img/PRINGLES SMALL HOT PAPRIKA 12X40G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES SOUR CREAM & ONION 21G.jpg]
+
+File to: [build/img/PRINGLES SOUR CREAM & ONION 21G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRIMOLUT-N TABS 5MG X 30.jpg]
+
+File to: [build/img/PRIMOLUT-N TABS 5MG X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES TEXAS BBQ SAUCE 165G.jpg]
+
+File to: [build/img/PRINGLES TEXAS BBQ SAUCE 165G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES SOURCREAM & ONION REDUCED FAT 158G.png]
+
+File to: [build/img/PRINGLES SOURCREAM & ONION REDUCED FAT 158G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/PRINGLES THE ORIGINAL 19G.jpg]
+
+File to: [build/img/PRINGLES THE ORIGINAL 19G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES THE ORIGINAL 37G -45512.jpg]
+
+File to: [build/img/PRINGLES THE ORIGINAL 37G -45512.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES.jpg]
+
+File to: [build/img/PRINGLES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRIYAGOLD COOKIES ITALIANO WITH CRUNCHY CHOCO CHIPS.jpg]
+
+File to: [build/img/PRIYAGOLD COOKIES ITALIANO WITH CRUNCHY CHOCO CHIPS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PROCOLD TABS X 4.jpg]
+
+File to: [build/img/PROCOLD TABS X 4.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Procold Flu Tablets x4 Satchet.jpg]
+
+File to: [build/img/Procold Flu Tablets x4 Satchet.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES SMALL SOUR CREAM _ ONION 12X40G.jpg]
+
+File to: [build/img/PRINGLES SMALL SOUR CREAM _ ONION 12X40G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Profectiv Mega Growth Relaxer Kit x 4.jpg]
+
+File to: [build/img/Profectiv Mega Growth Relaxer Kit x 4.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Profective Mega Growth Oil 236ml.jpg]
+
+File to: [build/img/Profective Mega Growth Oil 236ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Profective Mega Growth Smoother Polisher.jpg]
+
+File to: [build/img/Profective Mega Growth Smoother Polisher.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES SOUR CREAM & ONION 70G.jpg]
+
+File to: [build/img/PRINGLES SOUR CREAM & ONION 70G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Profective MG Deep Conditioner 500ml.jpg]
+
+File to: [build/img/Profective MG Deep Conditioner 500ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES SOUR CREAM _ ONION 19X165R.jpg]
+
+File to: [build/img/PRINGLES SOUR CREAM _ ONION 19X165R.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Profective MG Leave-In Strengh. 500g.jpg]
+
+File to: [build/img/Profective MG Leave-In Strengh. 500g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pringles Potato Crisps 40g x 12.jpg]
+
+File to: [build/img/Pringles Potato Crisps 40g x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PROMOS ELBOW MACARONI PASTA BOX 454G copy.jpg]
+
+File to: [build/img/PROMOS ELBOW MACARONI PASTA BOX 454G copy.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Propanolol 40mg x28tabs (Fourrts).jpg]
+
+File to: [build/img/Propanolol 40mg x28tabs (Fourrts).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PROMOS PEAS _ CARROTS 241g.jpg]
+
+File to: [build/img/PROMOS PEAS _ CARROTS 241g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Propranolol 40mg Teva x 28.jpg]
+
+File to: [build/img/Propranolol 40mg Teva x 28.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PROVIRON.jpg]
+
+File to: [build/img/PROVIRON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PROTECT _ CLEAN HANDWASH 500ML copy.jpg]
+
+File to: [build/img/PROTECT _ CLEAN HANDWASH 500ML copy.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PROMOS MIXED VEGETABLES 425G.jpg]
+
+File to: [build/img/PROMOS MIXED VEGETABLES 425G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Proworks  WOMEN`s Padded Grip Fingerless Gym Gloves Black - Medium.jpg]
+
+File to: [build/img/Proworks  WOMEN`s Padded Grip Fingerless Gym Gloves Black - Medium.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ProWorks Ab Roller & Mat - Black & Red.png]
+
+File to: [build/img/ProWorks Ab Roller & Mat - Black & Red.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/ProWorks Ab Roller & Mat - Black & White.png]
+
+File to: [build/img/ProWorks Ab Roller & Mat - Black & White.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Proworks Activity Tracker - Black.jpg]
+
+File to: [build/img/Proworks Activity Tracker - Black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Proworks Adjustable Neoprene Ankle Support Brace In Black - One Size.jpg]
+
+File to: [build/img/Proworks Adjustable Neoprene Ankle Support Brace In Black - One Size.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Proworks Adjustable Weight Lifting Bodybuilding Wrist Wrap - Black 2.jpg]
+
+File to: [build/img/Proworks Adjustable Weight Lifting Bodybuilding Wrist Wrap - Black 2.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Proworks Anti-Burst Exercise Ball 65cm Heavy Duty With Pump - Silver.jpg]
+
+File to: [build/img/Proworks Anti-Burst Exercise Ball 65cm Heavy Duty With Pump - Silver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Proworks Anti-Burst Exercise Ball 65cm Heavy Duty With Pump In Pink.jpg]
+
+File to: [build/img/Proworks Anti-Burst Exercise Ball 65cm Heavy Duty With Pump In Pink.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Proworks Anti-Fog  Mirrored  UV Protection Swimming-Goggles (Black).jpg]
+
+File to: [build/img/Proworks Anti-Fog  Mirrored  UV Protection Swimming-Goggles (Black).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Proworks Anti-Burst Exercise Ball 65cm Heavy Duty With Pump In Purple.jpg]
+
+File to: [build/img/Proworks Anti-Burst Exercise Ball 65cm Heavy Duty With Pump In Purple.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Profectiv MG Deep Conditioner 250g.jpg]
+
+File to: [build/img/Profectiv MG Deep Conditioner 250g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Proworks  WOMEN`s Padded Grip Fingerless Gym Gloves Grey - Medium.jpg]
+
+File to: [build/img/Proworks  WOMEN`s Padded Grip Fingerless Gym Gloves Grey - Medium.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Proworks  WOMEN`s Padded Grip Fingerless Gym Gloves Blue - Small.jpg]
+
+File to: [build/img/Proworks  WOMEN`s Padded Grip Fingerless Gym Gloves Blue - Small.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES SMALL ORIGINAL 12X40G.jpg]
+
+File to: [build/img/PRINGLES SMALL ORIGINAL 12X40G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

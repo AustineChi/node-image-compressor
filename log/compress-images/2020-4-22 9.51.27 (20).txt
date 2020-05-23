@@ -1,0 +1,91 @@
+File from: [src/img/DOXYCAP CAPS 100MG X 10.jpg]
+
+File to: [build/img/DOXYCAP CAPS 100MG X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr  Organic Rose Otto Night cream.jpg]
+
+File to: [build/img/Dr  Organic Rose Otto Night cream.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DR MAGIC DOUBLE ACTION FOAMER 500ML.png]
+
+File to: [build/img/DR MAGIC DOUBLE ACTION FOAMER 500ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DR MAGIC DRAIN UNBLOCKER WITH CAUSTIC SODA 500G.jpg]
+
+File to: [build/img/DR MAGIC DRAIN UNBLOCKER WITH CAUSTIC SODA 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DR MEYERS B COMPLEX X 100 TABS.png]
+
+File to: [build/img/DR MEYERS B COMPLEX X 100 TABS.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DR MEYERS PILEX X 20.jpg]
+
+File to: [build/img/DR MEYERS PILEX X 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic  Dead Sea Anti Aging system.jpg]
+
+File to: [build/img/Dr Organic  Dead Sea Anti Aging system.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic  Tea Tree Blemish Stick.jpg]
+
+File to: [build/img/Dr Organic  Tea Tree Blemish Stick.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic  Tea Tree Mouthwash.jpg]
+
+File to: [build/img/Dr Organic  Tea Tree Mouthwash.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic  Tea TreeBody Lotion.jpg]
+
+File to: [build/img/Dr Organic  Tea TreeBody Lotion.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic 5 in 1 Spot Treatment Pack.jpg]
+
+File to: [build/img/Dr Organic 5 in 1 Spot Treatment Pack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic 5 in 1 Treatment Gel 10ml.jpg]
+
+File to: [build/img/Dr Organic 5 in 1 Treatment Gel 10ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic 5 in 1 Toner 200ml.jpg]
+
+File to: [build/img/Dr Organic 5 in 1 Toner 200ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic ARgan Hair Treatment Serum.jpg]
+
+File to: [build/img/Dr Organic ARgan Hair Treatment Serum.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Aloe Vera Face Wash.jpg]
+
+File to: [build/img/Dr Organic Aloe Vera Face Wash.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

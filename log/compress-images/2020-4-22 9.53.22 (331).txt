@@ -1,0 +1,259 @@
+File from: [src/img/NUTRIBOM MULTIGRAIN CEREAL 350G.JPG]
+
+File to: [build/img/NUTRIBOM MULTIGRAIN CEREAL 350G.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTRIBOM RICE RIZ 350G.jpg]
+
+File to: [build/img/NUTRIBOM RICE RIZ 350G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTRIBOM OATS AVENA AVOINE 350G.jpg]
+
+File to: [build/img/NUTRIBOM OATS AVENA AVOINE 350G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nutrilac infant cereal.png]
+
+File to: [build/img/Nutrilac infant cereal.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/NUTRISNAX 105G.jpg]
+
+File to: [build/img/NUTRISNAX 105G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTRISNAX 78G.jpg]
+
+File to: [build/img/NUTRISNAX 78G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTRISNAX BISCUITS 52.5G.jpg]
+
+File to: [build/img/NUTRISNAX BISCUITS 52.5G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTRO - CHOCOLATE 150G.jpg]
+
+File to: [build/img/NUTRO - CHOCOLATE 150G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTRO - CHOCOLATE 75G.jpg]
+
+File to: [build/img/NUTRO - CHOCOLATE 75G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTRO - STRAWBERRY 150G.jpg]
+
+File to: [build/img/NUTRO - STRAWBERRY 150G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTRO - STRAWBERRY 75G.jpg]
+
+File to: [build/img/NUTRO - STRAWBERRY 75G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTRO - VANILLA 150G.jpg]
+
+File to: [build/img/NUTRO - VANILLA 150G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTRO - VANILLA 75G.jpg]
+
+File to: [build/img/NUTRO - VANILLA 75G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTROPLAN ADULT CHUNKS IN GRAVY (LAMB) 400G.jpg]
+
+File to: [build/img/NUTROPLAN ADULT CHUNKS IN GRAVY (LAMB) 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTROPLAN DOG FOOD CHUN IN GRAVY 400G CHICKEN.png]
+
+File to: [build/img/NUTROPLAN DOG FOOD CHUN IN GRAVY 400G CHICKEN.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/NUTROPLAN DOG FOOD CHUNK IN GRAVY 400G BEEF.jpg]
+
+File to: [build/img/NUTROPLAN DOG FOOD CHUNK IN GRAVY 400G BEEF.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTROPLAN DOG FOOD MEAT LOAF 400G BEEF.jpg]
+
+File to: [build/img/NUTROPLAN DOG FOOD MEAT LOAF 400G BEEF.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTROPLAN DOG FOOD MEAT LOAF 400G CHICKEN.jpg]
+
+File to: [build/img/NUTROPLAN DOG FOOD MEAT LOAF 400G CHICKEN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTROPLAN DOG FOOD MEAT LOAF 400G LAMB.png]
+
+File to: [build/img/NUTROPLAN DOG FOOD MEAT LOAF 400G LAMB.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/NUTROPLAN PUPPY FOOD CHUNK IN GRAVY 400G CHICKEN.jpg]
+
+File to: [build/img/NUTROPLAN PUPPY FOOD CHUNK IN GRAVY 400G CHICKEN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nutty smoothie.jpg]
+
+File to: [build/img/Nutty smoothie.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTZY CHOCOLATE 227G.jpg]
+
+File to: [build/img/NUTZY CHOCOLATE 227G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTZY CHOCOLATE 510G.jpg]
+
+File to: [build/img/NUTZY CHOCOLATE 510G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTZY CREAMY SMOOTH 227G.jpg]
+
+File to: [build/img/NUTZY CREAMY SMOOTH 227G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTZY CREAMY SMOOTH 510G.jpg]
+
+File to: [build/img/NUTZY CREAMY SMOOTH 510G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTZY EXTRA CRUCHY 510G.jpg]
+
+File to: [build/img/NUTZY EXTRA CRUCHY 510G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTZY EXTRA CRUNCHY 227G.jpg]
+
+File to: [build/img/NUTZY EXTRA CRUNCHY 227G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTZY EXTRA CRUNCHY 510G.jpg]
+
+File to: [build/img/NUTZY EXTRA CRUNCHY 510G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTZY HONEY 227G.jpg]
+
+File to: [build/img/NUTZY HONEY 227G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTZY HONEY 510G.jpg]
+
+File to: [build/img/NUTZY HONEY 510G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTZY HOT & SPICY 227G.jpg]
+
+File to: [build/img/NUTZY HOT & SPICY 227G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTZY HOT & SPICY 510G.jpg]
+
+File to: [build/img/NUTZY HOT & SPICY 510G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTZY PEANUT BUTTER - CREAMY SMOOTH 227G.jpg]
+
+File to: [build/img/NUTZY PEANUT BUTTER - CREAMY SMOOTH 227G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUTZY PEANUT BUTTER - EXTRA CRUNCHY 227G.jpg]
+
+File to: [build/img/NUTZY PEANUT BUTTER - EXTRA CRUNCHY 227G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NYCIL BABY LOTION 425ML.png]
+
+File to: [build/img/NYCIL BABY LOTION 425ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/NYCIL BABY OIL 425ML.png]
+
+File to: [build/img/NYCIL BABY OIL 425ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/NYCIL BABY PETROLEUM JELLY 200G.jpg]
+
+File to: [build/img/NYCIL BABY PETROLEUM JELLY 200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NYCIL BABY SOAP 80G.png]
+
+File to: [build/img/NYCIL BABY SOAP 80G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/NYCIL HEAT & ANTI RASH POWDER 365G.jpg]
+
+File to: [build/img/NYCIL HEAT & ANTI RASH POWDER 365G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NYQUIL COLD&FLU NIGHT RELIEF 354ML.jpg]
+
+File to: [build/img/NYQUIL COLD&FLU NIGHT RELIEF 354ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NYSTATIN. PESSARY  X 10.jpeg]
+
+File to: [build/img/NYSTATIN. PESSARY  X 10.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NYTOL 25MG X 20.jpg]
+
+File to: [build/img/NYTOL 25MG X 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NYTOL 50MG OAN X 20.jpg]
+
+File to: [build/img/NYTOL 50MG OAN X 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

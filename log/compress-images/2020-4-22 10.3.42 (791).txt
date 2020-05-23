@@ -1,0 +1,229 @@
+File from: [src/img/POWER TOILET BLK 6PK BLUE.jpg]
+
+File to: [build/img/POWER TOILET BLK 6PK BLUE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Prawns.jpg]
+
+File to: [build/img/Prawns.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POWER PASTA SPAGHETTI SLIM.jpg]
+
+File to: [build/img/POWER PASTA SPAGHETTI SLIM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRECIOUS COCONUT CHIPS.jpg]
+
+File to: [build/img/PRECIOUS COCONUT CHIPS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRE-SEED LUBRICANT 40G.png]
+
+File to: [build/img/PRE-SEED LUBRICANT 40G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/PREGNACARE BREAST FEEDING TABS X 84.jpg]
+
+File to: [build/img/PREGNACARE BREAST FEEDING TABS X 84.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREGNACARE CONCEPTION HIM AND HER X 60.jpg]
+
+File to: [build/img/PREGNACARE CONCEPTION HIM AND HER X 60.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POWER VEGETABLE OIL 3LTR.jpg]
+
+File to: [build/img/POWER VEGETABLE OIL 3LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREGNACARE CREAM 100ML.jpg]
+
+File to: [build/img/PREGNACARE CREAM 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POWER PASTA SPAGHETTI 475G.jpg]
+
+File to: [build/img/POWER PASTA SPAGHETTI 475G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREGNACARE CONCEPTION TABS X 30.jpg]
+
+File to: [build/img/PREGNACARE CONCEPTION TABS X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREGNACARE MAX X 84.jpg]
+
+File to: [build/img/PREGNACARE MAX X 84.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREGNACARE PLUS TABS  X 56.jpg]
+
+File to: [build/img/PREGNACARE PLUS TABS  X 56.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREGNACARE TABS X 30.jpg]
+
+File to: [build/img/PREGNACARE TABS X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREGNANCY TEST STRIP X 1.jpg]
+
+File to: [build/img/PREGNANCY TEST STRIP X 1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Premier Anti Cool Deo Soap 110g x 48.jpg]
+
+File to: [build/img/Premier Anti Cool Deo Soap 110g x 48.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Premier Anti Soap Cool Deo 70g x 72.jpg]
+
+File to: [build/img/Premier Anti Soap Cool Deo 70g x 72.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER ANTISEPIC LIME FRESH LIQUID 125ML.jpg]
+
+File to: [build/img/PREMIER ANTISEPIC LIME FRESH LIQUID 125ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER ANTISEPIC LIME FRESH LIQUID 250ML.jpg]
+
+File to: [build/img/PREMIER ANTISEPIC LIME FRESH LIQUID 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER ANTISEPTIC LIME FRESH LIQUID 1LTR.jpg]
+
+File to: [build/img/PREMIER ANTISEPTIC LIME FRESH LIQUID 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER ANTISEPTIC LIME FRESH LIQUID 500ML.jpg]
+
+File to: [build/img/PREMIER ANTISEPTIC LIME FRESH LIQUID 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER ANTISEPTIC LIQUID 1 LIT.jpg]
+
+File to: [build/img/PREMIER ANTISEPTIC LIQUID 1 LIT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER ANTISEPTIC LIQUID 125 ML.jpg]
+
+File to: [build/img/PREMIER ANTISEPTIC LIQUID 125 ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER ANTISEPTIC LIQUID 250ML.jpg]
+
+File to: [build/img/PREMIER ANTISEPTIC LIQUID 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER ANTISEPTIC LIQUID LIME FRESH 1 L.jpg]
+
+File to: [build/img/PREMIER ANTISEPTIC LIQUID LIME FRESH 1 L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER AS COOL DEO 110G.jpg]
+
+File to: [build/img/PREMIER AS COOL DEO 110G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER AS COOL DEO 60G.jpg]
+
+File to: [build/img/PREMIER AS COOL DEO 60G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER COOL ANTI BACTERIAL SOAP ODOUR DEFENCE 110G.jpg]
+
+File to: [build/img/PREMIER COOL ANTI BACTERIAL SOAP ODOUR DEFENCE 110G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER COOL ANTI BACTERIAL SOAP ODOUR DEFENCE 110G(1).jpg]
+
+File to: [build/img/PREMIER COOL ANTI BACTERIAL SOAP ODOUR DEFENCE 110G(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER COOL ANTI BACTERIAL SOAP SPORTS 110G.jpg]
+
+File to: [build/img/PREMIER COOL ANTI BACTERIAL SOAP SPORTS 110G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER COOL ANTI BACTERIAL SOAP SPORTS 150G.jpg]
+
+File to: [build/img/PREMIER COOL ANTI BACTERIAL SOAP SPORTS 150G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER COOL ANTI BACTERIAL SOAP SPORTS 65g.jpg]
+
+File to: [build/img/PREMIER COOL ANTI BACTERIAL SOAP SPORTS 65g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER COOL ANTI BACTERIAL SOAP ULTIMATE 110G.jpg]
+
+File to: [build/img/PREMIER COOL ANTI BACTERIAL SOAP ULTIMATE 110G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER COOL ANTI-BACTERIAL BAR ODOUR DEFERENCE 110G.jpg]
+
+File to: [build/img/PREMIER COOL ANTI-BACTERIAL BAR ODOUR DEFERENCE 110G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER COOL ANTI-BACTERIAL ODOUR DEFENCE 65G.jpg]
+
+File to: [build/img/PREMIER COOL ANTI-BACTERIAL ODOUR DEFENCE 65G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER COOL ANTI-BACTERIAL ULTIMATE 65G.jpg]
+
+File to: [build/img/PREMIER COOL ANTI-BACTERIAL ULTIMATE 65G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER COOL BODY SPRAY 150ML.jpg]
+
+File to: [build/img/PREMIER COOL BODY SPRAY 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PREMIER LIME FRESH ANTISEPTIC LIQUID 250ML.jpg]
+
+File to: [build/img/PREMIER LIME FRESH ANTISEPTIC LIQUID 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

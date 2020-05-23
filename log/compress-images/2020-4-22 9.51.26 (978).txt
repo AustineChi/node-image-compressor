@@ -1,0 +1,55 @@
+File from: [src/img/CLASSIC WHITE SOAP.jpg]
+
+File to: [build/img/CLASSIC WHITE SOAP.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLASSY TOUCH CLEANING SPONGES 3 PIECES.jpg]
+
+File to: [build/img/CLASSY TOUCH CLEANING SPONGES 3 PIECES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Classic White Soap Twin Whitening 85g.jpg]
+
+File to: [build/img/Classic White Soap Twin Whitening 85g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLAUDEL UNSALTED BUTTER 200G.jpg]
+
+File to: [build/img/CLAUDEL UNSALTED BUTTER 200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLAVULIN 1G  X 14 TABLETS.jpg]
+
+File to: [build/img/CLAVULIN 1G  X 14 TABLETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLAVULIN 625MG  X 14 TABS.jpg]
+
+File to: [build/img/CLAVULIN 625MG  X 14 TABS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLAVULIN SUSP 228MG 70ML.jpg]
+
+File to: [build/img/CLAVULIN SUSP 228MG 70ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLEAN & CLEAR ADVANTAGE CLEAR&SOOTHE 150ML.jpg]
+
+File to: [build/img/CLEAN & CLEAR ADVANTAGE CLEAR&SOOTHE 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLEAN & CLEAR BLACK HEAD 150ML.jpg]
+
+File to: [build/img/CLEAN & CLEAR BLACK HEAD 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

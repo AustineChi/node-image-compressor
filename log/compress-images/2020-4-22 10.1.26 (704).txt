@@ -1,0 +1,169 @@
+File from: [src/img/LYNX BODY SPRAY AFRICA 150ML.jpg]
+
+File to: [build/img/LYNX BODY SPRAY AFRICA 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LYNX BODY SPRAY FINAL EDITION 150ML.jpg]
+
+File to: [build/img/LYNX BODY SPRAY FINAL EDITION 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LYNX BODY WASH AFRICA 400ML.jpg]
+
+File to: [build/img/LYNX BODY WASH AFRICA 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LYNX BODY WASH APOLLO 400ML.jpg]
+
+File to: [build/img/LYNX BODY WASH APOLLO 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LYNX DARK ATTRACT FOR HER BODY SPRAY 150ML.jpeg]
+
+File to: [build/img/LYNX DARK ATTRACT FOR HER BODY SPRAY 150ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LYNX BODY WASH BLACK 400ML.jpg]
+
+File to: [build/img/LYNX BODY WASH BLACK 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LYNX DARK TEMPTATION BODY SPRAY 150ML.jpg]
+
+File to: [build/img/LYNX DARK TEMPTATION BODY SPRAY 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lynx Deodorant Body Spray 150ml.jpg]
+
+File to: [build/img/Lynx Deodorant Body Spray 150ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lyon's Digestives Biscuit 400g x 12.jpg]
+
+File to: [build/img/Lyon's Digestives Biscuit 400g x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LYONS RICH TEA 300G.jpg]
+
+File to: [build/img/LYONS RICH TEA 300G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LYONS DIGESTIVE 400G.jpg]
+
+File to: [build/img/LYONS DIGESTIVE 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lyons Shortcake Biscuit 400g X 24.jpg]
+
+File to: [build/img/Lyons Shortcake Biscuit 400g X 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lyons_ Digestives Biscuit 400g.jpg]
+
+File to: [build/img/Lyons_ Digestives Biscuit 400g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Lyons_ Rich Tea 300g.jpg]
+
+File to: [build/img/Lyons_ Rich Tea 300g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LYRICA 150MG X 28.jpg]
+
+File to: [build/img/LYRICA 150MG X 28.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LYRICA 75MG TABLETS  X28.jpg]
+
+File to: [build/img/LYRICA 75MG TABLETS  X28.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/LYSOL WIPES X 70.jpg]
+
+File to: [build/img/LYSOL WIPES X 70.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/M_M ChocolatePeanut Candy 440g.jpg]
+
+File to: [build/img/M_M ChocolatePeanut Candy 440g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/M_M_s ChocolatePeanut Milk 45g.jpg]
+
+File to: [build/img/M_M_s ChocolatePeanut Milk 45g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/M_M_s PeanuChoco Milk Candy 100g.jpg]
+
+File to: [build/img/M_M_s PeanuChoco Milk Candy 100g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/M_M_s PeanutChoco Milk Candy 200g.jpg]
+
+File to: [build/img/M_M_s PeanutChoco Milk Candy 200g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/M&B Paracetamol 500mg tabs x96 Pack.jpg]
+
+File to: [build/img/M&B Paracetamol 500mg tabs x96 Pack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/M&M CHOCOLATE 200G.jpg]
+
+File to: [build/img/M&M CHOCOLATE 200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/M&M`S PEANUT 200G.jpg]
+
+File to: [build/img/M&M`S PEANUT 200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/M&M`S PEANUTS 45G.png]
+
+File to: [build/img/M&M`S PEANUTS 45G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/MAALOX PLUS SUSPENSION.jpg]
+
+File to: [build/img/MAALOX PLUS SUSPENSION.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MACCAW COCKTAIL FRUIT DRINK 1LTR.png]
+
+File to: [build/img/MACCAW COCKTAIL FRUIT DRINK 1LTR.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/LYNX BODY SPRAY APOLLO 150ML.jpg]
+
+File to: [build/img/LYNX BODY SPRAY APOLLO 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

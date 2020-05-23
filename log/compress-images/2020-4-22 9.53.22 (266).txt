@@ -1,0 +1,265 @@
+File from: [src/img/GORDONS DRY GIN 70CLX12.jpg]
+
+File to: [build/img/GORDONS DRY GIN 70CLX12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Govmic Surgical Face Mask x 50.jpg]
+
+File to: [build/img/Govmic Surgical Face Mask x 50.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOYA ADOBO SEASONING WITH PEPPER 226G.jpg]
+
+File to: [build/img/GOYA ADOBO SEASONING WITH PEPPER 226G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOYA ADOBO SEASONING WITH PEPPER 793G.jpg]
+
+File to: [build/img/GOYA ADOBO SEASONING WITH PEPPER 793G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GORDONS MORINGA CITRUS BLEND 750ML.jpg]
+
+File to: [build/img/GORDONS MORINGA CITRUS BLEND 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOYA CHICK PEAS GARBANZOS 439G.jpg]
+
+File to: [build/img/GOYA CHICK PEAS GARBANZOS 439G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOYA CHOCOLATE MARIA COOKIES 200G.jpg]
+
+File to: [build/img/GOYA CHOCOLATE MARIA COOKIES 200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOYA OLIVE OIL   88.7ML.jpg]
+
+File to: [build/img/GOYA OLIVE OIL   88.7ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOYA OLIVE OIL 1LTR.jpg]
+
+File to: [build/img/GOYA OLIVE OIL 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOYA OLIVE OIL 250ML.jpg]
+
+File to: [build/img/GOYA OLIVE OIL 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOYA OLIVE OIL 500ML.jpg]
+
+File to: [build/img/GOYA OLIVE OIL 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOYA OLIVE OIL 89ML.jpg]
+
+File to: [build/img/GOYA OLIVE OIL 89ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Boutique Body Mist- White Nectarine & Pear - 250ml.jpg]
+
+File to: [build/img/Grace Cole Boutique Body Mist- White Nectarine & Pear - 250ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRACE COLE BOUTIQUE PROSECCO & CASSIS 2S 500ML.jpg]
+
+File to: [build/img/GRACE COLE BOUTIQUE PROSECCO & CASSIS 2S 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Cherry Blossom & Peony 250ml Body Mist  -.jpg]
+
+File to: [build/img/Grace Cole Cherry Blossom & Peony 250ml Body Mist  -.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Cherry Blossom & Peony 250ml Body Mist.jpg]
+
+File to: [build/img/Grace Cole Cherry Blossom & Peony 250ml Body Mist.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Cherry Blossom & Peony 500ml Body Wash  -.jpg]
+
+File to: [build/img/Grace Cole Cherry Blossom & Peony 500ml Body Wash  -.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Coconut & Lime 500ml Bath & Shower Gel -.jpeg]
+
+File to: [build/img/Grace Cole Coconut & Lime 500ml Bath & Shower Gel -.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRACE COLE ENGLAND GINGER LILY & MANDARIN DIFFUSER 200ML.jpg]
+
+File to: [build/img/GRACE COLE ENGLAND GINGER LILY & MANDARIN DIFFUSER 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Coconut & Lime 500ml Bath & Shower Gel -.jpg]
+
+File to: [build/img/Grace Cole Coconut & Lime 500ml Bath & Shower Gel -.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRACE COLE ENGLAND NECTARINE BLOSSOM & GRAPEFRUIT DIFFUSER 200ML.jpg]
+
+File to: [build/img/GRACE COLE ENGLAND NECTARINE BLOSSOM & GRAPEFRUIT DIFFUSER 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRACE COLE ENGLAND OUD ACCORD & VELVET MUSK DIFFUSER 200ML.jpg]
+
+File to: [build/img/GRACE COLE ENGLAND OUD ACCORD & VELVET MUSK DIFFUSER 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRACE COLE ENGLAND WARM VANILLA & SANDALWOOD DIFFUSER 200ML.jpg]
+
+File to: [build/img/GRACE COLE ENGLAND WARM VANILLA & SANDALWOOD DIFFUSER 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRACE COLE ENGLAND WHITE NECTARINE & PEAR DIFFUSER 200ML.jpg]
+
+File to: [build/img/GRACE COLE ENGLAND WHITE NECTARINE & PEAR DIFFUSER 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRACE COLE ENGLAND WILD FIG & PINK CEDAR DIFFUSER 200ML.jpg]
+
+File to: [build/img/GRACE COLE ENGLAND WILD FIG & PINK CEDAR DIFFUSER 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Fruitworks Body Lotion coconut & Lime 500ml Hand & Body Lotion.jpg]
+
+File to: [build/img/Grace Cole Fruitworks Body Lotion coconut & Lime 500ml Hand & Body Lotion.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Fruitworks Body Lotion Oud & Cassis 500ml Body Lotion  -.jpg]
+
+File to: [build/img/Grace Cole Fruitworks Body Lotion Oud & Cassis 500ml Body Lotion  -.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Fruitworks Body Lotion Strawberry & Pomelo 500ml Hand & Body Lotion  -.jpg]
+
+File to: [build/img/Grace Cole Fruitworks Body Lotion Strawberry & Pomelo 500ml Hand & Body Lotion  -.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Grapefruit & Verbena 250ml Body Mist  -.jpg]
+
+File to: [build/img/Grace Cole Grapefruit & Verbena 250ml Body Mist  -.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Grapefruit & Verbena 250ml Body Mist.jpg]
+
+File to: [build/img/Grace Cole Grapefruit & Verbena 250ml Body Mist.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Grapefruit & Verbena 500ml Body Wash.jpg]
+
+File to: [build/img/Grace Cole Grapefruit & Verbena 500ml Body Wash.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRACE COLE HAND-BODY DUO.jpg]
+
+File to: [build/img/GRACE COLE HAND-BODY DUO.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Lavender & Bergamot 250ml Body Mist  -.jpg]
+
+File to: [build/img/Grace Cole Lavender & Bergamot 250ml Body Mist  -.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Lavender & Bergamot 250ml Body Mist.jpg]
+
+File to: [build/img/Grace Cole Lavender & Bergamot 250ml Body Mist.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Lavender & Bergamot 500ml Body Wash.jpg]
+
+File to: [build/img/Grace Cole Lavender & Bergamot 500ml Body Wash.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Lime & Orange Blossom 250ml Body Mist  -.jpg]
+
+File to: [build/img/Grace Cole Lime & Orange Blossom 250ml Body Mist  -.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Lime & Orange Blossom 250ml Body Mist -.jpg]
+
+File to: [build/img/Grace Cole Lime & Orange Blossom 250ml Body Mist -.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GRACE COLE LIP BALM VARIANT 12G.jpg]
+
+File to: [build/img/GRACE COLE LIP BALM VARIANT 12G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Neroli & Sea Salt 250ml Body Mist -.jpg]
+
+File to: [build/img/Grace Cole Neroli & Sea Salt 250ml Body Mist -.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Neroli & Sea Salt 250ml Body Mist.jpg]
+
+File to: [build/img/Grace Cole Neroli & Sea Salt 250ml Body Mist.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Neroli & Sea Salt 500ml Body Wash.jpg]
+
+File to: [build/img/Grace Cole Neroli & Sea Salt 500ml Body Wash.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Oud & Cassis 250ml Body Mist  -.jpg]
+
+File to: [build/img/Grace Cole Oud & Cassis 250ml Body Mist  -.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Oud & Cassis 500ml Body Wash.jpg]
+
+File to: [build/img/Grace Cole Oud & Cassis 500ml Body Wash.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Grace Cole Rhubarb & Pomegranate 250ml Body Mist -.jpg]
+
+File to: [build/img/Grace Cole Rhubarb & Pomegranate 250ml Body Mist -.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

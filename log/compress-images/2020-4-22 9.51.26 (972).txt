@@ -1,0 +1,145 @@
+File from: [src/img/CHI HAPPY HOUR PEACH 500ML.jpg]
+
+File to: [build/img/CHI HAPPY HOUR PEACH 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI HAPPY HOUR TROPI. 150ML.png]
+
+File to: [build/img/CHI HAPPY HOUR TROPI. 150ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CHI HAPPY HOUR TROPICAL 150ML.jpg]
+
+File to: [build/img/CHI HAPPY HOUR TROPICAL 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Chi Happy hour Tropical 1L.jpg]
+
+File to: [build/img/Chi Happy hour Tropical 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI HAPPY HOUR TROPICAL 1LTR.jpg]
+
+File to: [build/img/CHI HAPPY HOUR TROPICAL 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI HAPPY HOUR TROPICAL 500ML.jpg]
+
+File to: [build/img/CHI HAPPY HOUR TROPICAL 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI HAPPY HOUR ZOBO 150ML.jpg]
+
+File to: [build/img/CHI HAPPY HOUR ZOBO 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Chi Ice Tea 315ml.jpg]
+
+File to: [build/img/Chi Ice Tea 315ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/chi ice tea 500ml 1 - Copy (2) - Copy.jpeg]
+
+File to: [build/img/chi ice tea 500ml 1 - Copy (2) - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI ICE TEA LEMON 150ML.jpg]
+
+File to: [build/img/CHI ICE TEA LEMON 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI ICE TEA LEMON 1L.jpg]
+
+File to: [build/img/CHI ICE TEA LEMON 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI ICE TEA LEMON 1LTR.jpg]
+
+File to: [build/img/CHI ICE TEA LEMON 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI ICE TEA LEMON 315ML.jpg]
+
+File to: [build/img/CHI ICE TEA LEMON 315ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI ICE TEA LEMON 500ML.jpg]
+
+File to: [build/img/CHI ICE TEA LEMON 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI ICE TEA LEMON 330ML CAN.png]
+
+File to: [build/img/CHI ICE TEA LEMON 330ML CAN.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CHI ICE TEA LEMON CAN 330ML.png]
+
+File to: [build/img/CHI ICE TEA LEMON CAN 330ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Chi Ice Tea Lemon Can 33cl.png]
+
+File to: [build/img/Chi Ice Tea Lemon Can 33cl.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/chi ice tea peach - Copy.jpeg]
+
+File to: [build/img/chi ice tea peach - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI ICE TEA PEACH 150ML.jpg]
+
+File to: [build/img/CHI ICE TEA PEACH 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI ICE TEA PEACH 1LTR.jpg]
+
+File to: [build/img/CHI ICE TEA PEACH 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI ICE TEA PEACH 315ML.jpg]
+
+File to: [build/img/CHI ICE TEA PEACH 315ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI ICE TEA PEACH 500ML.jpg]
+
+File to: [build/img/CHI ICE TEA PEACH 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/chi iced tea 1lt - Copy.jpeg]
+
+File to: [build/img/chi iced tea 1lt - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/chi jumbo sausage - Copy.jpeg]
+
+File to: [build/img/chi jumbo sausage - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

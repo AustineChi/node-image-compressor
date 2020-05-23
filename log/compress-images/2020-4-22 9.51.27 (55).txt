@@ -1,0 +1,91 @@
+File from: [src/img/Gerber Baby Cereals 454g.jpeg]
+
+File to: [build/img/Gerber Baby Cereals 454g.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gerber Baby Cereals 454g(1).jpeg]
+
+File to: [build/img/Gerber Baby Cereals 454g(1).jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gerber banana puree(sitter 2nd food).png]
+
+File to: [build/img/Gerber banana puree(sitter 2nd food).png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Gerber heartybits.jpg]
+
+File to: [build/img/Gerber heartybits.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gerber lil crunchies( 8mths) Garden tomato.jpg]
+
+File to: [build/img/Gerber lil crunchies( 8mths) Garden tomato.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gerber lil crunchies( 8mths) mild cheddar.jpg]
+
+File to: [build/img/Gerber lil crunchies( 8mths) mild cheddar.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gerber lil crunchies( 8mths) veggie dip.jpg]
+
+File to: [build/img/Gerber lil crunchies( 8mths) veggie dip.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gerber lilbits.jpg]
+
+File to: [build/img/Gerber lilbits.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gerber Lilcrunchie_Gerber Teether Wheel.jpg]
+
+File to: [build/img/Gerber Lilcrunchie_Gerber Teether Wheel.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gerber oatmeal big.JPG]
+
+File to: [build/img/Gerber oatmeal big.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gerber oatmeal small.JPG]
+
+File to: [build/img/Gerber oatmeal small.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gerber puffs.jpg]
+
+File to: [build/img/Gerber puffs.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gerber rice cereal big.jpg]
+
+File to: [build/img/Gerber rice cereal big.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gerber rice cereal small.JPG]
+
+File to: [build/img/Gerber rice cereal small.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GERBER SMARTFLOW DRINK 98G.jpg]
+
+File to: [build/img/GERBER SMARTFLOW DRINK 98G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

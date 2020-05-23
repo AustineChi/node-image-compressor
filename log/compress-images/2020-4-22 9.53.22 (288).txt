@@ -1,0 +1,421 @@
+File from: [src/img/IFGREEN GARRIVITA GARRI FLOUR 1KG.jpg]
+
+File to: [build/img/IFGREEN GARRIVITA GARRI FLOUR 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMEDEEN DERMA ONE TAB 60`S.jpg]
+
+File to: [build/img/IMEDEEN DERMA ONE TAB 60`S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMEDEEN HAIR AND NAIL TABS X 60.jpg]
+
+File to: [build/img/IMEDEEN HAIR AND NAIL TABS X 60.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMEDEEN MAN-AGE-MENT TABS 60`S.jpg]
+
+File to: [build/img/IMEDEEN MAN-AGE-MENT TABS 60`S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMEDEEN TIME PERFECTION 120`S.jpg]
+
+File to: [build/img/IMEDEEN TIME PERFECTION 120`S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Ijebulawa Garri 2kg.jpg]
+
+File to: [build/img/Ijebulawa Garri 2kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMEDEEN TIME PERFECTION X 60.jpg]
+
+File to: [build/img/IMEDEEN TIME PERFECTION X 60.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMG_20190607_111938.jpg]
+
+File to: [build/img/IMG_20190607_111938.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Immunace Caps -30.jpg]
+
+File to: [build/img/Immunace Caps -30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMMUNACE SELENIUM X 30.jpg]
+
+File to: [build/img/IMMUNACE SELENIUM X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMMUNACE TABS X 30.jpg]
+
+File to: [build/img/IMMUNACE TABS X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMMUNBOOST KIDS MULTI GUMMIES X 90.jpg]
+
+File to: [build/img/IMMUNBOOST KIDS MULTI GUMMIES X 90.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMMUNEBOOST VIT C EFF X 20.png]
+
+File to: [build/img/IMMUNEBOOST VIT C EFF X 20.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Imodium (Loperamide) 2mg Cap x6 Janssen.jpg]
+
+File to: [build/img/Imodium (Loperamide) 2mg Cap x6 Janssen.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMODIUM 1MG_5ML ORAL SOLUTION.jpg]
+
+File to: [build/img/IMODIUM 1MG_5ML ORAL SOLUTION.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Imodium 1mg-5ml Syr. (Loperamide) 100ml.jpg]
+
+File to: [build/img/Imodium 1mg-5ml Syr. (Loperamide) 100ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMODIUM 2MG X 6 CAPSULES.jpg]
+
+File to: [build/img/IMODIUM 2MG X 6 CAPSULES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMODIUM CAPS X 12.jpg]
+
+File to: [build/img/IMODIUM CAPS X 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMODIUM INSTANT MELTS X 12.jpg]
+
+File to: [build/img/IMODIUM INSTANT MELTS X 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMODIUM INSTANT MELTS X 6.jpg]
+
+File to: [build/img/IMODIUM INSTANT MELTS X 6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMODIUM PLUS COMFORT X 6.jpg]
+
+File to: [build/img/IMODIUM PLUS COMFORT X 6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Imperal Leather Orig Luxury Soap 150g.jpg]
+
+File to: [build/img/Imperal Leather Orig Luxury Soap 150g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Imperal Leather Orig Luxury Soap 75g.jpg]
+
+File to: [build/img/Imperal Leather Orig Luxury Soap 75g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMPERIAL FOR MEN (S_4 RAZOR) 3.jpg]
+
+File to: [build/img/IMPERIAL FOR MEN (S_4 RAZOR) 3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMPERIAL LEATHER BODY SPRAY BLOSSOM_ PATCHOULI.jpg]
+
+File to: [build/img/IMPERIAL LEATHER BODY SPRAY BLOSSOM_ PATCHOULI.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMPERIAL LEATHER BODY SPRAY BLOSSOM_ PATCHOULI(1).jpg]
+
+File to: [build/img/IMPERIAL LEATHER BODY SPRAY BLOSSOM_ PATCHOULI(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMPERIAL LEATHER BODY WASH JAPANESE SPA 250ML.jpg]
+
+File to: [build/img/IMPERIAL LEATHER BODY WASH JAPANESE SPA 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMPERIAL LEATHER CALMING INFUSION BATH CREAM.jpg]
+
+File to: [build/img/IMPERIAL LEATHER CALMING INFUSION BATH CREAM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMPERIAL LEATHER CLASSIC BATH BAR 150G.jpg]
+
+File to: [build/img/IMPERIAL LEATHER CLASSIC BATH BAR 150G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Imperial Leather Classic Bath Bar 70g.jpg]
+
+File to: [build/img/Imperial Leather Classic Bath Bar 70g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMPERIAL LEATHER RELAXING INFUSION BATH CREAM.png]
+
+File to: [build/img/IMPERIAL LEATHER RELAXING INFUSION BATH CREAM.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/IMPERIAL LEATHER SOAP MIX 36ML.jpg]
+
+File to: [build/img/IMPERIAL LEATHER SOAP MIX 36ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ImperialLeatherComfortingBathCream MILK _ COTTON FLWR 500ML.jpg]
+
+File to: [build/img/ImperialLeatherComfortingBathCream MILK _ COTTON FLWR 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMPORTED CELERY PER KG.jpg]
+
+File to: [build/img/IMPORTED CELERY PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Incidence Paris Natural Perfume100ml.jpg]
+
+File to: [build/img/Incidence Paris Natural Perfume100ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Incolac Banana Flavoured Uht Milk (Pet) 500ml.jpg]
+
+File to: [build/img/Incolac Banana Flavoured Uht Milk (Pet) 500ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INCOLAC CHOCOLATE UHT 500ML.JPG]
+
+File to: [build/img/INCOLAC CHOCOLATE UHT 500ML.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Indian.jpeg]
+
+File to: [build/img/Indian.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IndianBaz.jpeg]
+
+File to: [build/img/IndianBaz.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IL PERFUMED BODY SPRAY 100ML.jpg]
+
+File to: [build/img/IL PERFUMED BODY SPRAY 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Indomethacin 25mg caps x10 Satchet.jpg]
+
+File to: [build/img/Indomethacin 25mg caps x10 Satchet.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IndianLogo.jpeg]
+
+File to: [build/img/IndianLogo.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Igbokwenu Yellow Garri 2kg.png]
+
+File to: [build/img/Igbokwenu Yellow Garri 2kg.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/INDOMETHACIN 25MG X 10.jpg]
+
+File to: [build/img/INDOMETHACIN 25MG X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Indomie (SuperPack) Chicken x 40 CARTON.jpg]
+
+File to: [build/img/Indomie (SuperPack) Chicken x 40 CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE 70G CHICKEN PACK.png]
+
+File to: [build/img/INDOMIE 70G CHICKEN PACK.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/INDOMIE 70G ONION CHICKEN PACK.jpg]
+
+File to: [build/img/INDOMIE 70G ONION CHICKEN PACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE BELLE FULL PACK 16 X 280GMS.jpg]
+
+File to: [build/img/INDOMIE BELLE FULL PACK 16 X 280GMS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE BELLE FULL PACK 280G.jpg]
+
+File to: [build/img/INDOMIE BELLE FULL PACK 280G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE BELLEFUL.jpg]
+
+File to: [build/img/INDOMIE BELLEFUL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE CHICKEN FLAVOR GIANT PACK.jpg]
+
+File to: [build/img/INDOMIE CHICKEN FLAVOR GIANT PACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE CHICKEN FLAVOUR 100G.jpg]
+
+File to: [build/img/INDOMIE CHICKEN FLAVOUR 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE CHICKEN FLAVOUR 120G.jpg]
+
+File to: [build/img/INDOMIE CHICKEN FLAVOUR 120G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE CHICKEN FLAVR HUNGR200.png]
+
+File to: [build/img/INDOMIE CHICKEN FLAVR HUNGR200.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/INDOMIE CHICKEN GIANT PACK 330G.png]
+
+File to: [build/img/INDOMIE CHICKEN GIANT PACK 330G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/INDOMIE CHICKEN HUNGRYMAN 210G.jpg]
+
+File to: [build/img/INDOMIE CHICKEN HUNGRYMAN 210G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE CHICKEN HUNGRY 200G.png]
+
+File to: [build/img/INDOMIE CHICKEN HUNGRY 200G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/INDOMIE BELLE FULL ONION PACK 280G.jpg]
+
+File to: [build/img/INDOMIE BELLE FULL ONION PACK 280G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE BELLE FULL ONION CHICKEN PACK 16 X 280GMS.jpg]
+
+File to: [build/img/INDOMIE BELLE FULL ONION CHICKEN PACK 16 X 280GMS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE CHICKEN HUNGRYMAN 24 X 180GMS.jpg]
+
+File to: [build/img/INDOMIE CHICKEN HUNGRYMAN 24 X 180GMS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE CHICKEN PEPPER SOUP 100G.jpg]
+
+File to: [build/img/INDOMIE CHICKEN PEPPER SOUP 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE CHICKEN PEPPER SOUP 100GMS.jpg]
+
+File to: [build/img/INDOMIE CHICKEN PEPPER SOUP 100GMS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE CHICKEN. HUNGRY MAN.png]
+
+File to: [build/img/INDOMIE CHICKEN. HUNGRY MAN.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/INDOMIE CNION CHICKEN CARTON PRICE.jpg]
+
+File to: [build/img/INDOMIE CNION CHICKEN CARTON PRICE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE GIANT.png]
+
+File to: [build/img/INDOMIE GIANT.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Indomie Hungry Man Chicken x 24 CARTON.jpg]
+
+File to: [build/img/Indomie Hungry Man Chicken x 24 CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Indomie Hungry Man Onion x24 CARTON.jpg]
+
+File to: [build/img/Indomie Hungry Man Onion x24 CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE HUNGRY MAN SIZE CHICKEN 180G.jpg]
+
+File to: [build/img/INDOMIE HUNGRY MAN SIZE CHICKEN 180G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/INDOMIE HUNGRY MAN SIZE ONION CHICKEN FLAVOR 180G.png]
+
+File to: [build/img/INDOMIE HUNGRY MAN SIZE ONION CHICKEN FLAVOR 180G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/INDOMIE HUNGRYMAN CARTON PRICE.jpg]
+
+File to: [build/img/INDOMIE HUNGRYMAN CARTON PRICE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

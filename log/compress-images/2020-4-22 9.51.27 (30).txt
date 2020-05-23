@@ -1,0 +1,277 @@
+File from: [src/img/ELLEDI POKER GASTONE WAFERS 150G.png]
+
+File to: [build/img/ELLEDI POKER GASTONE WAFERS 150G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/elvan-extra-hazelnut.8665.jpg]
+
+File to: [build/img/elvan-extra-hazelnut.8665.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Elvan Iceberg Chocolate Bars 500g x 12.jpg]
+
+File to: [build/img/Elvan Iceberg Chocolate Bars 500g x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ELYSIUM DEAD SEA FACE WIPES 30S.jpg]
+
+File to: [build/img/ELYSIUM DEAD SEA FACE WIPES 30S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EM-VIT C SYR  100ML.jpg]
+
+File to: [build/img/EM-VIT C SYR  100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EM-VIT C. TABS  X 100 {WHITE}.jpg]
+
+File to: [build/img/EM-VIT C. TABS  X 100 {WHITE}.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EM-VIT C. TABS 100MG {ORANGE} X 100.png]
+
+File to: [build/img/EM-VIT C. TABS 100MG {ORANGE} X 100.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Em-Vit-C Syrup 100ml.jpg]
+
+File to: [build/img/Em-Vit-C Syrup 100ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Em-vit-C Tablets White x1 single tab.jpg]
+
+File to: [build/img/Em-vit-C Tablets White x1 single tab.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Em-vit-C Tablets White x1000 MerchList.jpg]
+
+File to: [build/img/Em-vit-C Tablets White x1000 MerchList.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Em-vit-C Tablets White x1000.jpg]
+
+File to: [build/img/Em-vit-C Tablets White x1000.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EMBOSSED STEEL BOWL SMALL.jpg]
+
+File to: [build/img/EMBOSSED STEEL BOWL SMALL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EMBORG WHOLE MILK 1L.jpg]
+
+File to: [build/img/EMBORG WHOLE MILK 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EMCAP SUSP  60ML.jpg]
+
+File to: [build/img/EMCAP SUSP  60ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EMMA COCONUT CREAM POWDER.jpg]
+
+File to: [build/img/EMMA COCONUT CREAM POWDER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EMMA UNSWEETENED COCONUT CREAM POWDER.jpg]
+
+File to: [build/img/EMMA UNSWEETENED COCONUT CREAM POWDER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EMPEROR OIL 5 LITRES.jpg]
+
+File to: [build/img/EMPEROR OIL 5 LITRES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EMPEROR OIL 5 LTR.jpg]
+
+File to: [build/img/EMPEROR OIL 5 LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EMPEROR PURE VEG OIL 700ML.jpg]
+
+File to: [build/img/EMPEROR PURE VEG OIL 700ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EMPEROR PURE VEGETABLE OIL 3LTR.jpg]
+
+File to: [build/img/EMPEROR PURE VEGETABLE OIL 3LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EMPEROR PURE VEGETABLE OIL 5LTR.jpg]
+
+File to: [build/img/EMPEROR PURE VEGETABLE OIL 5LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EMPEROR PURE VEGETABLE OIL 700ML.jpg]
+
+File to: [build/img/EMPEROR PURE VEGETABLE OIL 700ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EMPEROR VEGETABLE OIL 3L.jpg]
+
+File to: [build/img/EMPEROR VEGETABLE OIL 3L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EMPTY GUINNESS BOTTLES.jpg]
+
+File to: [build/img/EMPTY GUINNESS BOTTLES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EMPTY NIGERIAN BREWERIES BOTTLE.jpg]
+
+File to: [build/img/EMPTY NIGERIAN BREWERIES BOTTLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EMVITE SYR 100ML.jpg]
+
+File to: [build/img/EMVITE SYR 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EMZOCLOX SUSP  100ML.jpg]
+
+File to: [build/img/EMZOCLOX SUSP  100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EMZOCLOX.. DROPS  12ML.png]
+
+File to: [build/img/EMZOCLOX.. DROPS  12ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/EMVITE TABS  X 100.png]
+
+File to: [build/img/EMVITE TABS  X 100.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Emzor Chlorpheniramine Syrup 60ml.jpg]
+
+File to: [build/img/Emzor Chlorpheniramine Syrup 60ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EMZOR EVENING PRIMROSE OIL  CAPS 500MG X 30.jpg]
+
+File to: [build/img/EMZOR EVENING PRIMROSE OIL  CAPS 500MG X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Emzor Garlic Oil 0.650mg Caps. x30.jpg]
+
+File to: [build/img/Emzor Garlic Oil 0.650mg Caps. x30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Emzor Paracetamol 500mg tabs x96 Pack.jpg]
+
+File to: [build/img/Emzor Paracetamol 500mg tabs x96 Pack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Emzor Vitamin E 1000mg Caps. x30.jpg]
+
+File to: [build/img/Emzor Vitamin E 1000mg Caps. x30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Enchanteur Body Spray 150ml.jpg]
+
+File to: [build/img/Enchanteur Body Spray 150ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Enchanteur Perfumed Talc 50g.jpg]
+
+File to: [build/img/Enchanteur Perfumed Talc 50g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ENDIX-G 20G.jpg]
+
+File to: [build/img/ENDIX-G 20G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Energizer Battery AA2 x 20.jpg]
+
+File to: [build/img/Energizer Battery AA2 x 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Energro Eggrich Milk Biscuit 58g.jpg]
+
+File to: [build/img/Energro Eggrich Milk Biscuit 58g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Energy Drink Xploza 250ml x24 - Carton.jpg]
+
+File to: [build/img/Energy Drink Xploza 250ml x24 - Carton.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Enfagrow.JPG]
+
+File to: [build/img/Enfagrow.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Enfamil neuropro gentleease.jpg]
+
+File to: [build/img/Enfamil neuropro gentleease.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Enfamil premium.jpeg]
+
+File to: [build/img/Enfamil premium.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Enfamil premium.png]
+
+File to: [build/img/Enfamil premium.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/EMERALD HAMPER.jpg]
+
+File to: [build/img/EMERALD HAMPER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Emvit-C(Vitamin C) Syrup 100mg-5mlx100ml.jpg]
+
+File to: [build/img/Emvit-C(Vitamin C) Syrup 100mg-5mlx100ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

@@ -1,0 +1,337 @@
+File from: [src/img/PROWORKS YOGA ROLLER - BLACK & GREEN.jpg]
+
+File to: [build/img/PROWORKS YOGA ROLLER - BLACK & GREEN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PROXIMEXA 500MG.jpg]
+
+File to: [build/img/PROXIMEXA 500MG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PROXIMEXA TABS 250MG X 10.png]
+
+File to: [build/img/PROXIMEXA TABS 250MG X 10.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/PS WIPES TRAVEL PACK.jpg]
+
+File to: [build/img/PS WIPES TRAVEL PACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Ps4 devil may cry v.jpg]
+
+File to: [build/img/Ps4 devil may cry v.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Ps4 metal gear solid.jpg]
+
+File to: [build/img/Ps4 metal gear solid.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pucelle Mist Cologne 150ml x 24 (2).jpg]
+
+File to: [build/img/Pucelle Mist Cologne 150ml x 24 (2).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Puck Cheese Spread 500g x 6.jpg]
+
+File to: [build/img/Puck Cheese Spread 500g x 6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Puck Cheese Spread 240g x12.jpg]
+
+File to: [build/img/Puck Cheese Spread 240g x12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PUFFNPAZZ ALUMINUM FOIL PAPER 50S.jpg]
+
+File to: [build/img/PUFFNPAZZ ALUMINUM FOIL PAPER 50S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pullups.JPG]
+
+File to: [build/img/Pullups.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PUNCH & JUDDY TOOTHPASTE VERY BERRY 50ML.jpg]
+
+File to: [build/img/PUNCH & JUDDY TOOTHPASTE VERY BERRY 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Punch `n Judy Children Toothpaste 50ml E.jpg]
+
+File to: [build/img/Punch `n Judy Children Toothpaste 50ml E.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PUP PERONI BACON FLAVOUR 75G.jpg]
+
+File to: [build/img/PUP PERONI BACON FLAVOUR 75G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Purcill Hand Sanitizer 60ml.jpg]
+
+File to: [build/img/Purcill Hand Sanitizer 60ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURE 3 IN 1 MAKE-UP REMOVAL 30 COMPLETE CLEANSING WIPES.jpg]
+
+File to: [build/img/PURE 3 IN 1 MAKE-UP REMOVAL 30 COMPLETE CLEANSING WIPES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURE AGE DEFIANCE 30 COMPLETE CLEANSING WIPES.jpg]
+
+File to: [build/img/PURE AGE DEFIANCE 30 COMPLETE CLEANSING WIPES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pure Black EDT Pour Homme 100ml.jpg]
+
+File to: [build/img/Pure Black EDT Pour Homme 100ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURE BLISS CHOCOLATE CREAM WAFER 45G.jpg]
+
+File to: [build/img/PURE BLISS CHOCOLATE CREAM WAFER 45G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURE BLISS COCOA.jpg]
+
+File to: [build/img/PURE BLISS COCOA.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pure Bliss Milk Cream Wafers 45g55gx72.jpg]
+
+File to: [build/img/Pure Bliss Milk Cream Wafers 45g55gx72.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pure BLiss Premium Milk Cookies 75gx72.jpg]
+
+File to: [build/img/Pure BLiss Premium Milk Cookies 75gx72.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURE BLISS RICH COCOA 55G.jpg]
+
+File to: [build/img/PURE BLISS RICH COCOA 55G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURE BLISS STRAWBERRY CREAM WAFER 45G.jpg]
+
+File to: [build/img/PURE BLISS STRAWBERRY CREAM WAFER 45G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURE BLISS WAFFERS.jpg]
+
+File to: [build/img/PURE BLISS WAFFERS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pure Carrot Body Lotion Ranges 450mlx12.jpg]
+
+File to: [build/img/Pure Carrot Body Lotion Ranges 450mlx12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pure Carrot Face Cream 30g x144.jpg]
+
+File to: [build/img/Pure Carrot Face Cream 30g x144.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pure Carrot Serum Mixed  60ml x 24.jpg]
+
+File to: [build/img/Pure Carrot Serum Mixed  60ml x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pure Carrot Soap Ranges 190g x 48.jpg]
+
+File to: [build/img/Pure Carrot Soap Ranges 190g x 48.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pure Crown Purity Fair Body Milk 500ml.jpg]
+
+File to: [build/img/Pure Crown Purity Fair Body Milk 500ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pure Crown Purity Fair Shower Gel 1200ml.jpg]
+
+File to: [build/img/Pure Crown Purity Fair Shower Gel 1200ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURE DEEP CLEANSE 30 COMPLETE WIPES.jpg]
+
+File to: [build/img/PURE DEEP CLEANSE 30 COMPLETE WIPES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pure Crown Whitening Milk 500ml x 24.jpg]
+
+File to: [build/img/Pure Crown Whitening Milk 500ml x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURE EXFOLIATING 25 COMPLETE CLEANSING WIPES.jpg]
+
+File to: [build/img/PURE EXFOLIATING 25 COMPLETE CLEANSING WIPES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURE GOLD COLLAGEN 10 DAYS X 10.jpg]
+
+File to: [build/img/PURE GOLD COLLAGEN 10 DAYS X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pure Heaven Premium Sparkling Wine 750ml.jpg]
+
+File to: [build/img/Pure Heaven Premium Sparkling Wine 750ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURE HEAVEN RED GRAPE 330ML.jpg]
+
+File to: [build/img/PURE HEAVEN RED GRAPE 330ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURE HEAVEN RED GRAPE 250ML.jpg]
+
+File to: [build/img/PURE HEAVEN RED GRAPE 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pure Heaven Sparkling Wine Can 330mlx24.jpg]
+
+File to: [build/img/Pure Heaven Sparkling Wine Can 330mlx24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURE KLENZ HAND SANITIZER 100ML.png]
+
+File to: [build/img/PURE KLENZ HAND SANITIZER 100ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/PURE INTIMATE FEMININE 30 COMPLETE CLEANSING WIPES.jpg]
+
+File to: [build/img/PURE INTIMATE FEMININE 30 COMPLETE CLEANSING WIPES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURE MICELLAR WATER WIPES 25 COMPLETE CLEANSING WIPES.jpg]
+
+File to: [build/img/PURE MICELLAR WATER WIPES 25 COMPLETE CLEANSING WIPES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURE SENSITIVE 25 COMPLETE CLEANSING WIPES.jpg]
+
+File to: [build/img/PURE SENSITIVE 25 COMPLETE CLEANSING WIPES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURE PROTEIN BARS MIX 50G.jpg]
+
+File to: [build/img/PURE PROTEIN BARS MIX 50G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURE WESSON CONOLA OIL 3.79L.jpg]
+
+File to: [build/img/PURE WESSON CONOLA OIL 3.79L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURE WESSON CORN OIL 3.79L.jpg]
+
+File to: [build/img/PURE WESSON CORN OIL 3.79L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURE WESSON VEGETABLE OIL 3.79L.jpg]
+
+File to: [build/img/PURE WESSON VEGETABLE OIL 3.79L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURE-KLENZ  HAND SANITIZER 100ML.png]
+
+File to: [build/img/PURE-KLENZ  HAND SANITIZER 100ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Pure White Gold Exfoliant Soap 150g.jpg]
+
+File to: [build/img/Pure White Gold Exfoliant Soap 150g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PUREEN KIDS YOGURT BATH ORANGE 750ML.jpg]
+
+File to: [build/img/PUREEN KIDS YOGURT BATH ORANGE 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PUREEN KIDS YOGURT HEAD TO TOE WASH NATURAL 750ML.jpg]
+
+File to: [build/img/PUREEN KIDS YOGURT HEAD TO TOE WASH NATURAL 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PUREEN KIDS YOGURT HEAD TO TOE WASH APPLE 750ML.jpg]
+
+File to: [build/img/PUREEN KIDS YOGURT HEAD TO TOE WASH APPLE 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PUREEN KIDS YOGURT HEAD TO TOE WASH ORANGE 750ML.jpg]
+
+File to: [build/img/PUREEN KIDS YOGURT HEAD TO TOE WASH ORANGE 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PUREEN KIDS YOGURT HEAD TO TOE WASH PEACH MANGO 750ML.jpg]
+
+File to: [build/img/PUREEN KIDS YOGURT HEAD TO TOE WASH PEACH MANGO 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PUREEN KIDS YOGURT HEAD TO TOE WASH PEACH _ MANGO.jpg]
+
+File to: [build/img/PUREEN KIDS YOGURT HEAD TO TOE WASH PEACH _ MANGO.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PUREL SANITIZER 59ML.jpg]
+
+File to: [build/img/PUREL SANITIZER 59ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

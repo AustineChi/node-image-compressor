@@ -1,0 +1,61 @@
+File from: [src/img/MEAD SECURITY ENVELOPES 80 COUNT.jpg]
+
+File to: [build/img/MEAD SECURITY ENVELOPES 80 COUNT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MeatPie & Fish Pie.jpg]
+
+File to: [build/img/MeatPie & Fish Pie.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/meatshopNigeria.jpg]
+
+File to: [build/img/meatshopNigeria.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Medasaf logo.jpg]
+
+File to: [build/img/Medasaf logo.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/meal by peace logo.jpg]
+
+File to: [build/img/meal by peace logo.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Medi Soft Medicated Soap 70gx72.jpg]
+
+File to: [build/img/Medi Soft Medicated Soap 70gx72.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEDICA LOZENGES X 36 ALL.jpg]
+
+File to: [build/img/MEDICA LOZENGES X 36 ALL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Medicated Mentholated Dustin Powder 200g.jpg]
+
+File to: [build/img/Medicated Mentholated Dustin Powder 200g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Medisure Pill Cutter x1.jpg]
+
+File to: [build/img/Medisure Pill Cutter x1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEDITOL ANTIBACTERIAL & ANTIMOSUITO 75G.jpg]
+
+File to: [build/img/MEDITOL ANTIBACTERIAL & ANTIMOSUITO 75G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

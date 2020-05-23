@@ -1,0 +1,37 @@
+File from: [src/img/DUBIC MALT BOTTLE.png]
+
+File to: [build/img/DUBIC MALT BOTTLE.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DUBIC MALT CAN.jpg]
+
+File to: [build/img/DUBIC MALT CAN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUBIC MALT PET 330ML.png]
+
+File to: [build/img/DUBIC MALT PET 330ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DUBIC MALT PET.png]
+
+File to: [build/img/DUBIC MALT PET.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DUCROS CURRY POWDER 25G.jpg]
+
+File to: [build/img/DUCROS CURRY POWDER 25G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Ducros Curry Powder Dried Thym 10g.jpg]
+
+File to: [build/img/Ducros Curry Powder Dried Thym 10g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

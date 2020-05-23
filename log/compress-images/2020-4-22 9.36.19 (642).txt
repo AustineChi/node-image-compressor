@@ -1,0 +1,373 @@
+File from: [src/img/CH-WOODEN-ABC.123 BLOCKS.jpg]
+
+File to: [build/img/CH-WOODEN-ABC.123 BLOCKS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-WOODEN-ABC&123 BLOCK CART.jpg]
+
+File to: [build/img/CH-WOODEN-ABC&123 BLOCK CART.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-WOODEN-VECHILE STAMP SET.jpg]
+
+File to: [build/img/CH-WOODEN-VECHILE STAMP SET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-ZOO ANIIMAL TRAIN SET.jpg]
+
+File to: [build/img/CH-ZOO ANIIMAL TRAIN SET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/chapeau rose - Copy.jpeg]
+
+File to: [build/img/chapeau rose - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHAMDOR RED 75ML.jpg]
+
+File to: [build/img/CHAMDOR RED 75ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Chapeau Rose Merlot Carbanet Wine 75cl.png]
+
+File to: [build/img/Chapeau Rose Merlot Carbanet Wine 75cl.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CHAPET LIP BALM 15OZ.jpg]
+
+File to: [build/img/CHAPET LIP BALM 15OZ.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-WOODEN_STRINGING BEADS.jpg]
+
+File to: [build/img/CH-WOODEN_STRINGING BEADS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-WOODEN TOWN PLAY SET.jpg]
+
+File to: [build/img/CH-WOODEN TOWN PLAY SET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CH-WOODEN-ANIMAL STAMP SET    .jpg]
+
+File to: [build/img/CH-WOODEN-ANIMAL STAMP SET    .jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Chapeau Rose_Merlot_Carbanet Wine 75cl.png]
+
+File to: [build/img/Chapeau Rose_Merlot_Carbanet Wine 75cl.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/chapman original mix - Copy.jpeg]
+
+File to: [build/img/chapman original mix - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Chapstick Apple.jpg]
+
+File to: [build/img/Chapstick Apple.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Chapstick cherry.jpeg]
+
+File to: [build/img/Chapstick cherry.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHAPSTICK ORIGINAL.jpg]
+
+File to: [build/img/CHAPSTICK ORIGINAL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHAPSTICK STRAWBERRY.jpg]
+
+File to: [build/img/CHAPSTICK STRAWBERRY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/chara kuli kuli.jpg]
+
+File to: [build/img/chara kuli kuli.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/chara kuli-kuli peanut - Copy.jpeg]
+
+File to: [build/img/chara kuli-kuli peanut - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHARCOAL CLAY MASK 100ML.jpg]
+
+File to: [build/img/CHARCOAL CLAY MASK 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHARCOAL DETOX CLEANSER 150ML.jpg]
+
+File to: [build/img/CHARCOAL DETOX CLEANSER 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHARCOAL DETOX FACIAL WIPES 25.jpg]
+
+File to: [build/img/CHARCOAL DETOX FACIAL WIPES 25.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHARCOAL FACIAL SCRUB 150ML.jpg]
+
+File to: [build/img/CHARCOAL FACIAL SCRUB 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHARCOAL SHAMPOO 200ML.jpg]
+
+File to: [build/img/CHARCOAL SHAMPOO 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/charm naphthalene balls - Copy.jpeg]
+
+File to: [build/img/charm naphthalene balls - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/chealsea dry gin - Copy.jpeg]
+
+File to: [build/img/chealsea dry gin - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/chealsea dry gin 32cl - Copy.jpeg]
+
+File to: [build/img/chealsea dry gin 32cl - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/checkers 3 in 1 Garri - Copy.jpeg]
+
+File to: [build/img/checkers 3 in 1 Garri - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Checkers 3 in 1 Milk Custard 1.5kg x 3.jpg]
+
+File to: [build/img/Checkers 3 in 1 Milk Custard 1.5kg x 3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHECKERS CUSTARD BANANA FLAVOUR 2KG.jpg]
+
+File to: [build/img/CHECKERS CUSTARD BANANA FLAVOUR 2KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHECKERS CUSTARD PODER SATCHET BANANA 50G.jpg]
+
+File to: [build/img/CHECKERS CUSTARD PODER SATCHET BANANA 50G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHECKERS CUSTARD PODER SATCHET VAN.50G.jpg]
+
+File to: [build/img/CHECKERS CUSTARD PODER SATCHET VAN.50G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Checkers Custard Powder 1kg x 8 Ref.png]
+
+File to: [build/img/Checkers Custard Powder 1kg x 8 Ref.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CHECKERS CUSTARD PODER SATCHET VAN.400G.jpg]
+
+File to: [build/img/CHECKERS CUSTARD PODER SATCHET VAN.400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHECKERS CUSTARD POWDER 3 IN 1 FLAVOUR 2KG.jpg]
+
+File to: [build/img/CHECKERS CUSTARD POWDER 3 IN 1 FLAVOUR 2KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Checkers Custard Powder 400g x 16 Ref.jpg]
+
+File to: [build/img/Checkers Custard Powder 400g x 16 Ref.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHECKERS CUSTARD POWDER 400G.jpg]
+
+File to: [build/img/CHECKERS CUSTARD POWDER 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHECKERS CUSTARD POWDER BANANA FLAVOUR 2KG.jpg]
+
+File to: [build/img/CHECKERS CUSTARD POWDER BANANA FLAVOUR 2KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHECKERS CUSTARD POWDER VANILLA FLAVOUR 2KG.jpg]
+
+File to: [build/img/CHECKERS CUSTARD POWDER VANILLA FLAVOUR 2KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHECKERS CUSTARD POWDER VANILLA FLAVOUR 50G.jpg]
+
+File to: [build/img/CHECKERS CUSTARD POWDER VANILLA FLAVOUR 50G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHECKERS GARRI 3IN1 GARRI SUGAR&MILK 85G.jpg]
+
+File to: [build/img/CHECKERS GARRI 3IN1 GARRI SUGAR&MILK 85G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHEESE BAG 4CASES.jpg]
+
+File to: [build/img/CHEESE BAG 4CASES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/cheese balls jumbo - Copy.jpeg]
+
+File to: [build/img/cheese balls jumbo - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHEESE BALLS JUMBO 8G.jpg]
+
+File to: [build/img/CHEESE BALLS JUMBO 8G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/chekers custard powder - Copy - Copy.jpeg]
+
+File to: [build/img/chekers custard powder - Copy - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/chekers custard powder 50gm - Copy (2).jpeg]
+
+File to: [build/img/chekers custard powder 50gm - Copy (2).jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/chekers custard powder - Copy.jpeg]
+
+File to: [build/img/chekers custard powder - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/chekers organic oats 50gm - Copy.jpeg]
+
+File to: [build/img/chekers organic oats 50gm - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHELSEA LONDON DRY GIN 180ML.jpeg]
+
+File to: [build/img/CHELSEA LONDON DRY GIN 180ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHELSEA LONDON DRY GIN 180ML.jpg]
+
+File to: [build/img/CHELSEA LONDON DRY GIN 180ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHEMIRON CAPS X 10.jpg]
+
+File to: [build/img/CHEMIRON CAPS X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHEMIRON SYR  200ML.jpg]
+
+File to: [build/img/CHEMIRON SYR  200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/cherie D or natural grap drink - Copy.jpeg]
+
+File to: [build/img/cherie D or natural grap drink - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHERRY BLOSSOM BODY BUTTER CREAM 200ML.jpg]
+
+File to: [build/img/CHERRY BLOSSOM BODY BUTTER CREAM 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cherry Carmex Moisturising Lip Balm 7.5g.jpg]
+
+File to: [build/img/Cherry Carmex Moisturising Lip Balm 7.5g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHERRY FRUITS PER KG.jpg]
+
+File to: [build/img/CHERRY FRUITS PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHERRY TOMATOES.jpg]
+
+File to: [build/img/CHERRY TOMATOES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHESS MAGNETIC FOLDING BOAD.jpg]
+
+File to: [build/img/CHESS MAGNETIC FOLDING BOAD.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHEX MIX BOLD PARTY BLEND 248G.png]
+
+File to: [build/img/CHEX MIX BOLD PARTY BLEND 248G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CHEST AND LUNGS(DIVINE) X 20.jpg]
+
+File to: [build/img/CHEST AND LUNGS(DIVINE) X 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHEX MIX HONEYNUT SWEET & SALTY 248G.png]
+
+File to: [build/img/CHEX MIX HONEYNUT SWEET & SALTY 248G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CHEX MIX SWEET & SALTY 248G.JPG]
+
+File to: [build/img/CHEX MIX SWEET & SALTY 248G.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

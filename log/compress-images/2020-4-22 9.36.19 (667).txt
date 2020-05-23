@@ -1,0 +1,535 @@
+File from: [src/img/Dr Organic 5 in 1 Spot Treatment Pack.jpg]
+
+File to: [build/img/Dr Organic 5 in 1 Spot Treatment Pack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic 5 in 1 Toner 200ml.jpg]
+
+File to: [build/img/Dr Organic 5 in 1 Toner 200ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Aloe Vera Face Wash.jpg]
+
+File to: [build/img/Dr Organic Aloe Vera Face Wash.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic 5 in 1 Treatment Gel 10ml.jpg]
+
+File to: [build/img/Dr Organic 5 in 1 Treatment Gel 10ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic ARgan Hair Treatment Serum.jpg]
+
+File to: [build/img/Dr Organic ARgan Hair Treatment Serum.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Argan oil BreastFirming.jpg]
+
+File to: [build/img/Dr Organic Argan oil BreastFirming.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Argan Oil Face Wash150ml.jpg]
+
+File to: [build/img/Dr Organic Argan Oil Face Wash150ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Dead Facial Wash.jpeg]
+
+File to: [build/img/Dr Organic Dead Facial Wash.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DR ORGANIC DEAD SEA MINERAL EYE SERUM.jpg]
+
+File to: [build/img/DR ORGANIC DEAD SEA MINERAL EYE SERUM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Dead Sea Salts.jpg]
+
+File to: [build/img/Dr Organic Dead Sea Salts.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Deep Pore Charcoal Mask 100mls.jpg]
+
+File to: [build/img/Dr Organic Deep Pore Charcoal Mask 100mls.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Hands and Nail Treatment.jpg]
+
+File to: [build/img/Dr Organic Hands and Nail Treatment.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic  Tea Tree Blemish Stick.jpg]
+
+File to: [build/img/Dr Organic  Tea Tree Blemish Stick.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic  Tea Tree Mouthwash.jpg]
+
+File to: [build/img/Dr Organic  Tea Tree Mouthwash.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DR ORGANIC LIGHT & BRIGHT CREAM 125ML.jpg]
+
+File to: [build/img/DR ORGANIC LIGHT & BRIGHT CREAM 125ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Light & Bright Tone Correcting Cream.jpg]
+
+File to: [build/img/Dr Organic Light & Bright Tone Correcting Cream.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic moisture Melt Coconut Oil.jpg]
+
+File to: [build/img/Dr Organic moisture Melt Coconut Oil.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DR ORGANIC PRO COLLAGEN  WITH DRAGON BLOOD.jpg]
+
+File to: [build/img/DR ORGANIC PRO COLLAGEN  WITH DRAGON BLOOD.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Pure Argan  Oil.jpg]
+
+File to: [build/img/Dr Organic Pure Argan  Oil.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Rose Otto Day Cream.jpg]
+
+File to: [build/img/Dr Organic Rose Otto Day Cream.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Rose Otto Lip Serum 10ml.jpg]
+
+File to: [build/img/Dr Organic Rose Otto Lip Serum 10ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Royal Jelly  Eye Serum 15ml.jpg]
+
+File to: [build/img/Dr Organic Royal Jelly  Eye Serum 15ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Royal Jelly  Soap.jpg]
+
+File to: [build/img/Dr Organic Royal Jelly  Soap.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Royal Jelly Cellulite Cream  200ml.jpg]
+
+File to: [build/img/Dr Organic Royal Jelly Cellulite Cream  200ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Royal Jelly Day Cream 50mls.jpg]
+
+File to: [build/img/Dr Organic Royal Jelly Day Cream 50mls.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Royal Jelly Lip Serum 10ml.jpg]
+
+File to: [build/img/Dr Organic Royal Jelly Lip Serum 10ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Royal Jelly Night Cream 50mls.jpg]
+
+File to: [build/img/Dr Organic Royal Jelly Night Cream 50mls.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DR ORGANIC ROYAL JELLY SOAP 100ML.jpg]
+
+File to: [build/img/DR ORGANIC ROYAL JELLY SOAP 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Skin Clear Daily Scrub 125mls.jpg]
+
+File to: [build/img/Dr Organic Skin Clear Daily Scrub 125mls.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Skin Clear Deep Pore Face Wash 125mls.jpg]
+
+File to: [build/img/Dr Organic Skin Clear Deep Pore Face Wash 125mls.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Skin Clear tea tree Oil Control Moisturiser 50ml.jpg]
+
+File to: [build/img/Dr Organic Skin Clear tea tree Oil Control Moisturiser 50ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Snail gel.jpg]
+
+File to: [build/img/Dr Organic Snail gel.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DR ORGANIC TEA TREE BATH & SHOWER GEL 250ML.jpg]
+
+File to: [build/img/DR ORGANIC TEA TREE BATH & SHOWER GEL 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Tea Tree Facial Wash.jpg]
+
+File to: [build/img/Dr Organic Tea Tree Facial Wash.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Tea Tree Lip Balm.jpg]
+
+File to: [build/img/Dr Organic Tea Tree Lip Balm.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Rose Otto Face Wash.jpg]
+
+File to: [build/img/Dr Organic Rose Otto Face Wash.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Tea Tree  Deodorant.jpg]
+
+File to: [build/img/Dr Organic Tea Tree  Deodorant.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DR ORGANIC TEA TREE SOAP 100ML.jpg]
+
+File to: [build/img/DR ORGANIC TEA TREE SOAP 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Tea Tree Soap.jpg]
+
+File to: [build/img/Dr Organic Tea Tree Soap.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Tea Tree Toothpaste.jpg]
+
+File to: [build/img/Dr Organic Tea Tree Toothpaste.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Tea Tree Wipes.jpg]
+
+File to: [build/img/Dr Organic Tea Tree Wipes.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DR ORGANIC TEE TREE BLEMISH STICK 8ML.jpg]
+
+File to: [build/img/DR ORGANIC TEE TREE BLEMISH STICK 8ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DR ORGANIC TEE TREE TOOTH PASTE 100ML.jpg]
+
+File to: [build/img/DR ORGANIC TEE TREE TOOTH PASTE 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Vit E  Bath oil.jpg]
+
+File to: [build/img/Dr Organic Vit E  Bath oil.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Vit E Scar and Strech Mark.jpg]
+
+File to: [build/img/Dr Organic Vit E Scar and Strech Mark.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DR ORGANICROSE OTTO SOAP 100ML.jpg]
+
+File to: [build/img/DR ORGANICROSE OTTO SOAP 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DR RASHEL BLACK MASK 100ML.jpg]
+
+File to: [build/img/DR RASHEL BLACK MASK 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic Tea Tree pure oil.jpg]
+
+File to: [build/img/Dr Organic Tea Tree pure oil.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Sheffield`s Anti-Itch Cream 35g.jpg]
+
+File to: [build/img/Dr Sheffield`s Anti-Itch Cream 35g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr. Organic  Tea Tree Bath & Shower Gel.jpg]
+
+File to: [build/img/Dr. Organic  Tea Tree Bath & Shower Gel.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr. Sheffields Ear Wax Removal.jpg]
+
+File to: [build/img/Dr. Sheffields Ear Wax Removal.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DRAMBUIE SCOTCH WHISKY 70CL.jpg]
+
+File to: [build/img/DRAMBUIE SCOTCH WHISKY 70CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DREAM MATTE MOUSSE FOUNDATION ALMOND 55.jpg]
+
+File to: [build/img/DREAM MATTE MOUSSE FOUNDATION ALMOND 55.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DREAM MATTE MOUSSE FOUNDATION CARAMEL.jpg]
+
+File to: [build/img/DREAM MATTE MOUSSE FOUNDATION CARAMEL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DREAM MATTE MOUSSE FOUNDATION CHESTNUT 67.jpg]
+
+File to: [build/img/DREAM MATTE MOUSSE FOUNDATION CHESTNUT 67.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DREAM MATTE MOUSSE FOUNDATION COCOA.jpeg]
+
+File to: [build/img/DREAM MATTE MOUSSE FOUNDATION COCOA.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DREAM MATTE MOUSSE FOUNDATION ESPRESSO 72.jpg]
+
+File to: [build/img/DREAM MATTE MOUSSE FOUNDATION ESPRESSO 72.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DREAM MATTE MOUSSE FOUNDATION HAZELNUT 76.jpg]
+
+File to: [build/img/DREAM MATTE MOUSSE FOUNDATION HAZELNUT 76.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DREAM MATTE MOUSSE FOUNDATION MAHOGANY 78.jpg]
+
+File to: [build/img/DREAM MATTE MOUSSE FOUNDATION MAHOGANY 78.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DREAM MATTE MOUSSE FOUNDATION NUTMEG 63.jpg]
+
+File to: [build/img/DREAM MATTE MOUSSE FOUNDATION NUTMEG 63.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DREMA V10 ANTIWRINKLE CREAM 50ML.png]
+
+File to: [build/img/DREMA V10 ANTIWRINKLE CREAM 50ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DriedSFish.jpeg]
+
+File to: [build/img/DriedSFish.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DriedSmokedFish.jpeg]
+
+File to: [build/img/DriedSmokedFish.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Drink1.jpeg]
+
+File to: [build/img/Drink1.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Drink2.jpeg]
+
+File to: [build/img/Drink2.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Drink3.jpeg]
+
+File to: [build/img/Drink3.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Drink5.jpeg]
+
+File to: [build/img/Drink5.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Drink4.jpeg]
+
+File to: [build/img/Drink4.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/drinkstoreIcon.jpeg]
+
+File to: [build/img/drinkstoreIcon.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DROSTDY-HOF CLARET RED 750ML.jpg]
+
+File to: [build/img/DROSTDY-HOF CLARET RED 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DRIP GIVING SET X1.jpg]
+
+File to: [build/img/DRIP GIVING SET X1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DROSTDY-HOF GRAND CRU 750ML.jpg]
+
+File to: [build/img/DROSTDY-HOF GRAND CRU 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DROSTDY-HOF RED MERLOT 750ML.jpg]
+
+File to: [build/img/DROSTDY-HOF RED MERLOT 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DROSTDY-HOF RED CABERNET SAUVIGNON 750ML.jpg]
+
+File to: [build/img/DROSTDY-HOF RED CABERNET SAUVIGNON 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DROSTDY-HOF RED PINOTAGE 750ML.jpg]
+
+File to: [build/img/DROSTDY-HOF RED PINOTAGE 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DROSTDY-HOF WHITE CHATDONY 750ML.jpg]
+
+File to: [build/img/DROSTDY-HOF WHITE CHATDONY 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DROVID TABS 200MG X 10.jpg]
+
+File to: [build/img/DROVID TABS 200MG X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DRY COCONUT PER PIECE.jpg]
+
+File to: [build/img/DRY COCONUT PER PIECE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DROVID TABS 400MG X 10.jpg]
+
+File to: [build/img/DROVID TABS 400MG X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DTOWN-SINGLETON X6.jpg]
+
+File to: [build/img/DTOWN-SINGLETON X6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DRY SHRIMPS 1KG.jpg]
+
+File to: [build/img/DRY SHRIMPS 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUBIC MALT 330ML CAN.png]
+
+File to: [build/img/DUBIC MALT 330ML CAN.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DUAC ONCE DAILY GEL X 30G.jpg]
+
+File to: [build/img/DUAC ONCE DAILY GEL X 30G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUBIC MALT BOTTLE.png]
+
+File to: [build/img/DUBIC MALT BOTTLE.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DR ORGANIC TEA TREE MOUTHWASH 500ML.jpg]
+
+File to: [build/img/DR ORGANIC TEA TREE MOUTHWASH 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DR RASHEL BLACK PEEL OFF MASK 100ML.jpg]
+
+File to: [build/img/DR RASHEL BLACK PEEL OFF MASK 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DR ORGANIC SKIN CLEAR TEA TREE TONER 5 IN 1 200ML.jpg]
+
+File to: [build/img/DR ORGANIC SKIN CLEAR TEA TREE TONER 5 IN 1 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DUBIC MALT CAN.jpg]
+
+File to: [build/img/DUBIC MALT CAN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dr Organic  Tea TreeBody Lotion.jpg]
+
+File to: [build/img/Dr Organic  Tea TreeBody Lotion.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

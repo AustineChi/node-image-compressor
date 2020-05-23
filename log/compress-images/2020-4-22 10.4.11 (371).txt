@@ -1,0 +1,211 @@
+File from: [src/img/SHISHA FLAVOUR ORANGE & CREAM.jpg]
+
+File to: [build/img/SHISHA FLAVOUR ORANGE & CREAM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SHISHA LIQUID FLAVOUR.jpg]
+
+File to: [build/img/SHISHA LIQUID FLAVOUR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SHISHA HOSE NORMAL.jpg]
+
+File to: [build/img/SHISHA HOSE NORMAL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SHISHA POT 12-1.jpg]
+
+File to: [build/img/SHISHA POT 12-1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SHISHA PEN FLAVOURS.jpg]
+
+File to: [build/img/SHISHA PEN FLAVOURS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SHISHA POT 12-2.jpg]
+
+File to: [build/img/SHISHA POT 12-2.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SHISHA POT NS7.jpg]
+
+File to: [build/img/SHISHA POT NS7.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SHISHA POT PLASTIC.jpg]
+
+File to: [build/img/SHISHA POT PLASTIC.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SHOE BRUSH.jpeg]
+
+File to: [build/img/SHOE BRUSH.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SHOE LACE.jpg]
+
+File to: [build/img/SHOE LACE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SHOE POLISH BROWN.jpg]
+
+File to: [build/img/SHOE POLISH BROWN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SHOE SHINE SPONGE 2`S.jpg]
+
+File to: [build/img/SHOE SHINE SPONGE 2`S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SHORTCAKE 120G.png]
+
+File to: [build/img/SHORTCAKE 120G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SHOW SHOE SPONGE.jpg]
+
+File to: [build/img/SHOW SHOE SPONGE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SHRIMPS SPRING ROLLS 240G.jpg]
+
+File to: [build/img/SHRIMPS SPRING ROLLS 240G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SHRIMPS JUMBO TEMPURA 300G.jpg]
+
+File to: [build/img/SHRIMPS JUMBO TEMPURA 300G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Shrimps.jpg]
+
+File to: [build/img/Shrimps.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SILK VANILLA ALMOND MILK 946ML.jpg]
+
+File to: [build/img/SILK VANILLA ALMOND MILK 946ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Silka Whitening Herbal Soap 135g.jpg]
+
+File to: [build/img/Silka Whitening Herbal Soap 135g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SILVER BIRD OIL 30ML.jpg]
+
+File to: [build/img/SILVER BIRD OIL 30ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SILVER SHINE SPONGE NEUTRAL 6ML.jpeg]
+
+File to: [build/img/SILVER SHINE SPONGE NEUTRAL 6ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SIMAS MARGARINE 250G.jpg]
+
+File to: [build/img/SIMAS MARGARINE 250G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SIMBA BICYCLE RED.jpg]
+
+File to: [build/img/SIMBA BICYCLE RED.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SIMILAC ADVANCE BABY FOOD 0-12M 1.13KG.jpg]
+
+File to: [build/img/SIMILAC ADVANCE BABY FOOD 0-12M 1.13KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/similac Advance 873g.jpg]
+
+File to: [build/img/similac Advance 873g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/similac go & grow toddler milk(12-24).png]
+
+File to: [build/img/similac go & grow toddler milk(12-24).png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Similac pro advance.jpg]
+
+File to: [build/img/Similac pro advance.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Similac sensitive (0-12mths).jpg]
+
+File to: [build/img/Similac sensitive (0-12mths).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Similac sensitive.jpg]
+
+File to: [build/img/Similac sensitive.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SIMPLE MICELLAR CLEANSING WATER 400ML.jpg]
+
+File to: [build/img/SIMPLE MICELLAR CLEANSING WATER 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SIMPLE OIL BE GONE MICELLAR CLEANSING WATER 400ML.jpg]
+
+File to: [build/img/SIMPLE OIL BE GONE MICELLAR CLEANSING WATER 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SIMPLE PURE SOAP 2S.jpg]
+
+File to: [build/img/SIMPLE PURE SOAP 2S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SIMPLE SENSITIVE CLEANSING WIPES 25 WIPES.jpg]
+
+File to: [build/img/SIMPLE SENSITIVE CLEANSING WIPES 25 WIPES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SIMPLIFY CORRECTION SET HS-100903.jpg]
+
+File to: [build/img/SIMPLIFY CORRECTION SET HS-100903.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SIMPLY NATURE COCONUT OIL 414ML.jpg]
+
+File to: [build/img/SIMPLY NATURE COCONUT OIL 414ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

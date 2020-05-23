@@ -1,0 +1,253 @@
+File from: [src/img/POST RAISIN GRAPE NUTS CEREAL 510G.jpg]
+
+File to: [build/img/POST RAISIN GRAPE NUTS CEREAL 510G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Postinor 2 Tabs.jpg]
+
+File to: [build/img/Postinor 2 Tabs.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POSTINOR 2.jpg]
+
+File to: [build/img/POSTINOR 2.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POSTPILL X 1 TAB.jpg]
+
+File to: [build/img/POSTPILL X 1 TAB.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POT POURRI.jpg]
+
+File to: [build/img/POT POURRI.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POTASH.jpg]
+
+File to: [build/img/POTASH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Potatoes Fries 1kg.jpg]
+
+File to: [build/img/Potatoes Fries 1kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POUKADOT FLOWER BALLOONS 5S.jpg]
+
+File to: [build/img/POUKADOT FLOWER BALLOONS 5S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Power Horse Energy Drink 250ml x 24.jpg]
+
+File to: [build/img/Power Horse Energy Drink 250ml x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Power Horse Energy Drink 355ml x 24.jpg]
+
+File to: [build/img/Power Horse Energy Drink 355ml x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POWER HORSE ENERGY DRINK 355ML.jpg]
+
+File to: [build/img/POWER HORSE ENERGY DRINK 355ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POWER HORSE ENERGY DRINK 500ML.jpg]
+
+File to: [build/img/POWER HORSE ENERGY DRINK 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POWER HORSE ENERGY WUTH MALT EXTRACT 250ML.jpg]
+
+File to: [build/img/POWER HORSE ENERGY WUTH MALT EXTRACT 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POWER HORSE SMALL CAN 250ML.jpg]
+
+File to: [build/img/POWER HORSE SMALL CAN 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POWER HORSE SUGAR FREE 355ML.jpg]
+
+File to: [build/img/POWER HORSE SUGAR FREE 355ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POWER OIL 075ML.jpg]
+
+File to: [build/img/POWER OIL 075ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POWER OIL 1.4L.jpg]
+
+File to: [build/img/POWER OIL 1.4L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POWER OIL 1400 ML X 8 BOTTLE CARTON.jpg]
+
+File to: [build/img/POWER OIL 1400 ML X 8 BOTTLE CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POWER OIL 150 ML SATCHET.jpg]
+
+File to: [build/img/POWER OIL 150 ML SATCHET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POWER OIL 150ML.jpg]
+
+File to: [build/img/POWER OIL 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POWER OIL 2.6L.jpg]
+
+File to: [build/img/POWER OIL 2.6L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POWER OIL 2600 ML BOTTLE CARTON.jpg]
+
+File to: [build/img/POWER OIL 2600 ML BOTTLE CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POWER OIL 3 LITRES.jpg]
+
+File to: [build/img/POWER OIL 3 LITRES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POWER OIL 3 LT BOTTLE CARTON x6.jfif.jpg]
+
+File to: [build/img/POWER OIL 3 LT BOTTLE CARTON x6.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POWER OIL 4.6L BOTTLE CARTON.jpg]
+
+File to: [build/img/POWER OIL 4.6L BOTTLE CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POWER OIL 4.6L.jpg]
+
+File to: [build/img/POWER OIL 4.6L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POWER OIL 70ML.jpg]
+
+File to: [build/img/POWER OIL 70ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POWER OIL 750 ML BOTTLE CARTON.jpg]
+
+File to: [build/img/POWER OIL 750 ML BOTTLE CARTON.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POWER OIL 75CL copy.jpg]
+
+File to: [build/img/POWER OIL 75CL copy.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POWER OIL SATCHET.jpg]
+
+File to: [build/img/POWER OIL SATCHET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Power Oil Vegetable Cooking Oil 1.4 ltX8.jpg]
+
+File to: [build/img/Power Oil Vegetable Cooking Oil 1.4 ltX8.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Power Oil Vegetable Cooking Oil 2.6lt x6.jpg]
+
+File to: [build/img/Power Oil Vegetable Cooking Oil 2.6lt x6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Power Oil Vegetable Cooking Oil 3L x 6.jpg]
+
+File to: [build/img/Power Oil Vegetable Cooking Oil 3L x 6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Power Oil Vegetable Cooking Oil 4.6Lt x4.jpg]
+
+File to: [build/img/Power Oil Vegetable Cooking Oil 4.6Lt x4.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Power Oil Vegetable Cooking Oil 75cl x12.jpg]
+
+File to: [build/img/Power Oil Vegetable Cooking Oil 75cl x12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POWER PASTA   475 GM x20.jfif.jpg]
+
+File to: [build/img/POWER PASTA   475 GM x20.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POWER PASTA  SLIM x20.jfif.jpg]
+
+File to: [build/img/POWER PASTA  SLIM x20.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POWER PASTA 500G.jpg]
+
+File to: [build/img/POWER PASTA 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POWER PASTA 500G.png]
+
+File to: [build/img/POWER PASTA 500G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Power Pasta Slim Spaghetti 475g x 20.jpg]
+
+File to: [build/img/Power Pasta Slim Spaghetti 475g x 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/POWER PASTA SLIM.jpg]
+
+File to: [build/img/POWER PASTA SLIM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Power Pasta Spaghetti 475g x 20.jpg]
+
+File to: [build/img/Power Pasta Spaghetti 475g x 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

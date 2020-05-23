@@ -1,0 +1,157 @@
+File from: [src/img/GLADE JASMINE AIR FRESHENER 300ML.jpg]
+
+File to: [build/img/GLADE JASMINE AIR FRESHENER 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GLADE SENSATION - CLEAN LINEN.jpg]
+
+File to: [build/img/GLADE SENSATION - CLEAN LINEN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GLADE SENSATION - FLORAL PERFECTION.jpg]
+
+File to: [build/img/GLADE SENSATION - FLORAL PERFECTION.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GLADE SENSATION - FLOWER NECTAR 1.jpg]
+
+File to: [build/img/GLADE SENSATION - FLOWER NECTAR 1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GLADE SENSATION - MORNING FRESHNESS.jpg]
+
+File to: [build/img/GLADE SENSATION - MORNING FRESHNESS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GLAMS CONCEAL EYE & CONTOUR 271 BANANA.jpg]
+
+File to: [build/img/GLAMS CONCEAL EYE & CONTOUR 271 BANANA.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GLAMS CONCEAL EYE & CONTOUR 272 NUDE.jpg]
+
+File to: [build/img/GLAMS CONCEAL EYE & CONTOUR 272 NUDE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GLAMS CONCEAL EYE & CONTOUR 273 GOLDEN BEIGE.jpg]
+
+File to: [build/img/GLAMS CONCEAL EYE & CONTOUR 273 GOLDEN BEIGE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GLAMS CONCEAL EYE & CONTOUR 274 BRONZ.jpg]
+
+File to: [build/img/GLAMS CONCEAL EYE & CONTOUR 274 BRONZ.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GLAMS CONCEAL EYE & CONTOUR 275 NUTMEG.jpg]
+
+File to: [build/img/GLAMS CONCEAL EYE & CONTOUR 275 NUTMEG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GLAMS LIQUID FOUNDATION 230 NUTMEG 30ML.jpg]
+
+File to: [build/img/GLAMS LIQUID FOUNDATION 230 NUTMEG 30ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GLAMS MATT' OBSESS MATT LIQUID LIP STICK 863.jpg]
+
+File to: [build/img/GLAMS MATT' OBSESS MATT LIQUID LIP STICK 863.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GLAMS MATT' OBSESS MATT LIQUID LIP STICK 866.jpg]
+
+File to: [build/img/GLAMS MATT' OBSESS MATT LIQUID LIP STICK 866.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GLAMS MATT' OBSESS MATT LIQUID LIP STICK 867.jpg]
+
+File to: [build/img/GLAMS MATT' OBSESS MATT LIQUID LIP STICK 867.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GLAMS MATT' OBSESS MATT LIQUID LIP STICK 868.jpg]
+
+File to: [build/img/GLAMS MATT' OBSESS MATT LIQUID LIP STICK 868.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GLAMS NAIL POLISH 01 TRANSPARENT 15ML.jpg]
+
+File to: [build/img/GLAMS NAIL POLISH 01 TRANSPARENT 15ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GLAMS NAIL POLISH 06 NUDE 15ML.jpg]
+
+File to: [build/img/GLAMS NAIL POLISH 06 NUDE 15ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GLAMS NAIL POLISH 08 PEARLY PEARL 15ML.jpg]
+
+File to: [build/img/GLAMS NAIL POLISH 08 PEARLY PEARL 15ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GLAMS NAIL POLISH 11 HOT CHOCOLA. 15ML.jpg]
+
+File to: [build/img/GLAMS NAIL POLISH 11 HOT CHOCOLA. 15ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GLAMS NAIL POLISH 12 MISS AFRICA 15ML.jpg]
+
+File to: [build/img/GLAMS NAIL POLISH 12 MISS AFRICA 15ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GLAMS NAIL POLISH 14 CORAIL LOVE 15ML.jpg]
+
+File to: [build/img/GLAMS NAIL POLISH 14 CORAIL LOVE 15ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GLAMS NAIL POLISH 15 LOLIPOP 15ML.jpeg]
+
+File to: [build/img/GLAMS NAIL POLISH 15 LOLIPOP 15ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GLAMS NAIL POLISH 16 RED DISCO 15ML.jpg]
+
+File to: [build/img/GLAMS NAIL POLISH 16 RED DISCO 15ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GLAMS NAIL POLISH 17 RED APPLE 15ML.jpg]
+
+File to: [build/img/GLAMS NAIL POLISH 17 RED APPLE 15ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GLAMS PERFECT LINE KAJAL BLACK 715.jpg]
+
+File to: [build/img/GLAMS PERFECT LINE KAJAL BLACK 715.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GLAMS PERFECT LINE KAJAL BLACK 717.png]
+
+File to: [build/img/GLAMS PERFECT LINE KAJAL BLACK 717.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAIN

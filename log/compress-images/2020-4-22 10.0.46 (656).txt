@@ -1,0 +1,139 @@
+File from: [src/img/MCVITIES ABS 200G.png]
+
+File to: [build/img/MCVITIES ABS 200G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/MCVITIES DIGERSTIVE DOUBLE CHOCOLATE 267G.jpg]
+
+File to: [build/img/MCVITIES DIGERSTIVE DOUBLE CHOCOLATE 267G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/McVities Digest Dark.Milk Chocolate 200g.jpg]
+
+File to: [build/img/McVities Digest Dark.Milk Chocolate 200g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCVITIES DIGESTIVE 250G.png]
+
+File to: [build/img/MCVITIES DIGESTIVE 250G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/MCVITIES DIGESTIVE DARK CHOCOLATE PACK 200G.jpg]
+
+File to: [build/img/MCVITIES DIGESTIVE DARK CHOCOLATE PACK 200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCVITIES DIGESTIVE MILK CHOCOLATE 200G.jpg]
+
+File to: [build/img/MCVITIES DIGESTIVE MILK CHOCOLATE 200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCVITIES ABS 280G.jpg]
+
+File to: [build/img/MCVITIES ABS 280G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCVITIES DIGESTIVE MILK CHOCOLATE 266G.jpg]
+
+File to: [build/img/MCVITIES DIGESTIVE MILK CHOCOLATE 266G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCVITIES DIGESTIVE MILK CHOCOLATE CARAMELS 300G.jpg]
+
+File to: [build/img/MCVITIES DIGESTIVE MILK CHOCOLATE CARAMELS 300G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCVITIES DIGESTIVE MILK CHOCOLATE PACK 200G.jpg]
+
+File to: [build/img/MCVITIES DIGESTIVE MILK CHOCOLATE PACK 200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mcvities Digestives Dark Choc Thins 170g.jpg]
+
+File to: [build/img/Mcvities Digestives Dark Choc Thins 170g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mcvities Digestives Milk Choc Thins 170g.jpg]
+
+File to: [build/img/Mcvities Digestives Milk Choc Thins 170g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCVITIES GINGER NUTS 250G.jpg]
+
+File to: [build/img/MCVITIES GINGER NUTS 250G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCVITIES HOBNOBS 40G.jpg]
+
+File to: [build/img/MCVITIES HOBNOBS 40G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mcvities Hobnobs Milk Choc Thins 170g.jpg]
+
+File to: [build/img/Mcvities Hobnobs Milk Choc Thins 170g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mcvities Family Circle Biscuit 620g X 5.jpg]
+
+File to: [build/img/Mcvities Family Circle Biscuit 620g X 5.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCVITIES HOBNOBS MILK CHOC.jpg]
+
+File to: [build/img/MCVITIES HOBNOBS MILK CHOC.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCVITIES JACOB`S CREAM CRACKER 300G.png]
+
+File to: [build/img/MCVITIES JACOB`S CREAM CRACKER 300G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/MCVITIES JACOB`S CREAM CRACKERS 200G.jpg]
+
+File to: [build/img/MCVITIES JACOB`S CREAM CRACKERS 200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCVITIES RICH TEA 300G.jpg]
+
+File to: [build/img/MCVITIES RICH TEA 300G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCVITIES`S DIGESTIVE 400G.jpg]
+
+File to: [build/img/MCVITIES`S DIGESTIVE 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MEAD SECURITY ENVELOPE 40S.jpg]
+
+File to: [build/img/MEAD SECURITY ENVELOPE 40S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCVITIES RICH TEA 200G.png]
+
+File to: [build/img/MCVITIES RICH TEA 200G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAIN

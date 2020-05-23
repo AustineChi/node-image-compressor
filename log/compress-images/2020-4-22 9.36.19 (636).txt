@@ -1,0 +1,247 @@
+File from: [src/img/CAPRISONNE FRUIT DRINK MULTIVITAMIN 200ML.png]
+
+File to: [build/img/CAPRISONNE FRUIT DRINK MULTIVITAMIN 200ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CAPRISONNE FRUIT DRINK ORANGE 200ML.jpg]
+
+File to: [build/img/CAPRISONNE FRUIT DRINK ORANGE 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CAPRISONNE FRUIT DRINK ORANGE 100ML.jpg]
+
+File to: [build/img/CAPRISONNE FRUIT DRINK ORANGE 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CAPRISONNE FRUIT DRINK STRAWBERRY 200ML.jpg]
+
+File to: [build/img/CAPRISONNE FRUIT DRINK STRAWBERRY 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CAPRISONNE FRUIT DRINK PINEAPPLE 200ML.jpg]
+
+File to: [build/img/CAPRISONNE FRUIT DRINK PINEAPPLE 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CAPRISONNE FRUIT DRINK TROPICAL 200ML.png]
+
+File to: [build/img/CAPRISONNE FRUIT DRINK TROPICAL 200ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CAPRISONNE MULTIVITAMIN 200ML.png]
+
+File to: [build/img/CAPRISONNE MULTIVITAMIN 200ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CAPRISONNE PINEAPPLE 200ML.png]
+
+File to: [build/img/CAPRISONNE PINEAPPLE 200ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CAPRISONNE STRAWBERRY 200ML.png]
+
+File to: [build/img/CAPRISONNE STRAWBERRY 200ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CAPTAIN JACK Café Rum 750 ML.jpg]
+
+File to: [build/img/CAPTAIN JACK Café Rum 750 ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CAR BRUSH.jpeg]
+
+File to: [build/img/CAR BRUSH.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CAPTAIN MORGAN SPICED GOLD 70CLX6.jpg]
+
+File to: [build/img/CAPTAIN MORGAN SPICED GOLD 70CLX6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CARBIROID 5MG TABLETS X 20.jpg]
+
+File to: [build/img/CARBIROID 5MG TABLETS X 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CARAT LIQUID ANTISEPTIC 125ML.jpg]
+
+File to: [build/img/CARAT LIQUID ANTISEPTIC 125ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CARDHU 12YO X6.png]
+
+File to: [build/img/CARDHU 12YO X6.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CARDHU 70CL.jpg]
+
+File to: [build/img/CARDHU 70CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CARDHU SINGLE MALT X6.jpg]
+
+File to: [build/img/CARDHU SINGLE MALT X6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CARDIOACE PLUS CAPS  X 60.jpg]
+
+File to: [build/img/CARDIOACE PLUS CAPS  X 60.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CARDIOACE TABS  X 30.jpg]
+
+File to: [build/img/CARDIOACE TABS  X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CAPRISONNE ORANGE 200ML.png]
+
+File to: [build/img/CAPRISONNE ORANGE 200ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CAREFREE FLEXIFORM 30PCS.png]
+
+File to: [build/img/CAREFREE FLEXIFORM 30PCS.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CANOE DETERGENT 900G.png]
+
+File to: [build/img/CANOE DETERGENT 900G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Carefree Flexiform Regular + Thong x 30.jpg]
+
+File to: [build/img/Carefree Flexiform Regular + Thong x 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CAREFREE PANTYLINER COT.44.png]
+
+File to: [build/img/CAREFREE PANTYLINER COT.44.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CARESS DAILY  SILK  113 pcs.png]
+
+File to: [build/img/CARESS DAILY  SILK  113 pcs.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CAREX COMPLETE MOISTURE HAND WASH 250ML.jpg]
+
+File to: [build/img/CAREX COMPLETE MOISTURE HAND WASH 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CAREX HAND WASH ORIGINAL 250ML.jpg]
+
+File to: [build/img/CAREX HAND WASH ORIGINAL 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CAREX MOIST PLUS HW 250ML.png]
+
+File to: [build/img/CAREX MOIST PLUS HW 250ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CAREX ORIGINAL SHOWER GEL 500ML.png]
+
+File to: [build/img/CAREX ORIGINAL SHOWER GEL 500ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Caris Complexion Transparent Soap 150g.jpg]
+
+File to: [build/img/Caris Complexion Transparent Soap 150g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Caris Medicated & Antiseptic Soap 80g.jpg]
+
+File to: [build/img/Caris Medicated & Antiseptic Soap 80g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Caris Platinum Transparent Soap 150g.jpg]
+
+File to: [build/img/Caris Platinum Transparent Soap 150g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Caris Ultra Complexion Milk 16 0z 475 ml.jpg]
+
+File to: [build/img/Caris Ultra Complexion Milk 16 0z 475 ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Caris White Radiance Milk 6 0z 177ml.jpg]
+
+File to: [build/img/Caris White Radiance Milk 6 0z 177ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CAPTAIN MORGAN JAM RUM 70CLX12.jpg]
+
+File to: [build/img/CAPTAIN MORGAN JAM RUM 70CLX12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Carla 2ply Toilet Roll x1.jpg]
+
+File to: [build/img/Carla 2ply Toilet Roll x1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CARLCON ONION CRACKERS 200G.png]
+
+File to: [build/img/CARLCON ONION CRACKERS 200G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CARLINI CANOLA SPRAY 170G.png]
+
+File to: [build/img/CARLINI CANOLA SPRAY 170G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CAPTAIN MORGAN SPC GLD 70CL.jpg]
+
+File to: [build/img/CAPTAIN MORGAN SPC GLD 70CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CAPTAIN JACK Café Rum 200 ML.jpg]
+
+File to: [build/img/CAPTAIN JACK Café Rum 200 ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Caris Platinum Purifying Milk 16 0z 500ml.jpg]
+
+File to: [build/img/Caris Platinum Purifying Milk 16 0z 500ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

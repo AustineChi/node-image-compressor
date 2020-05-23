@@ -1,0 +1,181 @@
+File from: [src/img/Proworks Knee Support & Brace - One Size.jpg]
+
+File to: [build/img/Proworks Knee Support & Brace - One Size.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Proworks Large 10mm Thick Padded Yoga Mat With Carry Handle in Black.png]
+
+File to: [build/img/Proworks Large 10mm Thick Padded Yoga Mat With Carry Handle in Black.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Proworks Large 10mm Thick Padded Yoga Mat With Carry Handle in Blue.png]
+
+File to: [build/img/Proworks Large 10mm Thick Padded Yoga Mat With Carry Handle in Blue.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Proworks Large 10mm Thick Padded Yoga Mat With Carry Handle in Green.png]
+
+File to: [build/img/Proworks Large 10mm Thick Padded Yoga Mat With Carry Handle in Green.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Proworks Large 10mm Thick Padded Yoga Mat With Carry Handle in Pink.png]
+
+File to: [build/img/Proworks Large 10mm Thick Padded Yoga Mat With Carry Handle in Pink.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Proworks Large 10mm Thick Padded Yoga Mat With Carry Handle in Purple.png]
+
+File to: [build/img/Proworks Large 10mm Thick Padded Yoga Mat With Carry Handle in Purple.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/PROWORKS LEAK PROOF SPORTS WATER BOTTLE - 500ML - BLACK.jpg]
+
+File to: [build/img/PROWORKS LEAK PROOF SPORTS WATER BOTTLE - 500ML - BLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PROWORKS LEAK PROOF SPORTS WATER BOTTLE - 500ML - GREEN.jpg]
+
+File to: [build/img/PROWORKS LEAK PROOF SPORTS WATER BOTTLE - 500ML - GREEN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PROWORKS LEAK PROOF SPORTS WATER BOTTLE - 500ML - GREY.jpg]
+
+File to: [build/img/PROWORKS LEAK PROOF SPORTS WATER BOTTLE - 500ML - GREY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PROWORKS LEAK PROOF SPORTS WATER BOTTLE - 500ML - LIGHT BLUE.jpg]
+
+File to: [build/img/PROWORKS LEAK PROOF SPORTS WATER BOTTLE - 500ML - LIGHT BLUE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PROWORKS LEAK PROOF SPORTS WATER BOTTLE - 500ML - PINK.jpg]
+
+File to: [build/img/PROWORKS LEAK PROOF SPORTS WATER BOTTLE - 500ML - PINK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PROWORKS LEAK PROOF SPORTS WATER BOTTLE 1000ML GREEN.jpg]
+
+File to: [build/img/PROWORKS LEAK PROOF SPORTS WATER BOTTLE 1000ML GREEN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PROWORKS LEAK PROOF SPORTS WATER BOTTLE 1000ML GREY.jpg]
+
+File to: [build/img/PROWORKS LEAK PROOF SPORTS WATER BOTTLE 1000ML GREY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PROWORKS LEAK PROOF SPORTS WATER BOTTLE 1000ML LIGHT BLUE.jpg]
+
+File to: [build/img/PROWORKS LEAK PROOF SPORTS WATER BOTTLE 1000ML LIGHT BLUE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PROWORKS LEAK PROOF SPORTS WATER BOTTLE 1000ML.jpg]
+
+File to: [build/img/PROWORKS LEAK PROOF SPORTS WATER BOTTLE 1000ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PROWORKS METAL VACUMM SPORTS WATER BOTTLE 500ML BLACK.jpg]
+
+File to: [build/img/PROWORKS METAL VACUMM SPORTS WATER BOTTLE 500ML BLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PROWORKS METAL VACUUM SPORT WATER BOTTLE 500ML METALIC RED.jpg]
+
+File to: [build/img/PROWORKS METAL VACUUM SPORT WATER BOTTLE 500ML METALIC RED.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PROWORKS METAL VACUUM SPORTS WATER BOTTLE 500ML METALLIC GOLD.png]
+
+File to: [build/img/PROWORKS METAL VACUUM SPORTS WATER BOTTLE 500ML METALLIC GOLD.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Proworks Microfibre Towel - Black L.jpg]
+
+File to: [build/img/Proworks Microfibre Towel - Black L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Proworks Microfibre Towel - Black XXL.jpg]
+
+File to: [build/img/Proworks Microfibre Towel - Black XXL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Proworks Microfibre Towel - Blue L.jpg]
+
+File to: [build/img/Proworks Microfibre Towel - Blue L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Proworks Microfibre Towel - Blue XXL.jpg]
+
+File to: [build/img/Proworks Microfibre Towel - Blue XXL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Proworks Microfibre Towel - Green L.jpg]
+
+File to: [build/img/Proworks Microfibre Towel - Green L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Proworks Microfibre Towel - Grey L.jpg]
+
+File to: [build/img/Proworks Microfibre Towel - Grey L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Proworks Microfibre Towel - Grey XXL.jpg]
+
+File to: [build/img/Proworks Microfibre Towel - Grey XXL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Proworks Microfibre Towel - Pink L.jpg]
+
+File to: [build/img/Proworks Microfibre Towel - Pink L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Proworks Microfibre Towel - Pink XXL.jpg]
+
+File to: [build/img/Proworks Microfibre Towel - Pink XXL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Proworks Microfibre Towel - Purple L.jpg]
+
+File to: [build/img/Proworks Microfibre Towel - Purple L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Proworks Microfibre Towel - Purple XXL.jpg]
+
+File to: [build/img/Proworks Microfibre Towel - Purple XXL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Proworks Microfibre Towel - Red L.jpg]
+
+File to: [build/img/Proworks Microfibre Towel - Red L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

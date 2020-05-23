@@ -1,0 +1,253 @@
+File from: [src/img/DAX BEES WAX ROYAL JELLY 397G.jpg]
+
+File to: [build/img/DAX BEES WAX ROYAL JELLY 397G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAX COCONUT OIL 397G.jpg]
+
+File to: [build/img/DAX COCONUT OIL 397G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAX BLACK BEES WAX 397G.jpg]
+
+File to: [build/img/DAX BLACK BEES WAX 397G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAX PETROLEUM JELLY 397G.jpg]
+
+File to: [build/img/DAX PETROLEUM JELLY 397G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAY AND NIGHT NURSE CAPSULES x 24.jpg]
+
+File to: [build/img/DAY AND NIGHT NURSE CAPSULES x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAY NURSE CAPS X 20.jpg]
+
+File to: [build/img/DAY NURSE CAPS X 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dazel Kit (Fluconazole) 150Mg-1G-1G Tab.jpg]
+
+File to: [build/img/Dazel Kit (Fluconazole) 150Mg-1G-1G Tab.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAZEL KIT X 3.jpeg]
+
+File to: [build/img/DAZEL KIT X 3.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/De Rica Tin Tomato Paste 400g.jpg]
+
+File to: [build/img/De Rica Tin Tomato Paste 400g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/De Rica Tin Tomato Paste 70g.jpg]
+
+File to: [build/img/De Rica Tin Tomato Paste 70g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/De Rica Tin Tomato Paste 850g.png]
+
+File to: [build/img/De Rica Tin Tomato Paste 850g.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DE RICA TIN TOMATOES 2.200G.jpg]
+
+File to: [build/img/DE RICA TIN TOMATOES 2.200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/De Rica Tomato Paste 210g.jpg]
+
+File to: [build/img/De Rica Tomato Paste 210g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/De Vina Sparkling Red Grape Wine 75cl.jpg]
+
+File to: [build/img/De Vina Sparkling Red Grape Wine 75cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DE-DEON`S B12. SYR  150ML.jpg]
+
+File to: [build/img/DE-DEON`S B12. SYR  150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DECLAN RED WINE 75CL.jpg]
+
+File to: [build/img/DECLAN RED WINE 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DEEP ACTION PORE CLEANSER 150ML.jpg]
+
+File to: [build/img/DEEP ACTION PORE CLEANSER 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DEEP FREEZE COLD GEL 100G.jpg]
+
+File to: [build/img/DEEP FREEZE COLD GEL 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DEEP HEAT SPRAY 150ML.jpg]
+
+File to: [build/img/DEEP HEAT SPRAY 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DEEP HEAT. RUB 15G.jpg]
+
+File to: [build/img/DEEP HEAT. RUB 15G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DEEP HEAT. RUB 35G.jpg]
+
+File to: [build/img/DEEP HEAT. RUB 35G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DEEP. FREEZE SPRAY 150ML.jpg]
+
+File to: [build/img/DEEP. FREEZE SPRAY 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DEL MONTE DICED TOMATOES GREEN PEPPERS _ ONIONS 41.jpg]
+
+File to: [build/img/DEL MONTE DICED TOMATOES GREEN PEPPERS _ ONIONS 41.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DEL MONTE DICED TOMATOES WITH GARLIC _ ONION 411G.jpg]
+
+File to: [build/img/DEL MONTE DICED TOMATOES WITH GARLIC _ ONION 411G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DEL MONTE DICED TOMATOES WITH ZESTY CHILI STYLE 411G.jpg]
+
+File to: [build/img/DEL MONTE DICED TOMATOES WITH ZESTY CHILI STYLE 411G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DEL MONTE LEAF SPINACH 383G.jpg]
+
+File to: [build/img/DEL MONTE LEAF SPINACH 383G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DEL MONTE SLICED CARROTS 411G.jpg]
+
+File to: [build/img/DEL MONTE SLICED CARROTS 411G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DELE COTTON WOOL 450G.jpg]
+
+File to: [build/img/DELE COTTON WOOL 450G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DELMONTE MIXED VEGETABLES 411G.jpg]
+
+File to: [build/img/DELMONTE MIXED VEGETABLES 411G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Delta Herbal Soap 70g.jpg]
+
+File to: [build/img/Delta Herbal Soap 70g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Delta Medi _ Antisep Bath Soap 70g.jpg]
+
+File to: [build/img/Delta Medi _ Antisep Bath Soap 70g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Delta Plus Medi _ Anti Soap 70g.jpg]
+
+File to: [build/img/Delta Plus Medi _ Anti Soap 70g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Delta Summer Cool Med _ Anti Soap 70g.jpg]
+
+File to: [build/img/Delta Summer Cool Med _ Anti Soap 70g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Denivit Anti-Stain Toothpaste 50ml.jpg]
+
+File to: [build/img/Denivit Anti-Stain Toothpaste 50ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DENIVIT POLISH ANTI STAIN TOOTH PASTE 100ML.jpg]
+
+File to: [build/img/DENIVIT POLISH ANTI STAIN TOOTH PASTE 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DENTAL FLOSS 100M MINT WAXED - WHITE.jpg]
+
+File to: [build/img/DENTAL FLOSS 100M MINT WAXED - WHITE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DENTAL FLOSS 100M MINT WAXED FLUORIDE - GREEN.jpg]
+
+File to: [build/img/DENTAL FLOSS 100M MINT WAXED FLUORIDE - GREEN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DENTAL FLOSS 100M WAXED - BLUE.jpg]
+
+File to: [build/img/DENTAL FLOSS 100M WAXED - BLUE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DENTAL FLOSS 30S.jpg]
+
+File to: [build/img/DENTAL FLOSS 30S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DENTAL FLOSS TWIN PACK 12M X 2.jpg]
+
+File to: [build/img/DENTAL FLOSS TWIN PACK 12M X 2.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dental Floss- ToothPicks x30pcs.jpg]
+
+File to: [build/img/Dental Floss- ToothPicks x30pcs.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DENTAL FLOSSERS GO BETWEEN 50.jpg]
+
+File to: [build/img/DENTAL FLOSSERS GO BETWEEN 50.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

@@ -1,0 +1,61 @@
+File from: [src/img/WAHL LITHIUM ION TRIMMER 1481-0410.jpg]
+
+File to: [build/img/WAHL LITHIUM ION TRIMMER 1481-0410.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WAHL MICRO GROOMSMAN 5640-326.jpg]
+
+File to: [build/img/WAHL MICRO GROOMSMAN 5640-326.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WASHABLE FLOOR CLOTH 3`S.jpg]
+
+File to: [build/img/WASHABLE FLOOR CLOTH 3`S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WATE ON EMULSION   450ML.jpg]
+
+File to: [build/img/WATE ON EMULSION   450ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WATER LEAF.jpg]
+
+File to: [build/img/WATER LEAF.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WATER MELON SLICED.jpg]
+
+File to: [build/img/WATER MELON SLICED.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WAW Bar Soap 130g x 50.jpg]
+
+File to: [build/img/WAW Bar Soap 130g x 50.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WATERMELON PER PIECE.jpg]
+
+File to: [build/img/WATERMELON PER PIECE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WAW Bar Soap 230g x 20.jpg]
+
+File to: [build/img/WAW Bar Soap 230g x 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/WAW Detergent 1.8kg x 3.jpg]
+
+File to: [build/img/WAW Detergent 1.8kg x 3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

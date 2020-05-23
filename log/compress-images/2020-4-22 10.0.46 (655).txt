@@ -1,0 +1,61 @@
+File from: [src/img/McCAIN CORN KERNEL 500G.jpg]
+
+File to: [build/img/McCAIN CORN KERNEL 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCCAIN FRENCH FRIES 2.5KG.jpg]
+
+File to: [build/img/MCCAIN FRENCH FRIES 2.5KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mccain Mixed Vegetables 500g x 12.jpg]
+
+File to: [build/img/Mccain Mixed Vegetables 500g x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCCAIN WINTER VEGETABLES 500G.jpg]
+
+File to: [build/img/MCCAIN WINTER VEGETABLES 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCLELLAND MILD WHITE CHEDDAR LOAF.jpg]
+
+File to: [build/img/MCLELLAND MILD WHITE CHEDDAR LOAF.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCV HOBNOBS 250G.jpg]
+
+File to: [build/img/MCV HOBNOBS 250G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCV HOBNOBS 125G.jpg]
+
+File to: [build/img/MCV HOBNOBS 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCV HOBNOBS 300G.jpg]
+
+File to: [build/img/MCV HOBNOBS 300G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCVITIES ABS 100G.jpg]
+
+File to: [build/img/MCVITIES ABS 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MCV DIGESTIVE 125G.jpg]
+
+File to: [build/img/MCV DIGESTIVE 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

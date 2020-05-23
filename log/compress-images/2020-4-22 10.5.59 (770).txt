@@ -1,0 +1,79 @@
+File from: [src/img/XHC CLEANSING CHARCOAL CONDITIONER 400ML.jpg]
+
+File to: [build/img/XHC CLEANSING CHARCOAL CONDITIONER 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/XBC XPEL BEAUTY CARE MICELLAR CLEANSING WIPES 25 WIPES.jpg]
+
+File to: [build/img/XBC XPEL BEAUTY CARE MICELLAR CLEANSING WIPES 25 WIPES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/XHC CLEANSING CHARCOAL SHAMPOO 400ML.png]
+
+File to: [build/img/XHC CLEANSING CHARCOAL SHAMPOO 400ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/XHC TEA TREE MOISTURING CONDITIONER 400ML.jpeg]
+
+File to: [build/img/XHC TEA TREE MOISTURING CONDITIONER 400ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/XHC GREE TEA CONDITIONER 400ML.jpg]
+
+File to: [build/img/XHC GREE TEA CONDITIONER 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/XHC XPEL HAIR CARE CONDITIONER 400ML.jpg]
+
+File to: [build/img/XHC XPEL HAIR CARE CONDITIONER 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/XHC XPEL CLAY SHAMPOO 400ML.jpg]
+
+File to: [build/img/XHC XPEL CLAY SHAMPOO 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/XNC XPEL NAIL CARE NAIL POLISH REMOVER 400ML.jpg]
+
+File to: [build/img/XNC XPEL NAIL CARE NAIL POLISH REMOVER 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/XNC XPEL NAIL CARE NAIL POLISH REMOVER 250ML.jpg]
+
+File to: [build/img/XNC XPEL NAIL CARE NAIL POLISH REMOVER 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/XNC XPEL NAIL CARE SUPER STRENGTH NAIL & TIP REMOVER 150ML.jpg]
+
+File to: [build/img/XNC XPEL NAIL CARE SUPER STRENGTH NAIL & TIP REMOVER 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/XOC CLEANSING CHARCOAL TOOTHPASTE 100ML.jpg]
+
+File to: [build/img/XOC CLEANSING CHARCOAL TOOTHPASTE 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/XPLOZA ENERGY DRINK 25CL.png]
+
+File to: [build/img/XPLOZA ENERGY DRINK 25CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/XTRA CLEAN WISDOM MEDIUM TOOTHBRUSH.jpg]
+
+File to: [build/img/XTRA CLEAN WISDOM MEDIUM TOOTHBRUSH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

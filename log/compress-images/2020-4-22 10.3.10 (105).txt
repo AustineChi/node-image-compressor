@@ -1,0 +1,37 @@
+File from: [src/img/PURIT ANTISEPTIC 500ML.jpg]
+
+File to: [build/img/PURIT ANTISEPTIC 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE C 500 WITH ROSE HIP X 250.jpg]
+
+File to: [build/img/PURITAN'S PRIDE C 500 WITH ROSE HIP X 250.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE C-1000MG WITH BIOFLAVONOIDS X 100 CAPSULES.jpg]
+
+File to: [build/img/PURITAN'S PRIDE C-1000MG WITH BIOFLAVONOIDS X 100 CAPSULES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE ABSORBALE CALCIUM 600MG PLUS MAGNESIUM 300MG & VITAMIN D3 25MCG(1000IU) X 60.jpg]
+
+File to: [build/img/PURITAN'S PRIDE ABSORBALE CALCIUM 600MG PLUS MAGNESIUM 300MG & VITAMIN D3 25MCG(1000IU) X 60.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE B-12 1000MCG X 30.jpg]
+
+File to: [build/img/PURITAN'S PRIDE B-12 1000MCG X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PURITAN'S PRIDE ALL IN ONE OMEGA 3,5,6,7,9.jpg]
+
+File to: [build/img/PURITAN'S PRIDE ALL IN ONE OMEGA 3,5,6,7,9.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

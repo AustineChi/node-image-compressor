@@ -1,0 +1,25 @@
+File from: [src/img/PEAK FILLED POUCH 260G.jpg]
+
+File to: [build/img/PEAK FILLED POUCH 260G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Peak Filled Instant Milk Refill 360g.jpg]
+
+File to: [build/img/Peak Filled Instant Milk Refill 360g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEAK FILLED POWDERED MILK [POUCH] 800G.jpg]
+
+File to: [build/img/PEAK FILLED POWDERED MILK [POUCH] 800G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEAK FULL CREAM 2.5KG.jpg]
+
+File to: [build/img/PEAK FULL CREAM 2.5KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

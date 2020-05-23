@@ -1,0 +1,13 @@
+File from: [src/img/Moet _ Chandon Imperial Champagne 75cl.jpg]
+
+File to: [build/img/Moet _ Chandon Imperial Champagne 75cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Moet _ Chandon Nectar Imperial Rose 75cl.png]
+
+File to: [build/img/Moet _ Chandon Nectar Imperial Rose 75cl.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAIN

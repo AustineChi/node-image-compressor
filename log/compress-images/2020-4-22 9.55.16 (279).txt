@@ -1,0 +1,49 @@
+File from: [src/img/Goldberg Lager Can 500ml.png]
+
+File to: [build/img/Goldberg Lager Can 500ml.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Goldberg-Lager-Beer-Can-50CL.png]
+
+File to: [build/img/Goldberg-Lager-Beer-Can-50CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Goldberg-Lager-Beer-Can-50CL(1).png]
+
+File to: [build/img/Goldberg-Lager-Beer-Can-50CL(1).png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GOLDEN CANILLA DORADO PARBOILED RICE2.27KG.jpg]
+
+File to: [build/img/GOLDEN CANILLA DORADO PARBOILED RICE2.27KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN COUNTRY FROSTED FLAKES 500G.jpg]
+
+File to: [build/img/GOLDEN COUNTRY FROSTED FLAKES 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN COUNTRY QUICK COOKING WHITE OATS TIN 500G.jpg]
+
+File to: [build/img/GOLDEN COUNTRY QUICK COOKING WHITE OATS TIN 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Golden Country Sweet Corn 326g.jpg]
+
+File to: [build/img/Golden Country Sweet Corn 326g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN COUNTRY SWEET CORN 340G.jpg]
+
+File to: [build/img/GOLDEN COUNTRY SWEET CORN 340G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

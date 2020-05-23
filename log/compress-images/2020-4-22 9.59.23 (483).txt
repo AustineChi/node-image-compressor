@@ -1,0 +1,427 @@
+File from: [src/img/PAROZONE THICK BLEACH 750ML CITRUS.jpg]
+
+File to: [build/img/PAROZONE THICK BLEACH 750ML CITRUS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PAROZONE THICK BLEACH 750ML HOT PINK.jpg]
+
+File to: [build/img/PAROZONE THICK BLEACH 750ML HOT PINK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PAROZONE THICK BLEACH750ML LAVENDAR.jpg]
+
+File to: [build/img/PAROZONE THICK BLEACH750ML LAVENDAR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PAROZONE THICK BLEACH ORIGINAL 750ML.jpg]
+
+File to: [build/img/PAROZONE THICK BLEACH ORIGINAL 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pascual original yoghurts.JPG]
+
+File to: [build/img/Pascual original yoghurts.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pascual original.JPG]
+
+File to: [build/img/Pascual original.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pascual Yoghurt 125g x 24.jpg]
+
+File to: [build/img/Pascual Yoghurt 125g x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pascual yogi kids.jpg]
+
+File to: [build/img/Pascual yogi kids.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pascual yogi kids.png]
+
+File to: [build/img/Pascual yogi kids.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Passion Energy Drink Sachet 4g x 10.jpg]
+
+File to: [build/img/Passion Energy Drink Sachet 4g x 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PASSION FRUIT PER KG.jpeg]
+
+File to: [build/img/PASSION FRUIT PER KG.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Passion fruit smoothie.jpg]
+
+File to: [build/img/Passion fruit smoothie.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Passport STD75cl x12.jpg]
+
+File to: [build/img/Passport STD75cl x12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PASTA STORAGE CONTAINER.jpg]
+
+File to: [build/img/PASTA STORAGE CONTAINER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pastis Jean Canon 45_ 100cl x 12.jpg]
+
+File to: [build/img/Pastis Jean Canon 45_ 100cl x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pata Negra Wine Ranges  75cl x 6.jpg]
+
+File to: [build/img/Pata Negra Wine Ranges  75cl x 6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Paterson_s Shortbread Fingers 150g x 18.jpg]
+
+File to: [build/img/Paterson_s Shortbread Fingers 150g x 18.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Paul Masson V.S.O.P Brandy 75cl x 12.jpg]
+
+File to: [build/img/Paul Masson V.S.O.P Brandy 75cl x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Paul Masson VS Brandy 750ml x 12.jpg]
+
+File to: [build/img/Paul Masson VS Brandy 750ml x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PAVO SAUSAGES.jpg]
+
+File to: [build/img/PAVO SAUSAGES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PAWPAW 1KG.jpg]
+
+File to: [build/img/PAWPAW 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PAWPAW SLICED.png]
+
+File to: [build/img/PAWPAW SLICED.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/PAWPAW PER KG.jpg]
+
+File to: [build/img/PAWPAW PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Pawpaw.jpg]
+
+File to: [build/img/Pawpaw.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEACE WHOLE KERNEL SWEET CORN 340G.jpg]
+
+File to: [build/img/PEACE WHOLE KERNEL SWEET CORN 340G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEAK 1-2-3 GROWING UP MILK 16G.jpg]
+
+File to: [build/img/PEAK 1-2-3 GROWING UP MILK 16G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/peak 1,2,3.jpg]
+
+File to: [build/img/peak 1,2,3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Peak 123 Growing Up Milk 400g x 12 Pouch.jpg]
+
+File to: [build/img/Peak 123 Growing Up Milk 400g x 12 Pouch.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Peak 123 Growing Up Milk Powder 400g Tin.jpg]
+
+File to: [build/img/Peak 123 Growing Up Milk Powder 400g Tin.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEAK 123 GROWING UP POUCH 800G.JPG]
+
+File to: [build/img/PEAK 123 GROWING UP POUCH 800G.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEAK 123 GROWING-UP-MILK POWDER [TIN] 400G.jpg]
+
+File to: [build/img/PEAK 123 GROWING-UP-MILK POWDER [TIN] 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Peak 123 Milk 900g x 12 Tin.jpg]
+
+File to: [build/img/Peak 123 Milk 900g x 12 Tin.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Peak 3 in 1 Chocolate Milk 400g x 12.jpg]
+
+File to: [build/img/Peak 3 in 1 Chocolate Milk 400g x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEAK 456 GROWING-UP-MILK POWDER [POUCH] 400G.jpg]
+
+File to: [build/img/PEAK 456 GROWING-UP-MILK POWDER [POUCH] 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEAK 456 REFILL.jpg]
+
+File to: [build/img/PEAK 456 REFILL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Peak Baby Step 1 Infant Formula 400gx12T.jpg]
+
+File to: [build/img/Peak Baby Step 1 Infant Formula 400gx12T.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEAK CHOCO 22G.jpg]
+
+File to: [build/img/PEAK CHOCO 22G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEAK CHOCOLATE MILK POWDER 400G.jpg]
+
+File to: [build/img/PEAK CHOCOLATE MILK POWDER 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Peak Condensed Milk 78g x 120.jpg]
+
+File to: [build/img/Peak Condensed Milk 78g x 120.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEAK EVAPORATED 170G.jpg]
+
+File to: [build/img/PEAK EVAPORATED 170G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEAK EVAPORATED MILK [GIANT SIZE - TIN] 410G.jpg]
+
+File to: [build/img/PEAK EVAPORATED MILK [GIANT SIZE - TIN] 410G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEAK EVAPORATED MILK [REGULAR) [TIN] 160G.jpg]
+
+File to: [build/img/PEAK EVAPORATED MILK [REGULAR) [TIN] 160G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Peak Extra Fortified Milk Powder 2500g T.jpg]
+
+File to: [build/img/Peak Extra Fortified Milk Powder 2500g T.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Peak Extra Fortified Milk Powder 400g Ti.jpg]
+
+File to: [build/img/Peak Extra Fortified Milk Powder 400g Ti.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Peak Extra Fortified Milk Powder 900gx12.jpg]
+
+File to: [build/img/Peak Extra Fortified Milk Powder 900gx12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEAK FILLED CONDENSED MILK 78G.jpg]
+
+File to: [build/img/PEAK FILLED CONDENSED MILK 78G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Peak Filled Evaporated Milk 160g x 48.jpeg]
+
+File to: [build/img/Peak Filled Evaporated Milk 160g x 48.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Peak Filled Evaporated Milk 160g x 48.jpg]
+
+File to: [build/img/Peak Filled Evaporated Milk 160g x 48.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEAK FILLED EVAPORATED MILK 160G.jpg]
+
+File to: [build/img/PEAK FILLED EVAPORATED MILK 160G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Peak Filled Instant Milk Powder 260g x12.jpg]
+
+File to: [build/img/Peak Filled Instant Milk Powder 260g x12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEAK FILLED INSTANT MILK POWDER 380G.jpg]
+
+File to: [build/img/PEAK FILLED INSTANT MILK POWDER 380G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Peak Filled Instant Milk Powder 800gx6 R.jpg]
+
+File to: [build/img/Peak Filled Instant Milk Powder 800gx6 R.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEAK FILLED INSTANT MILK POWDER SACHET 14GR copy.jpg]
+
+File to: [build/img/PEAK FILLED INSTANT MILK POWDER SACHET 14GR copy.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Peak Filled Instant Milk Refill 360g.jpg]
+
+File to: [build/img/Peak Filled Instant Milk Refill 360g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEAK FILLED POUCH 260G.jpg]
+
+File to: [build/img/PEAK FILLED POUCH 260G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEAK FILLED POWDERED MILK [POUCH] 800G.jpg]
+
+File to: [build/img/PEAK FILLED POWDERED MILK [POUCH] 800G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEAK FULL CREAM 2.5KG.jpg]
+
+File to: [build/img/PEAK FULL CREAM 2.5KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Peak Full Cream Evaporated Milk 160g.jpg]
+
+File to: [build/img/Peak Full Cream Evaporated Milk 160g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Peak Full Cream Milk Powder 380g Refill.jpg]
+
+File to: [build/img/Peak Full Cream Milk Powder 380g Refill.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Peak Full Cream Milk Powder 850g x 6 Ref.jpg]
+
+File to: [build/img/Peak Full Cream Milk Powder 850g x 6 Ref.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEAK FULL CREAM PWD 850G.jpg]
+
+File to: [build/img/PEAK FULL CREAM PWD 850G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEAK GOLD EASY OPEN EVAPORATED MILK [TIN] 160G.jpg]
+
+File to: [build/img/PEAK GOLD EASY OPEN EVAPORATED MILK [TIN] 160G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Peak Gold Evap Milk 170g x 48.jpeg]
+
+File to: [build/img/Peak Gold Evap Milk 170g x 48.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEAK INFANT CEREAL RICE 6-36 MONTHS 250G.jpg]
+
+File to: [build/img/PEAK INFANT CEREAL RICE 6-36 MONTHS 250G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEAK INFANT CEREAL WHEAT 6-36 MONTHS 250G.jpg]
+
+File to: [build/img/PEAK INFANT CEREAL WHEAT 6-36 MONTHS 250G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/peak Infant cereal.jpg]
+
+File to: [build/img/peak Infant cereal.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Peak Infant Cereals Range 250g x 12.jpg]
+
+File to: [build/img/Peak Infant Cereals Range 250g x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEAK INFANT CEREALS WITH MILK WHEAT.jpg]
+
+File to: [build/img/PEAK INFANT CEREALS WITH MILK WHEAT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEAK INFANT FORMULA 0-12 MONTHS TIN 400ML.jpg]
+
+File to: [build/img/PEAK INFANT FORMULA 0-12 MONTHS TIN 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PEAK MILK CHOCOLATE 400G.jpg]
+
+File to: [build/img/PEAK MILK CHOCOLATE 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Peak Milk Powde Convenience Pack 16g.jpg]
+
+File to: [build/img/Peak Milk Powde Convenience Pack 16g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

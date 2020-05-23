@@ -1,0 +1,205 @@
+File from: [src/img/NATUREMADE FOLIC ACID 400MCG X 250MG.png]
+
+File to: [build/img/NATUREMADE FOLIC ACID 400MCG X 250MG.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/NATUREMADE MELATONIN 3MG X 240 TABLETS.jpg]
+
+File to: [build/img/NATUREMADE MELATONIN 3MG X 240 TABLETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUREMADE GARLIC ODOR CONTROL 1250MG X 100.jpg]
+
+File to: [build/img/NATUREMADE GARLIC ODOR CONTROL 1250MG X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUREMADE IRON 65MG X 180 TAB.jpg]
+
+File to: [build/img/NATUREMADE IRON 65MG X 180 TAB.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUREMADE POTASSIUM GLUCONATE 550MG X 100 TABLETS.jpeg]
+
+File to: [build/img/NATUREMADE POTASSIUM GLUCONATE 550MG X 100 TABLETS.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUREMADE VITAMIN C 1000MG X 100 +25 TABLETS.jpg]
+
+File to: [build/img/NATUREMADE VITAMIN C 1000MG X 100 +25 TABLETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUREMADE VITAMIN C 1000MG X 100.jpg]
+
+File to: [build/img/NATUREMADE VITAMIN C 1000MG X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUREMADE VITAMIN C 500MG X 100 CAPS.jpg]
+
+File to: [build/img/NATUREMADE VITAMIN C 500MG X 100 CAPS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUREMADE VITAMIN E 1000IU X 60.jpg]
+
+File to: [build/img/NATUREMADE VITAMIN E 1000IU X 60.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUREMADE ZINC 30MG X 100.jpg]
+
+File to: [build/img/NATUREMADE ZINC 30MG X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Natureplex Acne Treatment Clear Gel 42.5.jpg]
+
+File to: [build/img/Natureplex Acne Treatment Clear Gel 42.5.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Natureplex Antibiotic+Pain Relief Cream.jpg]
+
+File to: [build/img/Natureplex Antibiotic+Pain Relief Cream.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Natures Field Chewable Vitamin C-500mg.jpg]
+
+File to: [build/img/Natures Field Chewable Vitamin C-500mg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Natures Gentle Touch Castor Oil Hair Cream 180g.jpg]
+
+File to: [build/img/Natures Gentle Touch Castor Oil Hair Cream 180g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Natures Gentle Touch Coconut Oil Conditioning Cream 180g.jpg]
+
+File to: [build/img/Natures Gentle Touch Coconut Oil Conditioning Cream 180g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURES GENTLE TOUCH HAND SANITISER 110ML.jpg]
+
+File to: [build/img/NATURES GENTLE TOUCH HAND SANITISER 110ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Natures Gentle Touch Herbalblend Intensive Leave-in Conditioner 250ml.jpg]
+
+File to: [build/img/Natures Gentle Touch Herbalblend Intensive Leave-in Conditioner 250ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Natures Gentle Touch Herbalblend Moisture Care Conditioning Shampo 250ml.jpg]
+
+File to: [build/img/Natures Gentle Touch Herbalblend Moisture Care Conditioning Shampo 250ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Natures Gentle Touch Herbalblend No- Lye Kit Relaxer Super.jpg]
+
+File to: [build/img/Natures Gentle Touch Herbalblend No- Lye Kit Relaxer Super.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Natures Gentle Touch Herbalblend No-Lye KIT Relaxer Regular.jpg]
+
+File to: [build/img/Natures Gentle Touch Herbalblend No-Lye KIT Relaxer Regular.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Natures Gentle Touch No-Lye Kit Relaxer.jpg]
+
+File to: [build/img/Natures Gentle Touch No-Lye Kit Relaxer.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Natures Gentle Touch Olive Oil Conditioning Cream 180g.jpg]
+
+File to: [build/img/Natures Gentle Touch Olive Oil Conditioning Cream 180g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURES ORIGIN AROMATHERAPY ALMOND OIL 118ML.jpg]
+
+File to: [build/img/NATURES ORIGIN AROMATHERAPY ALMOND OIL 118ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURESMADE CALMAGZINC X 100.jpg]
+
+File to: [build/img/NATURESMADE CALMAGZINC X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NAUAGE MILD&GENTLE BABY BATH 300ML.jpg]
+
+File to: [build/img/NAUAGE MILD&GENTLE BABY BATH 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NAUAGE MILD&GENTLE BABY LOTION 300ML.jpg]
+
+File to: [build/img/NAUAGE MILD&GENTLE BABY LOTION 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NAUAGE MILD&GENTLE BABY OIL 300ML.jpg]
+
+File to: [build/img/NAUAGE MILD&GENTLE BABY OIL 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NAUAGE MILD&GENTLE BABY SHAMPOO 300ML.jpg]
+
+File to: [build/img/NAUAGE MILD&GENTLE BABY SHAMPOO 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nautical Aqua Rush Cologne x100ml.jpg]
+
+File to: [build/img/Nautical Aqua Rush Cologne x100ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEBILONG TABS 5MG X 30.jpg]
+
+File to: [build/img/NEBILONG TABS 5MG X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NCP. OINTMENT  30G.jpg]
+
+File to: [build/img/NCP. OINTMENT  30G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEDERBURG 56 - CABERNET SAUVIGNON 75CL.jpg]
+
+File to: [build/img/NEDERBURG 56 - CABERNET SAUVIGNON 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEDERBURG PREMIERE CUVEE SPARKLING BRUT.JPG]
+
+File to: [build/img/NEDERBURG PREMIERE CUVEE SPARKLING BRUT.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NEDERBURG THE 56 HUNDRED SAUV BLANC 75CL.jpg]
+
+File to: [build/img/NEDERBURG THE 56 HUNDRED SAUV BLANC 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

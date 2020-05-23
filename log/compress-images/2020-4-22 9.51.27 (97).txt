@@ -1,0 +1,49 @@
+File from: [src/img/JOHNSON BABY SHAMPOO 500ML.jpg]
+
+File to: [build/img/JOHNSON BABY SHAMPOO 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNSON BABY SOAP 100G.jpg]
+
+File to: [build/img/JOHNSON BABY SOAP 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNSON BABY WIPES 56S.png]
+
+File to: [build/img/JOHNSON BABY WIPES 56S.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/JOHNSON BREAST PAD 30.jpg]
+
+File to: [build/img/JOHNSON BREAST PAD 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNSON COTTON BID 100`S.png]
+
+File to: [build/img/JOHNSON COTTON BID 100`S.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/JOHNSON COTTON BUD 200`S.jpg]
+
+File to: [build/img/JOHNSON COTTON BUD 200`S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNSON_S BABY OIL 591ML.jpg]
+
+File to: [build/img/JOHNSON_S BABY OIL 591ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNSON_S BABY SHAMPOO 250ML.jpg]
+
+File to: [build/img/JOHNSON_S BABY SHAMPOO 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

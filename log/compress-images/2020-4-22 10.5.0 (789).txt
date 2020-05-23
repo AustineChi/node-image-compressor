@@ -1,0 +1,55 @@
+File from: [src/img/ZECUF HERBAL COUGH LOZENGES.jpg]
+
+File to: [build/img/ZECUF HERBAL COUGH LOZENGES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ZECUF HERBAL COUGH SYRUP 100ML.jpg]
+
+File to: [build/img/ZECUF HERBAL COUGH SYRUP 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ZEDEX COLD DAY TIME X 10.jpg]
+
+File to: [build/img/ZEDEX COLD DAY TIME X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ZEDEX NIGHT X 10.jpg]
+
+File to: [build/img/ZEDEX NIGHT X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ZENTEL SUSPENSION 20ML.jpg]
+
+File to: [build/img/ZENTEL SUSPENSION 20ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ZENTEL TABLETS X 2.jpg]
+
+File to: [build/img/ZENTEL TABLETS X 2.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ZESTRIL TABS 5MG X 28.jpg]
+
+File to: [build/img/ZESTRIL TABS 5MG X 28.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ZESTRIL. TABS 10MG X 28.jpg]
+
+File to: [build/img/ZESTRIL. TABS 10MG X 28.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ZESTRIL.. TABS 20MG X 28.jpg]
+
+File to: [build/img/ZESTRIL.. TABS 20MG X 28.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

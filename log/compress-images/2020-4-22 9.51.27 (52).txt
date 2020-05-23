@@ -1,0 +1,7 @@
+File from: [src/img/GENERAL MILLS CINNAMON TOAST CRUNCH 547G.jpg]
+
+File to: [build/img/GENERAL MILLS CINNAMON TOAST CRUNCH 547G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

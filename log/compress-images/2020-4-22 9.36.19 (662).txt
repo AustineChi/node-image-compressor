@@ -1,0 +1,79 @@
+File from: [src/img/De Rica Tomato Paste 210g.jpg]
+
+File to: [build/img/De Rica Tomato Paste 210g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/De Vina Sparkling Red Grape Wine 75cl.jpg]
+
+File to: [build/img/De Vina Sparkling Red Grape Wine 75cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DE-DEON`S B12. SYR  150ML.jpg]
+
+File to: [build/img/DE-DEON`S B12. SYR  150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DECLAN RED WINE 75CL.jpg]
+
+File to: [build/img/DECLAN RED WINE 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DEEP ACTION PORE CLEANSER 150ML.jpg]
+
+File to: [build/img/DEEP ACTION PORE CLEANSER 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/De Rica Tin Tomato Paste 70g.jpg]
+
+File to: [build/img/De Rica Tin Tomato Paste 70g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DEEP HEAT SPRAY 150ML.jpg]
+
+File to: [build/img/DEEP HEAT SPRAY 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/De Rica Tin Tomato Paste 850g.png]
+
+File to: [build/img/De Rica Tin Tomato Paste 850g.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DEEP HEAT. RUB 15G.jpg]
+
+File to: [build/img/DEEP HEAT. RUB 15G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DEEP. FREEZE SPRAY 150ML.jpg]
+
+File to: [build/img/DEEP. FREEZE SPRAY 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DEEP HEAT. RUB 35G.jpg]
+
+File to: [build/img/DEEP HEAT. RUB 35G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DE RICA TIN TOMATOES 2.200G.jpg]
+
+File to: [build/img/DE RICA TIN TOMATOES 2.200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DEEP FREEZE COLD GEL 100G.jpg]
+
+File to: [build/img/DEEP FREEZE COLD GEL 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

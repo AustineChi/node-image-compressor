@@ -1,0 +1,49 @@
+File from: [src/img/COOLCOW 2300G SACHET x6.jfif.jpg]
+
+File to: [build/img/COOLCOW 2300G SACHET x6.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COOLCOW 260 X 12G SACHET.jpg]
+
+File to: [build/img/COOLCOW 260 X 12G SACHET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COOLCOW 36 X 150G SACHET.jpg]
+
+File to: [build/img/COOLCOW 36 X 150G SACHET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COOLCOW 400G TIN x12.jfif.jpg]
+
+File to: [build/img/COOLCOW 400G TIN x12.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COOLCOW 850G SACHET x12.jfif.jpg]
+
+File to: [build/img/COOLCOW 850G SACHET x12.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Coralite Adult Underpads x2.jpg]
+
+File to: [build/img/Coralite Adult Underpads x2.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Coralite Plaster x 5.jpg]
+
+File to: [build/img/Coralite Plaster x 5.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COOLCOW 900G TIN x12.jfif.jpg]
+
+File to: [build/img/COOLCOW 900G TIN x12.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

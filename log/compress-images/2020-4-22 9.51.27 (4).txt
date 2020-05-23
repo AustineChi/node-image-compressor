@@ -1,0 +1,55 @@
+File from: [src/img/CWAY NUTRI-YO STRAWBERRY YOGHURT 500ML.jpeg]
+
+File to: [build/img/CWAY NUTRI-YO STRAWBERRY YOGHURT 500ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CWAY NUTRI-YO YOHGURT STRAWBERRY 500ML.jpg]
+
+File to: [build/img/CWAY NUTRI-YO YOHGURT STRAWBERRY 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CWAY PEACH FRUIT DRINK 500ML.jpg]
+
+File to: [build/img/CWAY PEACH FRUIT DRINK 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CWAY REGULAR BOTTLE 18.9L.jpg]
+
+File to: [build/img/CWAY REGULAR BOTTLE 18.9L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CWAY Water Dispenser Ruby 2F 2S.jpg]
+
+File to: [build/img/CWAY Water Dispenser Ruby 2F 2S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cway water refill.jpg]
+
+File to: [build/img/Cway water refill.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cway Water Empty Bottles 18.9 Ltrs.jpg]
+
+File to: [build/img/Cway Water Empty Bottles 18.9 Ltrs.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CYPRIGOLD SYR  200ML.jpeg]
+
+File to: [build/img/CYPRIGOLD SYR  200ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CYPRIGOLD CAPLET  X 30.jpg]
+
+File to: [build/img/CYPRIGOLD CAPLET  X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

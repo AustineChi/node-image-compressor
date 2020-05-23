@@ -1,0 +1,157 @@
+File from: [src/img/PhiimaSilver DishwasherSilver.jpg]
+
+File to: [build/img/PhiimaSilver DishwasherSilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Philodexa (Dexamethasone) 4mg Inj. x1Amp.jpg]
+
+File to: [build/img/Philodexa (Dexamethasone) 4mg Inj. x1Amp.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Philometro Metochlopramide Inj. x1 Amp.jpg]
+
+File to: [build/img/Philometro Metochlopramide Inj. x1 Amp.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PhoneLogo.jpeg]
+
+File to: [build/img/PhoneLogo.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PhiimaWhite DishwasherWHITE.jpg]
+
+File to: [build/img/PhiimaWhite DishwasherWHITE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PICCAN SYR 100ML.jpg]
+
+File to: [build/img/PICCAN SYR 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PHILLIPS MILK OF MAGNESIA. SUSP 118ML.jpg]
+
+File to: [build/img/PHILLIPS MILK OF MAGNESIA. SUSP 118ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PICNIC 58G.jpg]
+
+File to: [build/img/PICNIC 58G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PICNIC MILKY SHORCAKE BISCUITS.jpg]
+
+File to: [build/img/PICNIC MILKY SHORCAKE BISCUITS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PILEX SUPPOSITORY.jpg]
+
+File to: [build/img/PILEX SUPPOSITORY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PINE SOL LEMON FRESH.jpg]
+
+File to: [build/img/PINE SOL LEMON FRESH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PINE SOL MULTISURFACE CLEANER 709ML.jpg]
+
+File to: [build/img/PINE SOL MULTISURFACE CLEANER 709ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PhiimaMicrowave Oven With Grill 25Lblack.jpg]
+
+File to: [build/img/PhiimaMicrowave Oven With Grill 25Lblack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PINE-SOL MULTI SURFACE CLEAN & DEODORIZE 2.95L.jpeg]
+
+File to: [build/img/PINE-SOL MULTI SURFACE CLEAN & DEODORIZE 2.95L.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PINE-SOL MULTI SURFACE CLEANER 828ML LEMON FRESH.jpg]
+
+File to: [build/img/PINE-SOL MULTI SURFACE CLEANER 828ML LEMON FRESH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PINE-SOL MULTI SURFACE CLEANER 828ML SUNSHINE MEADOW.jpeg]
+
+File to: [build/img/PINE-SOL MULTI SURFACE CLEANER 828ML SUNSHINE MEADOW.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PINK CAT 2014 750ML.jpg]
+
+File to: [build/img/PINK CAT 2014 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PINK GRAPE FRUITS PER KG.jpg]
+
+File to: [build/img/PINK GRAPE FRUITS PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PINK LADY SPARK PERRY 75CL.jpg]
+
+File to: [build/img/PINK LADY SPARK PERRY 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/pinterest-logo-gray.png]
+
+File to: [build/img/pinterest-logo-gray.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Piriteze (Cetirizine) Tabs x 30.jpg]
+
+File to: [build/img/Piriteze (Cetirizine) Tabs x 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PIRITEZE TABS X 30.jpg]
+
+File to: [build/img/PIRITEZE TABS X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PIRITEZE TABS X 7.jpg]
+
+File to: [build/img/PIRITEZE TABS X 7.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PIRITON ALLERGY TABLETS X 60 TABLETS.jpg]
+
+File to: [build/img/PIRITON ALLERGY TABLETS X 60 TABLETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PIRITON SYR 150ML [U.K].jpg]
+
+File to: [build/img/PIRITON SYR 150ML [U.K].jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PIRITON TABS X 30 [U.K].jpg]
+
+File to: [build/img/PIRITON TABS X 30 [U.K].jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

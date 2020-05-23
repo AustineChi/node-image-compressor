@@ -1,0 +1,31 @@
+File from: [src/img/JERGENS MOISTURIZER 400ML.jpg]
+
+File to: [build/img/JERGENS MOISTURIZER 400ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JERGENS ORIGINAL SCENT LOTION 621ML.jpg]
+
+File to: [build/img/JERGENS ORIGINAL SCENT LOTION 621ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JERGENS NOURISHING HONEY DRY SKIN 621ML.jpg]
+
+File to: [build/img/JERGENS NOURISHING HONEY DRY SKIN 621ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JERGENS ORIGINAL SCENT 783ML.jpg]
+
+File to: [build/img/JERGENS ORIGINAL SCENT 783ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JERGENS MOISTURIZER 600ML.jpg]
+
+File to: [build/img/JERGENS MOISTURIZER 600ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

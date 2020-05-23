@@ -1,0 +1,223 @@
+File from: [src/img/TCL43Inch Full HD Smart Television TCL – LED43S4900Black.jpg]
+
+File to: [build/img/TCL43Inch Full HD Smart Television TCL – LED43S4900Black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TCP LIQUID ANTISEPTIC 200ML.jpg]
+
+File to: [build/img/TCP LIQUID ANTISEPTIC 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Tea Tree Antibacterial Hand Wash 500ml.jpg]
+
+File to: [build/img/Tea Tree Antibacterial Hand Wash 500ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TCP LIQUID ANTISEPTIC 100ML.jpg]
+
+File to: [build/img/TCP LIQUID ANTISEPTIC 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TEA TREE BLEMISH GEL 30ML.jpg]
+
+File to: [build/img/TEA TREE BLEMISH GEL 30ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TEA TREE CONDITIONER 200ML.jpg]
+
+File to: [build/img/TEA TREE CONDITIONER 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TEA TREE ANTIBACTERIAL HANDWASH 500ML.jpg]
+
+File to: [build/img/TEA TREE ANTIBACTERIAL HANDWASH 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TEA TREE DAILY USE FACIAL SCRUB.jpg]
+
+File to: [build/img/TEA TREE DAILY USE FACIAL SCRUB.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TEA TREE DEEP CLEANSING SHAMPOO 200ML.jpg]
+
+File to: [build/img/TEA TREE DEEP CLEANSING SHAMPOO 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TEA TREE FACIAL MASK 100ML.jpg]
+
+File to: [build/img/TEA TREE FACIAL MASK 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TEA TREE FACIAL WASH 150ML.jpg]
+
+File to: [build/img/TEA TREE FACIAL WASH 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TEA TREE FACIAL SCRUB 150ML.jpg]
+
+File to: [build/img/TEA TREE FACIAL SCRUB 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TEA TREE FACIAL WIPES 25WIPES.jpg]
+
+File to: [build/img/TEA TREE FACIAL WIPES 25WIPES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TEA TREE FACIAL WIPES 30.jpg]
+
+File to: [build/img/TEA TREE FACIAL WIPES 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TEALIGHTS CITRONELLA 12 PK.jpg]
+
+File to: [build/img/TEALIGHTS CITRONELLA 12 PK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TEARS NATURAL EYE DROPS  15ML.jpg]
+
+File to: [build/img/TEARS NATURAL EYE DROPS  15ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TEA TREE REFRESHING BODY WASH 200ML.jpg]
+
+File to: [build/img/TEA TREE REFRESHING BODY WASH 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TEDDY BEAR TINY.jpg]
+
+File to: [build/img/TEDDY BEAR TINY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TEDDY WHITE BIG.jpg]
+
+File to: [build/img/TEDDY WHITE BIG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TEE TREE FOAMING FACE WASH 200ML.jpg]
+
+File to: [build/img/TEE TREE FOAMING FACE WASH 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Tegretol CR 200mg tab x10 sachet.jpg]
+
+File to: [build/img/Tegretol CR 200mg tab x10 sachet.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Tegretol CR 200mg tab x50 pack.jpg]
+
+File to: [build/img/Tegretol CR 200mg tab x50 pack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TEGRETOL CR 400MG X 30.jpg]
+
+File to: [build/img/TEGRETOL CR 400MG X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TEGRETOL TABLETS 200MG X 10.jpg]
+
+File to: [build/img/TEGRETOL TABLETS 200MG X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Tempovate Cream Tube 25g.jpg]
+
+File to: [build/img/Tempovate Cream Tube 25g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Tempovate Gel Tube 30g.jpg]
+
+File to: [build/img/Tempovate Gel Tube 30g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TENORET-50 TABS  X 28.jpg]
+
+File to: [build/img/TENORET-50 TABS  X 28.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TENORETIC TABS  X 14.jpg]
+
+File to: [build/img/TENORETIC TABS  X 14.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TENORIC TABS 100MG X 28.jpg]
+
+File to: [build/img/TENORIC TABS 100MG X 28.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TENORIC-50 X 28 TABLETS.jpg]
+
+File to: [build/img/TENORIC-50 X 28 TABLETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Terbinafine 1% Cream  15 g(Sovereign).jpg]
+
+File to: [build/img/Terbinafine 1% Cream  15 g(Sovereign).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TERBINAFINE TAB 250MG X 28(MEDREICH).jpg]
+
+File to: [build/img/TERBINAFINE TAB 250MG X 28(MEDREICH).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TERBINAFINE TAB 250MG X 28(RELON).jpg]
+
+File to: [build/img/TERBINAFINE TAB 250MG X 28(RELON).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Tetley Dacaf Original Tea 125g.jpg]
+
+File to: [build/img/Tetley Dacaf Original Tea 125g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TETLEY SUPER GREEN TEA 20S.png]
+
+File to: [build/img/TETLEY SUPER GREEN TEA 20S.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/TETLEY TEABAG ORIGINAL.jpg]
+
+File to: [build/img/TETLEY TEABAG ORIGINAL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/TETMOSOL ANTISEPTIC LIQUID 240ML.jpg]
+
+File to: [build/img/TETMOSOL ANTISEPTIC LIQUID 240ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

@@ -1,0 +1,79 @@
+File from: [src/img/PRINGLES SMALL SOUR CREAM _ ONION 12X40G.jpg]
+
+File to: [build/img/PRINGLES SMALL SOUR CREAM _ ONION 12X40G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES SOUR CREAM _ ONION 19X165R.jpg]
+
+File to: [build/img/PRINGLES SOUR CREAM _ ONION 19X165R.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES SOUR CREAM & ONION 21G.jpg]
+
+File to: [build/img/PRINGLES SOUR CREAM & ONION 21G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES SOUR CREAM & ONION 70G.jpg]
+
+File to: [build/img/PRINGLES SOUR CREAM & ONION 70G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES SOURCREAM & ONION REDUCED FAT 158G.png]
+
+File to: [build/img/PRINGLES SOURCREAM & ONION REDUCED FAT 158G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/PRINGLES TEXAS BBQ SAUCE 165G.jpg]
+
+File to: [build/img/PRINGLES TEXAS BBQ SAUCE 165G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES THE ORIGINAL 19G.jpg]
+
+File to: [build/img/PRINGLES THE ORIGINAL 19G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES THE ORIGINAL 37G -45512.jpg]
+
+File to: [build/img/PRINGLES THE ORIGINAL 37G -45512.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRINGLES.jpg]
+
+File to: [build/img/PRINGLES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PRIYAGOLD COOKIES ITALIANO WITH CRUNCHY CHOCO CHIPS.jpg]
+
+File to: [build/img/PRIYAGOLD COOKIES ITALIANO WITH CRUNCHY CHOCO CHIPS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Procold Flu Tablets x4 Satchet.jpg]
+
+File to: [build/img/Procold Flu Tablets x4 Satchet.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PROCOLD TABS X 4.jpg]
+
+File to: [build/img/PROCOLD TABS X 4.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Profectiv Mega Growth Relaxer Kit x 4.jpg]
+
+File to: [build/img/Profectiv Mega Growth Relaxer Kit x 4.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

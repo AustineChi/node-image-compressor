@@ -1,0 +1,67 @@
+File from: [src/img/PhiimaBlack DishwasherBlack.jpg]
+
+File to: [build/img/PhiimaBlack DishwasherBlack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PhiimaBuilt-in Gas And Electric Oven Stainlesssteel.jpeg]
+
+File to: [build/img/PhiimaBuilt-in Gas And Electric Oven Stainlesssteel.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PhiimaBuilt-in Gas And Electric Oven Stainlesssteel.jpg]
+
+File to: [build/img/PhiimaBuilt-in Gas And Electric Oven Stainlesssteel.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PhiimaElectric Oven Blackblack.jpg]
+
+File to: [build/img/PhiimaElectric Oven Blackblack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PhiimaFour Burner Glass Gas Hob - OrangeORANGE.jpg]
+
+File to: [build/img/PhiimaFour Burner Glass Gas Hob - OrangeORANGE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PhiimaFour Burner Glass Gas Hob - BlackBLACK.jpg]
+
+File to: [build/img/PhiimaFour Burner Glass Gas Hob - BlackBLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PhiimaGas & Electric Oven 90cmStainless Steel.jpg]
+
+File to: [build/img/PhiimaGas & Electric Oven 90cmStainless Steel.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PhiimaGlass Five Burner Gas Hob - Built-In GASORANGE.jpg]
+
+File to: [build/img/PhiimaGlass Five Burner Gas Hob - Built-In GASORANGE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PhiimaBuilt-in Gas And Electric Oven - SilverMETAL.jpg]
+
+File to: [build/img/PhiimaBuilt-in Gas And Electric Oven - SilverMETAL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PhiimaBuilt-in Electric Oven - SilverSILVER.jpg]
+
+File to: [build/img/PhiimaBuilt-in Electric Oven - SilverSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/PhiimaBuilt In 3x1 Stainless Gas Hobsteel.jpg]
+
+File to: [build/img/PhiimaBuilt In 3x1 Stainless Gas Hobsteel.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

@@ -1,0 +1,7 @@
+File from: [src/img/MOMODA FEEDING BOTTLE BIG.jpg]
+
+File to: [build/img/MOMODA FEEDING BOTTLE BIG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

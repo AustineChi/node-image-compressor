@@ -1,0 +1,109 @@
+File from: [src/img/D-MarcBluetooth Woofer And SpeakersBLACKK.jpg]
+
+File to: [build/img/D-MarcBluetooth Woofer And SpeakersBLACKK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/D-MarcD Marc XBASS Home TheatreBlack.jpg]
+
+File to: [build/img/D-MarcD Marc XBASS Home TheatreBlack.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DABUR HERBAL TOOTHPASTE 175G.jpg]
+
+File to: [build/img/DABUR HERBAL TOOTHPASTE 175G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DABUR HERBAL TOOTHPASTE BASIL 140G.jpg]
+
+File to: [build/img/DABUR HERBAL TOOTHPASTE BASIL 140G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DABUR HERBAL WITH CLOVE 160G.jpg]
+
+File to: [build/img/DABUR HERBAL WITH CLOVE 160G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAFLON  500MG X 15 TABS.jpg]
+
+File to: [build/img/DAFLON  500MG X 15 TABS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAFLON 500MG X 30 TABS.jpg]
+
+File to: [build/img/DAFLON 500MG X 30 TABS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAILYS COCKTAIL PINA COLADA MIX 1L.jpg]
+
+File to: [build/img/DAILYS COCKTAIL PINA COLADA MIX 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAILYS STRAWBERRY MIX 1LTR.jpg]
+
+File to: [build/img/DAILYS STRAWBERRY MIX 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAIRYMAID FRESH BLUEBERRY CHEESE 2LT.png]
+
+File to: [build/img/DAIRYMAID FRESH BLUEBERRY CHEESE 2LT.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DAKINS HERB TEA 25G.jpg]
+
+File to: [build/img/DAKINS HERB TEA 25G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAKTACORT CREAM  15G.jpg]
+
+File to: [build/img/DAKTACORT CREAM  15G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAKTARIN CREAM  15G.jpg]
+
+File to: [build/img/DAKTARIN CREAM  15G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAKTARIN POWDER  20G.jpg]
+
+File to: [build/img/DAKTARIN POWDER  20G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DAKTARIN SPRAY POWDER 100G.png]
+
+File to: [build/img/DAKTARIN SPRAY POWDER 100G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DALACAP-300 CAPS  X 10.jpg]
+
+File to: [build/img/DALACAP-300 CAPS  X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dalacin C (Clindamycin) 150Mg Tab X10.jpg]
+
+File to: [build/img/Dalacin C (Clindamycin) 150Mg Tab X10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DALACIN C CAPS 150MG X 10.jpg]
+
+File to: [build/img/DALACIN C CAPS 150MG X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

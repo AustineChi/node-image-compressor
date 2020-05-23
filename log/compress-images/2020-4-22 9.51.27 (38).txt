@@ -1,0 +1,91 @@
+File from: [src/img/FDVIE ORANGE_PINEAPPLE JUICE 50CL.jpeg]
+
+File to: [build/img/FDVIE ORANGE_PINEAPPLE JUICE 50CL.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FDVIE WATERMELON_PINEAPPLE JUICE 50CL.jpg]
+
+File to: [build/img/FDVIE WATERMELON_PINEAPPLE JUICE 50CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Fearless Energy Drink Pet 50cl.jpg]
+
+File to: [build/img/Fearless Energy Drink Pet 50cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FEBREZE AIR FRESHNER 300ML BLOSSOM & BREEZE.jpg]
+
+File to: [build/img/FEBREZE AIR FRESHNER 300ML BLOSSOM & BREEZE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FEBREZE AIR FRESHNER 300ML THAI ORCHID.jpg]
+
+File to: [build/img/FEBREZE AIR FRESHNER 300ML THAI ORCHID.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FEBREZE CAR AIR FRESHNER (BLOSSOM & BREEZE).jpg]
+
+File to: [build/img/FEBREZE CAR AIR FRESHNER (BLOSSOM & BREEZE).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FEBREZE CAR AIR FRESHNER REFILL (PACIFIC AIR) 7ML.jpg]
+
+File to: [build/img/FEBREZE CAR AIR FRESHNER REFILL (PACIFIC AIR) 7ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FEBREZE CAR FRESHNER REFILL 7ML BLOSSOM & BREEZE.jpg]
+
+File to: [build/img/FEBREZE CAR FRESHNER REFILL 7ML BLOSSOM & BREEZE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FEBREZE CAR FRESHNER REFILL 7ML FRUITY TROPICS.jpg]
+
+File to: [build/img/FEBREZE CAR FRESHNER REFILL 7ML FRUITY TROPICS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Febreze Rosee Du Matin Freshner 300ml.jpg]
+
+File to: [build/img/Febreze Rosee Du Matin Freshner 300ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FELDENE CAPS 20MG X 20.jpg]
+
+File to: [build/img/FELDENE CAPS 20MG X 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Felvin (Piroxicam) 20Mg Cap X10 Satchet.jpg]
+
+File to: [build/img/Felvin (Piroxicam) 20Mg Cap X10 Satchet.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FELVIN X 10.jpg]
+
+File to: [build/img/FELVIN X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Fem Fresh Soap Free Wash 150ml x 12.jpg]
+
+File to: [build/img/Fem Fresh Soap Free Wash 150ml x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FDVIE TIGERNUT MILK 50CL.jpg]
+
+File to: [build/img/FDVIE TIGERNUT MILK 50CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

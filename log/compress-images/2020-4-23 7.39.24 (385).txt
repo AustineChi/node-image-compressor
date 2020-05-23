@@ -1,0 +1,7 @@
+File from: [src/img/StoreIcon.png]
+
+File to: [build/img/StoreIcon.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant --quality=20-50 -o build/img/StoreIcon.png src/img/StoreIcon.png

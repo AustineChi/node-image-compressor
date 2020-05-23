@@ -1,0 +1,265 @@
+File from: [src/img/ICE MENTOS ORANGE MINT 13.05.jpg]
+
+File to: [build/img/ICE MENTOS ORANGE MINT 13.05.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IDOLE CAROTTE HERBAL SOAP 200G.jpg]
+
+File to: [build/img/IDOLE CAROTTE HERBAL SOAP 200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ICE MENTOS SPEARMINT 13.05.jpg]
+
+File to: [build/img/ICE MENTOS SPEARMINT 13.05.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ICEBERG LETTUCE.jpg]
+
+File to: [build/img/ICEBERG LETTUCE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Idole Carrot Exfoliating Soap x200g.jpg]
+
+File to: [build/img/Idole Carrot Exfoliating Soap x200g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Idole Lightening Exf. Soap 200g.jpg]
+
+File to: [build/img/Idole Lightening Exf. Soap 200g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IDOLE LIGHTENING EXFOLIATING SOAP.jpg]
+
+File to: [build/img/IDOLE LIGHTENING EXFOLIATING SOAP.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Idole Papaya Exfoliating Soap x200g.jpg]
+
+File to: [build/img/Idole Papaya Exfoliating Soap x200g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IDOLE PAPAYA EXFOLIATING SOAP.jpg]
+
+File to: [build/img/IDOLE PAPAYA EXFOLIATING SOAP.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IFGREEN GARRIVITA GARRI FLOUR 1KG.jpg]
+
+File to: [build/img/IFGREEN GARRIVITA GARRI FLOUR 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Igbokwenu Yellow Garri 2kg.png]
+
+File to: [build/img/Igbokwenu Yellow Garri 2kg.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Ijebulawa Garri 2kg.jpg]
+
+File to: [build/img/Ijebulawa Garri 2kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IL PERFUMED BODY SPRAY 100ML.jpg]
+
+File to: [build/img/IL PERFUMED BODY SPRAY 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMEDEEN DERMA ONE TAB 60`S.jpg]
+
+File to: [build/img/IMEDEEN DERMA ONE TAB 60`S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMEDEEN HAIR AND NAIL TABS X 60.jpg]
+
+File to: [build/img/IMEDEEN HAIR AND NAIL TABS X 60.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMEDEEN MAN-AGE-MENT TABS 60`S.jpg]
+
+File to: [build/img/IMEDEEN MAN-AGE-MENT TABS 60`S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMEDEEN TIME PERFECTION 120`S.jpg]
+
+File to: [build/img/IMEDEEN TIME PERFECTION 120`S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMEDEEN TIME PERFECTION X 60.jpg]
+
+File to: [build/img/IMEDEEN TIME PERFECTION X 60.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMG_20190607_111938.jpg]
+
+File to: [build/img/IMG_20190607_111938.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Immunace Caps -30.jpg]
+
+File to: [build/img/Immunace Caps -30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMMUNACE SELENIUM X 30.jpg]
+
+File to: [build/img/IMMUNACE SELENIUM X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMMUNACE TABS X 30.jpg]
+
+File to: [build/img/IMMUNACE TABS X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMMUNBOOST KIDS MULTI GUMMIES X 90.jpg]
+
+File to: [build/img/IMMUNBOOST KIDS MULTI GUMMIES X 90.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMMUNEBOOST VIT C EFF X 20.png]
+
+File to: [build/img/IMMUNEBOOST VIT C EFF X 20.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Imodium (Loperamide) 2mg Cap x6 Janssen.jpg]
+
+File to: [build/img/Imodium (Loperamide) 2mg Cap x6 Janssen.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMODIUM 1MG_5ML ORAL SOLUTION.jpg]
+
+File to: [build/img/IMODIUM 1MG_5ML ORAL SOLUTION.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Imodium 1mg-5ml Syr. (Loperamide) 100ml.jpg]
+
+File to: [build/img/Imodium 1mg-5ml Syr. (Loperamide) 100ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMODIUM 2MG X 6 CAPSULES.jpg]
+
+File to: [build/img/IMODIUM 2MG X 6 CAPSULES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMODIUM CAPS X 12.jpg]
+
+File to: [build/img/IMODIUM CAPS X 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMODIUM INSTANT MELTS X 12.jpg]
+
+File to: [build/img/IMODIUM INSTANT MELTS X 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMODIUM INSTANT MELTS X 6.jpg]
+
+File to: [build/img/IMODIUM INSTANT MELTS X 6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMODIUM PLUS COMFORT X 6.jpg]
+
+File to: [build/img/IMODIUM PLUS COMFORT X 6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Imperal Leather Orig Luxury Soap 150g.jpg]
+
+File to: [build/img/Imperal Leather Orig Luxury Soap 150g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Imperal Leather Orig Luxury Soap 75g.jpg]
+
+File to: [build/img/Imperal Leather Orig Luxury Soap 75g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMPERIAL FOR MEN (S_4 RAZOR) 3.jpg]
+
+File to: [build/img/IMPERIAL FOR MEN (S_4 RAZOR) 3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMPERIAL LEATHER BODY SPRAY BLOSSOM_ PATCHOULI.jpg]
+
+File to: [build/img/IMPERIAL LEATHER BODY SPRAY BLOSSOM_ PATCHOULI.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMPERIAL LEATHER BODY SPRAY BLOSSOM_ PATCHOULI(1).jpg]
+
+File to: [build/img/IMPERIAL LEATHER BODY SPRAY BLOSSOM_ PATCHOULI(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMPERIAL LEATHER BODY WASH JAPANESE SPA 250ML.jpg]
+
+File to: [build/img/IMPERIAL LEATHER BODY WASH JAPANESE SPA 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMPERIAL LEATHER CALMING INFUSION BATH CREAM.jpg]
+
+File to: [build/img/IMPERIAL LEATHER CALMING INFUSION BATH CREAM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMPERIAL LEATHER CLASSIC BATH BAR 150G.jpg]
+
+File to: [build/img/IMPERIAL LEATHER CLASSIC BATH BAR 150G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Imperial Leather Classic Bath Bar 70g.jpg]
+
+File to: [build/img/Imperial Leather Classic Bath Bar 70g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IMPERIAL LEATHER RELAXING INFUSION BATH CREAM.png]
+
+File to: [build/img/IMPERIAL LEATHER RELAXING INFUSION BATH CREAM.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/IMPERIAL LEATHER SOAP MIX 36ML.jpg]
+
+File to: [build/img/IMPERIAL LEATHER SOAP MIX 36ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ImperialLeatherComfortingBathCream MILK _ COTTON FLWR 500ML.jpg]
+
+File to: [build/img/ImperialLeatherComfortingBathCream MILK _ COTTON FLWR 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

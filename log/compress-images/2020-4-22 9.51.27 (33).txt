@@ -1,0 +1,169 @@
+File from: [src/img/EXTRACT WHITENING HERBAL PAPAYA CALAMANSI SOAP 125G.jpg]
+
+File to: [build/img/EXTRACT WHITENING HERBAL PAPAYA CALAMANSI SOAP 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EYE MAKE UP REMOVER (FACE VISAGE) 200ML.JPG]
+
+File to: [build/img/EYE MAKE UP REMOVER (FACE VISAGE) 200ML.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EYE MAKE UP REMOVER PADS 30.jpg]
+
+File to: [build/img/EYE MAKE UP REMOVER PADS 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EYE STUDIO BROW SATIN 02 MED BROWN.jpg]
+
+File to: [build/img/EYE STUDIO BROW SATIN 02 MED BROWN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EYE STUDIO BROW SATIN 04 DARK BROWN.jpg]
+
+File to: [build/img/EYE STUDIO BROW SATIN 04 DARK BROWN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EYE STUDIO MASTER INK LUMINOUS LIQUID EYELINER.jpg]
+
+File to: [build/img/EYE STUDIO MASTER INK LUMINOUS LIQUID EYELINER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/EYEDITEN EYE DROPS 5ML.jpg]
+
+File to: [build/img/EYEDITEN EYE DROPS 5ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAB FOREVER ACTIVE BOOST 250ML.jpg]
+
+File to: [build/img/FAB FOREVER ACTIVE BOOST 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FACE STUDIO MASTER CONTOUR DUO 3 DARK.jpg]
+
+File to: [build/img/FACE STUDIO MASTER CONTOUR DUO 3 DARK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FACE STUDIO MASTER FIX BAKING POWDER 002.jpg]
+
+File to: [build/img/FACE STUDIO MASTER FIX BAKING POWDER 002.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FACE STUDIO MASTER FIX LOOSE TRANSCLUCENT POWDER.jpg]
+
+File to: [build/img/FACE STUDIO MASTER FIX LOOSE TRANSCLUCENT POWDER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FACE TOWEL.jpeg]
+
+File to: [build/img/FACE TOWEL.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FACE VISAGE TONIC (FACIAL TONIC) 200ML.jpg]
+
+File to: [build/img/FACE VISAGE TONIC (FACIAL TONIC) 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/facebook-logo-gray.png]
+
+File to: [build/img/facebook-logo-gray.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/FACIAL CLEANSING WIPES.jpeg]
+
+File to: [build/img/FACIAL CLEANSING WIPES.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FADELLA OAT MILK 600ML.jpg]
+
+File to: [build/img/FADELLA OAT MILK 600ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAIR & WHITE GOLD ULTIMATE SERUM 30ML.jpg]
+
+File to: [build/img/FAIR & WHITE GOLD ULTIMATE SERUM 30ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Fair & White Serum Excl Whitenizer 30ml.jpg]
+
+File to: [build/img/Fair & White Serum Excl Whitenizer 30ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAIR & WHITE SERUM EXCLUSIVE WHITENIZER 30ML.jpg]
+
+File to: [build/img/FAIR & WHITE SERUM EXCLUSIVE WHITENIZER 30ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Fair & White So White Exfo Soap 200g.jpg]
+
+File to: [build/img/Fair & White So White Exfo Soap 200g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAIRY LIQUID POMEGRANATE & HONEY PMP 433ML.jpg]
+
+File to: [build/img/FAIRY LIQUID POMEGRANATE & HONEY PMP 433ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FALLY CORN FLOUR 400G.jpg]
+
+File to: [build/img/FALLY CORN FLOUR 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAMILIA 2 PLY KITCHEN TOWEL DOUBLE.jpg]
+
+File to: [build/img/FAMILIA 2 PLY KITCHEN TOWEL DOUBLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAMILIA 2 PLY KITCHEN TOWEL SINGLE.jpg]
+
+File to: [build/img/FAMILIA 2 PLY KITCHEN TOWEL SINGLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAMILIA CLASSIC 2 PLY TOILET PAPER 4S.jpg]
+
+File to: [build/img/FAMILIA CLASSIC 2 PLY TOILET PAPER 4S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAMILIA CLASSIC 2 PLY TOILET PAPER DOUBLE.jpg]
+
+File to: [build/img/FAMILIA CLASSIC 2 PLY TOILET PAPER DOUBLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAMILIA CLASSIC 2 PLY TOILET PAPER SINGLE.JPG]
+
+File to: [build/img/FAMILIA CLASSIC 2 PLY TOILET PAPER SINGLE.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Familia Classic 2ply Toilet Roll x1.jpg]
+
+File to: [build/img/Familia Classic 2ply Toilet Roll x1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

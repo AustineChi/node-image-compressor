@@ -1,0 +1,55 @@
+File from: [src/img/THE LAUGHING COW CHEESE.jpg]
+
+File to: [build/img/THE LAUGHING COW CHEESE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/The Trash Pack Glow in Dark Street Sweeper.jpg]
+
+File to: [build/img/The Trash Pack Glow in Dark Street Sweeper.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/THE MACALLAN SINGLE MALT SCOTCH WHISKY 12YRS.jpg]
+
+File to: [build/img/THE MACALLAN SINGLE MALT SCOTCH WHISKY 12YRS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/THE NUDE EYESHADOW PALETTE.jpg]
+
+File to: [build/img/THE NUDE EYESHADOW PALETTE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/THE SINGLETON DUFFTOWN 12 YEARS.jpg]
+
+File to: [build/img/THE SINGLETON DUFFTOWN 12 YEARS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/THOMAS BARTON RESERVE GRAVES BLANC 75CL.png]
+
+File to: [build/img/THOMAS BARTON RESERVE GRAVES BLANC 75CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/THOMAS BARTON RESERVE MARGAUX 75CL.png]
+
+File to: [build/img/THOMAS BARTON RESERVE MARGAUX 75CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/ThermoFlash Infrared Thermometer x1.jpg]
+
+File to: [build/img/ThermoFlash Infrared Thermometer x1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/THOMAS BARTON RESERVE BORDEAUX 75CL.png]
+
+File to: [build/img/THOMAS BARTON RESERVE BORDEAUX 75CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAIN

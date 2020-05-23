@@ -1,0 +1,193 @@
+File from: [src/img/Maggi Seasoning Cube 400g.jpg]
+
+File to: [build/img/Maggi Seasoning Cube 400g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Maggi Seasoning Powder 450g.jpg]
+
+File to: [build/img/Maggi Seasoning Powder 450g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAGGI SEASONING POWDER 450G.png]
+
+File to: [build/img/MAGGI SEASONING POWDER 450G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Maggi Signature Ranges (Sachet) 8g.jpg]
+
+File to: [build/img/Maggi Signature Ranges (Sachet) 8g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAGIC COAT CITRUS OIL SHAMPOO 473ML.jpg]
+
+File to: [build/img/MAGIC COAT CITRUS OIL SHAMPOO 473ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAGIC COAT ANTI STATIC SHAMPOO 473ML.jpg]
+
+File to: [build/img/MAGIC COAT ANTI STATIC SHAMPOO 473ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAGIC COAT HYPO ALLERGENIC SHAMPOO 473ML.jpg]
+
+File to: [build/img/MAGIC COAT HYPO ALLERGENIC SHAMPOO 473ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAGIC COAT HONEY & OATMEAL SHAMPOO 473ML.jpg]
+
+File to: [build/img/MAGIC COAT HONEY & OATMEAL SHAMPOO 473ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAGIC COAT LAVENDER SHAMPOO 473ML.jpg]
+
+File to: [build/img/MAGIC COAT LAVENDER SHAMPOO 473ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAGIC COAT MEDICATED SHAMPOO 473ML.jpg]
+
+File to: [build/img/MAGIC COAT MEDICATED SHAMPOO 473ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAGIC COAT REDUCE SHEDDING SHAMPOO 473ML.jpg]
+
+File to: [build/img/MAGIC COAT REDUCE SHEDDING SHAMPOO 473ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAGIC COAT SOFT RUBBER NUBS.jpg]
+
+File to: [build/img/MAGIC COAT SOFT RUBBER NUBS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAGIC COAT TANGLE & MATS SHAMPOO 473ML.jpg]
+
+File to: [build/img/MAGIC COAT TANGLE & MATS SHAMPOO 473ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAGIC COAT TEA TREE OIL SHAMPOO 473ML.jpg]
+
+File to: [build/img/MAGIC COAT TEA TREE OIL SHAMPOO 473ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAGIC COAT TEARLESS SHAMPOO 473ML.jpg]
+
+File to: [build/img/MAGIC COAT TEARLESS SHAMPOO 473ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAGIC MOMENT CHOCOLATE 75CL.png]
+
+File to: [build/img/MAGIC MOMENT CHOCOLATE 75CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Magic Moment Premium Vodka 375ml.jpg]
+
+File to: [build/img/Magic Moment Premium Vodka 375ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Magic Moment Premium Vodka 750ml.jpg]
+
+File to: [build/img/Magic Moment Premium Vodka 750ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Magic Moments Vodka 1 Ltr.jpg]
+
+File to: [build/img/Magic Moments Vodka 1 Ltr.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Magic Razorless Shaving Cream 170g.jpg]
+
+File to: [build/img/Magic Razorless Shaving Cream 170g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Magic Shaving Powder 142g.jpg]
+
+File to: [build/img/Magic Shaving Powder 142g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAGIC SOFT WAVE BRUSH.jpg]
+
+File to: [build/img/MAGIC SOFT WAVE BRUSH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAGIK ORANGE DRINK 125ML.jpg]
+
+File to: [build/img/MAGIK ORANGE DRINK 125ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAGIK WATERMELON DRINK 125ML.jpg]
+
+File to: [build/img/MAGIK WATERMELON DRINK 125ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAGNETIC ENERGY SANITORY PAD PINK X8.jpg]
+
+File to: [build/img/MAGNETIC ENERGY SANITORY PAD PINK X8.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Malibu75cl x12.jpg]
+
+File to: [build/img/Malibu75cl x12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Maling Coconut Milk 400ml.jpg]
+
+File to: [build/img/Maling Coconut Milk 400ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Malibu75cl x6.jpg]
+
+File to: [build/img/Malibu75cl x6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MALT N MILK 150ML.jpg]
+
+File to: [build/img/MALT N MILK 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MALTA GUINNESS 330ML CAN 24X01.jpg]
+
+File to: [build/img/MALTA GUINNESS 330ML CAN 24X01.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MALTA GUINNESS 330ML CAN.jpg]
+
+File to: [build/img/MALTA GUINNESS 330ML CAN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MALTA GUINNESS BOTTLE CLAS330M.png]
+
+File to: [build/img/MALTA GUINNESS BOTTLE CLAS330M.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAIN

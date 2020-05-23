@@ -1,0 +1,277 @@
+File from: [src/img/Iphone 11 64gb - White.jpg]
+
+File to: [build/img/Iphone 11 64gb - White.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/iPhone 11 64gb dual - Black.jpg]
+
+File to: [build/img/iPhone 11 64gb dual - Black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/iPhone 11 64gb dual - Green.png]
+
+File to: [build/img/iPhone 11 64gb dual - Green.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/iPhone 11 64gb dual - Purple.jpg]
+
+File to: [build/img/iPhone 11 64gb dual - Purple.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/iPhone 11 64gb dual - Red.jpg]
+
+File to: [build/img/iPhone 11 64gb dual - Red.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/iPhone 11 64gb dual - Yellow.jpg]
+
+File to: [build/img/iPhone 11 64gb dual - Yellow.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone 11 pro 256gb dual mint green.jpg]
+
+File to: [build/img/Iphone 11 pro 256gb dual mint green.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone 11 pro 256gb dual white.jpg]
+
+File to: [build/img/Iphone 11 pro 256gb dual white.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone 11 pro 64gb  dual white.jpg]
+
+File to: [build/img/Iphone 11 pro 64gb  dual white.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone 11 pro 64gb dual  space grey.jpg]
+
+File to: [build/img/Iphone 11 pro 64gb dual  space grey.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone 11 pro 64gb dual gold.jpg]
+
+File to: [build/img/Iphone 11 pro 64gb dual gold.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone 11 pro 64gb dual mint green.jpg]
+
+File to: [build/img/Iphone 11 pro 64gb dual mint green.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone 11 pro 64gb gold.jpg]
+
+File to: [build/img/Iphone 11 pro 64gb gold.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone 11 pro 64gb mint green.jpg]
+
+File to: [build/img/Iphone 11 pro 64gb mint green.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone 11 pro 64gb space grey.jpg]
+
+File to: [build/img/Iphone 11 pro 64gb space grey.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone 11 pro 64gb white.jpg]
+
+File to: [build/img/Iphone 11 pro 64gb white.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IPhone 11 Pro Max 64gb gold.jpg]
+
+File to: [build/img/IPhone 11 Pro Max 64gb gold.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IPhone 11 Pro Max 64gb grey.jpg]
+
+File to: [build/img/IPhone 11 Pro Max 64gb grey.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IPhone 11 Pro Max 64gb mint green.jpg]
+
+File to: [build/img/IPhone 11 Pro Max 64gb mint green.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/IPhone 11 Pro Max 64gb white.jpg]
+
+File to: [build/img/IPhone 11 Pro Max 64gb white.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/iPhone 11 promax 512gb gold .png]
+
+File to: [build/img/iPhone 11 promax 512gb gold .png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/iPhone 11 promax 512gb green.jpg]
+
+File to: [build/img/iPhone 11 promax 512gb green.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/iPhone 11 promax 512gb grey.jpg]
+
+File to: [build/img/iPhone 11 promax 512gb grey.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/iPhone 11 promax 512gb white.jpg]
+
+File to: [build/img/iPhone 11 promax 512gb white.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone 11pro max 256gb  grey.jpg]
+
+File to: [build/img/Iphone 11pro max 256gb  grey.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/iPhone 11pro max 256gb grey.jpg]
+
+File to: [build/img/iPhone 11pro max 256gb grey.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone 11pro max 512gb dual green.jpg]
+
+File to: [build/img/Iphone 11pro max 512gb dual green.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone 11pro max 512gb dual gold .png]
+
+File to: [build/img/Iphone 11pro max 512gb dual gold .png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Iphone 11pro max 512gb dual grey.jpg]
+
+File to: [build/img/Iphone 11pro max 512gb dual grey.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone 11pro max 512gb dual white .jpg]
+
+File to: [build/img/Iphone 11pro max 512gb dual white .jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone 11pro max 64gb dual gold .png]
+
+File to: [build/img/Iphone 11pro max 64gb dual gold .png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Iphone 11pro max 64gb dual green.jpg]
+
+File to: [build/img/Iphone 11pro max 64gb dual green.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone 11pro max 64gb dual grey.jpg]
+
+File to: [build/img/Iphone 11pro max 64gb dual grey.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone 11pro max 64gb dual white.jpg]
+
+File to: [build/img/Iphone 11pro max 64gb dual white.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone 11pro max 64gb gold.png]
+
+File to: [build/img/Iphone 11pro max 64gb gold.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/iPhone 11 64gb dual - White.png]
+
+File to: [build/img/iPhone 11 64gb dual - White.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Iphone 11 64gb - Yellow.jpg]
+
+File to: [build/img/Iphone 11 64gb - Yellow.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone 11pro max 64gb green.jpg]
+
+File to: [build/img/Iphone 11pro max 64gb green.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone 11pro max 64gb grey.jpg]
+
+File to: [build/img/Iphone 11pro max 64gb grey.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone 11pro max 64gb white.jpg]
+
+File to: [build/img/Iphone 11pro max 64gb white.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/iPhone 6 battery replacement.jpg]
+
+File to: [build/img/iPhone 6 battery replacement.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/iPhone 6 screen repair.png]
+
+File to: [build/img/iPhone 6 screen repair.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/iPhone 6s battery replacement.jpg]
+
+File to: [build/img/iPhone 6s battery replacement.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/iPhone 6s screen repair.jpg]
+
+File to: [build/img/iPhone 6s screen repair.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone 7 128gb Black.jpg]
+
+File to: [build/img/Iphone 7 128gb Black.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Iphone 7 128gb Red.jpg]
+
+File to: [build/img/Iphone 7 128gb Red.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

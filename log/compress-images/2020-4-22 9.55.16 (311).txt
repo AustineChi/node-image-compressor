@@ -1,0 +1,43 @@
+File from: [src/img/JOHNSONS STAIN & ODOUR REMOVER 500ML.jpg]
+
+File to: [build/img/JOHNSONS STAIN & ODOUR REMOVER 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNSONS VELVET COAT CONDITIONING SPRAY 150ML.jpg]
+
+File to: [build/img/JOHNSONS VELVET COAT CONDITIONING SPRAY 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Jointace Max Triple Pack 84tabs-caps.jpg]
+
+File to: [build/img/Jointace Max Triple Pack 84tabs-caps.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOINTACE TABS PLUS OMEGA 3 X 30.jpg]
+
+File to: [build/img/JOINTACE TABS PLUS OMEGA 3 X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOINTACE WITH CHONDOITIN TABS X 30 {COLLAGEN}.jpg]
+
+File to: [build/img/JOINTACE WITH CHONDOITIN TABS X 30 {COLLAGEN}.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOINTACE. GEL  75ML.jpg]
+
+File to: [build/img/JOINTACE. GEL  75ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Jollof Rice & Chicken 3 Litre.jpg]
+
+File to: [build/img/Jollof Rice & Chicken 3 Litre.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

@@ -1,0 +1,25 @@
+File from: [src/img/DANO UHT 3.5% FULL CREAM MILK 1L.jpg]
+
+File to: [build/img/DANO UHT 3.5% FULL CREAM MILK 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO UHT 3.5% FULL CREAM x12.jfif.jpg]
+
+File to: [build/img/DANO UHT 3.5% FULL CREAM x12.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO UHT MILK SEMI SKIMMED 1L.jpg]
+
+File to: [build/img/DANO UHT MILK SEMI SKIMMED 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DANO UHT MILK FULL CREAM 1L.jpg]
+
+File to: [build/img/DANO UHT MILK FULL CREAM 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

@@ -1,0 +1,127 @@
+File from: [src/img/SNAPP CAN.png]
+
+File to: [build/img/SNAPP CAN.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SNAPPLE FLAVORED JUICE 591ML.jpg]
+
+File to: [build/img/SNAPPLE FLAVORED JUICE 591ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SNICKER 50G.png]
+
+File to: [build/img/SNICKER 50G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SNICKER 80G DUO.png]
+
+File to: [build/img/SNICKER 80G DUO.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SNICKER ALMOND FUN SIZE 6S.jpg]
+
+File to: [build/img/SNICKER ALMOND FUN SIZE 6S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SNICKERS 2 PACK 70GM.jpg]
+
+File to: [build/img/SNICKERS 2 PACK 70GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SNICKERS BITES 119G.jpg]
+
+File to: [build/img/SNICKERS BITES 119G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SNICKERS CHOCOLATE 50G.jpg]
+
+File to: [build/img/SNICKERS CHOCOLATE 50G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SNICKERS FULL SIZE CHOCOLATE BARS 6S.jpeg]
+
+File to: [build/img/SNICKERS FULL SIZE CHOCOLATE BARS 6S.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Snapp Sparkling Drink 300ml.jpg]
+
+File to: [build/img/Snapp Sparkling Drink 300ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SNAPP DIVA 300ML X 24 RGB.png]
+
+File to: [build/img/SNAPP DIVA 300ML X 24 RGB.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SNAPP DIVA 330ML CAN.png]
+
+File to: [build/img/SNAPP DIVA 330ML CAN.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SNICKERS MINATURE 250ML.jpg]
+
+File to: [build/img/SNICKERS MINATURE 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SNUFFLE BABE VAPOUR RUB.jpg]
+
+File to: [build/img/SNUFFLE BABE VAPOUR RUB.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SNUFFLE BABY SALINE NASAL SALINE DROPS.jpg]
+
+File to: [build/img/SNUFFLE BABY SALINE NASAL SALINE DROPS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SO FINE ANTIDANDRUF HAIR DARKENING CREAM 100G.png]
+
+File to: [build/img/SO FINE ANTIDANDRUF HAIR DARKENING CREAM 100G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SO KLIN CONCENTRATED DETERGENT 900G.jpg]
+
+File to: [build/img/SO KLIN CONCENTRATED DETERGENT 900G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SO KLIN MATIC DETERGENT 1KG.jpg]
+
+File to: [build/img/SO KLIN MATIC DETERGENT 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SNIPER AEROSOL FLYING 300ML.jpg]
+
+File to: [build/img/SNIPER AEROSOL FLYING 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SnowseaDouble 3.5ft Door Standing Refrigerator BCD-158silver.jpg]
+
+File to: [build/img/SnowseaDouble 3.5ft Door Standing Refrigerator BCD-158silver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SNIPER AEROSOL CRAWLING 300ML.jpg]
+
+File to: [build/img/SNIPER AEROSOL CRAWLING 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

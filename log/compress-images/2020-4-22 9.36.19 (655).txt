@@ -1,0 +1,655 @@
+File from: [src/img/COTTON WOOL 50G.jpg]
+
+File to: [build/img/COTTON WOOL 50G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COTTON WOOL ROLL 125G.jpg]
+
+File to: [build/img/COTTON WOOL ROLL 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COUNTRY FRESH NEAPOLITAN 1.8L.jpg]
+
+File to: [build/img/COUNTRY FRESH NEAPOLITAN 1.8L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COURVOISIER VS 70CL.jpg]
+
+File to: [build/img/COURVOISIER VS 70CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COUNTRY FRESH VANILLA 1.8L.jpg]
+
+File to: [build/img/COUNTRY FRESH VANILLA 1.8L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COURVOISIER VSOP 70CL.jpg]
+
+File to: [build/img/COURVOISIER VSOP 70CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COVERSYL 5MG X 15 TABS.jpg]
+
+File to: [build/img/COVERSYL 5MG X 15 TABS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COVONIA CATARRH RELIEF 100ML.jpg]
+
+File to: [build/img/COVONIA CATARRH RELIEF 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Coveram 5mg-10mg Tabs x 30.jpg]
+
+File to: [build/img/Coveram 5mg-10mg Tabs x 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Covonia Chesty Cough S.F x 150ml T&R.jpg]
+
+File to: [build/img/Covonia Chesty Cough S.F x 150ml T&R.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Covonia Chesty Cough x 150ml T&R.jpg]
+
+File to: [build/img/Covonia Chesty Cough x 150ml T&R.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Covonia Chesty Cough Syrup SF 150ml.jpg]
+
+File to: [build/img/Covonia Chesty Cough Syrup SF 150ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COVONIA COUGH LOZ. 30G B.BLAST.jpg]
+
+File to: [build/img/COVONIA COUGH LOZ. 30G B.BLAST.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COVONIA COUGH LOZ. 51G B-BLAST.jpg]
+
+File to: [build/img/COVONIA COUGH LOZ. 51G B-BLAST.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COVONIA COUGH LOZENGES EXTRA STRONG ORIG X 51.jpg]
+
+File to: [build/img/COVONIA COUGH LOZENGES EXTRA STRONG ORIG X 51.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COVONIA COUGH LOZENGES ORIGINAL 30GM.jpg]
+
+File to: [build/img/COVONIA COUGH LOZENGES ORIGINAL 30GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COVONIA COUGH LOZENGES SUGERFREE 30GM.jpg]
+
+File to: [build/img/COVONIA COUGH LOZENGES SUGERFREE 30GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COVONIA DRY COUGH S F X 150ML.jpg]
+
+File to: [build/img/COVONIA DRY COUGH S F X 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COVONIA DUAL ACTION LOZENGES ORIG X 51.jpg]
+
+File to: [build/img/COVONIA DUAL ACTION LOZENGES ORIG X 51.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COVONIA HERBAL MUCUS COUGH.jpg]
+
+File to: [build/img/COVONIA HERBAL MUCUS COUGH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Covonia Throat Spray 30ml.jpg]
+
+File to: [build/img/Covonia Throat Spray 30ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COW _ GATE 1 INFANT MILK 0-6 MONTHS 900G.jpg]
+
+File to: [build/img/COW _ GATE 1 INFANT MILK 0-6 MONTHS 900G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cow _ Gate NutriStart Formula 400g x 12.jpg]
+
+File to: [build/img/Cow _ Gate NutriStart Formula 400g x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COW & GATE CREAMED CARROT & POTATO 125G.jpg]
+
+File to: [build/img/COW & GATE CREAMED CARROT & POTATO 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COW & GATE CREAMED COTTAGE PIE 125G.jpg]
+
+File to: [build/img/COW & GATE CREAMED COTTAGE PIE 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COW & GATE JAR ORCHARD & APRICOT & APPLE 125G.jpg]
+
+File to: [build/img/COW & GATE JAR ORCHARD & APRICOT & APPLE 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COW & GATE JAR PUMPKIN AND CHICKEN 125G.jpg]
+
+File to: [build/img/COW & GATE JAR PUMPKIN AND CHICKEN 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COW & GATE JARS STAGE 1 B-B APPLE & MANGO 125G.jpeg]
+
+File to: [build/img/COW & GATE JARS STAGE 1 B-B APPLE & MANGO 125G.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COW & GATE JARS STAGE 1 B-B BANANA YOGHURT 125G.jpg]
+
+File to: [build/img/COW & GATE JARS STAGE 1 B-B BANANA YOGHURT 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COW & GATE JARS STAGE 1 B-B EGG CUSTARD 125G.jpg]
+
+File to: [build/img/COW & GATE JARS STAGE 1 B-B EGG CUSTARD 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COW & GATE JARS STAGE 1 B-B RICE PUDDING 125G.jpg]
+
+File to: [build/img/COW & GATE JARS STAGE 1 B-B RICE PUDDING 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COW & GATE JARS STAGE 1 TASTY APPLE & ORANGE 125G.jpg]
+
+File to: [build/img/COW & GATE JARS STAGE 1 TASTY APPLE & ORANGE 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COW & GATE JARS STAGE 2 B-B BANANA & BERRY 125G.jpg]
+
+File to: [build/img/COW & GATE JARS STAGE 2 B-B BANANA & BERRY 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COW & GATE JARS STAGE 2 B-B RICE PUDDING 125G.JPG]
+
+File to: [build/img/COW & GATE JARS STAGE 2 B-B RICE PUDDING 125G.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COW & GATE MINI BEEF CASSEROLE 125G.jpg]
+
+File to: [build/img/COW & GATE MINI BEEF CASSEROLE 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cow and gate cereals 7 months +.jpg]
+
+File to: [build/img/Cow and gate cereals 7 months +.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cow assorted meat.jpg]
+
+File to: [build/img/Cow assorted meat.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cow boneless meat .jpg]
+
+File to: [build/img/Cow boneless meat .jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cow head.jpg]
+
+File to: [build/img/Cow head.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cow meat  10kg.jpg]
+
+File to: [build/img/Cow meat  10kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cow Leg.jpg]
+
+File to: [build/img/Cow Leg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cow meat  5kg.jpg]
+
+File to: [build/img/Cow meat  5kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cow meat 1kg.jpg]
+
+File to: [build/img/Cow meat 1kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cow meat 2.5kg.jpg]
+
+File to: [build/img/Cow meat 2.5kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cow tail.jpg]
+
+File to: [build/img/Cow tail.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cow tongue.jpg]
+
+File to: [build/img/Cow tongue.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COWBELL (400G).jpg]
+
+File to: [build/img/COWBELL (400G).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COWBELL CHOCO MILK 400G SACHET.jpg]
+
+File to: [build/img/COWBELL CHOCO MILK 400G SACHET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cowbell Choco25g Sachet 12x 250 Carton.jpg]
+
+File to: [build/img/Cowbell Choco25g Sachet 12x 250 Carton.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cowbell Choco550g S x12 Carton.jpg]
+
+File to: [build/img/Cowbell Choco550g S x12 Carton.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COWBELL CHOCOLATE  FLAVOUE 20GR.jpg]
+
+File to: [build/img/COWBELL CHOCOLATE  FLAVOUE 20GR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COWBELL CHOCOLATE 550G.png]
+
+File to: [build/img/COWBELL CHOCOLATE 550G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/COWBELL COFFEE MILK 20G.jpg]
+
+File to: [build/img/COWBELL COFFEE MILK 20G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cowbell Coffee milk20 gr Sachet 25 x 10pk MULTI-PACK Carton.jpg]
+
+File to: [build/img/Cowbell Coffee milk20 gr Sachet 25 x 10pk MULTI-PACK Carton.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cowbell Coffee milk25g Sachet 12x 250 Carton.jpg]
+
+File to: [build/img/Cowbell Coffee milk25g Sachet 12x 250 Carton.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cowbell Evaporated160g Tin x 24 Carton.png]
+
+File to: [build/img/Cowbell Evaporated160g Tin x 24 Carton.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/COWBELL MILK 12G.jpg]
+
+File to: [build/img/COWBELL MILK 12G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COWBELL MILK 2.5KG POUCH.png]
+
+File to: [build/img/COWBELL MILK 2.5KG POUCH.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/COWBELL MILK 400G SACHET.png]
+
+File to: [build/img/COWBELL MILK 400G SACHET.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/COWBELL MILK 900G POUCH.jpeg]
+
+File to: [build/img/COWBELL MILK 900G POUCH.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COWBELL MILK POWDER SACHET 400.jpg]
+
+File to: [build/img/COWBELL MILK POWDER SACHET 400.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COWBELL MILK 900G TIN.png]
+
+File to: [build/img/COWBELL MILK 900G TIN.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Cowbell Powder Milk Refill 380g.jpg]
+
+File to: [build/img/Cowbell Powder Milk Refill 380g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cowbell Powder Milk Tin 900g x 6.jpg]
+
+File to: [build/img/Cowbell Powder Milk Tin 900g x 6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cowbell Powdered Milk Pouch 900g x 6.jpg]
+
+File to: [build/img/Cowbell Powdered Milk Pouch 900g x 6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cowbell Powdered Milk Tin 400g X 12.jpg]
+
+File to: [build/img/Cowbell Powdered Milk Tin 400g X 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cowbell Strawberry20g Sachet x150 Carton.png]
+
+File to: [build/img/Cowbell Strawberry20g Sachet x150 Carton.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Cowbell12g X 250 Carton.jpg]
+
+File to: [build/img/Cowbell12g X 250 Carton.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cowbell12g X 200 + 40g Choco Sunvita Carton.jpg]
+
+File to: [build/img/Cowbell12g X 200 + 40g Choco Sunvita Carton.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cowbell2.5kg pouch 4x1 Butter fat Carton.png]
+
+File to: [build/img/Cowbell2.5kg pouch 4x1 Butter fat Carton.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Cowbell25kg bag Carton.jpg]
+
+File to: [build/img/Cowbell25kg bag Carton.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cowbell360g S x 12 Carton.jpg]
+
+File to: [build/img/Cowbell360g S x 12 Carton.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cowbell900g P X6 Carton.jpg]
+
+File to: [build/img/Cowbell900g P X6 Carton.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cowbell400g T x12 Carton.jpg]
+
+File to: [build/img/Cowbell400g T x12 Carton.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cowbell380g S x 12 Carton.jpg]
+
+File to: [build/img/Cowbell380g S x 12 Carton.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cowbell900g T X6 Carton.jpg]
+
+File to: [build/img/Cowbell900g T X6 Carton.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CRACKER JACK THE ORIJINAL 35.4G.jpg]
+
+File to: [build/img/CRACKER JACK THE ORIJINAL 35.4G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cracker Jacob`s Water 200g x 20.jpg]
+
+File to: [build/img/Cracker Jacob`s Water 200g x 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CRAWFORD_S TEA TIME 6 VARIETIES 275G.jpg]
+
+File to: [build/img/CRAWFORD_S TEA TIME 6 VARIETIES 275G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CRAWFORDS MORN. COFF BISC150G.jpg]
+
+File to: [build/img/CRAWFORDS MORN. COFF BISC150G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cowbell500g box Carton.jpg]
+
+File to: [build/img/Cowbell500g box Carton.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cray Fish.jpg]
+
+File to: [build/img/Cray Fish.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CRAYOLA CRAYON 16.jpg]
+
+File to: [build/img/CRAYOLA CRAYON 16.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CRAWFORDSHORTCAKE BISC.150G.jpg]
+
+File to: [build/img/CRAWFORDSHORTCAKE BISC.150G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cremica Shortbread Biscuits 170gx24.jpg]
+
+File to: [build/img/Cremica Shortbread Biscuits 170gx24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CREAMMY PETROLUM JELLY 170G.jpg]
+
+File to: [build/img/CREAMMY PETROLUM JELLY 170G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CREPE BANDAGE 3  INCHES.jpg]
+
+File to: [build/img/CREPE BANDAGE 3  INCHES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CREPE BANDAGE 4 INCHES.jpg]
+
+File to: [build/img/CREPE BANDAGE 4 INCHES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CRESPO WHOLE GREEN OLIVES 354G.jpg]
+
+File to: [build/img/CRESPO WHOLE GREEN OLIVES 354G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CREPE BANDAGE 6  INCHES.jpg]
+
+File to: [build/img/CREPE BANDAGE 6  INCHES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CREST DECAY PREVENTION MILDMINT 100ML.jpg]
+
+File to: [build/img/CREST DECAY PREVENTION MILDMINT 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CREST DECAY TOOTH PASTE 100ML.jpg]
+
+File to: [build/img/CREST DECAY TOOTH PASTE 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CREST PRO-HEALTH MOUTH WASH 1LT.jpg]
+
+File to: [build/img/CREST PRO-HEALTH MOUTH WASH 1LT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CREST GUM DETOXIFY DEEP CLEAN 116G.jpg]
+
+File to: [build/img/CREST GUM DETOXIFY DEEP CLEAN 116G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CREST SCOPE MOUTH WASH 1LTR.jpg]
+
+File to: [build/img/CREST SCOPE MOUTH WASH 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CREST 3D WHITE MOUTH WASH.jpg]
+
+File to: [build/img/CREST 3D WHITE MOUTH WASH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CRESTOR 10MG X 28 TABS.jpg]
+
+File to: [build/img/CRESTOR 10MG X 28 TABS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Crispy Peanut Plastic Bottle 75cl.jpg]
+
+File to: [build/img/Crispy Peanut Plastic Bottle 75cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/croaker steak.jpg]
+
+File to: [build/img/croaker steak.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Croaker.jpg]
+
+File to: [build/img/Croaker.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Croaker 1Kg.jpg]
+
+File to: [build/img/Croaker 1Kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CROWNFIELD TROPICAL 1KG.png]
+
+File to: [build/img/CROWNFIELD TROPICAL 1KG.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CROCODILE BROWN TEDDY.jpg]
+
+File to: [build/img/CROCODILE BROWN TEDDY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CRUNCHY OAT GRANOLA TROPICAL FRUIT 1KG.png]
+
+File to: [build/img/CRUNCHY OAT GRANOLA TROPICAL FRUIT 1KG.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CRUSADER MEDICATED SOAP.jpg]
+
+File to: [build/img/CRUSADER MEDICATED SOAP.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CRUSET NATURAL BLACK DYE 991.jpg]
+
+File to: [build/img/CRUSET NATURAL BLACK DYE 991.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Crusader Medicated Ultra Tone Soap 80g.jpg]
+
+File to: [build/img/Crusader Medicated Ultra Tone Soap 80g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CTBM DOUBLE ACTION TOOTHBRUSH 6 12X2) x144.jfif.jpg]
+
+File to: [build/img/CTBM DOUBLE ACTION TOOTHBRUSH 6 12X2) x144.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CTBM CLASSIC DCLEAN M TRAY 12 AMED x72.jfif.jpg]
+
+File to: [build/img/CTBM CLASSIC DCLEAN M TRAY 12 AMED x72.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

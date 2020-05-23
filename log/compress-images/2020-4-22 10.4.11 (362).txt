@@ -1,0 +1,349 @@
+File from: [src/img/RIGHT GUARD TOTAL DEFENCE STICK FRESH 50ML.jpg]
+
+File to: [build/img/RIGHT GUARD TOTAL DEFENCE STICK FRESH 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RIGHT GUARD TOTAL DEFERENCE ACTIVE 250ML.jpg]
+
+File to: [build/img/RIGHT GUARD TOTAL DEFERENCE ACTIVE 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RIGHT GUARD TOTAL DEFERENCE CLEAN 250ML.jpg]
+
+File to: [build/img/RIGHT GUARD TOTAL DEFERENCE CLEAN 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RIGHT GUARD TOTAL DEFERENCE COOL 250ML.jpg]
+
+File to: [build/img/RIGHT GUARD TOTAL DEFERENCE COOL 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RIGHT GUARD TOTAL DEFERENCE INVISIBLE 250ML.jpg]
+
+File to: [build/img/RIGHT GUARD TOTAL DEFERENCE INVISIBLE 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RIGHT GUARD TOTAL DEFERENCE ORIGINAL 250ML.jpg]
+
+File to: [build/img/RIGHT GUARD TOTAL DEFERENCE ORIGINAL 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RIGHT GUARD TOTAL DEFERENCE SPORT 250ML.jpg]
+
+File to: [build/img/RIGHT GUARD TOTAL DEFERENCE SPORT 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RIGHT GUARD WOMEN TOTAL DEFENCE 5 INVISIBLE ANTI STA.png]
+
+File to: [build/img/RIGHT GUARD WOMEN TOTAL DEFENCE 5 INVISIBLE ANTI STA.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RIGHT GUARD WOMEN TOTAL DEFERENCE PURE 250ML.jpg]
+
+File to: [build/img/RIGHT GUARD WOMEN TOTAL DEFERENCE PURE 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RINGO BARBY CHIPS 50G.jpg]
+
+File to: [build/img/RINGO BARBY CHIPS 50G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RIGHT GUARD WOMEN TOTAL DEFERENCE SPORT 250ML.jpg]
+
+File to: [build/img/RIGHT GUARD WOMEN TOTAL DEFERENCE SPORT 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RINGO CHEESE FLAVOR 50G.jpg]
+
+File to: [build/img/RINGO CHEESE FLAVOR 50G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RINGO COCKTAIL CHEESE 50G.jpg]
+
+File to: [build/img/RINGO COCKTAIL CHEESE 50G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RIVERTON VALLEY ITALIAN DRESSSING 473ML.jpg]
+
+File to: [build/img/RIVERTON VALLEY ITALIAN DRESSSING 473ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RITZ BAKERY THE ORIGINAL CRACKER 165G.jpg]
+
+File to: [build/img/RITZ BAKERY THE ORIGINAL CRACKER 165G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RITZ CRACKERS 100G.jpg]
+
+File to: [build/img/RITZ CRACKERS 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ROASTED GROUNDNUT PER KG.jpg]
+
+File to: [build/img/ROASTED GROUNDNUT PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RIVERTON VALLEY RANCH DRESSING 473ML.jpg]
+
+File to: [build/img/RIVERTON VALLEY RANCH DRESSING 473ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RIVOCCA ESCARGOTS PASTA 500G.jpg]
+
+File to: [build/img/RIVOCCA ESCARGOTS PASTA 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ROBB INHALER.jpg]
+
+File to: [build/img/ROBB INHALER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ROBB BALM 25G BOTTLE.jpg]
+
+File to: [build/img/ROBB BALM 25G BOTTLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ROBERTO CAVALLI 75ML.jpg]
+
+File to: [build/img/ROBERTO CAVALLI 75ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ROBERTO CAVALLI PARADISO 75ML.jpg]
+
+File to: [build/img/ROBERTO CAVALLI PARADISO 75ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ROBERTO CAVALLI NERO ASSOLUTO 75ML.jpg]
+
+File to: [build/img/ROBERTO CAVALLI NERO ASSOLUTO 75ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ROBERTSON WINERY CHAPEL RED 2017 750ML.jpg]
+
+File to: [build/img/ROBERTSON WINERY CHAPEL RED 2017 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ROBERTSON`S WINERY CHAPEL RED.jpg]
+
+File to: [build/img/ROBERTSON`S WINERY CHAPEL RED.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ROBERTSON WINERY CHAPEL WHITE 2017 750ML.jpg]
+
+File to: [build/img/ROBERTSON WINERY CHAPEL WHITE 2017 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ROBERTSON`S WINERY CHAPEL WHITE 75CL.jpg]
+
+File to: [build/img/ROBERTSON`S WINERY CHAPEL WHITE 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ROBERTSON`S WINERY SWEET RED.jpg]
+
+File to: [build/img/ROBERTSON`S WINERY SWEET RED.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ROBITUSSIN CHESTY SYR 100ML.jpg]
+
+File to: [build/img/ROBITUSSIN CHESTY SYR 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ROBITUSSIN DRY COUGH X 100ML.jpg]
+
+File to: [build/img/ROBITUSSIN DRY COUGH X 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ROCCO PADLOCK.jpg]
+
+File to: [build/img/ROCCO PADLOCK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ROBITUSSIN MUCUS DECON. COUGH X 100ML.jpg]
+
+File to: [build/img/ROBITUSSIN MUCUS DECON. COUGH X 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ROCEPHIN. I.M INJ 1G X 1.png]
+
+File to: [build/img/ROCEPHIN. I.M INJ 1G X 1.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/ROIXELA RED WINE 75CL.jpg]
+
+File to: [build/img/ROIXELA RED WINE 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ROIXELA RED WINE ROUGE 75CL.JPG]
+
+File to: [build/img/ROIXELA RED WINE ROUGE 75CL.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Rolaids Advanced Antacid Plus Anti-gas x.jpg]
+
+File to: [build/img/Rolaids Advanced Antacid Plus Anti-gas x.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Rolaids Mint Chewable Tabs Antacid x10.jpg]
+
+File to: [build/img/Rolaids Mint Chewable Tabs Antacid x10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Rolaids Assorted Fruit Chewable Tabs Ant.jpg]
+
+File to: [build/img/Rolaids Assorted Fruit Chewable Tabs Ant.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ROLAND CARNAROLL SUPERFINO RICE 1KG.jpg]
+
+File to: [build/img/ROLAND CARNAROLL SUPERFINO RICE 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ROMA CREAM CRACKER 135G.jpg]
+
+File to: [build/img/ROMA CREAM CRACKER 135G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ROMA MALKIST CRACKERS 135G.jpg]
+
+File to: [build/img/ROMA MALKIST CRACKERS 135G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ROMANIAN LETTUCE PER KG.jpg]
+
+File to: [build/img/ROMANIAN LETTUCE PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Room Fresh Spray Air Fresheners 300ml.jpg]
+
+File to: [build/img/Room Fresh Spray Air Fresheners 300ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ROPHEGAN SYRUP 60ML.jpg]
+
+File to: [build/img/ROPHEGAN SYRUP 60ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Rose Belle 2ply Toilet Roll x1.jpg]
+
+File to: [build/img/Rose Belle 2ply Toilet Roll x1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ROSE BELLE CUPIC 80 SHEETS.jpg]
+
+File to: [build/img/ROSE BELLE CUPIC 80 SHEETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ROSE BELLE DOUBLE TOWEL.jpg]
+
+File to: [build/img/ROSE BELLE DOUBLE TOWEL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ROSE BELLE SERVIETTES.jpg]
+
+File to: [build/img/ROSE BELLE SERVIETTES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ROSE BELLE FACIAL 150 SHEETS.jpg]
+
+File to: [build/img/ROSE BELLE FACIAL 150 SHEETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ROSE BELLE SINGLE 48S.jpg]
+
+File to: [build/img/ROSE BELLE SINGLE 48S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ROSE BELLE SINGLE TOWEL.jpg]
+
+File to: [build/img/ROSE BELLE SINGLE TOWEL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ROSE BELLE TISSUE BOX RECTANGULAR 150 SHEET.jpg]
+
+File to: [build/img/ROSE BELLE TISSUE BOX RECTANGULAR 150 SHEET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ROSE BELLE TOILET PAPER 4S.png]
+
+File to: [build/img/ROSE BELLE TOILET PAPER 4S.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/ROSE C. HANDKERCHIEF.jpg]
+
+File to: [build/img/ROSE C. HANDKERCHIEF.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ROSE CARLA 100 SHEET.jpg]
+
+File to: [build/img/ROSE CARLA 100 SHEET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ROSE BELLE TOILET PAPER DOUBLE.jpg]
+
+File to: [build/img/ROSE BELLE TOILET PAPER DOUBLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Romano Body Spray 150ml.jpg]
+
+File to: [build/img/Romano Body Spray 150ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

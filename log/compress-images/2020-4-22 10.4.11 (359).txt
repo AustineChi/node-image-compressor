@@ -1,0 +1,127 @@
+File from: [src/img/RestpointDeep Freezer Single Door RP-207White.jpg]
+
+File to: [build/img/RestpointDeep Freezer Single Door RP-207White.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointDigital Cooker Hood With VentSILVER.jpg]
+
+File to: [build/img/RestpointDigital Cooker Hood With VentSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointDigital Kitchen Range HoodBLACK.jpg]
+
+File to: [build/img/RestpointDigital Kitchen Range HoodBLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointDigital Kitchen Range HoodSILVER.jpg]
+
+File to: [build/img/RestpointDigital Kitchen Range HoodSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointDouble Door Showcase Freezer RC-920SC-.jpeg]
+
+File to: [build/img/RestpointDouble Door Showcase Freezer RC-920SC-.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointFloor Standing 2 Hp Air Conditioner - Rp-2002bRED.jpg]
+
+File to: [build/img/RestpointFloor Standing 2 Hp Air Conditioner - Rp-2002bRED.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointFree-Standing Gas Oven  RC-50G - SIlversilver.jpg]
+
+File to: [build/img/RestpointFree-Standing Gas Oven  RC-50G - SIlversilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointFree-Standing Gas Oven RC-50GR - SIlversilver.jpg]
+
+File to: [build/img/RestpointFree-Standing Gas Oven RC-50GR - SIlversilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointFree-Standing Gas Oven RC-60GF - SIlversilver.jpg]
+
+File to: [build/img/RestpointFree-Standing Gas Oven RC-60GF - SIlversilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointFree-Standing Gas Oven RC-92GE - BrownBrown.jpg]
+
+File to: [build/img/RestpointFree-Standing Gas Oven RC-92GE - BrownBrown.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointFree-Standing Gas Oven RC-92GE - SIlversilver.jpg]
+
+File to: [build/img/RestpointFree-Standing Gas Oven RC-92GE - SIlversilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointFree-Standing Gas Oven RC-92Gsilver.jpg]
+
+File to: [build/img/RestpointFree-Standing Gas Oven RC-92Gsilver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointFreestanding Hot And Cold Water Dispenser - RP-WS40white.jpg]
+
+File to: [build/img/RestpointFreestanding Hot And Cold Water Dispenser - RP-WS40white.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointIce Cream Display Freezer RP-150SDCMULTI.jpg]
+
+File to: [build/img/RestpointIce Cream Display Freezer RP-150SDCMULTI.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointInbuilt Electric Oven MC60VGBLACK.jpg]
+
+File to: [build/img/RestpointInbuilt Electric Oven MC60VGBLACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointInbuilt Electric Oven MC60VSSILVER.jpg]
+
+File to: [build/img/RestpointInbuilt Electric Oven MC60VSSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointPackage Unit Floor Standing Air ConditionerSILVER.jpg]
+
+File to: [build/img/RestpointPackage Unit Floor Standing Air ConditionerSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointRange Hood With Tampered Glass Body - HD60B-.png]
+
+File to: [build/img/RestpointRange Hood With Tampered Glass Body - HD60B-.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RestpointDigital Cooker Hood With Vent + Non Vent BlackSILVER.jpg]
+
+File to: [build/img/RestpointDigital Cooker Hood With Vent + Non Vent BlackSILVER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RestpointDeep Freezer Single Door RP-405White.png]
+
+File to: [build/img/RestpointDeep Freezer Single Door RP-405White.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RestpointDigital Cooker Hood With Vent - HD70SILVER_BLACK.png]
+
+File to: [build/img/RestpointDigital Cooker Hood With Vent - HD70SILVER_BLACK.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAIN

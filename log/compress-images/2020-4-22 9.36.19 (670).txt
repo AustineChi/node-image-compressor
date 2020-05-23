@@ -1,0 +1,109 @@
+File from: [src/img/FADELLA OAT MILK 600ML.jpg]
+
+File to: [build/img/FADELLA OAT MILK 600ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Fair & White Serum Excl Whitenizer 30ml.jpg]
+
+File to: [build/img/Fair & White Serum Excl Whitenizer 30ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAIR & WHITE GOLD ULTIMATE SERUM 30ML.jpg]
+
+File to: [build/img/FAIR & WHITE GOLD ULTIMATE SERUM 30ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAIR & WHITE SERUM EXCLUSIVE WHITENIZER 30ML.jpg]
+
+File to: [build/img/FAIR & WHITE SERUM EXCLUSIVE WHITENIZER 30ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Fair & White So White Exfo Soap 200g.jpg]
+
+File to: [build/img/Fair & White So White Exfo Soap 200g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAIRY LIQUID POMEGRANATE & HONEY PMP 433ML.jpg]
+
+File to: [build/img/FAIRY LIQUID POMEGRANATE & HONEY PMP 433ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FALLY CORN FLOUR 400G.jpg]
+
+File to: [build/img/FALLY CORN FLOUR 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAMILIA 2 PLY KITCHEN TOWEL DOUBLE.jpg]
+
+File to: [build/img/FAMILIA 2 PLY KITCHEN TOWEL DOUBLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAMILIA 2 PLY KITCHEN TOWEL SINGLE.jpg]
+
+File to: [build/img/FAMILIA 2 PLY KITCHEN TOWEL SINGLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAMILIA CLASSIC 2 PLY TOILET PAPER 4S.jpg]
+
+File to: [build/img/FAMILIA CLASSIC 2 PLY TOILET PAPER 4S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAMILIA CLASSIC 2 PLY TOILET PAPER DOUBLE.jpg]
+
+File to: [build/img/FAMILIA CLASSIC 2 PLY TOILET PAPER DOUBLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAMILIA CLASSIC 2 PLY TOILET PAPER SINGLE.JPG]
+
+File to: [build/img/FAMILIA CLASSIC 2 PLY TOILET PAPER SINGLE.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Familia Classic 2ply Toilet Roll x1.jpg]
+
+File to: [build/img/Familia Classic 2ply Toilet Roll x1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Familia Classic Tissue Paper.jpg]
+
+File to: [build/img/Familia Classic Tissue Paper.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Familia Kids Adult body Lotion 500ml.jpg]
+
+File to: [build/img/Familia Kids Adult body Lotion 500ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Familia Kids Adults Cream 390ml.jpg]
+
+File to: [build/img/Familia Kids Adults Cream 390ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/FAMILIA ULTRA 3 PLY MAGIC FLOWER DOUBLE.jpg]
+
+File to: [build/img/FAMILIA ULTRA 3 PLY MAGIC FLOWER DOUBLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Familia Magic Flower Tissue 2.jpg]
+
+File to: [build/img/Familia Magic Flower Tissue 2.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

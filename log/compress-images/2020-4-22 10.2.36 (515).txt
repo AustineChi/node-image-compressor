@@ -1,0 +1,85 @@
+File from: [src/img/RAW ESSENCE ORGANIC PAPAYA OIL 115ML.png]
+
+File to: [build/img/RAW ESSENCE ORGANIC PAPAYA OIL 115ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RAW ESSENCE SHEA BODY BUTTER CRANBERRY 250ML.jpg]
+
+File to: [build/img/RAW ESSENCE SHEA BODY BUTTER CRANBERRY 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAW ESSENCE PURE COCONUT OIL ORGANIC  250ML.png]
+
+File to: [build/img/RAW ESSENCE PURE COCONUT OIL ORGANIC  250ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RAW ESSENCE SHEA BODY BUTTER LEMONGRASS 250ML.jpeg]
+
+File to: [build/img/RAW ESSENCE SHEA BODY BUTTER LEMONGRASS 250ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAW ESSENSE AFRICAN BLACK LIQUID SOAPS 250ML LEMONGRASS.png]
+
+File to: [build/img/RAW ESSENSE AFRICAN BLACK LIQUID SOAPS 250ML LEMONGRASS.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RAW ESSENCE SHEA BODY BUTTER SWEET ALMOND 250ML.jpg]
+
+File to: [build/img/RAW ESSENCE SHEA BODY BUTTER SWEET ALMOND 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAYNER`S ALMOND FLAVOUR ESSENCE 28ML GLASS BOTTLES.jpg]
+
+File to: [build/img/RAYNER`S ALMOND FLAVOUR ESSENCE 28ML GLASS BOTTLES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAW SHEA BUT BABY ECZEMA SOAP 141G.jpg]
+
+File to: [build/img/RAW SHEA BUT BABY ECZEMA SOAP 141G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAYNER`S BANANA FLAVOUR ESSENCE 28ML GLASS BOTTLES.jpg]
+
+File to: [build/img/RAYNER`S BANANA FLAVOUR ESSENCE 28ML GLASS BOTTLES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAW ESSENCE PURE COCONUT OIL VANILLA 250ML.png]
+
+File to: [build/img/RAW ESSENCE PURE COCONUT OIL VANILLA 250ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/RAYNER`S BRANDY FLAVOUR ESSENCE 28ML GLASS BOTTLES.jpg]
+
+File to: [build/img/RAYNER`S BRANDY FLAVOUR ESSENCE 28ML GLASS BOTTLES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAYNER`S CHOCOLATE FLAVOUR ESSENCE 28ML GLASS BOTTLES.jpg]
+
+File to: [build/img/RAYNER`S CHOCOLATE FLAVOUR ESSENCE 28ML GLASS BOTTLES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAYNER`S LEMON FLAVOUR ESSENCE 28ML GLASS BOTTLE.jpg]
+
+File to: [build/img/RAYNER`S LEMON FLAVOUR ESSENCE 28ML GLASS BOTTLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/RAW SHEA BABY CHAM _ ARGAN LOTION 384ML.jpg]
+
+File to: [build/img/RAW SHEA BABY CHAM _ ARGAN LOTION 384ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

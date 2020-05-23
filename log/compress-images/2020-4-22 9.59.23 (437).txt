@@ -1,0 +1,61 @@
+File from: [src/img/Kellogg's Coco Pops 450g x 10.jpg]
+
+File to: [build/img/Kellogg's Coco Pops 450g x 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Kellogg's Coco Pops Cereal 32g x 80.jpg]
+
+File to: [build/img/Kellogg's Coco Pops Cereal 32g x 80.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KELLOGG'S FAMILY VARIETY PACK 12S.jpg]
+
+File to: [build/img/KELLOGG'S FAMILY VARIETY PACK 12S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Kellogg's Corn Flakes Cereal 32g x 60.jpg]
+
+File to: [build/img/Kellogg's Corn Flakes Cereal 32g x 60.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KELLOGG'S FROOT LOOPS 417G.jpg]
+
+File to: [build/img/KELLOGG'S FROOT LOOPS 417G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KELLOGG'S FROSTED FLAKES 1.56KG 2S.jpeg]
+
+File to: [build/img/KELLOGG'S FROSTED FLAKES 1.56KG 2S.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KELLOGG'S FROSTED FLAKES 544G.jpg]
+
+File to: [build/img/KELLOGG'S FROSTED FLAKES 544G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KELLOGG'S RAISIN BRAN CRUNCH ORIGINAL 516G.jpg]
+
+File to: [build/img/KELLOGG'S RAISIN BRAN CRUNCH ORIGINAL 516G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Kellogg's Corn Flakes Cereal 325g x 10.jpg]
+
+File to: [build/img/Kellogg's Corn Flakes Cereal 325g x 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/KELLOGG'S CORN FLAKES 1.56KG 2S.jpeg]
+
+File to: [build/img/KELLOGG'S CORN FLAKES 1.56KG 2S.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

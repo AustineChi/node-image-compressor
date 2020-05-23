@@ -1,0 +1,283 @@
+File from: [src/img/JOHNSON BABY BATH 500ML.png]
+
+File to: [build/img/JOHNSON BABY BATH 500ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/JOHNNY WALKER RED LABEL 1 LITREX12.jpg]
+
+File to: [build/img/JOHNNY WALKER RED LABEL 1 LITREX12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNSON BABY OIL 300ML BEDTIME.png]
+
+File to: [build/img/JOHNSON BABY OIL 300ML BEDTIME.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/JOHNSON BABY HEAD TO TOE WASH 1000ML.jpg]
+
+File to: [build/img/JOHNSON BABY HEAD TO TOE WASH 1000ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNSON BABY MILK SOAP 100G.jpg]
+
+File to: [build/img/JOHNSON BABY MILK SOAP 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNSON BABY POWDER 200G.png]
+
+File to: [build/img/JOHNSON BABY POWDER 200G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/JOHNSON BABY SHAMPOO 500ML.jpg]
+
+File to: [build/img/JOHNSON BABY SHAMPOO 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNSON BABY SOAP 100G.jpg]
+
+File to: [build/img/JOHNSON BABY SOAP 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNSON BABY WIPES 56S.png]
+
+File to: [build/img/JOHNSON BABY WIPES 56S.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/JOHNSON BREAST PAD 30.jpg]
+
+File to: [build/img/JOHNSON BREAST PAD 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNSON COTTON BID 100`S.png]
+
+File to: [build/img/JOHNSON COTTON BID 100`S.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/JOHNSON COTTON BUD 200`S.jpg]
+
+File to: [build/img/JOHNSON COTTON BUD 200`S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNSON_S BABY OIL 591ML.jpg]
+
+File to: [build/img/JOHNSON_S BABY OIL 591ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNSON_S BABY SHAMPOO 250ML.jpg]
+
+File to: [build/img/JOHNSON_S BABY SHAMPOO 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNSON_S BED TIME BABY LOTION 300ML.jpg]
+
+File to: [build/img/JOHNSON_S BED TIME BABY LOTION 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNSON'S BABY COTTON BUDS 200BUDS.jpg]
+
+File to: [build/img/JOHNSON'S BABY COTTON BUDS 200BUDS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNSON'S MAKE UP BE GONE FACIAL WIPES 25S.jpg]
+
+File to: [build/img/JOHNSON'S MAKE UP BE GONE FACIAL WIPES 25S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNSON'S SENSITIVE TOUCH BABY LOTION 250ML.jpg]
+
+File to: [build/img/JOHNSON'S SENSITIVE TOUCH BABY LOTION 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNSON`S BODY CARE RASPBERRY EXTRACT 125G.png]
+
+File to: [build/img/JOHNSON`S BODY CARE RASPBERRY EXTRACT 125G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/JOHNSON`S BODY CARE REVITALISING WITH GRAPESSED OIL SOAP 125G.png]
+
+File to: [build/img/JOHNSON`S BODY CARE REVITALISING WITH GRAPESSED OIL SOAP 125G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/JOHNSON BABY OIL 500ML DUCES SUENOS.png]
+
+File to: [build/img/JOHNSON BABY OIL 500ML DUCES SUENOS.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/JOHNSON`S BODY CARE VITA RICH COCA BUTTER 125G.png]
+
+File to: [build/img/JOHNSON`S BODY CARE VITA RICH COCA BUTTER 125G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/JOHNSONS BABY BATH 500ML.png]
+
+File to: [build/img/JOHNSONS BABY BATH 500ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/JOHNSONS BABY CARE SENSATION BATH 1LTR.png]
+
+File to: [build/img/JOHNSONS BABY CARE SENSATION BATH 1LTR.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/JOHNSONS BABY HEAD TO TOE WASH 266ML.jpg]
+
+File to: [build/img/JOHNSONS BABY HEAD TO TOE WASH 266ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNSONS BABY HONEY _ OIL SOAP 120G.jpeg]
+
+File to: [build/img/JOHNSONS BABY HONEY _ OIL SOAP 120G.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNSONS BABY OIL 200ML.png]
+
+File to: [build/img/JOHNSONS BABY OIL 200ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/JOHNSONS BABY SHAMPOO 300ML.png]
+
+File to: [build/img/JOHNSONS BABY SHAMPOO 300ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/JOHNSONS BABY WIPES 56S.png]
+
+File to: [build/img/JOHNSONS BABY WIPES 56S.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/JOHNSONS BED TIME BABY BATH 828ML.jpg]
+
+File to: [build/img/JOHNSONS BED TIME BABY BATH 828ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNSONS DOG DEODORANT 150ML.jpg]
+
+File to: [build/img/JOHNSONS DOG DEODORANT 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNSONS STAIN & ODOUR REMOVER 500ML.jpg]
+
+File to: [build/img/JOHNSONS STAIN & ODOUR REMOVER 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNSONS VELVET COAT CONDITIONING SPRAY 150ML.jpg]
+
+File to: [build/img/JOHNSONS VELVET COAT CONDITIONING SPRAY 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Jointace Max Triple Pack 84tabs-caps.jpg]
+
+File to: [build/img/Jointace Max Triple Pack 84tabs-caps.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOINTACE TABS PLUS OMEGA 3 X 30.jpg]
+
+File to: [build/img/JOINTACE TABS PLUS OMEGA 3 X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOINTACE WITH CHONDOITIN TABS X 30 {COLLAGEN}.jpg]
+
+File to: [build/img/JOINTACE WITH CHONDOITIN TABS X 30 {COLLAGEN}.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOINTACE. GEL  75ML.jpg]
+
+File to: [build/img/JOINTACE. GEL  75ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Jollof Rice & Chicken 3 Litre.jpg]
+
+File to: [build/img/Jollof Rice & Chicken 3 Litre.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOLLY GOOD GROOMING BEARD OIL 30ML.jpg]
+
+File to: [build/img/JOLLY GOOD GROOMING BEARD OIL 30ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOLTAN 160 TABS X 30.jpg]
+
+File to: [build/img/JOLTAN 160 TABS X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOLTAN 80 TABS X 30.jpg]
+
+File to: [build/img/JOLTAN 80 TABS X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOOP! HOMME 75ML.jpg]
+
+File to: [build/img/JOOP! HOMME 75ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JORDAN CLASSIC TOOTHBRUSH.jpg]
+
+File to: [build/img/JORDAN CLASSIC TOOTHBRUSH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOY SOAP BAR TENDER 60G.jpg]
+
+File to: [build/img/JOY SOAP BAR TENDER 60G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/JOHNSON`S BODY CARE ROSE WATER SOAP 125G.png]
+
+File to: [build/img/JOHNSON`S BODY CARE ROSE WATER SOAP 125G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/JOHNSON BABY OIL 500ML ALEOVERA.png]
+
+File to: [build/img/JOHNSON BABY OIL 500ML ALEOVERA.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/JOHNSON BABY OIL 500ML BEDTIME.jpg]
+
+File to: [build/img/JOHNSON BABY OIL 500ML BEDTIME.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

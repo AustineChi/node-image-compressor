@@ -1,0 +1,403 @@
+File from: [src/img/GLIClAZIDE 80MG TABS X28(GENESIS).jpg]
+
+File to: [build/img/GLIClAZIDE 80MG TABS X28(GENESIS).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GLORIA BRANDY VSOP 500ML.jpg]
+
+File to: [build/img/GLORIA BRANDY VSOP 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GLORIOUS MUD FACIAL EXFOLIATOR 100ML.jpg]
+
+File to: [build/img/GLORIOUS MUD FACIAL EXFOLIATOR 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GLUCOSE D POWDER  175G TIN(MUNRO).jpg]
+
+File to: [build/img/GLUCOSE D POWDER  175G TIN(MUNRO).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GLUCOSE-D POWDER 400G(MUNRO).jpg]
+
+File to: [build/img/GLUCOSE-D POWDER 400G(MUNRO).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GLOW(1).jpg]
+
+File to: [build/img/GLOW(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GLORIOUS MUD FACIAL MASK 100ML.jpg]
+
+File to: [build/img/GLORIOUS MUD FACIAL MASK 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GNC MEGA MEN PROSTRATE AND VIRILITY X 90.jpg]
+
+File to: [build/img/GNC MEGA MEN PROSTRATE AND VIRILITY X 90.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GNP DENTAL FLOSS MINT WAXED 100 YD.jpg]
+
+File to: [build/img/GNP DENTAL FLOSS MINT WAXED 100 YD.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GLOW.jpg]
+
+File to: [build/img/GLOW.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GLYCERINE OF BORAX(MOKO).jpg]
+
+File to: [build/img/GLYCERINE OF BORAX(MOKO).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GNP DENTAL FLOSS MINT WAXED.jpg]
+
+File to: [build/img/GNP DENTAL FLOSS MINT WAXED.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GO NUTZ CASHEWS CARAMELIZED CINNAMON 100G.jpg]
+
+File to: [build/img/GO NUTZ CASHEWS CARAMELIZED CINNAMON 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GO NUTZ CASHEWS CARAMELIZED CINNAMON 50G.jpg]
+
+File to: [build/img/GO NUTZ CASHEWS CARAMELIZED CINNAMON 50G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GO NUTZ CASHEWS GINGER SPICED 100G.jpg]
+
+File to: [build/img/GO NUTZ CASHEWS GINGER SPICED 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GO NUTZ CASHEWS GINGER SPICED 50G.jpg]
+
+File to: [build/img/GO NUTZ CASHEWS GINGER SPICED 50G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GO NUTZ CASHEWS SUYA SPICES 100G.jpg]
+
+File to: [build/img/GO NUTZ CASHEWS SUYA SPICES 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GO NUTZ CASHEWS SUYA SPICES 50G.jpg]
+
+File to: [build/img/GO NUTZ CASHEWS SUYA SPICES 50G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOAT cheese.jpg]
+
+File to: [build/img/GOAT cheese.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Goat Chops.jpg]
+
+File to: [build/img/Goat Chops.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOAT HEAD.jpg]
+
+File to: [build/img/GOAT HEAD.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Goat knuckle.jpg]
+
+File to: [build/img/Goat knuckle.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOAT MEAT (CARCASS).png]
+
+File to: [build/img/GOAT MEAT (CARCASS).png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GOAT MEAT (INTESTINE).jpg]
+
+File to: [build/img/GOAT MEAT (INTESTINE).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Goat meat 1Kg.jpg]
+
+File to: [build/img/Goat meat 1Kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Goat meat 2.5Kg.jpg]
+
+File to: [build/img/Goat meat 2.5Kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Goat meat 5Kg.jpg]
+
+File to: [build/img/Goat meat 5Kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Goat meat stew 2 LTRS.jpg]
+
+File to: [build/img/Goat meat stew 2 LTRS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOAT MEAT.jpg]
+
+File to: [build/img/GOAT MEAT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Goat ribs.jpg]
+
+File to: [build/img/Goat ribs.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Goat shoulder.jpg]
+
+File to: [build/img/Goat shoulder.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Goat stewing.jpeg]
+
+File to: [build/img/Goat stewing.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Goat whole leg.png]
+
+File to: [build/img/Goat whole leg.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Goatmeat Pepper Soup 2LTRS.jpg]
+
+File to: [build/img/Goatmeat Pepper Soup 2LTRS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Goatmeat stew 2LTRS.jpg]
+
+File to: [build/img/Goatmeat stew 2LTRS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOGO SQUEEZ BLASTZ BERRT MADNESS 110G.jpg]
+
+File to: [build/img/GOGO SQUEEZ BLASTZ BERRT MADNESS 110G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gold Custard Powder 500g All Flavour.jpg]
+
+File to: [build/img/Gold Custard Powder 500g All Flavour.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Gold Custard Powder 500g All Flavour(1).jpg]
+
+File to: [build/img/Gold Custard Powder 500g All Flavour(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLD SCOTTISH OAT MILK 600G.jpeg]
+
+File to: [build/img/GOLD SCOTTISH OAT MILK 600G.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLD SCOTTISH OAT MILK 600G.jpg]
+
+File to: [build/img/GOLD SCOTTISH OAT MILK 600G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDBERG 33CL FULL CAN TRAY.jpg]
+
+File to: [build/img/GOLDBERG 33CL FULL CAN TRAY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDBERG 50CL FULL CAN TRAY.png]
+
+File to: [build/img/GOLDBERG 50CL FULL CAN TRAY.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GOLDBERG 60CL FULL BTL CRATE.JPG]
+
+File to: [build/img/GOLDBERG 60CL FULL BTL CRATE.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Goldberg Lager Can 500ml.png]
+
+File to: [build/img/Goldberg Lager Can 500ml.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Goldberg-Lager-Beer-Can-50CL.png]
+
+File to: [build/img/Goldberg-Lager-Beer-Can-50CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GLICLAZIDE 80MG TABLET X 28(TEVA).jpg]
+
+File to: [build/img/GLICLAZIDE 80MG TABLET X 28(TEVA).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GLITTER & METALIC GEL PEN.jpg]
+
+File to: [build/img/GLITTER & METALIC GEL PEN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Goldberg-Lager-Beer-Can-50CL(1).png]
+
+File to: [build/img/Goldberg-Lager-Beer-Can-50CL(1).png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GOLDEN CANILLA DORADO PARBOILED RICE2.27KG.jpg]
+
+File to: [build/img/GOLDEN CANILLA DORADO PARBOILED RICE2.27KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN COUNTRY FROSTED FLAKES 500G.jpg]
+
+File to: [build/img/GOLDEN COUNTRY FROSTED FLAKES 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN COUNTRY QUICK COOKING WHITE OATS TIN 500G.jpg]
+
+File to: [build/img/GOLDEN COUNTRY QUICK COOKING WHITE OATS TIN 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Golden Country Sweet Corn 326g.jpg]
+
+File to: [build/img/Golden Country Sweet Corn 326g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN COUNTRY SWEET CORN 340G.jpg]
+
+File to: [build/img/GOLDEN COUNTRY SWEET CORN 340G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN FISH SARDINES 125G.png]
+
+File to: [build/img/GOLDEN FISH SARDINES 125G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GOLDEN MORN (500G).jpg]
+
+File to: [build/img/GOLDEN MORN (500G).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN MORN FORTIFIED 1KG.jpg]
+
+File to: [build/img/GOLDEN MORN FORTIFIED 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN MORN FORTIFIED 250G NF.png]
+
+File to: [build/img/GOLDEN MORN FORTIFIED 250G NF.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GOLDEN MORN FORTIFIED 500G NF.jpg]
+
+File to: [build/img/GOLDEN MORN FORTIFIED 500G NF.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN MORN FORTIFIED 50G NF.jpg]
+
+File to: [build/img/GOLDEN MORN FORTIFIED 50G NF.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY COUSCOUS 500G.jpg]
+
+File to: [build/img/GOLDEN PENNY COUSCOUS 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY COUSCOUS 500G.png]
+
+File to: [build/img/GOLDEN PENNY COUSCOUS 500G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GOLDEN PENNY GARRI 1KG.jpg]
+
+File to: [build/img/GOLDEN PENNY GARRI 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY GOLDENVITA 10KG.jpeg]
+
+File to: [build/img/GOLDEN PENNY GOLDENVITA 10KG.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY GOLDENVITA 5KG.jpg]
+
+File to: [build/img/GOLDEN PENNY GOLDENVITA 5KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Golden Penny Granulated Sugar 500g.jpg]
+
+File to: [build/img/Golden Penny Granulated Sugar 500g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY NOODLES CHICKEN FLAVOUR 70G.jpg]
+
+File to: [build/img/GOLDEN PENNY NOODLES CHICKEN FLAVOUR 70G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY NOODLES JOLLOF CHICKEN 70G.JPG]
+
+File to: [build/img/GOLDEN PENNY NOODLES JOLLOF CHICKEN 70G.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

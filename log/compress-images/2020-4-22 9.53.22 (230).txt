@@ -1,0 +1,151 @@
+File from: [src/img/Dettol Anti-Bacterial Jelly 80g.jpg]
+
+File to: [build/img/Dettol Anti-Bacterial Jelly 80g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DETTOL ANTISEPTIC 1L.jpg]
+
+File to: [build/img/DETTOL ANTISEPTIC 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DETTOL ANTISEPTIC 500ML.jpg]
+
+File to: [build/img/DETTOL ANTISEPTIC 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dettol Antibacterial Soap 160g.jpg]
+
+File to: [build/img/Dettol Antibacterial Soap 160g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dettol Antiseptic Liquid 1Ltr.jpg]
+
+File to: [build/img/Dettol Antiseptic Liquid 1Ltr.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DETTOL ANTISEPTIC LIQUID 250ML.jpg]
+
+File to: [build/img/DETTOL ANTISEPTIC LIQUID 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dettol Antiseptic Liquid 500ml.jpg]
+
+File to: [build/img/Dettol Antiseptic Liquid 500ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DETTOL ANTISEPTIC LIQUID 2L.jpg]
+
+File to: [build/img/DETTOL ANTISEPTIC LIQUID 2L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DETTOL ANTISEPTIC LIQUID 750ML.jpg]
+
+File to: [build/img/DETTOL ANTISEPTIC LIQUID 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dettol Bathroom Cleanser Ranges 440ml.jpg]
+
+File to: [build/img/Dettol Bathroom Cleanser Ranges 440ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dettol Cleaner Ranges 1ltr.jpg]
+
+File to: [build/img/Dettol Cleaner Ranges 1ltr.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DETTOL COOL SOAP 160GR.jpg]
+
+File to: [build/img/DETTOL COOL SOAP 160GR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DETTOL EVEN TONE ANTI BACTERIAL SOAP 65G.jpg]
+
+File to: [build/img/DETTOL EVEN TONE ANTI BACTERIAL SOAP 65G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DETTOL EVEN TONE PINK GLOW SOAP 160G.jpg]
+
+File to: [build/img/DETTOL EVEN TONE PINK GLOW SOAP 160G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Dettol Instant Hand Sanitizer 50ml.jpg]
+
+File to: [build/img/Dettol Instant Hand Sanitizer 50ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DETTOL LIQUID HAND WASH ANTI BACTERIAL ALOE 250ML.jpg]
+
+File to: [build/img/DETTOL LIQUID HAND WASH ANTI BACTERIAL ALOE 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DETTOL LIQUID HAND WASH ANTI BACTERIAL GRAPEFRUIT 250ML.jpg]
+
+File to: [build/img/DETTOL LIQUID HAND WASH ANTI BACTERIAL GRAPEFRUIT 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DETTOL LIQUID T E 750ML.png]
+
+File to: [build/img/DETTOL LIQUID T E 750ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/DETTOL LIQUID T E ALOE VERA 165ML.jpg]
+
+File to: [build/img/DETTOL LIQUID T E ALOE VERA 165ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DETTOL LIQUID T E ALOE VERA 250ML.jpg]
+
+File to: [build/img/DETTOL LIQUID T E ALOE VERA 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DETTOL LIQUID T_E 125ML LOCAL.jpg]
+
+File to: [build/img/DETTOL LIQUID T_E 125ML LOCAL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DETTOL LIQUID T_E 1LIT LOC.jpg]
+
+File to: [build/img/DETTOL LIQUID T_E 1LIT LOC.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DETTOL LIQUID T_E 250ML LOC.jpg]
+
+File to: [build/img/DETTOL LIQUID T_E 250ML LOC.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DETTOL LIQUID T_E 2LIT.jpg]
+
+File to: [build/img/DETTOL LIQUID T_E 2LIT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/DETTOL LIQUID T-E 500ML LOC.JPG]
+
+File to: [build/img/DETTOL LIQUID T-E 500ML LOC.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

@@ -1,0 +1,16 @@
+File from: [src/img/PolystarTable Gas With Stainless Top PV-GS2100Silver.jpg]
+
+File to: [build/img/PolystarTable Gas With Stainless Top PV-GS2100Silver.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg -quality 60 -outfile build/img/PolystarTable Gas With Stainless Top PV-GS2100Silver.jpg src/img/PolystarTable Gas With Stainless Top PV-GS2100Silver.jpg
+Unrecognized input file format --- perhaps you need -targa
+File from: [src/img/POST GREAT GRAINS CEREAL BLUEBERRY 453G.jpg]
+
+File to: [build/img/POST GREAT GRAINS CEREAL BLUEBERRY 453G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg -quality 60 -outfile build/img/POST GREAT GRAINS CEREAL BLUEBERRY 453G.jpg src/img/POST GREAT GRAINS CEREAL BLUEBERRY 453G.jpg
+Unrecognized input file format --- perhaps you need -targa

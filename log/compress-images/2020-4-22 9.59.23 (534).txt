@@ -1,0 +1,205 @@
+File from: [src/img/VIRGIN HAIR FERTILIZER 125G.jpg]
+
+File to: [build/img/VIRGIN HAIR FERTILIZER 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VISINE EYE DROPS  30ML.png]
+
+File to: [build/img/VISINE EYE DROPS  30ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/VIRGIN HAIR FERTILIZER 55G.jpg]
+
+File to: [build/img/VIRGIN HAIR FERTILIZER 55G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Visine AC Eyedrops 15ml.jpg]
+
+File to: [build/img/Visine AC Eyedrops 15ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VISINE EYE DROPS 6ML.jpg]
+
+File to: [build/img/VISINE EYE DROPS 6ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VISION PLUS CAPS  X 120.png]
+
+File to: [build/img/VISION PLUS CAPS  X 120.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/VISION PLUS CAPS X 30.jpg]
+
+File to: [build/img/VISION PLUS CAPS X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VISION PLUS CAPS X 60.jpg]
+
+File to: [build/img/VISION PLUS CAPS X 60.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VISIONACE CAPS X 30 NG.jpg]
+
+File to: [build/img/VISIONACE CAPS X 30 NG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VISIONACE CAPS X 30.png]
+
+File to: [build/img/VISIONACE CAPS X 30.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/VISIONACE. PLUS X 56.jpg]
+
+File to: [build/img/VISIONACE. PLUS X 56.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VILEDA GLITZI CRYSTAL 3PCS.jpg]
+
+File to: [build/img/VILEDA GLITZI CRYSTAL 3PCS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VISITA PLUS CREAM  20G.jpg]
+
+File to: [build/img/VISITA PLUS CREAM  20G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Visita Plus Triple Action Cream 30g.jpg]
+
+File to: [build/img/Visita Plus Triple Action Cream 30g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VIT E WAX STRIPS BODY 40 - LEGS-BODY.jpg]
+
+File to: [build/img/VIT E WAX STRIPS BODY 40 - LEGS-BODY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VITA MILK BANANA 300ML.jpg]
+
+File to: [build/img/VITA MILK BANANA 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VITABIOTICS WELLMAN 250ML.jpg]
+
+File to: [build/img/VITABIOTICS WELLMAN 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VITABIOTICS WELLWOMAN 250ML.jpg]
+
+File to: [build/img/VITABIOTICS WELLWOMAN 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Vitale Olive Oil Leave-In Cond. 355ml .jpg]
+
+File to: [build/img/Vitale Olive Oil Leave-In Cond. 355ml .jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VITAMILK DOUBLE CHOCO SHAKE 300ML.png]
+
+File to: [build/img/VITAMILK DOUBLE CHOCO SHAKE 300ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Vitamilk Soyamilk Tetra Pack 1Ltr x 12.jpg]
+
+File to: [build/img/Vitamilk Soyamilk Tetra Pack 1Ltr x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VITAMILK SOYAMILK TETRA PACK 1LTR.png]
+
+File to: [build/img/VITAMILK SOYAMILK TETRA PACK 1LTR.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/VITAMILK SOYAMILK UHT 250ML.png]
+
+File to: [build/img/VITAMILK SOYAMILK UHT 250ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/VITAMILK SOYMILK 300ML.jpg]
+
+File to: [build/img/VITAMILK SOYMILK 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VITAMIN STORE ADULT MULTIVITAMIN JELLIES X30.jpg]
+
+File to: [build/img/VITAMIN STORE ADULT MULTIVITAMIN JELLIES X30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VITAMIN STORE CHILDREN MULTIVITAMIN JELLIES X30.JPG]
+
+File to: [build/img/VITAMIN STORE CHILDREN MULTIVITAMIN JELLIES X30.JPG]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VITAMIN STORE VITAMIN C  AND ZINC EFF X 20.jpg]
+
+File to: [build/img/VITAMIN STORE VITAMIN C  AND ZINC EFF X 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VITAMIN STORE VITAMIN C EFF  X 20.jpg]
+
+File to: [build/img/VITAMIN STORE VITAMIN C EFF  X 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VITAMIN WORLD COLD PRESSED EVENING PRIMROSE OIL 1300MG X 120.jpg]
+
+File to: [build/img/VITAMIN WORLD COLD PRESSED EVENING PRIMROSE OIL 1300MG X 120.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VITANE SYR  200ML.jpg]
+
+File to: [build/img/VITANE SYR  200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VITOLIZE FOR MULTIVITAMINS WOMEN.jpg]
+
+File to: [build/img/VITOLIZE FOR MULTIVITAMINS WOMEN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VIVA LA JUICY GOLD COUTURE 50ML.jpg]
+
+File to: [build/img/VIVA LA JUICY GOLD COUTURE 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/VITAMILK DOUBLE CHOCO UHT 250ML.png]
+
+File to: [build/img/VITAMILK DOUBLE CHOCO UHT 250ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/VitaMilk Soya Milk 300ml x 24.jpg]
+
+File to: [build/img/VitaMilk Soya Milk 300ml x 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

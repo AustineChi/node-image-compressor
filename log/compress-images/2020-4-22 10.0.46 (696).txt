@@ -1,0 +1,13 @@
+File from: [src/img/NUAGE NAIL POLISH DRYING SPARY 150ML.jpg]
+
+File to: [build/img/NUAGE NAIL POLISH DRYING SPARY 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NUAGE MICELLAR WATER 200ML.jpg]
+
+File to: [build/img/NUAGE MICELLAR WATER 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

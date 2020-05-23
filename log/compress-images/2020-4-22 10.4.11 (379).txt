@@ -1,0 +1,97 @@
+File from: [src/img/So-Klin Detergent Powder 500g x 12.jpg]
+
+File to: [build/img/So-Klin Detergent Powder 500g x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOAP IRISH SPRING ALOE 100G.jpg]
+
+File to: [build/img/SOAP IRISH SPRING ALOE 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOAP DISH.jpg]
+
+File to: [build/img/SOAP DISH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOAP IRISH SPRING ICY100G.jfif.jpg]
+
+File to: [build/img/SOAP IRISH SPRING ICY100G.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOAP IRISH SPRING ORIGINAL 100G.jpg]
+
+File to: [build/img/SOAP IRISH SPRING ORIGINAL 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOFT _ GENTLE 48H PROTECTION LAVENDER _ PATCHOULI 50ML.jpg]
+
+File to: [build/img/SOFT _ GENTLE 48H PROTECTION LAVENDER _ PATCHOULI 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Soft _ Gentle Deodorant Body Spray 250ml.jpg]
+
+File to: [build/img/Soft _ Gentle Deodorant Body Spray 250ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOFT _ GENTLE JASMINE _ COCO MILK 50ML.jpg]
+
+File to: [build/img/SOFT _ GENTLE JASMINE _ COCO MILK 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOFT _ GENTLE ORANGE 50ML.jpg]
+
+File to: [build/img/SOFT _ GENTLE ORANGE 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOFT _ GENTLE WILD ROSE _ VANILLA 50ML.jpg]
+
+File to: [build/img/SOFT _ GENTLE WILD ROSE _ VANILLA 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOFT _ GENTLEVERBENA _ WATERLILY 50ML.jpg]
+
+File to: [build/img/SOFT _ GENTLEVERBENA _ WATERLILY 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOFT & GENTLE SPRAY REALLY PURE 75ML.jpg]
+
+File to: [build/img/SOFT & GENTLE SPRAY REALLY PURE 75ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOFT & GENTLE SPRAY ULTRA PROTECTION 75ML.jpg]
+
+File to: [build/img/SOFT & GENTLE SPRAY ULTRA PROTECTION 75ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Soft Chicken.png]
+
+File to: [build/img/Soft Chicken.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SOFT KIDS TOOTHBRUSHES PURE ENFANT.jpg]
+
+File to: [build/img/SOFT KIDS TOOTHBRUSHES PURE ENFANT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SOFT PROTECTION SALON PET BRUSH.jpg]
+
+File to: [build/img/SOFT PROTECTION SALON PET BRUSH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

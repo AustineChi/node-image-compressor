@@ -1,0 +1,169 @@
+File from: [src/img/MARS 51G.png]
+
+File to: [build/img/MARS 51G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Mars Milk Chocolate with Nougat 57g.jpg]
+
+File to: [build/img/Mars Milk Chocolate with Nougat 57g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MARS DUO CHCOCLATE BAR78.8G.jpg]
+
+File to: [build/img/MARS DUO CHCOCLATE BAR78.8G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MARS PROTEIN BAR 50G.jpg]
+
+File to: [build/img/MARS PROTEIN BAR 50G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Martell Blue Swift Cognac 750ml.jpg]
+
+File to: [build/img/Martell Blue Swift Cognac 750ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Martell Blue Swift37.5cl x12.png]
+
+File to: [build/img/Martell Blue Swift37.5cl x12.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Martell Blue Swift75cl x12.png]
+
+File to: [build/img/Martell Blue Swift75cl x12.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Martell Blue Swift75cl x6.png]
+
+File to: [build/img/Martell Blue Swift75cl x6.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Martell Caractere70cl x12.jpg]
+
+File to: [build/img/Martell Caractere70cl x12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Martell V.S Fine Cognac 750ml X 6.jpg]
+
+File to: [build/img/Martell V.S Fine Cognac 750ml X 6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Martell VS Fine Cognac 35cl.jpg]
+
+File to: [build/img/Martell VS Fine Cognac 35cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Martell VS SD Cognac 70cl.jpg]
+
+File to: [build/img/Martell VS SD Cognac 70cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Martell VS35cl x12.jpg]
+
+File to: [build/img/Martell VS35cl x12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Martell VS70cl x12.jpg]
+
+File to: [build/img/Martell VS70cl x12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Martell VSOP70cl x12.jpg]
+
+File to: [build/img/Martell VSOP70cl x12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Martell VSSD70cl x6.jpg]
+
+File to: [build/img/Martell VSSD70cl x6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Martell XO70cl x12.jpg]
+
+File to: [build/img/Martell XO70cl x12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MARTINELLIS GOLD MEDAL APPLE JUICE 750ML.jpg]
+
+File to: [build/img/MARTINELLIS GOLD MEDAL APPLE JUICE 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MARTINELLIS RED GRAPE 750ML.jpg]
+
+File to: [build/img/MARTINELLIS RED GRAPE 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MARTINELLIS SPARKLING CIDER 750ML.jpg]
+
+File to: [build/img/MARTINELLIS SPARKLING CIDER 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Martini Asti 75CL.jpg]
+
+File to: [build/img/Martini Asti 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Martini Asti Prem Sparkling Wine 75cl.jpg]
+
+File to: [build/img/Martini Asti Prem Sparkling Wine 75cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Martini Rose Prem Spark Wine 75cl.jpg]
+
+File to: [build/img/Martini Rose Prem Spark Wine 75cl.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Marvel Dried Skimmed Milk 198g.jpg]
+
+File to: [build/img/Marvel Dried Skimmed Milk 198g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Marvel Original Dried Skimmed Milk 340g.jpg]
+
+File to: [build/img/Marvel Original Dried Skimmed Milk 340g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MARY KAY MEDIUM COVERAGE FOUNDATION 29ML.jpg]
+
+File to: [build/img/MARY KAY MEDIUM COVERAGE FOUNDATION 29ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Maryland Cookies Biscuit 145g.png]
+
+File to: [build/img/Maryland Cookies Biscuit 145g.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/MARS MINIS 13X CHOCO BAR 250G.jpg]
+
+File to: [build/img/MARS MINIS 13X CHOCO BAR 250G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

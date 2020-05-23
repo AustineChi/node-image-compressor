@@ -1,0 +1,217 @@
+File from: [src/img/COOL MINT FRESH BREATHE SPRAY 12 PACK.jpg]
+
+File to: [build/img/COOL MINT FRESH BREATHE SPRAY 12 PACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COOLCOW 2300G SACHET x6.jfif.jpg]
+
+File to: [build/img/COOLCOW 2300G SACHET x6.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COOLCOW 260 X 12G SACHET.jpg]
+
+File to: [build/img/COOLCOW 260 X 12G SACHET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COOLCOW 36 X 150G SACHET.jpg]
+
+File to: [build/img/COOLCOW 36 X 150G SACHET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COOLCOW 850G SACHET x12.jfif.jpg]
+
+File to: [build/img/COOLCOW 850G SACHET x12.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COOLCOW 400G TIN x12.jfif.jpg]
+
+File to: [build/img/COOLCOW 400G TIN x12.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COOLCOW 900G TIN x12.jfif.jpg]
+
+File to: [build/img/COOLCOW 900G TIN x12.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Coralite Adult Underpads x2.jpg]
+
+File to: [build/img/Coralite Adult Underpads x2.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Coralite Plaster x 5.jpg]
+
+File to: [build/img/Coralite Plaster x 5.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Coralite Sheer Extra Large Plaster x 2.jpg]
+
+File to: [build/img/Coralite Sheer Extra Large Plaster x 2.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CORIANDER PER KG.jpg]
+
+File to: [build/img/CORIANDER PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cormart Renew Cold Water Starch.jpg]
+
+File to: [build/img/Cormart Renew Cold Water Starch.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CORN FLAKES 10X500G.jpg]
+
+File to: [build/img/CORN FLAKES 10X500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cormart Shine Scouring Powder 600g.png]
+
+File to: [build/img/Cormart Shine Scouring Powder 600g.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CORN FLAKES 88 X 32G.jpg]
+
+File to: [build/img/CORN FLAKES 88 X 32G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Corsodyl M.W Mint x 300ml GSK.jpg]
+
+File to: [build/img/Corsodyl M.W Mint x 300ml GSK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CORSODYL MOUTH WASH ICY MINT 500ML.jpg]
+
+File to: [build/img/CORSODYL MOUTH WASH ICY MINT 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CORSODYL MOUTH WASH ORIGINAL 300ML.jpg]
+
+File to: [build/img/CORSODYL MOUTH WASH ORIGINAL 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Corsodyl M.W Original x 300ml GSK.jpg]
+
+File to: [build/img/Corsodyl M.W Original x 300ml GSK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CORYSAN HAND SANITIZER 500ML.jpg]
+
+File to: [build/img/CORYSAN HAND SANITIZER 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CORYSAN HAND SANITIZER 70ML.jpg]
+
+File to: [build/img/CORYSAN HAND SANITIZER 70ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CORYSAN HAND WASH ANTIBACTERIAL 300ML.jpg]
+
+File to: [build/img/CORYSAN HAND WASH ANTIBACTERIAL 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CORYSAN HAND WASH ANTIBACTERIAL 500ML.jpg]
+
+File to: [build/img/CORYSAN HAND WASH ANTIBACTERIAL 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CORYSAN HAND WASH FRUITY 500ML.jpg]
+
+File to: [build/img/CORYSAN HAND WASH FRUITY 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CORYSAN HAND WASH FLORAL 500ML.jpg]
+
+File to: [build/img/CORYSAN HAND WASH FLORAL 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CORYSAN HAND WASH WASH HERBAL 500ML.jpg]
+
+File to: [build/img/CORYSAN HAND WASH WASH HERBAL 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COSTA SEA SALT 750G.jpg]
+
+File to: [build/img/COSTA SEA SALT 750G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COTONEVE 56PCS COTTON BUDS.jpg]
+
+File to: [build/img/COTONEVE 56PCS COTTON BUDS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COTTON BALLS WHITE 200`S.jpg]
+
+File to: [build/img/COTTON BALLS WHITE 200`S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COTTON GAUZE  3 INCHES.jpg]
+
+File to: [build/img/COTTON GAUZE  3 INCHES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cotoons Shape Sorter Basket, Blue.jpg]
+
+File to: [build/img/Cotoons Shape Sorter Basket, Blue.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COTTON GAUZE  4 INCHES.jpg]
+
+File to: [build/img/COTTON GAUZE  4 INCHES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COTTON TREE BABY ZINC & CASTOR OIL CREAM 300ML.jpg]
+
+File to: [build/img/COTTON TREE BABY ZINC & CASTOR OIL CREAM 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COTTON TREE CREAMY PETROLEUM JELLY.jpg]
+
+File to: [build/img/COTTON TREE CREAMY PETROLEUM JELLY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COTTON TREE WOOL PLEAT 125G.jpg]
+
+File to: [build/img/COTTON TREE WOOL PLEAT 125G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/COTTON WOOL 100G.jpg]
+
+File to: [build/img/COTTON WOOL 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

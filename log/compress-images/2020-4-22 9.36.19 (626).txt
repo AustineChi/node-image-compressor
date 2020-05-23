@@ -1,0 +1,169 @@
+File from: [src/img/BARILLA SPICY MARINARA SAUCE 680G.png]
+
+File to: [build/img/BARILLA SPICY MARINARA SAUCE 680G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/BARILLA TRADITIONAL SAUCE 680G.jpg]
+
+File to: [build/img/BARILLA TRADITIONAL SAUCE 680G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BARON DE MALET MERLOT 2014 750ML.jpg]
+
+File to: [build/img/BARON DE MALET MERLOT 2014 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BARILLA SPAGHETTINI N.3 500G.jpg]
+
+File to: [build/img/BARILLA SPAGHETTINI N.3 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BARON DE VALLS 750ML.jpg]
+
+File to: [build/img/BARON DE VALLS 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BASMATI RICE 5KG.jpg]
+
+File to: [build/img/BASMATI RICE 5KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BASIC SOLUTIONS WEAVON BRUSH.jpg]
+
+File to: [build/img/BASIC SOLUTIONS WEAVON BRUSH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BARILLA PENNE RIGATE 1KG.jpg]
+
+File to: [build/img/BARILLA PENNE RIGATE 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BATH BUFFER SPONGE.jpg]
+
+File to: [build/img/BATH BUFFER SPONGE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BATCHELORS SWEETCORN IN WATER 340G.jpg]
+
+File to: [build/img/BATCHELORS SWEETCORN IN WATER 340G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAYER ASPIRIN 81MG X 32 TABS.jpg]
+
+File to: [build/img/BAYER ASPIRIN 81MG X 32 TABS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BATH SHOPPE ENG LAV MILK BATH.jpg]
+
+File to: [build/img/BATH SHOPPE ENG LAV MILK BATH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAYGON 300ML.jpg]
+
+File to: [build/img/BAYGON 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAYGON 500ML.jpg]
+
+File to: [build/img/BAYGON 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAYGON INSECTICIDE 300ML.jpg]
+
+File to: [build/img/BAYGON INSECTICIDE 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BARON DE MALET MERLOT 75CL.jpg]
+
+File to: [build/img/BARON DE MALET MERLOT 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/barton-guestier-thomas-barton-reserve-saint-emilion-france-10317073-600x600.jpg]
+
+File to: [build/img/barton-guestier-thomas-barton-reserve-saint-emilion-france-10317073-600x600.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BART SIMPSON ALUMINIUM BOTTLE.jpg]
+
+File to: [build/img/BART SIMPSON ALUMINIUM BOTTLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Baygon Crawling & Flying Insect 300ml.jpg]
+
+File to: [build/img/Baygon Crawling & Flying Insect 300ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAYGON LIQUID 1 LITRE (NO TRIGGER).jpg]
+
+File to: [build/img/BAYGON LIQUID 1 LITRE (NO TRIGGER).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAYGON INSECTICIDE 500ML.jpg]
+
+File to: [build/img/BAYGON INSECTICIDE 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAYGON MIK 300ML.jpg]
+
+File to: [build/img/BAYGON MIK 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAYGON LIQUID 1 LITRE (WITH TRIGGER).jpg]
+
+File to: [build/img/BAYGON LIQUID 1 LITRE (WITH TRIGGER).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAYGON MIK 500ML.jpg]
+
+File to: [build/img/BAYGON MIK 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAYGON ORANGE 300ML.jpg]
+
+File to: [build/img/BAYGON ORANGE 300ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BAZUKA EXTRA STRENGTH VERUCCA GEL X 6G.jpg]
+
+File to: [build/img/BAZUKA EXTRA STRENGTH VERUCCA GEL X 6G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BBARILLA FARFALLE 500G.jpg]
+
+File to: [build/img/BBARILLA FARFALLE 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BARILLA ROASTED GARLIC SAUCE 680G.jpg]
+
+File to: [build/img/BARILLA ROASTED GARLIC SAUCE 680G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

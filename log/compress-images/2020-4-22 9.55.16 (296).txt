@@ -1,0 +1,283 @@
+File from: [src/img/HOLLANDIA CHOCOMALT CHOCOLATE 180ML.jpg]
+
+File to: [build/img/HOLLANDIA CHOCOMALT CHOCOLATE 180ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA CHOCOMALT CHOCOLATE 315ML.jpg]
+
+File to: [build/img/HOLLANDIA CHOCOMALT CHOCOLATE 315ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hollandia Evap. Full Cream Milk 120g.jpg]
+
+File to: [build/img/Hollandia Evap. Full Cream Milk 120g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hollandia Evap. Full Cream Milk 190g.png]
+
+File to: [build/img/Hollandia Evap. Full Cream Milk 190g.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Hollandia Evap. Full Cream Milk 65g.jpg]
+
+File to: [build/img/Hollandia Evap. Full Cream Milk 65g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA EVAPORATED MILK 120G.jpg]
+
+File to: [build/img/HOLLANDIA EVAPORATED MILK 120G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA EVAPORATED MILK 190G.jpg]
+
+File to: [build/img/HOLLANDIA EVAPORATED MILK 190G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA EVAPORATED MILK 215G.jpg]
+
+File to: [build/img/HOLLANDIA EVAPORATED MILK 215G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA EVAPORATED MILK 60G.jpg]
+
+File to: [build/img/HOLLANDIA EVAPORATED MILK 60G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hollandia Lactose Free Milk 1ltr.png]
+
+File to: [build/img/Hollandia Lactose Free Milk 1ltr.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Hollandia Long Life Milk UHT 1Ltr.jpg]
+
+File to: [build/img/Hollandia Long Life Milk UHT 1Ltr.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA PLAIN SWEETENED500ML.jpg]
+
+File to: [build/img/HOLLANDIA PLAIN SWEETENED500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA POWDERED GOLD MILK.jpg]
+
+File to: [build/img/HOLLANDIA POWDERED GOLD MILK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hollandia Ready To Eat Custard 100ml.jpg]
+
+File to: [build/img/Hollandia Ready To Eat Custard 100ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hollandia Soya Choco Milk 315.jpg]
+
+File to: [build/img/Hollandia Soya Choco Milk 315.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hollandia Soya Milk 100ml.jpg]
+
+File to: [build/img/Hollandia Soya Milk 100ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA SOYA MILK 315ML.jpg]
+
+File to: [build/img/HOLLANDIA SOYA MILK 315ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hollandia Soya Milk Drink 1ltr.jpg]
+
+File to: [build/img/Hollandia Soya Milk Drink 1ltr.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA SOYA MILK PLAIN 100ML.jpg]
+
+File to: [build/img/HOLLANDIA SOYA MILK PLAIN 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA SOYA MILK PLAIN 1LTR.jpg]
+
+File to: [build/img/HOLLANDIA SOYA MILK PLAIN 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA SOYA MILK PLAIN 315ML.jpg]
+
+File to: [build/img/HOLLANDIA SOYA MILK PLAIN 315ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA UHT MILK FULL CREAM 1LTR.jpg]
+
+File to: [build/img/HOLLANDIA UHT MILK FULL CREAM 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA UHT MILK LOW FAT 1LTR.jpg]
+
+File to: [build/img/HOLLANDIA UHT MILK LOW FAT 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hollandia Yoghurt Drink 100ml.jpg]
+
+File to: [build/img/Hollandia Yoghurt Drink 100ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hollandia Yoghurt Drink 315ml.png]
+
+File to: [build/img/Hollandia Yoghurt Drink 315ml.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HOLLANDIA YOGHURT DRINK PLAIN SWEETENED 100ML.jpg]
+
+File to: [build/img/HOLLANDIA YOGHURT DRINK PLAIN SWEETENED 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA YOGHURT DRINK PURE n PLAIN 100ML.jpg]
+
+File to: [build/img/HOLLANDIA YOGHURT DRINK PURE n PLAIN 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA YOGHURT DRINK STRAWBERRY SWEETENED 100ML.jpg]
+
+File to: [build/img/HOLLANDIA YOGHURT DRINK STRAWBERRY SWEETENED 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hollandia Yoghurt Drinks 200ml.jpg]
+
+File to: [build/img/Hollandia Yoghurt Drinks 200ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Hollandia Yoghurt Drinks 500ml.jpg]
+
+File to: [build/img/Hollandia Yoghurt Drinks 500ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA YOGHURT PINAPPLE COCONUT 180ML.jpg]
+
+File to: [build/img/HOLLANDIA YOGHURT PINAPPLE COCONUT 180ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA YOGHURT PINAPPLE COCONUT 500ML.jpg]
+
+File to: [build/img/HOLLANDIA YOGHURT PINAPPLE COCONUT 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA YOGHURT PINEAPPLE COCONUT 1LTR.jpg]
+
+File to: [build/img/HOLLANDIA YOGHURT PINEAPPLE COCONUT 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA YOGHURT PLAIN SWEETENED 100ML.jpg]
+
+File to: [build/img/HOLLANDIA YOGHURT PLAIN SWEETENED 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA YOGHURT PLAIN SWEETENED 180ML.png]
+
+File to: [build/img/HOLLANDIA YOGHURT PLAIN SWEETENED 180ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/HOLLANDIA YOGHURT PLAIN SWEETENED 1LTR.jpg]
+
+File to: [build/img/HOLLANDIA YOGHURT PLAIN SWEETENED 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA YOGHURT PLAIN SWEETENED 315ML.jpg]
+
+File to: [build/img/HOLLANDIA YOGHURT PLAIN SWEETENED 315ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA YOGHURT PLAIN SWEETENED 500ML.jpg]
+
+File to: [build/img/HOLLANDIA YOGHURT PLAIN SWEETENED 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA YOGHURT PURE N PLAIN 315ML.jpg]
+
+File to: [build/img/HOLLANDIA YOGHURT PURE N PLAIN 315ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA YOGHURT PURE N PLAIN500ML.jpg]
+
+File to: [build/img/HOLLANDIA YOGHURT PURE N PLAIN500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA YOGHURT STRAWBERRY 100ML.jpg]
+
+File to: [build/img/HOLLANDIA YOGHURT STRAWBERRY 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA YOGHURT STRAWBERRY 180ML.jpg]
+
+File to: [build/img/HOLLANDIA YOGHURT STRAWBERRY 180ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA YOGHURT STRAWBERRY 1LTR.jpg]
+
+File to: [build/img/HOLLANDIA YOGHURT STRAWBERRY 1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA YOGHURT STRAWBERRY 315ML.jpg]
+
+File to: [build/img/HOLLANDIA YOGHURT STRAWBERRY 315ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA YOGHURT STRAWBERRY 500ML.jpg]
+
+File to: [build/img/HOLLANDIA YOGHURT STRAWBERRY 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLANDIA YOGURT P-COCO 180ML.jpg]
+
+File to: [build/img/HOLLANDIA YOGURT P-COCO 180ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HOLLYWOOD BODY SPRAY 236ML.jpg]
+
+File to: [build/img/HOLLYWOOD BODY SPRAY 236ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

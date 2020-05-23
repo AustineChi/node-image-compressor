@@ -1,0 +1,277 @@
+File from: [src/img/MAMA GOLD SEMOLINA 2KG.jpg]
+
+File to: [build/img/MAMA GOLD SEMOLINA 2KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mama Lemon Dishwash 250ml.jpg]
+
+File to: [build/img/Mama Lemon Dishwash 250ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mama Lemon Dishwashing Liquid 1.1Ltr.jpg]
+
+File to: [build/img/Mama Lemon Dishwashing Liquid 1.1Ltr.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mama Lemon Dishwashing Liquid 1.1Ltrx12.jpg]
+
+File to: [build/img/Mama Lemon Dishwashing Liquid 1.1Ltrx12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mama Lemon Dishwashing Liquid 550ml.jpg]
+
+File to: [build/img/Mama Lemon Dishwashing Liquid 550ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mama Pride Parboiled Rice 25Kg.jpg]
+
+File to: [build/img/Mama Pride Parboiled Rice 25Kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mama Pride Parboileg Rice 5kg.jpg]
+
+File to: [build/img/Mama Pride Parboileg Rice 5kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAMA PRIDE RICE 10KG.jpg]
+
+File to: [build/img/MAMA PRIDE RICE 10KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mama_s Pride Parboiled Rice 50Kg.jpg]
+
+File to: [build/img/Mama_s Pride Parboiled Rice 50Kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAMA'S PRIDE 1KG.jpg]
+
+File to: [build/img/MAMA'S PRIDE 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAMADOC PANCAKE MIX 1KG.jpg]
+
+File to: [build/img/MAMADOC PANCAKE MIX 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAMADOC PANCAKE MIX 500G.jpg]
+
+File to: [build/img/MAMADOC PANCAKE MIX 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAMADOC PUFF PUFF MIX 300G.jpg]
+
+File to: [build/img/MAMADOC PUFF PUFF MIX 300G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAMADOC PUFF PUFF MIX 700G.jpg]
+
+File to: [build/img/MAMADOC PUFF PUFF MIX 700G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAMADOR CLASSIC SEASONING CUBES.png]
+
+File to: [build/img/MAMADOR CLASSIC SEASONING CUBES.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Mamador Pure Vegetable 1.5 L X 6.jpg]
+
+File to: [build/img/Mamador Pure Vegetable 1.5 L X 6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAMADOR PURE VEGETABLE OIL 2.5L.jpg]
+
+File to: [build/img/MAMADOR PURE VEGETABLE OIL 2.5L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mamador Pure Vegetable Oil 900ml.jpg]
+
+File to: [build/img/Mamador Pure Vegetable Oil 900ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mamador Refined Vegetable Oil 2.5Ltr.jpg]
+
+File to: [build/img/Mamador Refined Vegetable Oil 2.5Ltr.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAMADOR VEBETABLE OIL 900ML.jpg]
+
+File to: [build/img/MAMADOR VEBETABLE OIL 900ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAMADOR VEGETABLE OIL 3.8LTR.jpg]
+
+File to: [build/img/MAMADOR VEGETABLE OIL 3.8LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAMAMIYA ORGANICS KIDS TEXTURIZER.jpg]
+
+File to: [build/img/MAMAMIYA ORGANICS KIDS TEXTURIZER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAMIYA ORGANIC LEAVING CONDITIONING 355ML.jpg]
+
+File to: [build/img/MAMIYA ORGANIC LEAVING CONDITIONING 355ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MANGO (SHERRY, YELLOW) PER DOZEN.jpg]
+
+File to: [build/img/MANGO (SHERRY, YELLOW) PER DOZEN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MANGO BODY BUTTER 200ML.jpg]
+
+File to: [build/img/MANGO BODY BUTTER 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MANIX.png]
+
+File to: [build/img/MANIX.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/MAMIYA ORGANIC EDGE CONTROL 110G.jpg]
+
+File to: [build/img/MAMIYA ORGANIC EDGE CONTROL 110G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Marina Air Freshener Single Gel 60g.jpg]
+
+File to: [build/img/Marina Air Freshener Single Gel 60g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Marquis Body Spray 175ml.jpg]
+
+File to: [build/img/Marquis Body Spray 175ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MARQUIS SALTED BUTTER 200G.jpg]
+
+File to: [build/img/MARQUIS SALTED BUTTER 200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MARQUIS UNSALTED BUTTER 200G.jpg]
+
+File to: [build/img/MARQUIS UNSALTED BUTTER 200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MARRIAGE FINEST SELF RAISING WHITE FLOUR 1.5KG.jpg]
+
+File to: [build/img/MARRIAGE FINEST SELF RAISING WHITE FLOUR 1.5KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MARRIAGE PLAIN WHITE FLOUR 1.5KG.jpg]
+
+File to: [build/img/MARRIAGE PLAIN WHITE FLOUR 1.5KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MARROWS 1KG.jpg]
+
+File to: [build/img/MARROWS 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MARS 51G.png]
+
+File to: [build/img/MARS 51G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Mamador Pure Vegetable Oil 3.5Ltrs.jpg]
+
+File to: [build/img/Mamador Pure Vegetable Oil 3.5Ltrs.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MARS MINIS 13X CHOCO BAR 250G.jpg]
+
+File to: [build/img/MARS MINIS 13X CHOCO BAR 250G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Mars Milk Chocolate with Nougat 57g.jpg]
+
+File to: [build/img/Mars Milk Chocolate with Nougat 57g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MARS PROTEIN BAR 50G.jpg]
+
+File to: [build/img/MARS PROTEIN BAR 50G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Martell Blue Swift Cognac 750ml.jpg]
+
+File to: [build/img/Martell Blue Swift Cognac 750ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Martell Blue Swift37.5cl x12.png]
+
+File to: [build/img/Martell Blue Swift37.5cl x12.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Martell Blue Swift75cl x12.png]
+
+File to: [build/img/Martell Blue Swift75cl x12.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Martell Blue Swift75cl x6.png]
+
+File to: [build/img/Martell Blue Swift75cl x6.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/MAMIYA ORGANIC SUPER OIL MOISTURIZER 355ML.jpg]
+
+File to: [build/img/MAMIYA ORGANIC SUPER OIL MOISTURIZER 355ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MARS DUO CHCOCLATE BAR78.8G.jpg]
+
+File to: [build/img/MARS DUO CHCOCLATE BAR78.8G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MAMA PRIDE RICE 25KG.jpg]
+
+File to: [build/img/MAMA PRIDE RICE 25KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

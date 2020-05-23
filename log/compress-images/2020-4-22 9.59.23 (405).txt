@@ -1,0 +1,241 @@
+File from: [src/img/Golden Penny Refined Sugar 200g(1).jpg]
+
+File to: [build/img/Golden Penny Refined Sugar 200g(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY PASTA TWIST 500G.jpg]
+
+File to: [build/img/GOLDEN PENNY PASTA TWIST 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Golden Penny Refined Sugar 200g.png]
+
+File to: [build/img/Golden Penny Refined Sugar 200g.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Golden Penny Refined Sugar 200g.jpg]
+
+File to: [build/img/Golden Penny Refined Sugar 200g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Golden Penny Refined Sugar 500g.jpg]
+
+File to: [build/img/Golden Penny Refined Sugar 500g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY SEMOVITA 1KG.jpg]
+
+File to: [build/img/GOLDEN PENNY SEMOVITA 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY SEMOVITA 2KG.jpg]
+
+File to: [build/img/GOLDEN PENNY SEMOVITA 2KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY SEMOVITA 5KG.jpg]
+
+File to: [build/img/GOLDEN PENNY SEMOVITA 5KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Golden Penny Semovita 5Kg(1).jpg]
+
+File to: [build/img/Golden Penny Semovita 5Kg(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY SOYA OIL - 1 LITRE.png]
+
+File to: [build/img/GOLDEN PENNY SOYA OIL - 1 LITRE.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GOLDEN PENNY SOYA. OIL 1L.jpg]
+
+File to: [build/img/GOLDEN PENNY SOYA. OIL 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY SOYA. OIL 2.75L.jpg]
+
+File to: [build/img/GOLDEN PENNY SOYA. OIL 2.75L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY SOYA. OIL 4L.jpg]
+
+File to: [build/img/GOLDEN PENNY SOYA. OIL 4L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY SOYA. OIL 4L.png]
+
+File to: [build/img/GOLDEN PENNY SOYA. OIL 4L.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GOLDEN PENNY SOYAL OIL - 2.75 LITERS.jpg]
+
+File to: [build/img/GOLDEN PENNY SOYAL OIL - 2.75 LITERS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY SPAGHETTI 500G.jpg]
+
+File to: [build/img/GOLDEN PENNY SPAGHETTI 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Golden Penny Spaghettini 500g.jpg]
+
+File to: [build/img/Golden Penny Spaghettini 500g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Golden Penny Spaghettini 500g.png]
+
+File to: [build/img/Golden Penny Spaghettini 500g.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Golden Penny Spaghettini 500g(1).png]
+
+File to: [build/img/Golden Penny Spaghettini 500g(1).png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GOLDEN PENNY SPREAD 900G.jpg]
+
+File to: [build/img/GOLDEN PENNY SPREAD 900G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY SUGAR 250G.jpg]
+
+File to: [build/img/GOLDEN PENNY SUGAR 250G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY SUGAR 500G.jpg]
+
+File to: [build/img/GOLDEN PENNY SUGAR 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY SUGAR SACHET 250GR.png]
+
+File to: [build/img/GOLDEN PENNY SUGAR SACHET 250GR.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GOLDEN PENNY VEG. OIL 2.75L.jpg]
+
+File to: [build/img/GOLDEN PENNY VEG. OIL 2.75L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY VEG. OIL 4L.jpg]
+
+File to: [build/img/GOLDEN PENNY VEG. OIL 4L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY VEGETABLE OIL 1 LTR.jpg]
+
+File to: [build/img/GOLDEN PENNY VEGETABLE OIL 1 LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PENNY VEGETABLE OIL 2.75 LTRS.jpg]
+
+File to: [build/img/GOLDEN PENNY VEGETABLE OIL 2.75 LTRS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Golden Penny White Cube Sugar 500g.png]
+
+File to: [build/img/Golden Penny White Cube Sugar 500g.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Golden Penny White Cube Sugar 500g(1).png]
+
+File to: [build/img/Golden Penny White Cube Sugar 500g(1).png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/GOLDEN PHOENIX JUMBO COOKED SHRIMP 400G.jpg]
+
+File to: [build/img/GOLDEN PHOENIX JUMBO COOKED SHRIMP 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PHOENIX LARGE SHRIMP 400G.jpg]
+
+File to: [build/img/GOLDEN PHOENIX LARGE SHRIMP 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PHOENIX SAUSAGE.jpg]
+
+File to: [build/img/GOLDEN PHOENIX SAUSAGE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PHOENIX WHITE FISH FILLETS 1KG.jpg]
+
+File to: [build/img/GOLDEN PHOENIX WHITE FISH FILLETS 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PHONIX FISH FILLET 1KG.jpg]
+
+File to: [build/img/GOLDEN PHONIX FISH FILLET 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PREMIER ORANGE CREAM WAFER 22GM.jpg]
+
+File to: [build/img/GOLDEN PREMIER ORANGE CREAM WAFER 22GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN PRIDE WHITE GRAPE WINE 750ML.jpg]
+
+File to: [build/img/GOLDEN PRIDE WHITE GRAPE WINE 750ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN-COUNTRY-CORN-FLAKES-500G-5032619507811.jpg]
+
+File to: [build/img/GOLDEN-COUNTRY-CORN-FLAKES-500G-5032619507811.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOLDEN-COUNTRY-CORN-FLAKES-500G-5032619507811(1).jpg]
+
+File to: [build/img/GOLDEN-COUNTRY-CORN-FLAKES-500G-5032619507811(1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOOD LUCK CARD.jpg]
+
+File to: [build/img/GOOD LUCK CARD.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/GOOD MAMA FLORAL FRESH 1KG.jpg]
+
+File to: [build/img/GOOD MAMA FLORAL FRESH 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

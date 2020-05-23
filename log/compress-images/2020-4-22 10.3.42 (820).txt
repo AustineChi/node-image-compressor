@@ -1,0 +1,319 @@
+File from: [src/img/SURE ANTIBACTERIAL ODOUR PROTECTION 250.jpg]
+
+File to: [build/img/SURE ANTIBACTERIAL ODOUR PROTECTION 250.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Sure Deodorant Body Spray 250ml.jpg]
+
+File to: [build/img/Sure Deodorant Body Spray 250ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SURE BRIGHT BOUQUET SPRAY 250ML.jpg]
+
+File to: [build/img/SURE BRIGHT BOUQUET SPRAY 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Sure for MenWomen Rollon 50ml x 48.jpg]
+
+File to: [build/img/Sure for MenWomen Rollon 50ml x 48.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SURE INVISIBLE AQUA 250ML.jpg]
+
+File to: [build/img/SURE INVISIBLE AQUA 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SURE INVISIBLE AQUA STICK 40ML.jpg]
+
+File to: [build/img/SURE INVISIBLE AQUA STICK 40ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SURE INVISIBLE AQUA SPRAY 250ML.jpg]
+
+File to: [build/img/SURE INVISIBLE AQUA SPRAY 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SURE INVISIBLE BLACK + WHITE ROLL ON 50ML.jpg]
+
+File to: [build/img/SURE INVISIBLE BLACK + WHITE ROLL ON 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SURE INVISIBLE PURE ROLL ON 50ML.jpg]
+
+File to: [build/img/SURE INVISIBLE PURE ROLL ON 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SURE INVISIBLE PURE 250ML.jpg]
+
+File to: [build/img/SURE INVISIBLE PURE 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SURE LINEN DRY ROLLON 50ML.jpg]
+
+File to: [build/img/SURE LINEN DRY ROLLON 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SURE MEN ACTIVE DRY 250ML.png]
+
+File to: [build/img/SURE MEN ACTIVE DRY 250ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SURE MEN ACTIVE DRY SPRAY 250ML.jpg]
+
+File to: [build/img/SURE MEN ACTIVE DRY SPRAY 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SURE MEN ANTI-BACTERIAL ODOUR PROTECTION DRY 250ML.jpg]
+
+File to: [build/img/SURE MEN ANTI-BACTERIAL ODOUR PROTECTION DRY 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SURE MEN ANTIBACTERIAL ODOUR PROTECTION SPRAY 250ML.jpg]
+
+File to: [build/img/SURE MEN ANTIBACTERIAL ODOUR PROTECTION SPRAY 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SURE MEN COBALT DRY SPRAY 250ML.jpg]
+
+File to: [build/img/SURE MEN COBALT DRY SPRAY 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SURE MEN ICE FRESH 250ML.jpg]
+
+File to: [build/img/SURE MEN ICE FRESH 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SURE MEN QUANTUM DRY 250ML.jpg]
+
+File to: [build/img/SURE MEN QUANTUM DRY 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SURE MEN INVISIBLE ICE FRESH  250ML.jpg]
+
+File to: [build/img/SURE MEN INVISIBLE ICE FRESH  250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SURE BRIGHT BOUQUET 250ML.jpg]
+
+File to: [build/img/SURE BRIGHT BOUQUET 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SURE MEN SENSITIVE  250ML.jpg]
+
+File to: [build/img/SURE MEN SENSITIVE  250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SURE MEN WILLIAMS RACING 250ML.png]
+
+File to: [build/img/SURE MEN WILLIAMS RACING 250ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SURE MEN WILLIAMS RACING ROLLON 50ML.jpg]
+
+File to: [build/img/SURE MEN WILLIAMS RACING ROLLON 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SURE ORIGINAL ROLLON 50ML.jpg]
+
+File to: [build/img/SURE ORIGINAL ROLLON 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SURE QUANTUM DRY ROLLON 50ML.jpg]
+
+File to: [build/img/SURE QUANTUM DRY ROLLON 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SURE SENSITIVE ROLLON 50ML.jpg]
+
+File to: [build/img/SURE SENSITIVE ROLLON 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SURE SHOWER FRESH ROLL ON 50ML.jpg]
+
+File to: [build/img/SURE SHOWER FRESH ROLL ON 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SURESLIM FAT BURNER X 60.jpg]
+
+File to: [build/img/SURESLIM FAT BURNER X 60.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SURESLIM TABLETS X 60.jpg]
+
+File to: [build/img/SURESLIM TABLETS X 60.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Surgical 3ply Facemasks.jpg]
+
+File to: [build/img/Surgical 3ply Facemasks.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Swan Table Water 75cl x 12.jpg]
+
+File to: [build/img/Swan Table Water 75cl x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWAN WATER 55CL.jpg]
+
+File to: [build/img/SWAN WATER 55CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWAN WATER 75 CL.jpg]
+
+File to: [build/img/SWAN WATER 75 CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWEET BABY RAY'S BARBECUE SAUCE 794G.jpg]
+
+File to: [build/img/SWEET BABY RAY'S BARBECUE SAUCE 794G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWEET CORN - GREEN GIANT TIN.jpg]
+
+File to: [build/img/SWEET CORN - GREEN GIANT TIN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWEET MELON _ HONEY DEW MELON PER KG.jpg]
+
+File to: [build/img/SWEET MELON _ HONEY DEW MELON PER KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWEET POTATOES 1KG.jpg]
+
+File to: [build/img/SWEET POTATOES 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWEETEX SWEETENERS 700 TABLETS.jpg]
+
+File to: [build/img/SWEETEX SWEETENERS 700 TABLETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWEETEX SWEETNER TABLETS X700.jpg]
+
+File to: [build/img/SWEETEX SWEETNER TABLETS X700.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWIDAR TABS  X 3.jpg]
+
+File to: [build/img/SWIDAR TABS  X 3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Swiss Airfreshner Spray 500ml.jpeg]
+
+File to: [build/img/Swiss Airfreshner Spray 500ml.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER 250ML COOLFRESH.jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER 250ML COOLFRESH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER 250ML FRESH AIR.jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER 250ML FRESH AIR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER 250ML IRISH LILY.jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER 250ML IRISH LILY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER 250ML GARDEN FLOWER.jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER 250ML GARDEN FLOWER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER 250ML SPRING FLOWER (2).jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER 250ML SPRING FLOWER (2).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER 250ML SUMMERSCENT.png]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER 250ML SUMMERSCENT.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER 250ML SWEET PINE.jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER 250ML SWEET PINE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER 500ML FRESH AIR.jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER 500ML FRESH AIR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER 500ML GARDEN FLOWER (2).jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER 500ML GARDEN FLOWER (2).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER 500ML IRISH LILY.png]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER 500ML IRISH LILY.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SWISS FLOWER AIRFRESHNER 500ML SPRING FLOWER.jpg]
+
+File to: [build/img/SWISS FLOWER AIRFRESHNER 500ML SPRING FLOWER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Swan Table Water 55cl x 12.jpg]
+
+File to: [build/img/Swan Table Water 55cl x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

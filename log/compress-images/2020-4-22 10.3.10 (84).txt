@@ -1,0 +1,169 @@
+File from: [src/img/ORBIT TAB STRONGMINT.jpg]
+
+File to: [build/img/ORBIT TAB STRONGMINT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ORBIT TAB STRAWBERRY.jpg]
+
+File to: [build/img/ORBIT TAB STRAWBERRY.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ORELOX 40 5ML PAED SUSP 100ML.jpg]
+
+File to: [build/img/ORELOX 40 5ML PAED SUSP 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ORELOX 40MG 5ML PAED SUSP 50ML.jpg]
+
+File to: [build/img/ORELOX 40MG 5ML PAED SUSP 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ORELOX TABS 200MG X 10.jpg]
+
+File to: [build/img/ORELOX TABS 200MG X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Oreo Cookies Snack Pack 66Gm.jpg]
+
+File to: [build/img/Oreo Cookies Snack Pack 66Gm.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/OREO DOUBLE DOUBLE CREAMY 157.jpg]
+
+File to: [build/img/OREO DOUBLE DOUBLE CREAMY 157.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/OREO SANDWICH BISCUIT BOX 246GM.jpg]
+
+File to: [build/img/OREO SANDWICH BISCUIT BOX 246GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/OREO SANDWICH BISCUITS MILK CHOCO 246GM BOX.jpg]
+
+File to: [build/img/OREO SANDWICH BISCUITS MILK CHOCO 246GM BOX.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Oreo Sandwich Biscuits Vanilla 154Gm(Roll).jpg]
+
+File to: [build/img/Oreo Sandwich Biscuits Vanilla 154Gm(Roll).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ORGANIC ALOE VERA BODY WASH 200ML.jpg]
+
+File to: [build/img/ORGANIC ALOE VERA BODY WASH 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/OREO SANDWICH BISCUITS WHITE CHOCO 246GM BOX.jpg]
+
+File to: [build/img/OREO SANDWICH BISCUITS WHITE CHOCO 246GM BOX.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ORGANIC TEA TREE PURE OIL 10ML.jpg]
+
+File to: [build/img/ORGANIC TEA TREE PURE OIL 10ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ORGANIC HAIR MAYONAISE 18OZ, 521ML.jpg]
+
+File to: [build/img/ORGANIC HAIR MAYONAISE 18OZ, 521ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ORHEPTAL CAPS  X 30.jpg]
+
+File to: [build/img/ORHEPTAL CAPS  X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ORHEPTAL SYR  1LTR.jpg]
+
+File to: [build/img/ORHEPTAL SYR  1LTR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ORHEPTAL SYR  300ML {M.S}.jpg]
+
+File to: [build/img/ORHEPTAL SYR  300ML {M.S}.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ORHEPTAL. SYR  100ML {S.S}.png]
+
+File to: [build/img/ORHEPTAL. SYR  100ML {S.S}.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/ORIJIN 330ML CAN.jpg]
+
+File to: [build/img/ORIJIN 330ML CAN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ORIJIN 450ML RET.jpg]
+
+File to: [build/img/ORIJIN 450ML RET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ORIJIN BITTERS 20CL.jpg]
+
+File to: [build/img/ORIJIN BITTERS 20CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ORIJIN BITTERS 75CL.jpg]
+
+File to: [build/img/ORIJIN BITTERS 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ORIJIN BITTERS 5CL.jpg]
+
+File to: [build/img/ORIJIN BITTERS 5CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ORIJIN HERBAL GIN 20CL.jpg]
+
+File to: [build/img/ORIJIN HERBAL GIN 20CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ORIJIN HERBAL GIN 75CL.jpg]
+
+File to: [build/img/ORIJIN HERBAL GIN 75CL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/OREO CHOCOLATE SANDWICH SMILE COOKIE 68G.jpg]
+
+File to: [build/img/OREO CHOCOLATE SANDWICH SMILE COOKIE 68G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ORBIT TAB SPEARMINT.jpg]
+
+File to: [build/img/ORBIT TAB SPEARMINT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ORELOX TABS 100MG X10.jpg]
+
+File to: [build/img/ORELOX TABS 100MG X10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

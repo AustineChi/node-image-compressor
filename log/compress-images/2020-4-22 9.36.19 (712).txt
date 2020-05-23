@@ -1,0 +1,463 @@
+File from: [src/img/Munro Corn Flour 350g x 6.jpg]
+
+File to: [build/img/Munro Corn Flour 350g x 6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Munchkin Color Me Hungry Splash 7pc Toddler Dining Set – Purple.jpg]
+
+File to: [build/img/Munchkin Color Me Hungry Splash 7pc Toddler Dining Set – Purple.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Munro Glucose D Instant Energy 400gX20.jpg]
+
+File to: [build/img/Munro Glucose D Instant Energy 400gX20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Munro Glucose D Instant Energy 175g x 20.jpg]
+
+File to: [build/img/Munro Glucose D Instant Energy 175g x 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MUPIDERM OINTMENT 15G.jpg]
+
+File to: [build/img/MUPIDERM OINTMENT 15G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MUSCADOR ICE SPARKLING ROSE 75CL.png]
+
+File to: [build/img/MUSCADOR ICE SPARKLING ROSE 75CL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/MUPOSAN POWDER 5G x 1 satchet.jpg]
+
+File to: [build/img/MUPOSAN POWDER 5G x 1 satchet.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MUSHROOM PER PACK.jpg]
+
+File to: [build/img/MUSHROOM PER PACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MUTT & NATION BALL S2.jpg]
+
+File to: [build/img/MUTT & NATION BALL S2.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MUSTARD OIL.jpg]
+
+File to: [build/img/MUSTARD OIL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MY BOY [TIN] 400G.jpg]
+
+File to: [build/img/MY BOY [TIN] 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/My Boy Infant Formula 454g x 12.jpg]
+
+File to: [build/img/My Boy Infant Formula 454g x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Myagos FM Grape Fruit.jpg]
+
+File to: [build/img/Myagos FM Grape Fruit.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MYCOTA CREAM 25G.jpg]
+
+File to: [build/img/MYCOTA CREAM 25G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MYCOTA POWDER  710G.jpg]
+
+File to: [build/img/MYCOTA POWDER  710G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MYCOTA POWDER.png]
+
+File to: [build/img/MYCOTA POWDER.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/MYCOTEN CREAM  20G.jpg]
+
+File to: [build/img/MYCOTEN CREAM  20G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/N-Field Vitamin C-500mg 100.jpg]
+
+File to: [build/img/N-Field Vitamin C-500mg 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/N95 3M  RESPIRATOR X 1.jpg]
+
+File to: [build/img/N95 3M  RESPIRATOR X 1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/N95 Mask 3M (Yellow + White Round) x1.jpg]
+
+File to: [build/img/N95 Mask 3M (Yellow + White Round) x1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NAGARI FARM YOGHURT 0.5LT.jpg]
+
+File to: [build/img/NAGARI FARM YOGHURT 0.5LT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NAGARI FARM YOGHURT 1L.jpg]
+
+File to: [build/img/NAGARI FARM YOGHURT 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Naija Sweet Rice 5Kg.jpg]
+
+File to: [build/img/Naija Sweet Rice 5Kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NAIL DRY 100ML.jpg]
+
+File to: [build/img/NAIL DRY 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NAIL POLISH REMOVAL WIPES ACETONE 10.jpg]
+
+File to: [build/img/NAIL POLISH REMOVAL WIPES ACETONE 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NAIL POLISH REMOVER 250ML.jpg]
+
+File to: [build/img/NAIL POLISH REMOVER 250ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nair Hair Remover Body Wax Strips.jpg]
+
+File to: [build/img/Nair Hair Remover Body Wax Strips.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nair Hair Remover Facial Wax Strips.jpg]
+
+File to: [build/img/Nair Hair Remover Facial Wax Strips.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NAKED AMALA PLANTAIN FLOUR (1KG).jpg]
+
+File to: [build/img/NAKED AMALA PLANTAIN FLOUR (1KG).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Namaqua MerlotPinotage Wine 750ml.jpg]
+
+File to: [build/img/Namaqua MerlotPinotage Wine 750ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NAPA TUNA FISH 170G.jpg]
+
+File to: [build/img/NAPA TUNA FISH 170G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Namaqua Sweet Wine Ranges 750ml.jpg]
+
+File to: [build/img/Namaqua Sweet Wine Ranges 750ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Napa Valley Corned Beef 200g.jpg]
+
+File to: [build/img/Napa Valley Corned Beef 200g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Napa Valley Corned Beef 340g.jpg]
+
+File to: [build/img/Napa Valley Corned Beef 340g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Napa Valley Ginger _ Honey Drink 360g.jpg]
+
+File to: [build/img/Napa Valley Ginger _ Honey Drink 360g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Napa Valley Olive Oil 1Ltr.jpg]
+
+File to: [build/img/Napa Valley Olive Oil 1Ltr.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Napa Valley Prawn Crackers 227g.jpg]
+
+File to: [build/img/Napa Valley Prawn Crackers 227g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Munro Icing Suger 500g x 12.jpg]
+
+File to: [build/img/Munro Icing Suger 500g x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Napa Valley Sardines 125g.jpg]
+
+File to: [build/img/Napa Valley Sardines 125g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NASAL TRIMMER 5560-1801.jpg]
+
+File to: [build/img/NASAL TRIMMER 5560-1801.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nasco Corn Flakes 350g.jpg]
+
+File to: [build/img/Nasco Corn Flakes 350g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NASCO CORN FLAKES 500G.jpg]
+
+File to: [build/img/NASCO CORN FLAKES 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nasco Cornflakes 500g.jpg]
+
+File to: [build/img/Nasco Cornflakes 500g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NASCO CREAM CRACKERS BISCUIT 100G.jpg]
+
+File to: [build/img/NASCO CREAM CRACKERS BISCUIT 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NASCO CREAM CRACKER SAVOURY 25G.png]
+
+File to: [build/img/NASCO CREAM CRACKER SAVOURY 25G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/NASCO CREAM CRACKERS BISCUIT 130G.png]
+
+File to: [build/img/NASCO CREAM CRACKERS BISCUIT 130G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/NASCO FROSTED FLAKES 350G.png]
+
+File to: [build/img/NASCO FROSTED FLAKES 350G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Munro Custard Powder 2kg x 4.jpg]
+
+File to: [build/img/Munro Custard Powder 2kg x 4.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NASCO ORIGINAL CORN FLAKES 350G.jpg]
+
+File to: [build/img/NASCO ORIGINAL CORN FLAKES 350G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NASCO ORIGINAL CORN FLAKES 35G.jpg]
+
+File to: [build/img/NASCO ORIGINAL CORN FLAKES 35G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NASCO ORIGINAL CORN FLAKES 500G.jpg]
+
+File to: [build/img/NASCO ORIGINAL CORN FLAKES 500G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Nasco Shortcake Biscuit 120g.jpg]
+
+File to: [build/img/Nasco Shortcake Biscuit 120g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Native Jollof Rice with palm oil, smoked fish, dry prawn and Vegetables 3 Litre.jpg]
+
+File to: [build/img/Native Jollof Rice with palm oil, smoked fish, dry prawn and Vegetables 3 Litre.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATIVE PEAR.jpg]
+
+File to: [build/img/NATIVE PEAR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUNDO CHICKEN WINGS.jpg]
+
+File to: [build/img/NATUNDO CHICKEN WINGS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUNDO FULL CHICKEN.jpg]
+
+File to: [build/img/NATUNDO FULL CHICKEN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Natur Vital Conditioner 300ml.jpg]
+
+File to: [build/img/Natur Vital Conditioner 300ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATUNDO EGG BY 30.jpg]
+
+File to: [build/img/NATUNDO EGG BY 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE MADE PROBIOTICS X30 CAPSULES.jpg]
+
+File to: [build/img/NATURE MADE PROBIOTICS X30 CAPSULES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE MADE VITAMIN A 8000IU X 100.jpg]
+
+File to: [build/img/NATURE MADE VITAMIN A 8000IU X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE MADE VIT E 267MG(400IU) X 100.jpg]
+
+File to: [build/img/NATURE MADE VIT E 267MG(400IU) X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE VALLEY CRUNCHY CANADIAN MAPLE 42G.png]
+
+File to: [build/img/NATURE VALLEY CRUNCHY CANADIAN MAPLE 42G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/NATURE VALLEY CRUNCHY GRANOLA BAR CINNAMON 42G.jpg]
+
+File to: [build/img/NATURE VALLEY CRUNCHY GRANOLA BAR CINNAMON 42G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE VALLEY CRUNCHY OATS N HONEY 42G.jpg]
+
+File to: [build/img/NATURE VALLEY CRUNCHY OATS N HONEY 42G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE VALLEY CRUNCHY PEANUT BUTTER 42G.jpg]
+
+File to: [build/img/NATURE VALLEY CRUNCHY PEANUT BUTTER 42G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE VALLEY CRUNCHY OATS,N DARK CHOCOLATE 42G.jpg]
+
+File to: [build/img/NATURE VALLEY CRUNCHY OATS,N DARK CHOCOLATE 42G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE VALLEY CRUNCHY PEANUT BUTTER DARK CHOCOLATE 42G.jpg]
+
+File to: [build/img/NATURE VALLEY CRUNCHY PEANUT BUTTER DARK CHOCOLATE 42G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Napa Valley Hot Dogs 350g.jpg]
+
+File to: [build/img/Napa Valley Hot Dogs 350g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE VALLEY SWEET&SALTY NUT CASHEW.jpg]
+
+File to: [build/img/NATURE VALLEY SWEET&SALTY NUT CASHEW.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE'S FIELD CHEWABLE VITAMIN C 500MG 10 X 10.png]
+
+File to: [build/img/NATURE'S FIELD CHEWABLE VITAMIN C 500MG 10 X 10.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/NATURE VALLEY TRAIL MIX FRUIT&NUT 42G.jpg]
+
+File to: [build/img/NATURE VALLEY TRAIL MIX FRUIT&NUT 42G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE`S FIELD CO Q 10 100MG x 60.png]
+
+File to: [build/img/NATURE`S FIELD CO Q 10 100MG x 60.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/NATURE'S TRUTH HYDROLYZED COLLAGEN TYPE I & III PLUS VITAMIN C X 90.jpg]
+
+File to: [build/img/NATURE'S TRUTH HYDROLYZED COLLAGEN TYPE I & III PLUS VITAMIN C X 90.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE`S FIELD CHEWABLE VITAMIN C 500MG X 60.png]
+
+File to: [build/img/NATURE`S FIELD CHEWABLE VITAMIN C 500MG X 60.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/NASCO FANCY BISCUIT 100G.jpg]
+
+File to: [build/img/NASCO FANCY BISCUIT 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NAPROXEN 500MG TAB X 28(TEVA).jpg]
+
+File to: [build/img/NAPROXEN 500MG TAB X 28(TEVA).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/NATURE VALLEY CRUNCHY VARIETY PACK.jpg]
+
+File to: [build/img/NATURE VALLEY CRUNCHY VARIETY PACK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

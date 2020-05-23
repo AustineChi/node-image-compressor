@@ -1,0 +1,8 @@
+File from: [src/img/`GRAMPIAN OAT FLOUR 3KG.jpg]
+
+File to: [build/img/`GRAMPIAN OAT FLOUR 3KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg -quality 60 -outfile build/img/`GRAMPIAN OAT FLOUR 3KG.jpg src/img/`GRAMPIAN OAT FLOUR 3KG.jpg
+Unrecognized input file format --- perhaps you need -targa

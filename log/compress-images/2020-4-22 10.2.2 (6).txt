@@ -1,0 +1,115 @@
+File from: [src/img/Maryland Cookies Biscuit 145gMaryland Cookies Biscuit 145g.jpg]
+
+File to: [build/img/Maryland Cookies Biscuit 145gMaryland Cookies Biscuit 145g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MARYLAND COOKIES CHOC CHIP AND COCONUT 145G.jpg]
+
+File to: [build/img/MARYLAND COOKIES CHOC CHIP AND COCONUT 145G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MARYLAND COOKIES CHOC CHIP AND HAZELNUT 145G.jpg]
+
+File to: [build/img/MARYLAND COOKIES CHOC CHIP AND HAZELNUT 145G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MARYLAND COOKIES CHOCOLATE CHIP 145G.jpg]
+
+File to: [build/img/MARYLAND COOKIES CHOCOLATE CHIP 145G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MARYLAND COOKIES DOUBLE CHOC CHIP 145G.jpg]
+
+File to: [build/img/MARYLAND COOKIES DOUBLE CHOC CHIP 145G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MARYLAND COOKIES.png]
+
+File to: [build/img/MARYLAND COOKIES.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Masafi Fruit Juice Ranges 1Ltr.jpg]
+
+File to: [build/img/Masafi Fruit Juice Ranges 1Ltr.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MASCULAN CONDOM FRUTTI X 10.jpg]
+
+File to: [build/img/MASCULAN CONDOM FRUTTI X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MASCULAN CONDOM LONG PLEASUREX 3.jpg]
+
+File to: [build/img/MASCULAN CONDOM LONG PLEASUREX 3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Masculan Condoms Gold x3.jpg]
+
+File to: [build/img/Masculan Condoms Gold x3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Masculan Condoms Sens. Type 1 x3.jpg]
+
+File to: [build/img/Masculan Condoms Sens. Type 1 x3.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Masculan Das Condom long pleas..jpg]
+
+File to: [build/img/Masculan Das Condom long pleas..jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Masculan Das Condom Long Pleasure.jpg]
+
+File to: [build/img/Masculan Das Condom Long Pleasure.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MASCULAN LONG PLEASURE X 10.jpg]
+
+File to: [build/img/MASCULAN LONG PLEASURE X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MASCULAN SILK LUBRICANT GEL 75ML.jpeg]
+
+File to: [build/img/MASCULAN SILK LUBRICANT GEL 75ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MASCULAN STRAWBERRY LUBRICANT GEL.png]
+
+File to: [build/img/MASCULAN STRAWBERRY LUBRICANT GEL.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/MASON  VITAMIN B50 COMPLEX X 100.jpg]
+
+File to: [build/img/MASON  VITAMIN B50 COMPLEX X 100.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MASON ACTIVATED CHARCOAL X 60.jpg]
+
+File to: [build/img/MASON ACTIVATED CHARCOAL X 60.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/MASON CALCIUM 500MG X 60 TABLETS.jpg]
+
+File to: [build/img/MASON CALCIUM 500MG X 60 TABLETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

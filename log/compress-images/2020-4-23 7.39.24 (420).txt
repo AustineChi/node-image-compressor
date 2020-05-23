@@ -1,0 +1,7 @@
+File from: [src/img/KELLOGGS RAISIN BRAN 470G.png]
+
+File to: [build/img/KELLOGGS RAISIN BRAN 470G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant --quality=20-50 -o build/img/KELLOGGS RAISIN BRAN 470G.png src/img/KELLOGGS RAISIN BRAN 470G.png

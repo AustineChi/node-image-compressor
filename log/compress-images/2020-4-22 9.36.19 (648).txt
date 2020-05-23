@@ -1,0 +1,367 @@
+File from: [src/img/Cikaquine (Chloroquine 250mg) tabs x10.jpg]
+
+File to: [build/img/Cikaquine (Chloroquine 250mg) tabs x10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CILOXAN EYE DROP.jpg]
+
+File to: [build/img/CILOXAN EYE DROP.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIPROFLOXACIN 500MG TAB X 20.jpg]
+
+File to: [build/img/CIPROFLOXACIN 500MG TAB X 20.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIPROFLOXACIN INJECTION 200MG_100ML.jpg]
+
+File to: [build/img/CIPROFLOXACIN INJECTION 200MG_100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIPROTAB TABS 500MG X 10.jpg]
+
+File to: [build/img/CIPROTAB TABS 500MG X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CINNAMON TOAST CRUNCH 476G (1).jpg]
+
+File to: [build/img/CINNAMON TOAST CRUNCH 476G (1).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIPROTAB-TN.jpg]
+
+File to: [build/img/CIPROTAB-TN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIRIO PEELED PLUM TOMATOES 400G.jpg]
+
+File to: [build/img/CIRIO PEELED PLUM TOMATOES 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIROC 1LTRX12.jpg]
+
+File to: [build/img/CIROC 1LTRX12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIROC 1L.jpg]
+
+File to: [build/img/CIROC 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIROC 6 LTRX1.jpg]
+
+File to: [build/img/CIROC 6 LTRX1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIFLOMAX 500MG X 14.jpg]
+
+File to: [build/img/CIFLOMAX 500MG X 14.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIMETIDINE CAPLETS 400MG.jpg]
+
+File to: [build/img/CIMETIDINE CAPLETS 400MG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIPROTAB TABS 500MG X 14.jpg]
+
+File to: [build/img/CIPROTAB TABS 500MG X 14.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIROC COCONUT 1LTRX6.jpg]
+
+File to: [build/img/CIROC COCONUT 1LTRX6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIROC PEACH 1L.jpg]
+
+File to: [build/img/CIROC PEACH 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIROC IGNITEX6.jpg]
+
+File to: [build/img/CIROC IGNITEX6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIROC PEACH 1LTRX6.jpg]
+
+File to: [build/img/CIROC PEACH 1LTRX6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIROC PINEAPPLE 1L.jpg]
+
+File to: [build/img/CIROC PINEAPPLE 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIROC PINEAPPLE 1LTRX6.jpg]
+
+File to: [build/img/CIROC PINEAPPLE 1LTRX6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIROC RED BERRY 1LTRX6.jpg]
+
+File to: [build/img/CIROC RED BERRY 1LTRX6.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CITRAMIN DROPS  15ML.jpg]
+
+File to: [build/img/CITRAMIN DROPS  15ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIROC SUMMER COLADAX12.jpg]
+
+File to: [build/img/CIROC SUMMER COLADAX12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CITRAMIN SYR  100ML.png]
+
+File to: [build/img/CITRAMIN SYR  100ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Citramin Drops for Infants+Neonates 15ml.jpg]
+
+File to: [build/img/Citramin Drops for Infants+Neonates 15ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CITRONELLA GLASS CANDLE.jpg]
+
+File to: [build/img/CITRONELLA GLASS CANDLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CITRONELLA INCENSE.jpg]
+
+File to: [build/img/CITRONELLA INCENSE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Clarithromycin (Sandoz) 500mg Tabs x14.jpg]
+
+File to: [build/img/Clarithromycin (Sandoz) 500mg Tabs x14.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLARION VIT A X 30.png]
+
+File to: [build/img/CLARION VIT A X 30.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/CLARITYN TABS X 14.jpg]
+
+File to: [build/img/CLARITYN TABS X 14.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLARITHROMYCIN 500MG X 14(SANDOZ).jpg]
+
+File to: [build/img/CLARITHROMYCIN 500MG X 14(SANDOZ).jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Claritek (Clarithromycin) 250mg Tabs x10.jpg]
+
+File to: [build/img/Claritek (Clarithromycin) 250mg Tabs x10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLARITYN TABS X 30.jpg]
+
+File to: [build/img/CLARITYN TABS X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLASSIC FACE DEFINER.jpg]
+
+File to: [build/img/CLASSIC FACE DEFINER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLARITYN TABS X 7.jpg]
+
+File to: [build/img/CLARITYN TABS X 7.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Classic White Soap Twin Whitening 85g.jpg]
+
+File to: [build/img/Classic White Soap Twin Whitening 85g.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLASSIC WHITE SOAP.jpg]
+
+File to: [build/img/CLASSIC WHITE SOAP.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLASSY TOUCH CLEANING SPONGES 3 PIECES.jpg]
+
+File to: [build/img/CLASSY TOUCH CLEANING SPONGES 3 PIECES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLAUDEL UNSALTED BUTTER 200G.jpg]
+
+File to: [build/img/CLAUDEL UNSALTED BUTTER 200G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLAVULIN 1G  X 14 TABLETS.jpg]
+
+File to: [build/img/CLAVULIN 1G  X 14 TABLETS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLAVULIN 625MG  X 14 TABS.jpg]
+
+File to: [build/img/CLAVULIN 625MG  X 14 TABS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLAVULIN SUSP 228MG 70ML.jpg]
+
+File to: [build/img/CLAVULIN SUSP 228MG 70ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLEAN & CLEAR ADVANTAGE CLEAR&SOOTHE 150ML.jpg]
+
+File to: [build/img/CLEAN & CLEAR ADVANTAGE CLEAR&SOOTHE 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLEAN & CLEAR BLACK HEAD 150ML.jpg]
+
+File to: [build/img/CLEAN & CLEAR BLACK HEAD 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLEAN & CLEAR BLACKHEAD CLEANING CLEANSER 200ML.jpg]
+
+File to: [build/img/CLEAN & CLEAR BLACKHEAD CLEANING CLEANSER 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLEAN & CLEAR DEEP ASTRIGENT 240ML.jpg]
+
+File to: [build/img/CLEAN & CLEAR DEEP ASTRIGENT 240ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLEAN & CLEAR DEEP CLEANSING 200ML.jpg]
+
+File to: [build/img/CLEAN & CLEAR DEEP CLEANSING 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLEAN & CLEAR MORNING BURST 240ML.jpg]
+
+File to: [build/img/CLEAN & CLEAR MORNING BURST 240ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLEAN COMBINATION DISH SPONGE SET.jpg]
+
+File to: [build/img/CLEAN COMBINATION DISH SPONGE SET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLEAN & CLEAR MORNING SKIN BRIGHTER ENERGY 150ML.jpg]
+
+File to: [build/img/CLEAN & CLEAR MORNING SKIN BRIGHTER ENERGY 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLEAN HOME MULTI-SURFACE ALL PURPOSE CLEANER 828ML.jpg]
+
+File to: [build/img/CLEAN HOME MULTI-SURFACE ALL PURPOSE CLEANER 828ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLEAN ONES HAIR NETS 100S.png]
+
+File to: [build/img/CLEAN ONES HAIR NETS 100S.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Cleanic Antibact. Wipes-Travel Pack x40.jpg]
+
+File to: [build/img/Cleanic Antibact. Wipes-Travel Pack x40.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cleanic Cotton Buds x200.jpg]
+
+File to: [build/img/Cleanic Cotton Buds x200.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cleanic Professional Cotton Buds x200.jpg]
+
+File to: [build/img/Cleanic Professional Cotton Buds x200.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLEANIC PURE EFFECT COSMETIC PAD SQUARE 50S.jpg]
+
+File to: [build/img/CLEANIC PURE EFFECT COSMETIC PAD SQUARE 50S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Cleanic Pure Effect Cotton Pads x50.jpg]
+
+File to: [build/img/Cleanic Pure Effect Cotton Pads x50.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLEANIC SOFT & COMFORT GRATIS COTTON BUD 100S.jpg]
+
+File to: [build/img/CLEANIC SOFT & COMFORT GRATIS COTTON BUD 100S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CIFLOMAX 500MG X 10.jpg]
+
+File to: [build/img/CIFLOMAX 500MG X 10.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CLASSIC PRESSED POWDER.jpg]
+
+File to: [build/img/CLASSIC PRESSED POWDER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Classic Jenga Game.jpg]
+
+File to: [build/img/Classic Jenga Game.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

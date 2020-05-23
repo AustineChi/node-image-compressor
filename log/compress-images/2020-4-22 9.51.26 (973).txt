@@ -1,0 +1,211 @@
+File from: [src/img/Chi onion beef burger.jpg]
+
+File to: [build/img/Chi onion beef burger.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/chi sausage - Copy.jpeg]
+
+File to: [build/img/chi sausage - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/chi smoked chicken - Copy - Copy - Copy - Copy.jpeg]
+
+File to: [build/img/chi smoked chicken - Copy - Copy - Copy - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/chi smoked chicken - Copy.jpeg]
+
+File to: [build/img/chi smoked chicken - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/chi smoked chicken 100gm.jpeg]
+
+File to: [build/img/chi smoked chicken 100gm.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHI SMOKED CHICKEN.jpg]
+
+File to: [build/img/CHI SMOKED CHICKEN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/chi smoked sausage - Copy.jpeg]
+
+File to: [build/img/chi smoked sausage - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Chi Value Sausage.jpg]
+
+File to: [build/img/Chi Value Sausage.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Chicken 1Kg.jpg]
+
+File to: [build/img/Chicken 1Kg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/chicken back.jpeg]
+
+File to: [build/img/chicken back.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Chicken Drumsticks.jpg]
+
+File to: [build/img/Chicken Drumsticks.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Chicken Fillet.jpg]
+
+File to: [build/img/Chicken Fillet.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Chicken Lap.jpeg]
+
+File to: [build/img/Chicken Lap.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Chicken Pepper soup.jpg]
+
+File to: [build/img/Chicken Pepper soup.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/chicken neck.jpeg]
+
+File to: [build/img/chicken neck.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Chicken stew 2 LTRS.jpg]
+
+File to: [build/img/Chicken stew 2 LTRS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Chicken Sausage.jpg]
+
+File to: [build/img/Chicken Sausage.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Chicken stew 2LTRS.jpg]
+
+File to: [build/img/Chicken stew 2LTRS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Chicken Thigh.jpg]
+
+File to: [build/img/Chicken Thigh.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Chicken Wings.jpg]
+
+File to: [build/img/Chicken Wings.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHIKKI CHICKEN NOODLES 100G.jpg]
+
+File to: [build/img/CHIKKI CHICKEN NOODLES 100G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/chiko funsation ecls.jpeg]
+
+File to: [build/img/chiko funsation ecls.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/chiko best wishes - Copy - Copy.jpeg]
+
+File to: [build/img/chiko best wishes - Copy - Copy.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/chiko milk ecleir.jpeg]
+
+File to: [build/img/chiko milk ecleir.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHILDREN BIRTH DAY CARDS.jpg]
+
+File to: [build/img/CHILDREN BIRTH DAY CARDS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Children Toothbrush All Types.jpg]
+
+File to: [build/img/Children Toothbrush All Types.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHILL - GROUNDED PEPPER 1KG.jpg]
+
+File to: [build/img/CHILL - GROUNDED PEPPER 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHIN CHIN MINIMIE HOT AND SPICY PACKS  40 GMS x48.jfif.jpg]
+
+File to: [build/img/CHIN CHIN MINIMIE HOT AND SPICY PACKS  40 GMS x48.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHIN CHIN MINIMIE HOT&SPICY 40GMS.jpg]
+
+File to: [build/img/CHIN CHIN MINIMIE HOT&SPICY 40GMS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHIN CHIN MINIMIE SNACK 900 POUCH GMS.jpg]
+
+File to: [build/img/CHIN CHIN MINIMIE SNACK 900 POUCH GMS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHIN CHIN MINIMIE SNACK JAR 900 GMS x6.jfif.jpg]
+
+File to: [build/img/CHIN CHIN MINIMIE SNACK JAR 900 GMS x6.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHIN CHIN MINIMIE SNACK JAR 900 GMS.jpg]
+
+File to: [build/img/CHIN CHIN MINIMIE SNACK JAR 900 GMS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHIN CHIN MINIMIE SNACK PACK 54 GMS x80.jfif.jpg]
+
+File to: [build/img/CHIN CHIN MINIMIE SNACK PACK 54 GMS x80.jfif.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/CHIN CHIN MINIMIE SNACK PACK 60 GMS.jpg]
+
+File to: [build/img/CHIN CHIN MINIMIE SNACK PACK 60 GMS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/chinny chops chin chin.jpeg]
+
+File to: [build/img/chinny chops chin chin.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

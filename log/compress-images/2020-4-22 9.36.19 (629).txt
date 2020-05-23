@@ -1,0 +1,331 @@
+File from: [src/img/BENDROFLUOMETHIAZIDE TABS 5MG X 28 TEVA UK.jpg]
+
+File to: [build/img/BENDROFLUOMETHIAZIDE TABS 5MG X 28 TEVA UK.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BENG-BENG MAXX MAXIMUM BITE.jpg]
+
+File to: [build/img/BENG-BENG MAXX MAXIMUM BITE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Benson & Hedges Menthol Boost Cigratte.jpg]
+
+File to: [build/img/Benson & Hedges Menthol Boost Cigratte.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BENSON & HEDGES SPECIAL FILTER.jpg]
+
+File to: [build/img/BENSON & HEDGES SPECIAL FILTER.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Benylin 4 Flu Syrup 200ml.jpg]
+
+File to: [build/img/Benylin 4 Flu Syrup 200ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BENYLIN 4 FLU SYRUP NG 200ML.jpg]
+
+File to: [build/img/BENYLIN 4 FLU SYRUP NG 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BENYLIN 4 FLU TABS X 24.jpg]
+
+File to: [build/img/BENYLIN 4 FLU TABS X 24.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BENYLIN CHESTY COUGH NON DROWSY 150ML.jpg]
+
+File to: [build/img/BENYLIN CHESTY COUGH NON DROWSY 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BENYLIN DRY &TICKLY COUGH SYRUP 150ML.jpg]
+
+File to: [build/img/BENYLIN DRY &TICKLY COUGH SYRUP 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BENYLIN DRY COUGH ND X 150ML.jpg]
+
+File to: [build/img/BENYLIN DRY COUGH ND X 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BENYLIN CHESTY COUGH ORIGINAL 150ML.jpg]
+
+File to: [build/img/BENYLIN CHESTY COUGH ORIGINAL 150ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BENYLIN MUCUS ALL IN ONE TABLET X 16.png]
+
+File to: [build/img/BENYLIN MUCUS ALL IN ONE TABLET X 16.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/BENYLIN INFANT COUGH SYRUP 125ML.jpg]
+
+File to: [build/img/BENYLIN INFANT COUGH SYRUP 125ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BENYLIN DRY COUGH NIGHT SYRUP.jpg]
+
+File to: [build/img/BENYLIN DRY COUGH NIGHT SYRUP.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Benylin Mucus Decongestant x 100ml MCNEIL.jpg]
+
+File to: [build/img/Benylin Mucus Decongestant x 100ml MCNEIL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Benylin Mucus Decongestant x 150ml - MCNEIL.jpg]
+
+File to: [build/img/Benylin Mucus Decongestant x 150ml - MCNEIL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BENYLIN ORIGINAL NG 200ML.jpg]
+
+File to: [build/img/BENYLIN ORIGINAL NG 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BENYLIN MUCUS MAX COUGH MENTHOL 150ML.png]
+
+File to: [build/img/BENYLIN MUCUS MAX COUGH MENTHOL 150ML.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/BENYLIN ORIGINAL NG 100ML.jpg]
+
+File to: [build/img/BENYLIN ORIGINAL NG 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BENYLIN WET COUGH 100ML.jpg]
+
+File to: [build/img/BENYLIN WET COUGH 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BENYLIN WET COUGH MENTHOL NG 100ML.jpg]
+
+File to: [build/img/BENYLIN WET COUGH MENTHOL NG 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BENZYL BENZOATE LOTION MOKO X 100ML.jpeg]
+
+File to: [build/img/BENZYL BENZOATE LOTION MOKO X 100ML.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEOPTIC-N EYE DROPS  5ML BOTTLE.jpg]
+
+File to: [build/img/BEOPTIC-N EYE DROPS  5ML BOTTLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BENYLIN WET COUGH MUCUS NG 100ML.jpg]
+
+File to: [build/img/BENYLIN WET COUGH MUCUS NG 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BERINGER KNIGHTS VALLEY RED CABERNET SAUVIGNON 70CL.jpeg]
+
+File to: [build/img/BERINGER KNIGHTS VALLEY RED CABERNET SAUVIGNON 70CL.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEOPTIC-N EYE OINTMENT  5G TUBE.jpg]
+
+File to: [build/img/BEOPTIC-N EYE OINTMENT  5G TUBE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEROCCA EFF. BOOST TAB 10`S.jpg]
+
+File to: [build/img/BEROCCA EFF. BOOST TAB 10`S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEROCCA EFFERVESCENT ORANGE TABS X 15.jpg]
+
+File to: [build/img/BEROCCA EFFERVESCENT ORANGE TABS X 15.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Berocca Energy Tabs x30.jpg]
+
+File to: [build/img/Berocca Energy Tabs x30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEROCCA MANGO EFFERVESCENTS X 15.jpg]
+
+File to: [build/img/BEROCCA MANGO EFFERVESCENTS X 15.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BERTOLLI ORGANIC OLIVE OIL, BASI _ GARLIC 680G.jpg]
+
+File to: [build/img/BERTOLLI ORGANIC OLIVE OIL, BASI _ GARLIC 680G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEROCCA MIXED BERRY EFF X 15.jpg]
+
+File to: [build/img/BEROCCA MIXED BERRY EFF X 15.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Best London Dry Gin 200ml x 12.jpg]
+
+File to: [build/img/Best London Dry Gin 200ml x 12.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Best Marula Fruit Cream 750ml.jpg]
+
+File to: [build/img/Best Marula Fruit Cream 750ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Best Marula Liquor 200ml.jpg]
+
+File to: [build/img/Best Marula Liquor 200ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEST ONE COCONUT CREAM  BISCUIT 150G.jpg]
+
+File to: [build/img/BEST ONE COCONUT CREAM  BISCUIT 150G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEST ONE CUSTARD CREAM 150G.jpg]
+
+File to: [build/img/BEST ONE CUSTARD CREAM 150G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEST ONE DIGESTIVE CREAMS 150G.jpg]
+
+File to: [build/img/BEST ONE DIGESTIVE CREAMS 150G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEST ONE CUT GREEN BEANS 400G.jpg]
+
+File to: [build/img/BEST ONE CUT GREEN BEANS 400G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEST ONE MIXED VEGETABLES 300G.jpg]
+
+File to: [build/img/BEST ONE MIXED VEGETABLES 300G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEST ONE RAISINS 375G.jpg]
+
+File to: [build/img/BEST ONE RAISINS 375G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEST-ONE 100_ SUNFLOWER OIL 1L.jpg]
+
+File to: [build/img/BEST-ONE 100_ SUNFLOWER OIL 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEST-ONE APRICOT JAM 454G.jpg]
+
+File to: [build/img/BEST-ONE APRICOT JAM 454G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEST-ONE BAKED BEANS IN TOMATO SAUCE 410G.jpg]
+
+File to: [build/img/BEST-ONE BAKED BEANS IN TOMATO SAUCE 410G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEST-ONE BLACKCURRANT JAM 454G.jpg]
+
+File to: [build/img/BEST-ONE BLACKCURRANT JAM 454G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BEST-ONE SWEETCORN IN WATER 340G.jpg]
+
+File to: [build/img/BEST-ONE SWEETCORN IN WATER 340G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BENYLIN DRY COUGH NG 200ml.png]
+
+File to: [build/img/BENYLIN DRY COUGH NG 200ml.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/BETA MALT 330ML PET.jpg]
+
+File to: [build/img/BETA MALT 330ML PET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BETALOC ZOK 100MG.jpg]
+
+File to: [build/img/BETALOC ZOK 100MG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BETALOC ZOK 25MG X 14 TABS.jpg]
+
+File to: [build/img/BETALOC ZOK 25MG X 14 TABS.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BETALOC ZOK TABLETS 50MG X 30.jpg]
+
+File to: [build/img/BETALOC ZOK TABLETS 50MG X 30.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BETNOVATE. CREAM 30G TUBE.jpg]
+
+File to: [build/img/BETNOVATE. CREAM 30G TUBE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BENYLIN DRY COUGH NG 100ML.jpg]
+
+File to: [build/img/BENYLIN DRY COUGH NG 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BENYLIN CHILDREN'S WET COUGH MUCUS RELIEF 100ML.jpg]
+
+File to: [build/img/BENYLIN CHILDREN'S WET COUGH MUCUS RELIEF 100ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/BETA MALT 250ML PET.jpg]
+
+File to: [build/img/BETA MALT 250ML PET.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

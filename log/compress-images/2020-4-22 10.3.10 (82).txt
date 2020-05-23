@@ -1,0 +1,55 @@
+File from: [src/img/ORAL-B ARP WHITE 96G.png]
+
+File to: [build/img/ORAL-B ARP WHITE 96G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Oral-B Classic Toothbrush Regular.jpg]
+
+File to: [build/img/Oral-B Classic Toothbrush Regular.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ORAL-B CLASSIC.png]
+
+File to: [build/img/ORAL-B CLASSIC.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/ORAL-B FRESH GEL 40G.jpg]
+
+File to: [build/img/ORAL-B FRESH GEL 40G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ORAL-B NATRUAL FRESH.jpg]
+
+File to: [build/img/ORAL-B NATRUAL FRESH.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ORAL-B FRESH GEL 140G.jpg]
+
+File to: [build/img/ORAL-B FRESH GEL 140G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Oral-B Prem Gum ToothPaste 75ml.jpg]
+
+File to: [build/img/Oral-B Prem Gum ToothPaste 75ml.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ORAL-B PRO HEALTH ALL ROUND PROTECTION 83GM.jpg]
+
+File to: [build/img/ORAL-B PRO HEALTH ALL ROUND PROTECTION 83GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/ORAL B PRO-HEALTH TOOTHPASTE 75ML WHITENING.jpg]
+
+File to: [build/img/ORAL B PRO-HEALTH TOOTHPASTE 75ML WHITENING.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

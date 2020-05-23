@@ -1,0 +1,169 @@
+File from: [src/img/SERETIDE DISKUS 50 125MCG.png]
+
+File to: [build/img/SERETIDE DISKUS 50 125MCG.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/Seretide Evohaler 25-125mcg.jpg]
+
+File to: [build/img/Seretide Evohaler 25-125mcg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SERETIDE DISKUS 50 250MCG.jpg]
+
+File to: [build/img/SERETIDE DISKUS 50 250MCG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Seretide Evohaler 25-50mcg.jpg]
+
+File to: [build/img/Seretide Evohaler 25-50mcg.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SERETIDE EVOHALER25 125MG.jpg]
+
+File to: [build/img/SERETIDE EVOHALER25 125MG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SERIOUSLY CHEDDAR MILD RED CHEESE 200GR.jpg]
+
+File to: [build/img/SERIOUSLY CHEDDAR MILD RED CHEESE 200GR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SERIOUSLY CHEDDAR MILD WHITE CHEESE 200GR.jpg]
+
+File to: [build/img/SERIOUSLY CHEDDAR MILD WHITE CHEESE 200GR.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SESAME OIL.jpg]
+
+File to: [build/img/SESAME OIL.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SH -18 BRIGHTENING SERUM 50ML.jpg]
+
+File to: [build/img/SH -18 BRIGHTENING SERUM 50ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SHAKI 1KG.jpg]
+
+File to: [build/img/SHAKI 1KG.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Shaki.jpg]
+
+File to: [build/img/Shaki.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SHAKITI GOAT MEAT IN SAUCE 250G.jpg]
+
+File to: [build/img/SHAKITI GOAT MEAT IN SAUCE 250G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SHAKITI GIZZARD IN SAUCE 250G.png]
+
+File to: [build/img/SHAKITI GIZZARD IN SAUCE 250G.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SHAKITI OFADA SAUCE STEW 250G.jpg]
+
+File to: [build/img/SHAKITI OFADA SAUCE STEW 250G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Shine All liquid dish wash 1L.jpg]
+
+File to: [build/img/Shine All liquid dish wash 1L.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Shine All scouring powder 600GM.jpg]
+
+File to: [build/img/Shine All scouring powder 600GM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SHISHA FLAVOUR APPLE.jpg]
+
+File to: [build/img/SHISHA FLAVOUR APPLE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SHINE-ALL LIQUID DISH WASH 500ML.jpg]
+
+File to: [build/img/SHINE-ALL LIQUID DISH WASH 500ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SHISHA FLAVOUR BLACKBERRY.png]
+
+File to: [build/img/SHISHA FLAVOUR BLACKBERRY.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SHISHA FLAVOUR BLUEBERRY ICE-CREAM.jpg]
+
+File to: [build/img/SHISHA FLAVOUR BLUEBERRY ICE-CREAM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SHISHA FLAVOUR BUBBLE GUM.jpeg]
+
+File to: [build/img/SHISHA FLAVOUR BUBBLE GUM.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SHISHA FLAVOUR COCONUT.png]
+
+File to: [build/img/SHISHA FLAVOUR COCONUT.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SHISHA FLAVOUR CHOCOLATE WITH MINT FLAVOUR.png]
+
+File to: [build/img/SHISHA FLAVOUR CHOCOLATE WITH MINT FLAVOUR.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/pngquant-bin/vendor/pngquant EAGAINFile from: [src/img/SHISHA FLAVOUR MINT FROST.jpeg]
+
+File to: [build/img/SHISHA FLAVOUR MINT FROST.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SHISHA FLAVOUR MINT CREAM.jpg]
+
+File to: [build/img/SHISHA FLAVOUR MINT CREAM.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SHISHA FLAVOUR NATURAL MINT.jpg]
+
+File to: [build/img/SHISHA FLAVOUR NATURAL MINT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SHISHA FLAVOUR MOJITO.jpg]
+
+File to: [build/img/SHISHA FLAVOUR MOJITO.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/SHISHA FLAVOUR NATURAL STRAWBERRY.jpeg]
+
+File to: [build/img/SHISHA FLAVOUR NATURAL STRAWBERRY.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN

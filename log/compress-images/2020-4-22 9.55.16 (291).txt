@@ -1,0 +1,163 @@
+File from: [src/img/HEALTH SMART BANDAGES 70 ASSORTED SIZE.jpg]
+
+File to: [build/img/HEALTH SMART BANDAGES 70 ASSORTED SIZE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEALTH SMART BANDAGES 70.jpg]
+
+File to: [build/img/HEALTH SMART BANDAGES 70.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEALTH SMART BODY WASH 355ML.jpg]
+
+File to: [build/img/HEALTH SMART BODY WASH 355ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEALTH SMART COTTON SQUARES 80COTTON SQUARES.jpg]
+
+File to: [build/img/HEALTH SMART COTTON SQUARES 80COTTON SQUARES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEALTH SMART PALM SUPPORT WHITE ELASTIC ALL SIZES.jpg]
+
+File to: [build/img/HEALTH SMART PALM SUPPORT WHITE ELASTIC ALL SIZES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEALTH SMART SAFETY SWABS FOR CHILDREN X 100.jpeg]
+
+File to: [build/img/HEALTH SMART SAFETY SWABS FOR CHILDREN X 100.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEALTHCHECK MALARIA TEST KIT.jpg]
+
+File to: [build/img/HEALTHCHECK MALARIA TEST KIT.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEALTHPOINT CHLORHEXEDINE MOUTHWASH PEPPERMINT FLAVOUR 200ML.jpg]
+
+File to: [build/img/HEALTHPOINT CHLORHEXEDINE MOUTHWASH PEPPERMINT FLAVOUR 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEALTHPOINT CHLORHEXIDINE ANTIBACTERIAL MOUTHWASH ALCOHOL FREE.jpg]
+
+File to: [build/img/HEALTHPOINT CHLORHEXIDINE ANTIBACTERIAL MOUTHWASH ALCOHOL FREE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEALTHSMART ANKLE SUPPORT WHITE ELASTIC ALL SIZES.jpg]
+
+File to: [build/img/HEALTHSMART ANKLE SUPPORT WHITE ELASTIC ALL SIZES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEALTHSMART FIRST AID CLEAR TAPE 5 YARDS.jpeg]
+
+File to: [build/img/HEALTHSMART FIRST AID CLEAR TAPE 5 YARDS.jpeg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEALTHSMART KNEE SUPPORT WHITE ELASTIC.jpg]
+
+File to: [build/img/HEALTHSMART KNEE SUPPORT WHITE ELASTIC.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEALTHSMART SHIN SUPPORT WHITE ELASTIC ALL SIZES.jpg]
+
+File to: [build/img/HEALTHSMART SHIN SUPPORT WHITE ELASTIC ALL SIZES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEALTHSMART STERILE BANDAGE 10S EXTRA LARGE.jpg]
+
+File to: [build/img/HEALTHSMART STERILE BANDAGE 10S EXTRA LARGE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEALTHSMART STERILE BANDAGE 30S FLEXIBLE FABRIC.jpg]
+
+File to: [build/img/HEALTHSMART STERILE BANDAGE 30S FLEXIBLE FABRIC.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEALTHSMART SUPER JUMBO COTTON BALLS X 70.jpg]
+
+File to: [build/img/HEALTHSMART SUPER JUMBO COTTON BALLS X 70.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEALTHSMART WRIST SUPPORT ALL SIZES.jpg]
+
+File to: [build/img/HEALTHSMART WRIST SUPPORT ALL SIZES.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Heat Seeker Infra.Thermometer x1.jpg]
+
+File to: [build/img/Heat Seeker Infra.Thermometer x1.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEATHPOINTCHLORHEXIDINE PF MOUNTH WASH 200ML.jpg]
+
+File to: [build/img/HEATHPOINTCHLORHEXIDINE PF MOUNTH WASH 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEATHPOINTCHLORHEXIDINE PF MOUNTH WASH ALCOHOL FREE 200ML.jpg]
+
+File to: [build/img/HEATHPOINTCHLORHEXIDINE PF MOUNTH WASH ALCOHOL FREE 200ML.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEATOL BALM 25G.jpg]
+
+File to: [build/img/HEATOL BALM 25G.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEINEKEN 33CL FULL BTL CRATE.jpg]
+
+File to: [build/img/HEINEKEN 33CL FULL BTL CRATE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEINEKEN 33CL FULL CAN 12S.jpg]
+
+File to: [build/img/HEINEKEN 33CL FULL CAN 12S.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEINEKEN 33CL FULL CAN.jpg]
+
+File to: [build/img/HEINEKEN 33CL FULL CAN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEINEKEN 33CL SLEEK CAN.jpg]
+
+File to: [build/img/HEINEKEN 33CL SLEEK CAN.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/HEINEKEN 60CL FULL BTL CRATE.jpg]
+
+File to: [build/img/HEINEKEN 60CL FULL BTL CRATE.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAINFile from: [src/img/Heineken Premium Beer Can 33cl x.jpg]
+
+File to: [build/img/Heineken Premium Beer Can 33cl x.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn /Users/augustine/Downloads/compress-images-master/node_modules/mozjpeg/vendor/cjpeg EAGAIN
